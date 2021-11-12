@@ -19,6 +19,13 @@ or replace 2019 with whichever year you're interested in.  This will take awhile
 
 ## How to Parse the Text Files
 
+After OCR the 2019 and 2020 police logs can be parsed using a script written by [Alexander Gates](https://github.com/ajgates42) (updated slightly for this repository).  To parse the logs for any year, from the `STOPA` directory in your terminal, run
+
+```
+python code/parse_text_logs_script.py 2019
+
+```
+or replace 2019 with whichever year you're interested in.  If this raises errors it might be the case that you are missing some dependencies, these can be installed using pip (or whatever package management software you prefer).
 
 ## Contact
 

@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2246057,42.6889156]},"properties":{"osm_id":158804863,"name":"Williamstown","type":"town","population":7754}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2412179,42.6606366]},"properties":{"osm_id":158811994,"name":"Steeles Corners","type":"hamlet","population":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1976067,42.7309136]},"properties":{"osm_id":158812349,"name":"White Oaks","type":"hamlet","population":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1801058,42.7042476]},"properties":{"osm_id":158818977,"name":"The Spruces Mobile Home Park","type":"hamlet","population":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1853836,42.701192]},"properties":{"osm_id":158820847,"name":"Meadowvale","type":"hamlet","population":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2106617,42.6784143]},"properties":{"osm_id":158845754,"name":"Sweets Corner","type":"hamlet","population":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2414956,42.6606366]},"properties":{"osm_id":158863936,"name":"South Williamstown","type":"hamlet","population":null}}
+]}

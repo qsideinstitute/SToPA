@@ -12,7 +12,7 @@ and the [Institute for the Quantitative Study of Inclusion, Diversity, and Equit
 The 2019 and 2020 police logs were handed over as printed pdf which were scanned and saved as `Logs2019.pdf` and `Logs2020.pdf`.  These can be found in `data/primary_datasets/`.  During the [2021 QSIDE Datathon4Justice](https://qsideinstitute.org/events/datathon4justice/), we constructed an OCR pipeline to convert these documents to a readable text format. You can do this too, from the `STOPA` directory in a terminal, run
 
 ```
-python code/pdf_to_text_script.py 2019
+> python code/pdf_to_text_script.py 2019
 ```
 
 or replace 2019 with whichever year you're interested in.  This will take awhile to run, so be patient.
@@ -22,8 +22,7 @@ or replace 2019 with whichever year you're interested in.  This will take awhile
 After OCR the 2019 and 2020 police logs can be parsed using a script written by [Alexander Gates](https://github.com/ajgates42) (updated slightly for this repository).  To parse the logs for any year, from the `STOPA` directory in your terminal, run
 
 ```
-python code/parse_text_logs_script.py 2019
-
+> python code/parse_text_logs_script.py 2019
 ```
 or replace 2019 with whichever year you're interested in.  If this raises errors it might be the case that you are missing some dependencies, these can be installed using pip (or whatever package management software you prefer).
 

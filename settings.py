@@ -14,7 +14,7 @@ DPI = 300
 # manually define the path to the executable here. 
 # By default, pytesseract assumes you can access this with the 
 # command "tesseract" in the command line. 
-TESSERACT_CMD = "C:\\Users\\maminian\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe"
+TESSERACT_CMD = ""
 
 
 # Specify tesseract location for pytesseract if its default 

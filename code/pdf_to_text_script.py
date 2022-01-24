@@ -15,7 +15,7 @@ pytesseract = settings.pytesseract
 from pdf2image import pdfinfo_from_path,convert_from_path
 
 #
-pytesseract.pytesseract.tesseract_cmd = settings.TESSERACT_EXECUTABLE
+pytesseract.pytesseract.tesseract_cmd = settings.TESSERACT_CMD
 
 # TODO: put the level of 5 as a parameter in the settings. (note: this is below logging.DEBUG, at 10)
 VERBOSE_LOGLEVEL = 5    # for logging.log() messages about individual file creation/deletion
@@ -117,7 +117,7 @@ def main(argv):
     # Delete temporary directory for image files.
     if settings.CLEAN_TEMP_FILES:
         # if there is any other content in the same TEMP_JPG_FOLDER, then *don't* delete everything;
-        # only the tmep files related to the file for the current call to the function.
+        # only the temp files related to the file for the current call to the function.
         if len( settings.glob.glob( os.path.join(TEMP_FOLDER, '*') ) ) > 1:
             logging.info("Other folders in {}; only deleted relevant temp data for this run.".format(TEMP_JPG_FOLDER))
             os.rmdir( TEMP_JPG_FOLDER )

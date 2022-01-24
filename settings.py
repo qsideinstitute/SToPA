@@ -10,12 +10,17 @@ BATCHSIZE = 4
 MAXTHREADS = 4
 DPI = 300
 
-# Define a tesseract location (OCR tool needs to be installed separately from pytesseract -- at least on Windows).
-# If the executable that pytesseract is trying to use doesn't exist, 
-if os.access( pytesseract.pytesseract.tesseract_cmd, os.F_OK ):
-    # then manually type the location here.
-    TESSERACT_CMD = "C:\\Users\\maminian\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe"
-    pytesseract.pytesseract.tesseract_cmd = TESSERACT_EXECUTABLE
+# If you've installed tesseract manually, then you'll need to 
+# manually define the path to the executable here. 
+# By default, pytesseract assumes you can access this with the 
+# command "tesseract" in the command line. 
+TESSERACT_CMD = "C:\\Users\\maminian\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe"
+
+
+# Specify tesseract location for pytesseract if its default 
+# location doesn't exist.
+if not os.access( pytesseract.pytesseract.tesseract_cmd, os.F_OK ):
+    pytesseract.pytesseract.tesseract_cmd = TESSERACT_CMD
 
 # Strings of absolute folder locations for the entire project.
 # If you clone the repository, these match that structure, and nothing needs to be done.

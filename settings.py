@@ -19,7 +19,11 @@ TESSERACT_CMD = ""
 
 # Specify tesseract location for pytesseract if its default 
 # location doesn't exist.
-if not os.access( pytesseract.pytesseract.tesseract_cmd, os.F_OK ):
+
+# Is the default "tesseract_cmd" an executable that the operating system recognizes?
+_is_tesseract_executable = os.access( pytesseract.pytesseract.tesseract_cmd, os.X_OK )
+if not _is_tesseract_executable:
+    # Replace with the manually defined TESSERACT_CMD (this should be the full path to the tesseract binary).
     pytesseract.pytesseract.tesseract_cmd = TESSERACT_CMD
 
 # Strings of absolute folder locations for the entire project.

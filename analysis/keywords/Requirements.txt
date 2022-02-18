@@ -1,0 +1,6 @@
+Cython==0.29.23
+gensim==4.1.2
+numpy==1.21.5
+python-rake==1.4.4
+scipy==1.7.3
+smart-open==5.2.1

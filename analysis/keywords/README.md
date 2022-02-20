@@ -16,6 +16,11 @@ Currently, the shell shows the integer keys associated with the logs that are as
 
 Type `exit` to exit the shell.
 
+### Notes
+- Paths may only work on Windows.
+- See Requirements.txt for requirements (install with pip e.g.).
+- `stop.txt` is a list of stopwords for RAKE, the keyword extraction algorithm.
+
 ### Todo List
 
 Todo:

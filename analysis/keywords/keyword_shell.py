@@ -4,6 +4,7 @@ import operator
 import shlex
 import time
 
+##### Functions for Running Shell #####
 def main():
     while True:
         command = input("$ ")
@@ -22,15 +23,21 @@ def execute_commands(command):
         traceback.print_exc()
         print("psh-police_query: command not found or not incorrect syntax: {}".format(command))
 
+##### Commands for Shell #####
 def run_command(command):
     split = shlex.split(command)
     # $ keyword
     if split[0] == "keyword":
         print("Keyword or Keyphrase: " + split[1])
         print(keyword_dict[split[1]])
+    # $ log
+    elif split[0] == "log":
+        print("Log \#" + split[1] + ":")
+        print(narratives[int(split[1])])
     else:
         raise Exception
 
+##### Startup #####    
 narratives = dict()
 
 # import 2020 logs
@@ -74,4 +81,6 @@ for i in range(len(narratives)):
                 keyword_dict[word] = temp
 
 print("Data loaded in " + str(time.time() - initial_time) + " seconds.")
+
+# start the shell
 main()

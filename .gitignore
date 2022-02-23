@@ -1,3 +1,4 @@
 # file types/formats to ignore in the process of committing.
 *__pycache__
 *.pyc
+*.ipynb

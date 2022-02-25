@@ -1,1 +1,53 @@
-Call Taker  CHIEF KYLE J JOHNSON  Location/Address  COLD SPRING RD  Unit  33  Arvd-09:31:18  Clrd-09:43:20  Vehicle  BLU 2004 CHEV VENTUR Reg: PC MA 113HJ0 VIN: 1GNDU03E14D143512  Operator  BURKE, DAVID ANTHONY @ 268 WEST ST - PITTSFIELD, MA 01201  Race: W Sex: M  Refer To Citation  T1401009  Owner  SPRING, JESSICA SASHEEN @ 111 GROVE ST - ADAMS, MA 01220-9707  Race: W Sex: F  19-3431  0333  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  SPRING ST  Unit:  34  Arvd-09:33:55  Clrd-09:38:16  19-3433  0939  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit:  34  Arvd-09;39:27  Cird-09:40:23  19-3434  1021  Initiated - FOREST WARDEN DISPATCH  SERVICES RENDERED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  NEW ASHFORD RD  Unit  FW1  Arvd-10:21:00 Clrd-10:38:18  Narrative  Forest Warden responding to Smoke in the woods, no permits  in the area.  Narrative  In the area.  Narrative  Woodstove at 340 was the cause.  19-3435  1055  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS,  D  Location/Address  [WIA 333] CHURCH ST  Unit  34  Arvd-10:56:08  Clrd-10:58:07  Narrative  checked  19-3436  1141  Initiated - SEX OFFENDER REGISTRATION  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  [WIA 151] COLD SPRING RD  Unit:  36  Arvd~11:42:12  Clrd-13:18:28  Narrative:  Level 3 from Tibbits Ave,  Troy NY.  19-3440  1141  Initiated - SEX OFFENDER REGISTRATION  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  {WIA 151] COLD SPRING RD  Unit:  36  Arvd-13:19:30  Clrd-13:19:39  Narrative:  Level 3 from GMM St. Troy NY 
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: COLD SPRING RD
+Unit: 33
+Arvd-09:31:18 Clrd-09:43:20
+Vehicle: BLU 2004 CHEV VENTUR Reg: PC MA 113HJ0 VIN: 1GNDUO3E14D143512
+Operator: BURKE, DAVID ANTHONY @ 268 WEST ST - PITTSFIELD, MA 01201
+Race: W Sex: M
+Refer To Citation: T1401005
+Owner: SPRING, JESSICA SASHEEN @ 111 GROVE ST - ADAMS, MA 01220-9707
+Race: W Scx: F
+19-3431 0933 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SPRING ST
+Unit: 34
+Arvd-09:33:55 Clrd-09:38:16
+19-3433 0939 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JERNINGS, D
+Location/Address: PARK ST
+Unit: 34
+Arvd-09:39:27 Clrd-09:40:23
+19-3434 1021 Initiated - FOREST WARDEN DISPATCH SERVICES RENDERED
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: NEW ASHFORD RD
+Unit. FW1
+Arvd-10:21:00 Clrd-10:38:18
+Narrative:
+Forest Warden responding to Smoke in thc woods, no permits
+in the area.
+Narrative:
+In the area.
+Narrative:
+Woodstove at 340 was the cause.
+19-3435 1055 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 333] CHURCH ST
+Unit: 34
+Arvd-10:56:08 Clrd-10:58:07
+Narrative:
+checked
+19-3436 1141 Initiated - SEX OFFENDER REGISTRATION SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA 151] COLD SPRING RD
+Unit: 36
+Arvd-11:42:12 Clrd-13:18:28
+Narrative:
+Level 3 from Tibbits Ave, Troy NY.
+19-3440 1141 Initiated - SEX OFFENDER REGISTRATION SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA 151) COLD SPRING RD
+Unit: 36
+Arvd-13:19:30 Clrd-13:19:39
+Narrative:
+Level 3 from [Jj st. Troy Ny

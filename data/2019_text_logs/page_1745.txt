@@ -1,1 +1,54 @@
-Checked 0007  19-22267  0034  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  SOUTHWORTH ST  Unit:  a2  Arvd-00:36:53  Clrd-00:38:26  19-12268  0218  931 ~ NOISE COMPLAINT  UNFOUNDED  Call Taker  MICHAEL STRIZZI  Location/Address  (WEA 2069} CHURCH ST  unit  31  Clrd-02:36:37  Disp-02:19:51 Enrt-02:20:52 Arvd-02:24:34  Unit  32  Disp-02:19:51  Bnrt-02:20:10 Arvd-02:24:03  Clrd-02:35:11  Narrative  CP reports neighbor is yelling again.  Narrative  Officers listened in hallway at 207 for 10 minutes, Ail  guiet.  19-12269  0345  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  31  Arvd-03:45:35  Clrd-03:45:46  19-22271  0720  fnitiated - TRAFFIC CONTROL  SERVICES RENDERED  Cail Taker:  PATROL KALVIN D&ZIEDZIAK  Location/Address:  COLD SPRING RD  Unit:  34  Arvd-07:20:59  Clrd-07:42:10  19-12272  0740  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  GALE RD  Unit  36  Arvd-07:40:09  Clrd-07:55:57  Unit  35  Arvd-14:49:34  Clrd-15:09:28  Disp-14:49:26 Enrt-14:49:32  19-12273  o742  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL  KALVIN DA&TEDZTARK  Location/Address  NEW ASHFORD RD  Unit  34  Arvd-07;42:10  Clrd-08:00:43  Vehicle  GRY 2001 JEEP GRACHE Reg: PC MA SXES29 VIN:  LJ4GWS8N8icée 7046  Towed  For  Expired Registration By: RONS AUTO REPAIR To: RONS TOWING  Operator  CARRASCO-NORTIEGA, JONNATHAN @ 1390 SINGINGWOOD AVE - POMONA, CA 91767  Race:  W  Sex:  M  Refer To Citation  T2085325  Owner  BERNET, NEVIN SPRING @ 39 CHAPIN HALL DR - WILLIAMSTOWN, MA 01267 -  2569  Race:  U Sex: U  Narrative  Ron's requested and enroute.  19-12274  O759  Initiated - PUBLIC SERVICE EVENT  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  {WIA 380]  MAIN ST 
+Checked 0037
+19-122867 0034 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cel Tukor: PATROLMAN SCOTT SEKORUPSXI
+Locvul.cn/address: S0UT-WOXTH 3T
+Unit: cy
+Arvd-00:36:52 Clrd-20:38:24
+19-122648 0218 911 - NOISE COMPLAINT UNFOUNDED
+C211 Takar: MTCHARTD STRoZ221
+Tmcaticn/ndéress: [WIA 2089) CHURCH 51
+Lnit:
+Disp 02:19:51 Enrt-02:20:52 Arvd-02:24:34 O-rd-02:36:37
+Unit: az
+Diep-0Z: 19:57 Fnre-02:20:10 Axvd-07:24:03 Chrd-02:35:11
+Karrative:
+0? reports nalghbor ic yelling again.
+Karrative:
+OfZ_cers _istened in hal_way at 207 for 10 winutes. All
+cuiez.
+19-122639 0345 Initiated - PARKING CHECK SERVICES RENDERED
+“all Taker: PAIRCL CRAYG A LRICHFIAMMER
+Locarion/Add-ess: [WIA 290. SIMONCS RD
+Unit: 31
+Ervd-G3: Clré-Q2:4ih:4k
+19-122711 D720 Inltiated - TRAFFIC CONTROL SERVICES RENDERED
+cal. Tale: PRATOT KATVIN LEZIELZ_AK
+Tesation/Address: COI a7RING HbD
+Jit 3a
+Arvi-07: Clrd 07:42:10
+15-12272 Q740 Initiated - TRAFFIC COKTROL SERVICES RENDERED
+Ca") Taker: EATROL IANLA HEKNANILY
+“ocation/Address: GALE ERD
+Unic: 38
+Arvd-07:40:09 Clrd-37:55:57
+Tnit: ab
+Cisp-14:49:26 Inrt-14:49:32 Arvd-14:49:34 Clrd--5:09:23
+19-1227313 0742 Initietad - MOTOR VEHICLE STOP CITATION - WARNING
+Call Caker: PALROL HALVIN DZ1BEDETAX
+Tacation/hdérese NEW ASH<ORD RD
+Uniz: 24
+Arvd-07:42:10 Cl>d-08:00:43
+Vehicle: GRY 2001 CZILEP GRACIIL Reg: PC MA SKR329 VIN: 1J4GHMSaN81Ce6e7046
+Towed: For: Expired Registration By: ROKS AUTO REPAIR To: ROMS TOWING
+Cperator: CARRASCC-NORIEGA, JONKATHAN @ 1330 SINGINGYIOOD AVE - SOMONA, CA 91.7R7
+Race: W Bex: HM
+Refer To Citation: Z2085335
+Owner NEVIN SPR-NU 39 CHAZTIN HALD DR MA 01257
+25e9 : SERNZT, @ WILLIAMSTOWN,
+UT Hex:
+age: OU
+Narrative:
+Ron's requested and enroute.
+759 Initiated
+19..12274 Call Taxexr: CHL<E XYLE - J PUBLIC JOHABON BERVICE EVENT SERVICES REMDERED
+Lozation/Address: SWLA 330] MAIN ST

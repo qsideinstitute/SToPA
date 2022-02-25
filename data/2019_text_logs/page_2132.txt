@@ -1,1 +1,53 @@
-Refer To Accident:  19-154-AC  1219-14532  2204  $i1 - DISTURBANCE  PEACE RESTORED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  {WIA 451] ADAMS RD  Unit  31  Enrt-22:07:17 Arvd-22:12:04  Clxed-22:17:45  Disp-22:06:52  Unit  38  Disp-22:066:52  Hnrt-22:07:10 Arvd-22:10:12  Clyrd-22:19:18  Narrative  CP reports tenant on the second floor is angry, unknow  reason why, and is breaking things. Requesting officers  assistance.  Narrative  was calm when officers arrived and agreed to  be quiet for the night. Staff believed that after talking to  the police QBBMMIB would comply.  19-14533  2227  Phone -  ASSIST OTHER AGENCY - UTILITY  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  ALL EQUIPMENT POLICE DEPARTMENT  MEACHAM ST  Location/Address  Unit  38  Cird-22:41:28  Disp-22:29:49 Enrt-22:30:00 Arvd-22:32:55  Narrative  CP reports downed powerlines in front of home  Narrative  Cable line from pole #2 to 152 Meacham.  For Date:  11/20/2019  -  Wednesday  19-+14534  o044  initiated - MOTOR VEHICLE sTOP  CITATION - WARNING  Call Taker  PATROLMAN SCOTT SKORUPSKI  SOUTHWORTH ST  Location/Address  Unit  32  Arvd-00:44:46 Cird-00:52:15  Vehicle  RED 2008 VOLY C30 Reg: PC MA 4GC325 VIN: YVIMK672582055267  Operator  WHALEN, TRISTAN BATLEY @ 26 SUNSET AVE - AMHERST, MA 01002-2018  Race:  W Sex: M  Refer To Citation  T29085353  Owner  WHALEN, TRISTAN BAILEY © 26 SUNSET AVE - AMHERST, MA 01002-20186  Race:  U0 Sex: M  19-14536  0135  Initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED  PATROL CRAIG A ETCHHAMMER  Call Taker  Location/Address  [WIA 260]  MAIN ST  Unit  31  Cird-01:37:12  Arvd-01:36:41  Vehicle  GRY 2013 FORD ESCAPE Reg: PC MA 4BD970 VIN: IFMCUOGX3DUD0O6351  Owner  CARRANGC, AUDREY ADELLE @ 130 BELLEVUE AVE - ADAMS, MA 01220-9713  Race: U Sex:  F  Narrative  Vehicle parked near entrance. Area secure.  19-14537  9339  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A BICHHAMMER  Location/Address:  [WIA 390] SIMONDS RD 
+Refer To hkccident: 19-154-AC
+1080-14532 2204 911 - DIBTURBANCE PBACE RESTORED
+Call Taker: PATROL, KALVIN DZIEDZIAK
+Location/Address: [WIA 451] ADANS RD
+unit: 3.
+Disp-22:06:52 Erxt-22:07:17 Arvd-22:12:04 Clrd-22:17:45
+Jnit: i8
+Digp-22:36:52 Eryt-22:27:10 Arvd-22:10:12 Clrd-22:19:18
+Narrallve:
+CP reports tene:l on the sceoné fIoor is angry, unkocw
+reason why, and is breaking things. Requesting officers
+assistance.
+Narrative:
+was calm when officers arrived and agreed to
+be quiet for the night. Staff believed that after talking to
+the police woulé comply.
+1989-14533 2227 Phone - ASSIST QTHBER AGENCY - UTILITY TAKEN/REFERRED TO OTHER
+AGERCY
+Cal’ Tuker: ALL EQUIPMENT FOLICE DEPARTMENT
+Location/Address: MEACHAM S1
+Unit: 38
+Disp-22:29:49 Enrtc-22:30:0C Arvd-22:22:55 Clrd-22:41:28
+Narrative:
+CP downed power_ines in front of home
+reporzs
+Narrative:
+Cakhle lire from #2 to 152 Meacham.
+pcle
+For Date: 11/20/2019 - Wednesday
+19-14534 0044 Initiated - MOTOR VEHICLE 3T0P CITATION - WARNING
+Call Taker: PATROLMAN SCOIT SXORUPSKI
+Lecatcion/Address: SOUTHWUCRTE ST
+Unit: 32
+Arvd-00:14:46 Clrd-00:52:15
+Vehicle: RED 2000 VOLV C30 Reg: PC MA 40C325 VIN: YVIMKE725B2055267
+Onarater: WHALEK, TRISTAN SAILEY @ 26 SUNSET AVE - AMHEXST, MA 01002-2018
+Race: W Sex: bl
+Refar To Cizatiocn: 12083353
+Cwner: WHALEN, TRISTAN BATLEY ® 26 SUNSET AVE - AMHERST, MA 01002-2018
+Race: UU Sex: IM
+19-145368 0135 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+Call Taker: PATROL CRAIG A EICHHAMMER
+Lccazion/Address: [RAZA 260] MAIN ST
+Uaitk: 51
+Arvd-01:36:41 Clré-01:37:12
+Vehicle: GRY 2013 FORD ESCAPE Reg: PC MA 4BD970 VIN: 1FMCUOGX3IDUDOE3S51
+Cwlier: CARRANG, AUDREY ADELLF @ 130 BRELI.FVUE AVE - ADAMS, MA 01220-9713
+Pace: U Eex: kb
+Narrative:
+Vehicle parked near entrance. Area secure,
+19-14537 0339 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL CRAIS A EICHHANMEx
+Locazion/Address: |WzA 330] SIMONDS RD

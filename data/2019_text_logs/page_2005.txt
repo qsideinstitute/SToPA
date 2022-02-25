@@ -1,1 +1,54 @@
-Arvd-13:55:45  Clrd-14:01:46  Vehicle  GRY 2010  HOND SE CIVIC Reg: PC MA 532D27 VIN; 2HGFALF58AH533230  FORTIER,  MARYANN M @ 77 LIME ST - ADAMS,  MA 01220-1221  Operator  Race:  W  Sex: F  Refer To Citation  T2085191  Owner  FORTIER,  MARYANN M @ 77 LIME ST - ADAMS,  MA 01220-1221  Race:  W  Sex  F  1219-13770  1437  Initiated - PARRING CHECK  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  SPRING ST  Unit:  37K  Arvd-14:39  25  Clrd-14:44:20  19-13771  1445  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Ur  Location/Address:  PARK 8ST  Unit:  37K  Arvd-14:45  593  Clird-14:47:18  19-13772  1656  Initiated -~ ROAD CONDITIONS  REMOVED HAZARD  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 2107} MAIN ST  Unit  32  Arvd-16:57  26  Clrd-16:57:32  Narrative  11/02/2019 1657 - Large branch in eastbound travel lane.  19-13773  1659  Other - LIQUOR LAW VIOLATION  CRIMINAL COMPLAINT  Call Taker  ALL EQUIPMENT POLICE DEPARTMENT  Location/Address  [WIA 331]  MAIN ST  Unit  Pel  Disp-17:00:31 Enrt-17:00:40  Arvd-L7:11:17  Clyrd-27:23:10  Narrative  17O0- En route to Gulf Food Mart, with minor,  for second  attempt at controlled buy of alcohol & tobacco products.  1711- At Gulf Food Mart.  1717- Purchase made by minor.  1. Blueberry Blast Fruyt Stick (6.2% Nicotine) $10.00  1  6 Pack of Twisted Tea Alcohol  $11.99  1723- Back at Williamstown Police Department.  1828- Minor out of building.  Refer To Summons:  39-146-AR  Summons  SINGH,  INDERJEET  Address  244 WALNUT ST Apt.  #2  NORTH ADAMS,  MA  Age  33  Charges  LIQUOR TO PERSON UNDER 21,  SELL/DELIVER  CIGARETTES TO MINOR, DELIVER  CONTRIBUTE TO DELINQUENCY OF CHILD  15-13774  1707  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL SHUAN N WILLIAM  SOUTHWORTH ST  Location/Address  Unit  32  Arvd-17:07:07  Clrd-17:07:14  Narrative  done  Narrative  Checked 0132 
+Arvd-1i:ah:45 Clrd-14:01:46
+Vehicle: CRY 2010 HONDO SE CIVIC Reg: PO MA 532D47 VIN: ZHOFAIFLEAZL3E230
+Operazcr: JORTIZR, MARYANN MM @ 77 LIME 57 ADAMS, MA 01220 1221
+Boece: W Sex: F
+Refer To Citaticn: T2:285191
+Lo 7 HER JH FORTINR, MARYANN HM @ F7 L1Ms SU - ADAME, MA 01220-1221
+Ruoe: WW Sax: F
+18-13770 1437 Initiatad - PARKING CHECK BERVICES RENDERED
+Call Taxes: LIEUTENANT M_CHAZL J ZIEMBA Jr
+—ocation/Adiress: BP<TNG AT
+Jrit: ITK
+Arwd-14:39:2 [ ft Clrd-14:44:20
+15-13771 —-445 Initiated - PARKING CHECK SERVICES RENDERED
+Cal: Taxezx: “IELCTZENANT MICHARZI J X1EMBA JY
+wocation/Address: ART ET
+ik A ATK
+Arvd-14:45:59 Clrd-14:47:16
+19-13772 1656 Initiated - ROAD CONDITIONS REMOVED HAZARD
+Cal. Taxer: TATROL SEULN N WILLIAM
+Tozation/Address: Wik 21071 MAIN ST
+Jnit: az
+Arvd-16:37:26 Clrd-16:57:32
+Harralive:
+branch in eastbound travel lane.
+11/02/7209 657 - Largo
+19-137753 1659 Jther - LIQUOR LAW VIOLATION CRIMINAL, COMPLAINT
+Cal. Tzrer: ALL EQUIPMENT POLICE DEPARTMENT
+Lozation/Address: WIA 331] HAZIRK 3ST
+Tit C1
+Diap-.7:20:37 Rert-17:00:45 Arvd-17:21:27 Clrd-17:23:10
+Norrative:
+1780- <n route to GulZ Feod Mart, with minor, for second
+attemos ar controlled buy of aZcohol tobacco products.
+1711- At CGu_f Food Mart.
+1717 Burchasc made by minor.
+1. Blueherry Blast Fruyt Stick (6.25 Nicotire) $10.00
+1. 6 Favk of 1lwisted Tea A cohol 511.99
+1723- Back ut Williamstown Pclice Department.
+1828- Minor out of building.
+Refur To Supurons: 19-166-NR
+SUMMOTS : SINGH, IKDERJELRT
+Addreas: 244 WALNUT ST Apt. #2 KCRTH ADAMS, MA
+nge : 33
+Charges: “IOCDR TO PERSON UNDER z1, SCLL/DELIVER
+CIGARBTTES TO MINOR, DELTVER
+CONTRIBUTE 'I') LELINQUENCY QF CHTLD
+19-13774 1707 Iritiated - BUILDING CEECK BUILDING CHECKED/SECURED
+Call Tekexr: FATROL SZUAN N wWooLIAN
+Lezation/Address: SOT-HWORTH ST
+Unit: 32
+Arvd-17:07:27 Clrd-17:07:14
+Narrative:
+done
+Marrative: Chechod 81352

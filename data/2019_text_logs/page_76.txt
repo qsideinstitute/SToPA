@@ -1,1 +1,48 @@
-Narrative:  done  mamcnneinetinane cu  19-533  0822  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  {WIA 1832] NORTH HOOSAC RD  Unit  30  Arvd-08:22:54  Clrd-08:23:09  Narrative  Checked.  Narrative  checked  Narrative  01/13/2019 2204 Checked $3  Narrative  01/14/2019 0017 Checked $3  Narrative  done  Narrative  done  19-534  0825  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  SIMONDS RD  Unit  30  Arvd-08:25:11  Clrd-08:25:20  Narrative  checked  Narrative  01/14/2019 0014 Checked $3  Narrative  done  19-535  0829  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HILL PROVINCE RD  Unit  30  Arvd-08:29:25  Clrd-08:29:58  Narrative  checked  Narrative  Checked 0148  19-536  0830  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HAWTHORNE RD  Unit  30  Arvd-08:30:42 Clrd~-08:30:55  Narrative 
+RE
+a | GO
+EAE
+Narrative: EASE mm
+done rR
+19-533 0822 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker:
+Location/Address: SERGEANT (WIA SCOTT E MCGOWAN
+Unit: 30 1832] NORTH HOOSAC RD
+Arvd-08:22:54
+Narrative: Clrd-08:23:09
+Checked.
+Narrative:
+checked
+Narrative:
+01/13/2019 2204 Checked S3
+Narrative:
+01/14/2019 0017 Checked S3
+Narrative:
+done
+Narrative:
+done
+19-534 0825 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cali Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: SIMONDS RD
+Unit: 30
+Arvd-08:25:11 Clrd-08:25:20
+Narrative:
+checked
+Narrative:
+01/14/2019
+0014 Checked S3
+Narrative:
+done
+19-535 0829 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HILL PROVINCE RD
+Unit: 30
+Arvd-08:29:25 Clrd-08:29:58
+Narrative:
+checked
+Narrative:
+Checked 0148
+19-536 0830 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HAWTHORNE RD
+Unit: 30
+Narrative: Arvd-08:30:42 Clrd-08:30:55

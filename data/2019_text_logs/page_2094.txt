@@ -1,1 +1,43 @@
-Narrative:  13/15/2018 0406 Checked 583  19-14290  0733  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  LINDLEY TER  unit  36  Arvd-07:33:25  Clrd-07:34:47  Narrative  checked  Narrative:  11/15/2019 0059 Checked S3  1959-14291  0738  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PINE COBBLE RD  Unit  36  Arvd-07:38:28 Clrd-07:39:08  Narrative  na vehicles  Narrative  ma vehicles  Narrative  MA @8xXS10  Narrative  empty  Narrative  11/15/2019 0102 Checked 83  Narrative  Checked, no vehicles.  0153  BUILDING CHECKED/ SECURED  19+14292  0742  Initiated - BUILDING CHECK  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  HALL ST  Unit  36  Aryvd-07:42:22  Clrd-07:43:29  Narrative  Same 2 vehicles in driveway  Narrative  checked  Narrative  checked  Narrative  done  Narrative  11/15/2019 0028 Checked 83  0743  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  1219-14293 
+Narrative: S3
+“1/25/2018 DAG6 Thecked
+0733 Initiated - BUILDING CHECK PUILDIKG CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: LINDLEY TER
+Init: kK]
+Arvd-07:33:28 Clrd-07:34:47
+Mavvazive:
+ohenzed
+Narrazive:
+1./15/2019 ¢0»¢ Checked S3
+19-1425] 0738 Inttiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Caz’l Taker: PATROZ TANIA HERNAWDEZ
+Tacation/Address: PINE CODELE RD
+nit: 36
+Arvd-07:38:28 Clrd-07:35:08
+Narrative:
+na vahioles
+Harrative:
+no vehicies
+Harrative:
+MA OQEXS10
+Narral.vg:
+CupTy
+Narrative:
+11/15/2015 0102 Checked E3
+Xarrativo:
+Checked, rc wechicz_es. 0153
+19-14252 0742 Initiated - BUXLDING CHECK BUILDING CHECKED/BECURED
+call Taker: PATROL TANIA HERNAMNLEZ
+Locaticn/Adcress: HALL 1
+Unit: 26
+Arvd-07:42:22 Clxd-07:43:23
+Narracive:
+Same 2 vehicles in driveway
+Narracive:
+chacked
+Narrative:
+checked
+Narrative:
+done
+Narrative: 11/15/2029 2028 Checked S3
+15-14293 0743 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

@@ -1,1 +1,44 @@
-Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PINE COBBLE RD  init:  36  Arvd-08:18:63  Clrd-08:18:48  Narrative:  Empty  Narrative:  MA &853GT6  Narrative:  20:14  Checked Empty S-4  Narrative:  Checked Area.  Narrative:  empty  19-14903  0822  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  PATROL TANIA HERNANDEZ  HALL st  Location/Address  Unit  36  Arvd-08:22:29  Clrd-08:22:54  Narrative  Same honda  Narrative  Checked  Narrative  checked  Narrative  Checked 8-4  20:13  Narrative  done  19-14904  0823  Initiated  - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDE?  Location/Address  ELM ST  Unit  36  Arvd-08:23:41  Clrd-08:24:20  Narrative  checked  Narrative  done  BUILDING CHECKED/SECURED  1219-24905  0830  tnitiated - BUILDING CHECK  PATROL TANIA HERNANDEZ  Call Taker:  Location/Address:  HARWOOD ST  Unit:  36  Arvd-08:30:45  Clrd-08:31:22  Narrative:  checked  Narrative: 
+Call Taker: PATROL TANIA HERNAKDEZ
+Location/Address: PINE COBBLE RD
+un-zc: 386
+Arvd-08:18:03 Clrd-28:18:48
+Narrative:
+Narrazive:
+Narrazive:
+Checked Empty 8-4 20:14
+Narrative:
+Ohackad Arca.
+Narrative:
+atpty
+1595-14903 O822 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: Taker: PATROT, TAKTA HERNANDEZ
+Local ion/Address: HAL: 8T
+U-it: 3c
+Arvd-08:22:29 Clrd-08:22:54
+Narrat_wvae:
+Same honda
+Narrative:
+Chackad
+Narrative:
+checked
+Narralive:
+Checked 8-4 20:19
+Karrative:
+dore
+19-14904 0823 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL TANIA HERNANDEZ
+Locaticn/adaress: zLM 8T
+Unzz: Ae
+Arvd-08:23:41 Clrd-T8:24:20
+Harrative:
+checked
+Narracivea:
+done
+19-145905 a830 Initiated - BOILDING CHECK BUILDING CHECKED/SECURED
+Cail Takar: PATROL TANIA HERNANDEZ
+ocation/hrddress: HARWQOD ET
+init: 3a
+Arvd-08:30:45 Clrd-08:31:22
+Narrative:
+checked
+Narrative:

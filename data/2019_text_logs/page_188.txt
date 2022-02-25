@@ -1,1 +1,50 @@
-19-1323  0849  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address  FRENIER AVE  Unit  36  Arvd-08:49;50 Clrd-08:50:13  Narrative  checked  Narrative  Checked 0114  18-1324  0849  Initiated - SERVE SUMMONS  SERVED IN HAND  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  MCLAIN CT  Unit:  30  Arvd-08:50:07 Cird-08:52:05  Narrative:  No one home.  Narrative:  No answer  Narrative;  01/31/2019 1802 - Served in Hand  19-1326  0854  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  LONGVIEW TER  Unit  36  Arvd-08:54:28 Clrd-08:55:14  Narrative  checked  Narrative  Checked 0127  19-1327  0856  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  STONEY LEDGE RD  Unit  36  Arvd-08:57:27  Clird-08:58:07  Narrative  checked  Narrative  Checked 0142  19-1328  0857  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  HILL PROVINCE RD  Unit;  30  Arvd-08:58:04  Clrd-08:59:01  Narrative:  done  Narrative:  02/01/2019 0128 Checked 53 
+19-1323 0849 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: FRENIER AVE
+Unit: 36
+Arvd-08:49:50 Clrd-08:50:13
+Narrative:
+checked
+Narrative:
+Checked 0114
+19-1324 0849 Initiated - SERVE SUMMONS SERVED IN RAND
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: MCLAIN CT
+Unit: 30
+Arvd-08:50:07 Clrd-08:52:05
+Narrative:
+No one home.
+Narrative:
+No answer
+Narrative:
+01/31/2019 1802 - Served in Hand
+19-1326 0854 Initiated
+- BUILDING CHECK BUILDING CHECKED/SECURED
+Call
+Taker: PATROL TANIA IHERNANDEZ
+Location/Address: LONGVIEW TER
+Unit: 36
+Arvd-08:54:28 Clrd-08:55:14
+Narrative:
+checked
+Narrative:
+Checked 0127
+19-1327 0856 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: STONEY LEDGE RD
+Unit: 36
+Arvd-08:57:27 Clrd-08:58:07
+Narrative:
+checked
+Narrative:
+Checked 0142
+19-1328 0857 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: HILL PROVINCE RD
+Unit: 30
+Arvd-08:58:04 Clrd-08:59:01
+Narrative:
+done
+Narrative:
+02/01/2019 0128 Checked S3

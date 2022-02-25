@@ -1,1 +1,53 @@
-Unit:  34  Disp-10:09:55  Enrt-10:10:19 Arvd-10:12:21 Clrd-10:19:11  Narrative:  Party in Apt J reports that she has been screaming.  Narrative:  No screaming or throwing items heard. Spoke to [RRM who  states she was cleaning and might have been loud will keep  it down.  13-730  1005  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  SPRING ST  Location/Address:  Unit:  34  Arvd-10:06:08  Cird-10:09:34  19-732  1022  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  {WIA 333] CHURCH ST  Unit:  34  Arvd-10:22:18 Clird-10:24:12  Narrative:  checked  19-733  1027  Initiated - PARKING CHECK  SERVICES RENDERED  Calli Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit:  34  Arvd-10:27:57  Clrd-10:32:20  19-734  1209  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  GREEN RIVER RD  Unit  33  Arvd-12:09:23  Clrd-12:16:09  Vehicle  RED 2003 GMC SIERRA Reg: PC MA 471BP1 VIN: 1GTEK199T53E123996  Operator  CARPENTER, RAYMOND A @ 4271 COMMERCIAL ST Apt. #01220 - ADAMS, MA  01220  Race:  W Sex: M  Refer To Citation  TO905772  Owner  CARPENTER, RAYMOND A @ 4271 COMMERCIAL ST Apt. #01220 - ADAMS, MA  01220  Race: W Sex: M  19-735  1242  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker:  PATROL DAVID JENNINGS, D  Location/Address:  COLD SPRING RD  Unit:  34  Arvd-12:42:32 Clrd-12:44:30  Narrative:  Checked S-4  28:25  Narrative;  Checked Area.  19-736  1246  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  {WIA 225] COLD SPRING RD  Unit:  34 
+Unit: 34
+Disp-10:09:55 Enrt-10:10:19 Arvd-10:12:21 Clrd-10:19:11
+Narrative:
+Party in Apt [JJ] reports that she has been screaming.
+Narrative:
+No screaming or throwing items heard. Spoke to [JJ who
+states she was cleaning and might have been loud will keep
+it down.
+
+19-730 1005 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SPRING ST
+Unit: 34
+Arvd-10:06:08 Clrd-10:09:34
+19-732 1022 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 333] CHURCH ST
+Unit: 34
+Arvd-10:22:18 Clrd-10:24:12
+Narrative:
+checked
+19-733 1027 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: PARK ST
+Unit: 34
+Arvd-10:27:57 Clrd-10:32:20
+19-734 1209 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: GREEN RIVER RD
+Unit: 33
+Arvd-12:09:23 Clrd-12:16:99
+Vehicle: RED 2003 GMC SIERRA Reg: PC MA 471BP1 VIN: 1GTEK19T53E123996
+Operator: CARPENTER, RAYMOND A @ 4271 COMMERCIAL ST Apt. #01220 - ADAMS, MA
+01220
+Race: W Sex: M
+Refer To Citation: T0905772
+Owner: CARPENTER, RAYMOND A @ 4271 COMMERCIAL ST Apt. #01220 - ADAMS, MA
+01220
+Race: W Sex: M
+19-735 1242 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-12:42:32 Clrd-12:44:30
+Narrative:
+Checked 85-4 18:25
+Narrative:
+Checked Area.
+19-736 1246 Initiated BUILDING
+- CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL
+Location/Address: DAVID JENNINGS, D
+Unit: 34 [WIA 225] COLD SPRING RD

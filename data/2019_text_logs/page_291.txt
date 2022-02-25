@@ -1,1 +1,49 @@
-Checked  Narrative  checked  Narrative  checked  Narrative  Checked 2333  Narrative  Checked 0310  19-2049  0833  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  SIMONDS RD  Unit  34  Arvd-08:33:51 Clrd-08:34:21  Narrative  checked  Narrative  Checked 0319  19-2050  0834  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  LONGVIEW TER  Location/Address  Unit  30  Arvd-08:34:12  Clrd-08:34:43  Narrative  Checked Area.  Narrative  Checked Area.  19-2051  0836  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS, D  Location/Addaress  SIMONDS RD  Unit  34  Arvd-08:36:32 Clrd-08:42:03  Vehicle  GRY 2006 CADI SE SEVILE Reg: PC MA 662NB5 VIN: 1G6DW677260168630  Operator  GALLAGHER, SANDRA L @ 2 MAY ST - LENOX, MA 01240-2007  Race:  W Sex: F  Refer To Citation  71400482  Owner  GALLAGHER, SANDRA L @ 2 MAY ST - LENOX, MA 01240-2007  Race:  W Sex: F  19-2052  0846  Other - PUBLIC RECORDS REQUEST  MAILED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-13-AC. Mailed.  19-2053  0851  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  HAWTHORNE RD  Unit:  30  Arvd-08:52:17 Clrd-08:51:45 
+Checked.
+Narrative:
+checked
+Narrative:
+checked
+Narrative:
+Checked 2333
+Narrative:
+Checked 0310
+19-2049 0833 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SIMONDS RD
+Unit: 34
+Arvd-08:33:51 Clrd-08:34:21
+Narrative:
+checked
+Narrative:
+Checked 0319
+19-2050 0834 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: LONGVIEW TER
+Unit: 30
+Arvd-08:34:12 Clrd-08:34:43
+Narrative:
+Checked Area.
+Narrative:
+Checked Area.
+19-2051 0836 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SIMONDS RD
+Unit: 34
+Arvd-08:36:32 Clrd-08:42:03
+Vehicle: GRY 2006 CADI SE SEVILE Reg: PC MA 662NB5 VIN: 1G6DWG77260168630
+Operator: GALLAGHER, SANDRA L @ 2 MAY ST - LENOX, MA 01240-2007
+Race: W Sex: F
+Refer To Citation: T1400482
+Owner: GALLAGHER, SANDRA L @ 2 MAY ST - LENOX, MA 01240-2007
+Race: W Sex: F
+19-2052 0846 Other - PUBLIC RECORDS REQUEST MAILED
+Call Taker: CHIEF KYLE J JONSON
+Narrative:
+Requesting 19-13-AC. Mailed.
+
+19-2053 0851 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HAWTHORNE RD
+Unit: 30
+Arvd-08:51:17 Clrd-08:51:45

@@ -1,1 +1,49 @@
-19-9897  0346  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 350] SIMONDS RD  Unit:  31  Arvd-03:46:16  Clrd-03:46:29  13-9893  0744  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  PINE COBBLE RD  Unit:  30  Arvd-07:45:48 Clrd-07:47:52  Narrative  448XYM - 787KG7  ON  BRIJ425  NC  TPN2497  Narrative  SYR953 - 954LC8 -  a34EV1 -  787 KG7  Ng  H3aLeZg  CMC4567  Narrative  checked  Narrative  checked  Narrative  Checked 2351  NY CMC4567  ON BRUJ425  MA 787KG7  MA 448XYW  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked 0407  19-9900  0805  tnitiated - TRAFFIC CONTROL  SERVICES RENDERED  Cail Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  SYNDICATE RD  Unit:  ag  Arvd-08:06:04  Clrd-086:28:36  18-9901  0818  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  37K  Arvd-08:19:01  Clrd-08:19:27  Narrative  Checked.  Narrative  checked  Narrative  checked 
+19-9887 0346 Initiated - PARKING CHECK SERVICES RENDERED
+Cal. Taker: PATROL CRATG A EICHEAMME:R
+Location/Address: WIA 390] SIMONDS RD
+Jatt: 11
+Arvd-03:46:16 CQlxd-03:46:39
+15-9899 1744 Initiaced - BUILDING CHECK BUILDING CHRCERD/SECURED
+tall PaXxer: SERGEANT SCOTT E MCGOWAM
+Locat ien/Address: FINE COBS-E RD
+Urit: 30
+Arvd-07:45:48 Clré 07:47:52
+Narrativa:
+MA: 448XYM - TBIKG?
+ON: BRJJ42L
+NC: I'PN2497
+Narrative:
+dA: 3YRS52 - 934LC8 - 334EV1 - 787KQ7
+NJ: R38LCZ
+NY: CMC4567
+Narrabive:
+checked
+Karrative:
+checked
+Karvative:
+Checked 2351
+KY CMC4567
+ON 3RIJ425
+KA 7B7KGT
+Mh J4BXYH
+Narrativa:
+Chackad Area.
+Narrative:
+Checkad Area.
+Narrative:
+Checked 0407
+19-8500 0805 Ynitiated - TRAFFIC CONTROL SERVICHS RENDERED
+Call Taker: SERGEANT SCUIT XX MUCCOWAN
+Loczkion/Addrens: SYNDICATE Ro
+nit: an
+Arvd-08:06:04 Clrd-08:28:36
+18-5901 0818 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+call Taker: PATROLMAN MICHAEL J ZIZMDA Jr
+Lecazion/hdéress: [WIA 1E22] NCRTH HOCSAC RD
+Unirz: aTK
+Arvd-09:19:01 J1lrd-08:19:27
+Narrative:
+Checked.
+Narrative:
+checked
+Narrative: checked

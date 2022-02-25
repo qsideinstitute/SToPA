@@ -1,1 +1,55 @@
-Call Taker  PATROL TANIA HERNANDEZ  Location/Address  MAIN ST  Unit  a6  Clrd-14:28:35  Arvd-14:26:49  Vehicle  RED 2010 TOYT SE COROLL Reg: PC MA 882930 VIN: JTDBU4EEXAS117817  owner  SCEON, SUSAN ANN @ 12 BURNS LN - ADAMS, MA 01220-1757  Race:  a  Sex:  ¥  Narrative  90-20 parked Male party advised  19+14603  1457  Other - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  {WIA 333] CHURCH ST  Unit:  32  Digp-14:58:11 Enrt-14:58:14 Arvd-15:01:38  Cird-15:13:20  SERVICES RENDERED  19-14604  1515  Initiated - PARKING CHECK  Call Taker:  PATROL SHUAN N WILLIAM  SPRING ST  Location/Addresa:  Unit:  32  Arvd~-15:15:44  Clrd-15:21:09  Narrative:  11/21/2019 1515 - Start  11/21/2019 1700 - no violations  1219-14605  1518  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN 7 MCCONNELL JR  Location/Address:  PARK ST  Unit:  38  Arvd-15:19:04  Clyrd-15;25:37  1419-14606  1520  Phone - ASSIST OTHER AGENCY - FIRE  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZIEDAZTAK  Location/Address:  [WIA 406] SCHOOL ST  Narrative:  Testing fire alarm  1609- Testing complete  Initiated - PARKING CHECK  SERVICES RENDERED  19-14608  1719  Call Taker:  PATROL SHUAN N WILLIAM  [WIA 406] SCHOOL ST  Location/Address:  Unit:  32  Arvd-17:19:51  Clird-17:20:54  Narrative:  checked  39-14609  1850  sll -  WELL EEING CHECK  SERVICES RENDERED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  ARNOLD 8T  Unit  38  Disp-18:53:48  Enrt-18:57:39  Arvd-18:59:22  Clrd-19:25:53  Unit  32  Arvd-19:00:31  Clrd-19:26:295  Disp-19:56:41  Enrt-18:56:55  Unit  34  Enrt-19:04:30  Arvd-19:07:18  Clrd-19;25:51  Disp-19:04:29  Narrative  CP has been unable make contact with her 91 year old  relative today. Relatives vehicle is located at her home.  Requesting officer to assist with gaining entry.  Narrative  Entry gained using a key from a family member. Party not in 
+Call Taker: PATROTI. TANIA HERNANDEZ
+Loculion/Address: MAIN ST
+Unic: is Arvd-14:26:49 Clrd-14:28:35
+VIN: JTDBU4AEBEXAD1L7817
+Velircle: RED 2010 TOYT SF COROLI: Reg: PC MA BRZ930
+orsner: SOBON, SUSAN ANN # 11 RDORRNS LN - ADRMS, MA 0:220-1787
+Race: W Sex: Y
+Narrative:
+90-20 parked Maie party advised
+19-314603 1457 Other - TRAFFIC CONTROL BERVICES RENDERED
+Call ‘Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: [WIA 333] CHURCH ST
+Jit: S52
+Diap-14:58:11 Enrt-24:58:14 Arvi-165:51:38 Clrd-15:13:20
+19-146904 1515 Initiated - PARKING CHECK SERVICES RENDERED
+Call Tsxer: PATROL SHUAN K WILLIAM
+Lazation/Address: SPRTNG ST
+rit: a2
+Arvd-15: 15:44 Clrd-15:21:09
+Narrative:
+11/21/2029 1515 - Start
+11/21/2019 1700 - no vioiat:zons
+19-146605 1518 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: 2ATROL JOHN J MCCOMNELL oH
+Location/Address: PARK ST
+Init: 28
+Arvd-15: 19:04 Clrd-15:25:37
+19-146406 1520 Phone - ASSIST OTHER AGENCY - FIRE BERVICES RENDERED
+call Taker: PATRON. XALVIN DZIEDZIAX
+Location /Addr-as: [#IA 406] SCHOOL ST
+Karrutive:
+Testing fare aLarm
+1609- Testing ccmolete
+19-114608 1719 Initiated - PARKING CHECX SERVICES RFNDEREL
+Call Taker: PATRCL 2SHUAM N WILLTAM
+Location/address: [WIA 406] SCHOOL 57
+nic: az
+Avryi-17: 19:51 Clrd-17:20:54
+Narracive:
+chacked
+i9-14609 1850 911 - WELL BEING CHECK SERVICES RENDERED
+Call Taker: PATROL KALVIN DZTEDZIAK
+location/Address: ARNOLD ST
+Unit: 38
+Disp-18:53:48 Enrt-18:57:39 Avve-18: 59:22 (Clrxi-12:25:53
+onic: 22
+Disp-18:56:41 knrt-18:56:55 Arvd-19: 00:31 Clrd 15:26:29
+Tnik: 34
+Disp-19:04:25 Enrt-19:04:30 Arvd-19: 07:18 Clré 19:2h:h1
+Narzztive:
+CP has been unable make cosback with her 91 year old
+relative today. Relatives vehicle is located at her home.
+Requesting officer tc assist with gaining encxy.
+Narrative:
+Entry gained using a key from a family member. Party nol in

@@ -1,1 +1,53 @@
-Unit  30  Arvd-11:00:42  Cird-11:20:55  Vehicle  GRY 2013 HYUN SE ELANTR Reg:  PC MA 36DG53  VIN: KMHDH4AE1DU701054  Operator  BRESSETTE, COLLEEN A @ 12 PINE ST - PITTSFIELD, MA 01201-4212  Race:  W Sex: F  COLLEEN A @ 12 PINE ST - PITTSFIELD, MA 01201-4212  Qwner  BRESSETTE,  Race:  W Sex: F  Narrative:  Vehicle Stopped for showing Registration Status: ACTIV/STVP.  Appears to have never been properly taken out of system.  Dispatch contacted PPD who reported not showing any history  with above vehicle.  RO stated this same incident occurred a  few weeks ago when she was pulled over by MSP. Advised to  contact PPD to get straightened out.  19-15781  4132  initiated - MOTOR VEHICLE &ToP  CITATION  - WARNING  Call Taker:  PATROL BRAD SACCO  HAIN ST  Location/Address:  Unit:  34  Arvd-11:32:57  Clrd-11:38:07  VIN:  Vehicle:  BRO 2018  VOLV V60 CROSS COUNTRY Reg: PC MA 728960  YV440MWKOG2048909  LAUREN  L @ 2401 SE SALMON ST -  PORTLAND, OR 97214  Operator:  JOHNSON ,  Race: B  Sex: F  Refer To Citation:  T2085903  Owner:  EDWARDS ,  MELODY  @ 77 PLEASANT ST - EASTHAMPTON,  MA 01027-1129  Race:  U  Sex: F  19-15782  1137  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL KALVIN DZTEDZIAK  ELM ST  Location/Address  Unit  30  Arvdad-11:37:13  Clrd-11:37:42  Narrative  Checked S-4  18:25  Narrative  done  12294  Initiated - RUILDING CHECK  BUTLDING CHECKRD/SECURED  1419-15783  Call Taker  PATROL BRAD SACCO  Location/Address  PETERSBURG RD  Unit  34  Arvd-12:20:58  Qlrd-12:21:00  Narrative  Checked S-4  17:35  Narrative  done  4959-15784  1234  Initiated - BUZLDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZITEDZIAK  Location/Address  HAWTHORNE RD  Unit  30  Arvd-12:34:59  Clyrd-12:35:14  Narrative  Checked S-4  17:30  Narrative 
+Unit: 30 Arvd-11:00:42 Clrd-11:20:55
+PC MA 36DGS3 VIN: XMHDHEARILJ/ULOS:2
+Vehicla: GRY Zz013 HYUN SE ELANTR Reg: MA (-201-4212
+Operator: BRESSETTE, COLLEEN A @ 17 PTKE ST - EITTSFIELD,
+Race: WW Sex: F 0:201-4212
+Owzar: BRESSETTE, COLLEEN A @ 12 PINR ST - FITTSFIELD, MA
+Race: W Sex: F
+Marrative:
+vehic.e Stopped for showing Registration Status: ACTV/STVE.
+Appears to have never been properly taken out cf system.
+Dispatch contacted PPD whe reported net showing any history
+with above vehicle. RC stated this san: incident ocourred a
+Eew weeks ago when she was pulled over by MSP. Adviscd to
+contact PPL to get stralghtened cut.
+19-15781 1132 Initiated - MOTOR VEHICLE BTOR CITATION - WARNING
+Call Taker: PATROL RRAD SACCO
+Locar jon/Address: MAIN S5T
+tInikt: 34
+Arvd-11:32:57 Clrd-11:38:07
+vehicle: RRO 2018 VOLV V30 CROSS COUNTRY Reg: HC MA 72B360 VIN:
+YYLOMWKO0I2046905
+Operator: JOHNSON, LAUREN I @ 2401 SE SALMON ST - PORTLAND, OR 37214
+Raca: B Sex: F
+Refer Tc Cital jow:: 2085903
+OwnET: EDWARDS, MELODY @ 77 PLIASANT 8T - EASTHAMPTON, MA 01027-1129
+Race: 1] Sex: F
+15-15782 1137 Initlated - BUILDING CHECK BUILDING CHECKED/RSECURED
+Cal. Tazxer: PATROL KALVIN DZIEDZIAK
+Location/Address: ELM ST
+Jeit: 30
+Arvd-11:37:13 Clré 11:37:42
+Narrative.
+Checked 8-4 18:25
+Narrative:
+done
+189-15783 1220 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+Call Takor: ZATROL BRAD SACCO
+Location/Address: ETARSBURG RL
+Unit: 34
+Arvd-12:20:58 Clrd-12:21:00
+Karrukive:
+Checked 8-4 17:35
+Naxrative:
+acne
+1234 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+19-157684
+Taker: PATROL KALVIN DZTERRIAK
+Cal IIARTHORNE HL
+iocabion/Addressa: nit: 20
+Arve-12:34:59 Clrd-12:35:14
+Narretive:
+Checked S-4 17:30
+Narrative:

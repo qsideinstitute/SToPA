@@ -1,1 +1,51 @@
-Enrt-10:48:31  Arvd-10:53:29  Clrd-11:15:00  Disp-16:48:06  Vehicle  RED 1996 FORD TK Reg: TK VI YTKA VIN:  LFTEPL4AYé6 TLE 782739  owner  KLINGER, WALTER A @ PO BOX 535 WILLIAMSTOWN - OTHER MA, MA  Race:  W Sex: M  Narrative  Disabled Motor Vehicle,  back wheel fell off,  Narrative  Ron's enroute.  Narrative  Ron's On Scene.  Narrative  Party stated he called AAA he was advised Ron's enroute who  ever got there first because bad spot.  19-15337  1232  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 150]  GALE RD  Unit:  34  Arvd-12:32;29  Clrd-12:37:05  19+15338  4332  Initiated - MOTOR VEHICLE sToPr  CITATION - WARNING  Call Taker:  PATROL ANTHONY MM DUPRAT  Location/Address:  COLD SPRING RD  Unit:  34  Arvd-13:31:44  Cird-13:39:58  Vehicle:  VIN: 4S4BSADC2H3247149  GRY 2017 SUBA ST OUTBAC Reg: PC MA 7CK271  Operator:  ALGER, STEVEN B @ 78 LAFAYETTE ST - PITTSFIELD,  MA 01201-2727  Race:  W Sex: M  Refer To Citation:  T2083832  Owner:  ALGER, STEVEN B @ 78 LAFAYETTE ST - PITTSFIELD, MA 01201-2727  Race:  W Sex: M  49+15339  1454  Phone - ASSIST OTHER AGENCY  « UTILITY  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  NEW ASHFORD RD  Unit  32  Clrd-15:11:38  Disp-14:54:00  Enrt-14:54:12 Arvd-15:04:45  Narrative  Reports a wire down in the south bound lane causing traffic  to stop.  Narrative  Pole 187 VZ, 19 NG - Phone wire ripped from home, Laying in  readway. Moved to lawn. Verizon to be notified.  Narrative  Verizon not  a  peied of wires down at Pe and  19-153406  1519  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SPRING ST  Unit  32  Arvd-15:19:50  Cled-15:25:47  Narrative  12/11/2019 1700 - no violations 
+Disp-_0:42:06 Enrt-10:48:31 Arvd-"0:53:29 Cl+d-11:15:20
+vehinle: RED 1396 PORD TK Reg: TK VT YTKA VIN: 1FIBr.4YeliB7/827/5
+Owners: HELTRGRR, WATTER A @ PD BOX S535 WILLIAMSTOWX - C1HZR MA, MA
+Race: W Bex: MK
+MNarratbive:
+Cisub_ed Motor Vehicle, back wheel fell off.
+Narrat-ve:
+Ro—'s enrcute.
+Nerrakt-va:
+Ron's On Scene.
+Nerral-vo:
+Party slated he cal_ed AAR Le was advosed Ron s enroute who
+ever gct there first because bad spect.
+19-15337 1232 Initiated - BUILDING CIOECK BUILDING CHECKED/SECURED
+Cul: Tuxer: PATROL ANTHONY M DUPKRAT
+Location/Address: [#IA 150] 3ALE RD
+nit: 54
+Arvd-12:32:23 Clra-12:37:05
+19-153388 133 Initiated - MOTOR VERICLE STOP CITATION - WARNING
+Ca_l Taker: PATROL ANTHORY M LCUPRAY
+Location/Address: COLE SBPRING DD
+Unil: 34
+Arvd-13:31:44 Clrd-13:39:58
+Vehicle: gxY 2017 SUBA ST JUTBAC Red: PC MA 7C27: VIN: 454BSADC2A3247149
+Operator: BARLCGER, STEVEN B @ 78 LAFAYETTE ST - PCTISFIELD, MA 31251-2727
+Race: § Bax: M
+Refer —¢ Citazio-: T208283¢
+Owrler: ALGER, STEVEE B § 78 LAFAYZETTE ST - PITISFIELL, MA 01201-2727
+Racu: # Sex: M
+19-135333 1454 Phone ASSIST OTHER AGENCY - UTILITY TAKEN /REFERRED TO OTHER
+-
+AGENCY
+Cz11 Takar: DTSPATCHER TAURTRE “UPRR
+Locaticn/Adcress: JEW ASHFCRD RD
+unc: 2
+Hep-14:54:00 Enrt-14:54:12 Arvi-13:04:45 21rd-i5:11: 3B
+Narrative:
+Eeporks a wire down in the south bound Lane causing traffic
+cc stop.
+Xarrative:
+ale 187 VA, 19 NG - “hone wire ripped from home, faying in
+roadwz2y. Mcvad to lawn. Verirzon to be notified.
+Narrative:
+verizor notified of wires down ar [|NEGEGEGE < HN
+19-153440 1519 Initiated - PARKING CHECK EERVICEE RENDERED
+Call Taker: FATRUL BHUAN N WIL] 1AM
+Lece  lon/address: BEPRING ST
+Usiil: 32
+Arvd-15:18:52 Clxd-)15:25:47
+Rarratzva:
+1271172009 17100 - no vinletions

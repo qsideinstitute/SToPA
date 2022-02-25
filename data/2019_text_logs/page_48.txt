@@ -1,1 +1,53 @@
-19-320  1010  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  call Taker  PATROL TANIA HERNANDEZ  Location/Address  (WIA 333] CHURCH ST  Unit  36  Arvd~-10:10:43  Clrd-10:12:13  Narrative  checked  19-321  1010  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS,  D  Location/Address:  HARWOOD ST  Unit:  34  Arvd-10:12:04 Clrd-10:11:27  Narrative:  done  Narrative:  Checked Area.  19-322  1027  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-10:27:34  Clrd-10:32:57  Vehicle  GRY 2006 HOND ODYSSE Reg: PC MA 69TK44 VIN: 5FNRL382X6B068919  Operator  WISE, ALFRED J @ 114 BERKSHIRE DR - WILLIAMSTOWN, MA 01267-2520  Race:  W Sex: M  Refer To Citation  71400332  Owner  WISE, ALFRED J @ 114 BERKSHIRE DR - WILLIAMSTOWN, MA 01267-2520  Race: W Sex: M  19-325  1100  Phone - WELL BEING CHECK  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  [WIA 151] COLD SPRING RD  Unit:  37K  Clrd-12:17:50  Disp-11:37:12 Enrt-11:37:41 Arvd-11:42:30  Narrative:  RP would like a follow up on victim's behalf from 19-218.  RP is victim's legal guardian.  Anonymous caller from 19-285  may be referring to this case. See 19-13-OF from 19-285.  19-324  1113  911 -  9-1-1 WRONG NUMBER  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Party calling from Cable Mills dialed the wrong number  looking for an operator for information, no emergency.  19-326  1133  Phone -  SUSPICIOUS ACTIVITY  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  {WIA 459] HANCOCK RD  Unit:  33  Disp-11:35:45  Enrt-411:37:14 Arvd-11:46:32  Cird-12:20:31  Narrative:  RP is Realtor for property and observed human tracks  Gragging a sled up the driveway into the woods to some  blood, and then dragged the sled back to a MV parked along  Hancock Rd. 
+19-320 1010 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA 333] CHURCH ST
+Unit: 36
+Arvd-10:10:43 Clrd-10:12:13
+Narrative:
+checked
+19-321 1010 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: HARWOOD ST
+Unit: 34
+Arvd-10:11:04 Clrd-10:11:27
+Narrative:
+done
+Narrative:
+Checked Area.
+19-322 1027 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NORTII HOOSAC RD
+Unit: 34
+Arvd-10:27:34 Clrd-19:32:57
+Vehicle: GRY 2006 HOND ODYSSE Reg: PC MA 69TK44 VIN: S5FNRL3B2X6306B9Y19
+Operator: WISE, ALFRED J @ 114 BERKSHIRE DR - WILLIAMSTOWN, MA 01267-2520
+Race: W Sex: M
+Refer To Citation: T1408332
+Owner: WISE, ALFRED J @ 114 BERKSHIRE DR - WILLIAMSTOWN, MA 01267-2520
+Race: W Sex: M
+19-325 1100 Phone - WELL BEING CHECK SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 151] COLD SPRING
+Unit: RD
+37K
+Disp-11:37:12 Enrt-11:37:41 Arvd-11:42:30 Clrd-12:17:50
+Narrative:
+RP would like a follow up on victim's behalf from 19-218.
+RP is victim's legal guardian. Anonymous caller from 19-285
+may bec referring to this case. See 19-13-OF frcm 19-285.
+19-324 1113 911 - 9-1-1 WRONG NUMBER SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Narrative:
+Party calling from Cable Mills dialed the wrong number
+looking for an operator for information, no emergency.
+19-326 1133 Phone - SUSPICIOUS ACTIVITY LOG ENTRY REQUEST
+Call Taker: CHIEY KYLE J JOHNSON
+Location/Address: [WIA 459] HANCOCK RD
+Unit: 33
+Disp-11:35:45 Enrt-11:37:14 Arvd-11:46:32 Clrd-12:20:31
+Narrative:
+RP is Realtor for and observed human tracks
+sled property the into
+blood, dragging and a then up driveway the woods to some
+Hancock Rd. dragged the sled back to a MV parked along

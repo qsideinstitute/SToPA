@@ -1,1 +1,50 @@
-Narrative:  done  19-11818  0810  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING ED  Unit  30  Arvd-08:10:42  Clrd-08:10:51  Narrative  Checked.  Narrative  Checked 0311  49-11819  0818  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HOPPER RD  Unit  30  Arvd-08:19:18  Clrd-08:20:01  Narrative  checked  Narrative  Checked 0251  15-21820  091?  Phone -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  MAIN ST  Unit  36  Disp-09:20:53  Enrt-09:213:15 Arvd-09:28:16  Clrd-09:38:41  Unit  36  Disp-10:52:47  Enrt-10:53:25 Arvd-10:59:30  Clrd-11:10:19  Narrative  Sick fox, May have gone under porch at above address.  Narrative  No 65, no porch on 59 and checked porch at 67 unable to  locate animal under porch. knocked on residence no answer.  Narrative  Sick fox loacted at 685 main st. Fox is sleeping or possibly  dead in front yard.  Narrative  Dead fox bagged and disposed.  14210  Phone - SUSPICIOUS aAcrievity  SERVICES RENDERED  19-11821  Call Taker:  PATROL KALVIN DZITEDZIAK  Location/Address:  [WIK 101] SPRING ST  Unit:  30  Disp-11:13:09 Enrt-11:13:32  Arvd-11:21:92  Cilrd-13:29:28  Narrative:  Cp reports front door to above address is open and business  is closed.  1145- Contact attempted with key holder, unsuccessful no  answering machine  1117- Informed employee at West Package & Variety Store in  North Adams. Employee will call owner. 
+Narrative:
+done
+15-11818 0810 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: STRGEARNT SCOTT E MCGOWAN
+Location/Address: .D SPRING RD
+tnitc: 3s
+Arva-0E:10:62 Jlrd-08:10:51
+Karrative:
+Chooxed.
+Narrative:
+Crecked 0311
+19-118119 gale Initiated - BGILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MOGOWAN
+Location/Address: HOPPER RD
+Init: an
+Arvd-08:19:12 JIlrd-08:20:01
+Faxrative:
+aeaxed
+Nazrralbive:
+Checked 0251
+19-218210 0917 Phone - ANIMAL CONTROL SERVICES RENDERED
+Call Taker: PATROL XALVITN DZIEDZIAMN
+Location /hddresa: MAIN 87
+Unit: 26
+Disp-08:20:53 Enrt-09:21:15 Arvd-05:28:16 Clxd-09:38:41
+Unir: ia
+Disp-1C:52:47 Enrz-10:53:25 Arvd-18:59:30 Clrd-11:10:19
+Narrative:
+Sick fox. have under porch at above address.
+May gore
+Karrative: checked unable
+No G5, no porch on 59 and porch at 67 ko
+locate animal under porch. knocked on residence no answer.
+Narrative:
+dick fox icacted at 685 main st. Fox is sleeping or pcssibly
+dead in Zrent yard.
+Narrative:
+Dead fox bagged and disposed.
+15-11821 1110 Phone - SUSPICIOUS ACIEIVITY BERVICESZ RENDERED
+Call Taker: PATRCL KALVIN DZIEDZIAX
+Location/Address: [WI 121. SERING ST
+Unir: 30
+Disp-11:13:09 Enrt-11:13:32 Arvd-11:21:02 Clrd-11:29:28
+Karrative:
+Cp reports front door to above address iw open and business
+is closed.
+115- CTcntact attempted wilh kay ho:der, unsuccassiul no
+answering machine
+1117- Informed employee ab Wesl Package Variety Store in
+North Adans. Erployee will call owner.

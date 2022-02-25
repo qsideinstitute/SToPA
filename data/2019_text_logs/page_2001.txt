@@ -1,1 +1,44 @@
-Narrative:  done  Narrative:  Checked 2324  Narrative:  Checked 0309  19-13747  0837  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  PINE COBBLE RD  Unit  a5  Arvd-08:37:50  Cird-08:37:56  Narrative  Empty  Narrative  MA 3FX416  Narrative  MA 6DxX648,  6RDG6E37  ME  832SD  Narrative  empty  Narrative  Checked,  no vehicles  2327  Narrative  0306  Checked, no vehicles  19-13748  0855  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  LINDLEY TER  Unit  35  Arvd-08:55:15  Clrd-08:55:54  Narrative  checked  Narrative  Checked 6122  19-13751  o905  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  HARWOOD ST  Unit  35  Arvd-09:06:07  Clrda-09:07:20  Narrative  checked  Narrative  done  19-13752  aso8  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURSD  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  MAIN ST 
+Xurrublive:
+cone
+Xarrative:
+Xarrative:
+Checked 0309
+15-13747 0E37 Initiated - BUILDING CHECK BULLDING CHECKED/SECURED
+Call Taker: PATRCL ANTECNY M DLPRAT
+Locatior/Addrass: PINE CORPRLE RD
+nic: a5
+Arvd 8:37:50 Cl-d-uB:37:36
+Tarrative:
+Empty
+Yarralive:
+Ma ATXAR
+narralkbive:
+MA gLXE4R, xDe37?
+ME #328D
+Narrative:
+empty
+varrative:
+Checked, nc vehlc_ es. 2327
+Narrative:
+Checked, nc wvehizles. 037
+1959-13748 D855 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL ANTIECHY NM DJUPFRAT
+Location/Address: LINDLEY TER
+Thsc: as
+Arvd-u8:bt:la Clrd-08:55:54
+Narrative:
+checked
+Karrative:
+Checked §L22
+19-133751 0505 Initiated - BUILDING CHECK BUILDING CERCERD/AECURED
+Z2all Taker: PATROL AWNTHCNY  DUPRAT
+LocoziasnfAcdrenn: TARWOOD 87
+nie: 3h
+Arvd-09:06:07 Clrd-02:07:20
+Harrative:
+checked
+Marrative:
+acne
+18-13752 a90s Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Zall Toker: PAIHCH ANTHONY KM DOUPRAT
+Locavion/Aaddyocs: MATY 8

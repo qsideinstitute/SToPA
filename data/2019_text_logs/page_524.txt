@@ -1,1 +1,55 @@
-Unit  31  Axvd-18:29:54 Clrd-18:40:06  Vehicle  GRY 2011 FORD ESCAPE Reg: PC MA 192WK8 VIN: IFMCU9DG1BKC64702  Operator  PAPADOPOULOS, JOHN @ 5 WILLIAMSTOWN RD Apt. #1 - LANESBOROUGH, MA  01237-9527  Race: W Sex: M  Refer To Citation  T1400669  Owner  PAPADOPOULOS, LINDA OTTILIE @ 5 WILLIAMSTOWN RD Apt. #1 -  LANESBOROUGH, MA 01237-9527  Race: W Sex: F  19-3579  1938  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  COLE AVE  Unit  38  Arvd-19:38:49 Clrd-20:08:23  Vehicle  SIL 2007 DODG U NITRO Reg: PC VT EAD790 VIN: 1D8GU28K27W530953  Towed  For: Expired Registration By: RONS AUTO REPAIR To: OWNER'S RESIDENCE  Operator  WILBER, KAITLYN @ 49 ARNOLD ST Apt.  #2 ~ WILLIAMSTOWN, MA 01267  Race:  W Sex: F  Refer To Citation  T1400904  Owner  #2 - WILLIAMSTOWN, MA 01267  WILBER, KAITLYN @ 49 ARNOLD ST Apt.  Race:  W Sex: F  Narrative  Ron's notified and in route.  19-3580  2304  Phone - NOISE COMPLAINT  PEACE RESTORED  Call Taker  PATROL ANTHONY M DUPRAT  {WIA 247] SIMONDS RD  Location/Address  Unit  31  Disp-23:06:46 Enrt-23:06:51 Arvd-23:09:21 Clird-23:14:50  Unit  32  Disp-23:06:46 Enrt~-23:06:55 Arvd-23:09:36 Clrd-23:15:04  Narrative  CP reports a lot of yelling coming from the next room, CP is  in room  Narrative:  Couple and their 2 younger boys from Taiwan here on ski  vacation. Staying in room 21. Noise was boy having a  meltdown about mom telling him to take a shower. Party  advised of complaint. She was apologetic. Peace restored.  19-3581  2321  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROLMAN SCOTT SKORUPSKI  SIMONDS RD  Location/Address:  Unit:  32  Arvd-23:21:21 Clrd-23:27:11  :  Vehicle:  GRY 206010 MERZ SE Reg: PC VT GNW679  Operator:  CURRY, JUSTINE M @ 728 US RT 7S - BENNINGTON, VT 05201  Race:  W Sex: F  Refer To Citation:  T1401041  Owner:  CURRY, JUSTINE M @ 728 US RT 7S - BENNINGTON, VT 05201  Race:  W Sex: F  -  For Date: 03/24/2019  Sunday  19-3582  0056  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  COLD SPRING RD 
+Unit: 31
+Arvd-18:29:54 Clrd-18:40:06
+Vehicle: GRY 2011 FORD ESCAPE Reg: PC MA 192WK8 VIN: 1FMCU9DG1BKC64702
+Operator: PAPADOPOULOS, JOHN @ 5 WILLIAMSTOWN RD Apt. #1 - LANESBOROUGH, MA
+01237-9527
+Race: W Sex: M
+Refer To Citation: T1400669
+Owner: PAPADOPOULOS, LINDA OTTILIE @ 5 WILLIAMSTOWN RD Apt. #1 -
+LANESBOROUGH, MA 01237-9527
+Race: W Sex: F
+19-3579 1938 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: COLE AVE
+Unit: 38
+Arvd-19:38:49 Clrd-20:08:23
+Vehicle: SIL 2007 DODG U NITRO Reg: PC VT EAD790 VIN: 1D8GU28K27W530553
+Towed : For: Expired Registration By: RONS AUTO REPAIR To: OWNER'S RESIDENCE
+Operator: WILBER, KAITLYN @ 49 ARNOLD ST Apt. #2 - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+Refer To Citation: T1400904
+Owner: WILBER, KAITLYN @ 49 ARNOLD ST Apt. #2 - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+Narrative:
+Ron's notified and in route.
+19-3580 2304 Phone - NOISE COMPLAINT PEACE RESTORED
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: [WIA 247] SIMONDS RD
+Unit: 31
+Disp-23:06:46 Enrt-23:06:51 Arvd-23:09:21 Clxd-23:14:50
+unit: 32
+Disp-23:06:46 Enrt-23:06:55 Arvd-23:09:36 Clrd-23:15:04
+Narrative:
+CP reports a lot of yelling coming from the next room, CP is
+in room [Ji
+Narrative:
+Couple and their 2 younger boys from Taiwan here on ski
+vacation. Staying in room 21. Noise was boy having a
+meltdown about mom telling him to take a shower. Party
+advised of complaint. She was apologetic. Peace restored.
+19-3581 2321 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROLMAN SCOTT SKORUPSXI
+Location/Address: SIMONDS RD
+Unit: 32
+Arvd-23:21:21 Clrd-23:27:11
+Vehicle: GRY 2010 MERZ SE Reg: PC VT GNW679
+Operator: CURRY, JUSTINE M # 728 US RT 75 - BENNINGTON, VT 05201
+Race: W B8Sex: F
+Refer To Citation: T1401041
+Owner: CURRY, JUSTINE M @ 728 US RT 7S - BENNINGTON, VT 05201
+Race: W Sex: F
+For Date: 03/24/2019 - Sunday
+19-3582 0056 Initiated MOTOR VEHICLE STOP
+- CITATION - WARNING
+Call Taker: PATROL A
+Location/Address: COLD SPRING CRAIG RD EICHHAMMER

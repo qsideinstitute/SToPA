@@ -1,1 +1,55 @@
-Race: W Sex: F  19-427  1517  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  call Taker  PATROL JOHN J MCCONNELL JR  COLE AVE  Location/Address  Unit  38  Arvd-15:17:55  Clrd-15:25:53  Vehicle  GRY 2016  NISS FRONTI  Reg: PC MA 3Y¥X627 VIN: IN6ADOEV9GN786307  Operator  BELLEAU,  YVETTE M @ 586 NORTH HOOSAC RD ~ WILLIAMSTOWN, MA 01267  Race: W  Sex: F  Refer To Citation  T1400616  Owner  BELLEAU,  YVETTE M @ 586 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267-2307  Race: W  Sex: F  19-428  1523  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:26:28 Clrd-15:31:29  19-430  1532  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:33:43  Clrd-15:42:19  19-431  1615  Initiated - LICENSE TO CARRY  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  (WIA 249] NORTH ST  Unit:  31  Arvd-16:15:00  Clrd-16:30:27  Narrative:  Male party in for LTC renewal.  19-432  1639  Phone - DISTURBANCE  LOG ENTRY REQUEST  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  [WIA 151] COLD SPRING RD  Narrative:  CP who works for a Social Worker Agency is reporting a  verbal argument between 2 nurse's & a patient. Incident  happened with two 3rd shift nurse's early this morning.  It was a verbal argument only.  CP stated there was a statement made to the patient by one  of the nurses saying to ((MBRBBBBB). I don't give a shit about  you! I'm just here because IT have too. CP said there not  sure what Nurse said it. But. they both were suspended until  they do there invest. There just requesting a call number  for this incident.  19-434  1715  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SIMONDS RD  Unit  31  Arvd-17:16:03  Clrd-17:16:59  Narrative  Checked 0320  19-435  1724  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SCHOOL ST  Unit:  31 
+Race: W Sex: F
+19-427
+1517 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: COLE AVE
+Unit: 38
+Arvd-15:17:55 Clrd-15:25:53
+Vehicle: GRY 2016 NISS FRONTI Reg: PC MA 3YX627 VIN: 1LN6ADOEVIGN786307
+Operator: BELLEAU, YVEITE M @ 586 NORTH HOOSAC RD - WILLIAMSTOWN, IMA 01267
+Race: W Sex: F
+Refer To Citation: T1100616
+Qwner: BELLEAU, YVETTE M @ 586 NORTH HOCOSAC RD - WILLIAMSTOWN, MA 01267-2307
+Race: W Sex: F
+19-428 1523 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:26:28 Clrd-15:31:29
+19-430 1532 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOEN J MCCONNELL JR
+Location/Address: SPRING ST
+unit: 38
+Arvd-15:33:49 Clrd-15:42:19
+19-431 1615 Initiated - LICENSE TO CARRY SERVICES RENDERED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: [WIA 249) NORTH ST
+Unit: 31
+Arvd-16:15:00 Clré-16:30:27
+Narrative:
+Male party in for LTC renewal.
+19-432 1639 Phone - DISTURBANCE LOG ENTRY REQUEST
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: [WIA 151] COLD SPRING RD
+Narrative:
+CP who works for a Social Worker Agency is reporting a
+verbal argument between 2 nurse's a patient. Incident
+happened with two 3rd shift nurse's early this morning.
+It was a verbal argument only.
+CP stated there was a statement made to the patient by one
+of the nurses saying to (Jil) I don't give a shit about
+you! I'm just here because 1 have - too. CP said there not
+sure what Nurse said it. But they both were suspended until
+they do there invest. There just requesting a call number
+for this incident.
+19-434 1715 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R I.FMIEUX
+Tl.ocation/Address: SIMONDS RD
+Unit: 31
+Arvd-17:16:03 Clrd-17:16:59
+Narrative:
+Checked 0320
+19-435 1724 Initiated PARKING CHECK
+Call Taker: SERCEANT - SERVICES RENDERED
+Location/Address: SCHOOL DAVID R LEMIEUX
+Unit: 31 ST

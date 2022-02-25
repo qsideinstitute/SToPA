@@ -1,1 +1,45 @@
-checked  Narrative:  checked  Narrative:  Checked Area.  19-15809  0347  Initiated - BUILDING CHECK  BUELDING CHECKED/SECURED  Call Taker  PATROL KALVIN DATEDZIAK  FRENIER AVE  Location/Address  Unit  30  Arvd-09:47:40  Clrd-09:48:03  Narrative  checked  Narrative  checked  Narrative  Checked Area.  19-15810  0956  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL KALVIN DZIED2ZIAK  Location/Address:  ELM 3ST  Unit:  39  Arvd-09:56:58  Clrd-09:57:36  Narrative:  Checked S-4  17:59  Narrative:  done  18-35811  1009  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  PETERSBURG ED  Unit  34  Arvd-10:69:36  Clrd-10:09:39  Narrative  Checked 8-4  17:43  Narrative  done  BUILDING CHECKED/SECURED  1219-15812  1011  Initiated - BUILDING CHECK  PATROL BRAD SACCO  Cali Taker:  Location/Address:  HAWTHORNE RD  unit:  34  Arvd-10:11:50 Clrd-19:11:51  Narrative:  17:50  Checked S-4  Narrative:  Checked Area  19-15813  1124  tnitiated  + BUILDING CHECK  BUILDING CHECKED/SECURED 
+checked
+Narrative:
+checked
+Narrative:
+Checked Arca.
+1595-15809 0947 Initiated - BUILDING CHECK BUILDING CHECKED/SECURRD
+all ‘Taker: FATROL KALVIN DZIZLZIAK
+Lecacion/Address: FRENIZR LVR
+tmik: 30
+Arvd-49:47:40 Clrd-09:48:03
+Narrative:
+checked
+Karrative:
+checked
+Narrative:
+Checkad Area.
+0956 Initiated - BUILDING CHECK BUILDING CRECKED/SECURED
+1989-15810
+Call Takcr: PATROL KALVIN DZIEDRIAX
+ELM 8ST
+Location/Address:
+uniL: 30 Arvd-05:56:58 Clrd-09:57:36
+Narrative:
+Checked 5-4 17:39
+Narrazive:
+cone
+19-158111 10909 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Czll Taker: PATIRCL 3RAD SALCC
+Locabion/Address: PETERSBURG XD
+Unit: a4
+Axve-10:09:36 Clrd-10:09:39
+Narrative:
+Cliooxed 5-4 17:43
+Narrative:
+done
+19-165812 1011 Initiated - BUILDING CHRCK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Tozation/Address: HAKTIICRNS BD
+Jit: 34
+Arvd-10:11:50 Clrd-18:11:51
+Narrative:
+Checked 5-4 17:50
+Narrative:
+Checked Area.
+19-155813 1124 Initiated - BUILDING CHECK DUILDING CHECKED/SECURED

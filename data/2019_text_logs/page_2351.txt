@@ -1,1 +1,52 @@
-Narrative:  Checked 0035  19-15941  0303  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  MAIN ST  Unit:  34  Arvd-09:03:43  Clrda-09:10:41  Vehicle:  VIN: 3VWSK69M81M1159985  BLU 2001 VOLK 4D JETTA Reg: PC VT HPX805  Operator:  WALSH, ALEXIS M @ 270 LINDEN ST ~ PITTSFIELD, MA 01201  Race:  W  Sex: F  Refer To Citation:  T2085885  Owner:  STEBBINS, DANA MARIE @ 74 SUMMER RD - STAMFORD, VT 05352  Race: W Sex: F  SERVICES RENDERED  19-15942  0936  Initiated - PARKING CHECK  Call Taker:  PATROL DAVID JENNINGS,  D  SPRING ST  Location/Address:  Unit:  34  Arvd-09:36:11  Cird-09:37:58  19-15943  0938  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, PD  Location/Address:  PARK ST  Unit:  34  Arvd-09;39:08  Clrd-09:39:15  19-15944  0540  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  HAWTHORNE RD  Unit:  34  Arvd-09:41:05  Clrd-09:41:10  Narrative:  checked  Narrative:  Checked  19-15945  0943  Initiated - BUTLDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address  PETERSBURG RD  Unit  34  Arvd-09:43:53  Clyrd-09:44:36  Narrative  done  Narrative  Checked 0153  19-15947  1218  Phone -  UNWANTED GUEST  GONE ON ARRIVAL  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  MAIN ST  34  Unit  Disp-11:19:34  Enrt-11:19:41  Arvd-11:23:31  Clrd-11:31:25  Unit  36  Disp-11:19:34  Enevt-11:20:19 Arvd-11:25:11  Clrd-11:31:23  Narrative  CP reporting a male party being very loud and will not leave  the store.  CP did not know his name. 
+Harrative:
+Chacked D035
+1959-15941 0503 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL NAVTD JEKNIKGS, D
+LocaLion/Addressa: MAIN ST
+Unig: 34
+Arvi-09:03:43 Clrd-09:10:41
+Yehic e: SLU 2001 VOLX 4D JETTA Reg: PC VT HPXROS VIN: IVWSKESM81M115985
+Operabtor: WALSH, ALEXIS M @ Z70 LINDEN ST - FITTSFTELD, MA 01201
+Race: @ Sa2: F
+Refer To Citation: To0B85885
+owner: STEBBINS, DAKA MARIE § 7A SUMMER RD - STAMFORD, VT 05352
+Race: W Bex: F
+19-159423 0936 Initiated - PAREING CHECK SERVICES RENDERED
+Caz.l Taker: PATROL DAVID JEMMINGS, D
+Location/Address: SPRING ST
+Unit: 24
+Arva-09:36:11 Clrd-04:37:58
+1959-15943 no3\a Initiated - PARKING CHECK SERVICES RENDERED
+Cazl Takszr: PATROL DAVID JENKINGS, D
+PARK S7
+—ocaticn/Address: Unit:
+24 Arvd-09:39:08 Clird-03:39:15
+CHECOKRD/SECURRD
+19-15944 0940 Initiated - BUILDING CUHECK BUILDING
+Call Taxer: PATROL, DAVID JENKINGE, D
+Location/Address: HAKTHGRNE RD
+nit: 34
+Arvd-09:41:05 Clrd-02:41:10
+Narrative:
+checked
+Narrative:
+Cnecked
+19-154945 0943 Initiated - BUILDING CHECK BUILDING CHECKRED/SECIORED
+Cal: Taker: PATROL DAVID JENMINGE, ID
+Lecation/Address: PETERSBURG RD
+Uik: 34
+Arvd-09:43:53 Clrd-09:44:36
+Narrative:
+done
+Narrative:
+Checked 0153
+15-1554Y9 ille Phone - UNWANTED GUEST GONE ON ARRIVAL
+all Taker: CISPATCHER WILLIAM I JENKEINGS OR
+Iocasion/Address: MAIN ET
+Unik: 34
+Risp-:1:12:34 Enrc-11:12:41 Arvd-11:33:31 Clrd-11:31:25
+Unit: i6
+Disp-31:19:34 Enrt-11:25:19 Arvd-21:25:11 Clxd-11:31:23
+Narrative:
+CF a male parlLy being loud and witil not leave
+the reporting srore. CP did not know his namec. very

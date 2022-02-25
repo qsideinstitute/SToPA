@@ -1,1 +1,49 @@
-Arvd-17:55:34  Clrd-17:56:37  Narrative:  checked.  19-11377  L756  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SOUTHWORTH sT  Unit  31  Arvd-17:57:57  Clrd-18;00:59  Narrative  Checked 0048  19-11378  1813  Initiated - BUTLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Addresa  MAIN ST  Unit  a1  Arvd-18:14:01  Clrd-18:15:19  Narrative  Checked 0138  19-11379  1814  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL JOHN ¢ MCCONNELL JR  Location/Address:  {WIA 910] TACONIC TRL  Unit ;  38  Arvd-18:14:30  Cird-18:45:17  Narrative:  Checked Area.  19-211380  L902  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  {WIA 249] NORTH ST  Unit  31  Arvd-19:02:06  Cird-19:02:51  Narrative  Checked 0043  19-211381  1923  Phone - ASSIST OTHER AGENCY  - BPW  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 180]  COLD SPRING RD  Narrative:  Reports sewer alarm light flashing, no audible alarm and  water 3" from the top.  Ed Rondeau notified and will get someone out there.  19-12363  2017  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS,  DB  Location/Address  BRIDGES RD  Unit  35  Arvd-20:17:28  Clyrd-20:24:25  Vehicle  GRN 2003 HOND U Reg: PC FL ICi2BR VIN: SHSRD78853U153146  Operator  MEYER, CLAUDE @ 365 W 25TH Apt. #11F - NEW YORK, NY 10001  Race:  W Sex: M  Refer To Citation  T1i786060  Owner  MEYER, CLAUDE @ 365 W 25TH Apt. #11F - NEW YORK, NY 10001 
+Kazrucive: Arvd-17:55:34 Clrd-17:56:27
+checked.
+15-1137 1756 Initiated
+- BUILDING CHECK BUILDING CHECXED/SECURED
+Call i'aker: SERGEANT DAVID R LEMIZUX
+_ocation/addross: SOQUTHWORTII -- ST
+Un.u: wf -—
+Arvd-17:57:57 Clrd-18:00:59
+Nurrutive:
+Checxzed 0043
+19-113786 1813 Initiated - BUILDINC CHSCK BUILDING CHECKED/SECURED
+Cal. lzker: SERGEANT DAVID R LEMIEUX
+Locat-on/Addresg: MAIN BT
+Joib: al
+Arvd--8:14:01 Jird-28:15:19
+Narrative:
+Chockad 0238
+19-211375 ljels Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+Cal Taker: FATROL JOHN J MCCOMKELL JR
+Location/Address: WIA 910] "ACOMTC TRI
+Tnir.: ag
+Arvd-18:24:32 Clxd- 18:15:17
+Narracive:
+Checked Area.
+18-11380 1503 Initiated - BUILDING CHECK BUILDING CHECXED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Lozation/Address: IWIA 243] NORTH 57
+nic: 3
+ATvE-19:02:96 Clrd-18:02:51
+Narrative:
+Chesxed 0043
+19-1i3681 1523 Phone - ABSIST OTHER AGENCY - DPW TAKEN/REFEFRED TQ OTHER
+AGENCY
+Cal. Taker: DISPATIZER LAURTA T.IPER
+Tocation/Addresa: [WTA 185] COTR SPRING RD
+Narratzve:
+Reports goewor alarm light [las ing, no aud. ble wlarm and
+water i" frem the top.
+kd Hendeew notificd and will cob soweone out Lhera,
+19-311383 2017 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cail Taker: ZATRCL DAVID JENNINGS, bD
+Locztion/Address: BR1OCEE EBD
+Chil: 35
+Arvd-20:27:29 Clxd-20:24:2Z5
+Vehicle: GRN 2C03 IIONL U Reg: PC FL IC12BR VIN: SISRDT0653U153146
+Operator: MEYER, CLAUDE @ 3E5 W 25T: Apl. #11r - NEA YORK, KY 10003
+Revo: W Sex: M
+Hoefor To CitaLion: T1/86060
+Ownar: MEYER, CLAINLCE @ 365 A AGT ADL. §.1F - NEW YORK, NY 10001

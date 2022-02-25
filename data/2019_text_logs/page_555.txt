@@ -1,1 +1,58 @@
-Arvd~18:58:28  Clrd-19:05:39  Vehicle  WHE 2018 FORD VN TRANSIT Reg: CO RI 151015  Operator  XIONG, KEE @ 40 DELMAR ST - PROVIDENCE, RI 02907  Race: A Sex:  M  Refer To Citation  T1401032  Owner  XIONG,  KEE @ 40 DELMAR ST ~- PROVIDENCE, RI 02907  Race: A Sex:  M  19-3760  1908  Walk-In ~ LICENSE TO CARRY  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  {WIA 249} NORTH ST  Unit  31  Arvd-19:09:22  Clrd-20:26:23  Disp~-19:08:45  Narrative  Party in for LTC.  19-3761  1917  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  HANCOCK RD  Location/Address  Unit  34  Arvd-19:17:34  Clrd-19:21:36  Vehicle  GRN 2017 SUBA  FOREST Reg: PC MA 5TN765 VIN: JF2SJAEC2HH811456  Operator  CARR,  TIMOTHY  @ 31 PORTER ST - WILLIAMSTOWN, MA 01267  Race: W Sex:  M  Refer To Citation  T1400929  Owner  CARR, TIMOTHY  S @ 31 PORTER ST ~- WILLIAMSTOWN, MA 01267-2059  Race:  U Sex:  M  19-3762  1935  Phone ~- MOTOR  VEHICLE ACCIDENT  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  STRATTON RD  Unit  34  Disp-19:38:15  Enxt-19:38:40 Arvd-19:46:12 Clrd-20:13:32  Vehicle  Operator  DEMYER-NEMSER, SHARON D @ 215 STRATTON RD - WILLIAMSTOWN, MA 01267-  2980  Race;  W Sex: F  Vehicle  GRY 2018 BMW CO 230XI Reg: PC MA SHIKZA VIN: WBA2K1C59JVD41143  Operator  DEMYER-NEMSER,  SHARON D @ 215 STRATTON RD ~ WILLIAMSTOWN, MA 01267-~  2986  Race:  W Sex: F  Owner:  NEMSER,  CHARLES J @ 215 STRATTON RD Apt. #B - WILLIAMSTOWN, MA 01267-  29806  Race: U Sex:  M  Narrative:  Reports knocking down a street sign while turning from  Stratton to Adams Rd. Has since driven home.  Would like  officer to check damage on her BMW and advise her what she  needs to do about the sign.  19-48-AC  Refer To Accident:  19-3763  2028  Phone - B.0.L.0.  UNABLE TO LOCATE  Call Taker:  DISPATCHER LAURIE TUPER  Location:  TACONIC TRAIL  Unit:  31  Disp-20:50:02  Arvd-20:50:41  Clrd~21:04:43  Unit:  32  Disp-20:50:09 Enrt-20:50:19  Arvd-20:52:21  Clrd-21:07:32  Unit:  32  Arvd-22:04:43  Clrd-22:32:36  Disp-22:04:39  Unit:  34  Arvd~-22:06:34  Clrd-22:33:28  Narrative: 
+Vehicle: Arvd-18:58:28 Clrd-19:05:39
+WHI 2018 FORD VN TRANSIT Reg: CO RI 151015
+Operator: XIONG, KEE ® 40 DELMAR ST - PROVIDENCE, RI 02907
+Race: A Sex: M
+Refer To Citation: T1401032
+Owner: XIONG, KEE @ 40 DELMAR ST - PRCVIDENCE, RI 02907
+Race: A Sex: M
+19-3760 1908 Walk-In - LICENSE TO CARRY SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 249] NORTH ST
+Unit: 31
+Disp-19:08:45 Arvd-19:09:22 Clrd-20:26:23
+Narrative:
+Party in for LTC.
+19-3761 1917 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: HANCOCK RD
+Unit: 34
+Arvd-19:17:34 Clrd-19:21:36
+Vehicle: GRN 2017 SUBA FOREST Reg: PC MA 5TN765 VIN: JF2SJAEC2HH811456
+Operator: CARR, TIMOTHY @ 31 PORTER ST - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+Refer To Citation: T1400929
+Owner: CARR, TIMOTHY S @ 31 PORTER ST - WILLIAMSTOWN, MA 01267-2059
+Race: U Sex: M
+19-3762 1935 Phone - MOTOR VEHICLE ACCIDENT SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: STRATTON RD
+Unit: 34
+Disp-19:38:15 Enrt-19:38:40 Arvd-19:46:12 Clrd-20:13:32
+Vehicle:
+Operator: DEMYER-NEMSER, SHARON D @ 215 STRATTON RD - WILLIAMSTOWN, MA Dl1267/-
+2980
+Race: W Sex: F
+Vehicle: GRY 2018 BMW CO 230XI Reg: PC MA SHIKZA VIN: WBA2K1C59JVD41143
+Operator: DEMYER-NEMSER, SHARON D @ 215 STRATTON RD - WILLIAMSTOWN, MA 01267-
+2980
+Race: W Sex: F
+Owner: NEMSER, CHARLES J @® 215 STRATTON RD Apt. #B - WILLIAMSTOWN, MA 01267-
+2980
+Race: U Sex: M
+Narrative:
+Reports knocking down a street sign while turning from
+Stratton to Adams Rd. Has since driven home. Would like
+officer to check damage on her BMW and advise her what she
+needs to do about the sign.
+Refer To Accident: 19-48-AC
+19-3763 2028 Phone - B.0.L.O. UNABLE TO LOCATE
+Call Taker: DISPATCHER LAURIE TUPER
+Location: TACONIC TRAIL
+Unit: 31
+Arvd-20:50:41 Clrd-21:04:43
+Unit: Disp-20:50:02 32
+Enrt-20:50:19 Arvd-20:52:21 Clrd-21:07:32
+Unit: Disp-20:50:09 32
+Arvd-22:04:43 Clrd-22:32:36
+Unit: Disp-22:04:39 34
+Narrative: Arvd-22:06:34 Clrd-22:33:28

@@ -1,1 +1,52 @@
-Location/Address:  (WIA 333] CHURCH 5T  Unit:  37K  Arvd-08:15:09  Clyrd-08:47:04  15-11697  0916  Enitiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLE AVE  Unit  30  Arvd-08:17:09  Clrd-08:35:24  Unit  38  Disp-15:03:48  Arvd-15:07:53  Clird-15:21:15  1419-11701  0835  Phone -  ANIMAL BETE  SERVICES RENDERED  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  STONEY LEDGE RD  Unit  37K  Disp-08:48:01  Enrt-08:48:06 Arvd-09:52:56  Clrd-69:12:26  Narrative  CP called reporting on 09/18/19 around 1800 hrs. One of her  neighbors dog had leaped at her and bit her on the arm. The  owner of the dog said that it was up tp date on all it's  shots.  CP has been trying to contact Mr Woed but has not been able  to do so. Dog was on a leash she stated.  Narrative  10 day issued to "Ciree" skin broken by teeth on McCarthy.  Animal confirmed UTD on rabies vaccine, Wood not home, dogs  viewed through door, quarantine slip left in mailbox.  19-1168  0840  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  PINE COBBLE RD  Unit:  30  Arvd-08:40:49 Clrd-06:41:01  Narrative:  OH: HHL6344  Narrative:  OH HHL6344  é  VI HDS235  t  MA 12S5RPN8 Area checked  Narrative:  OH HHL6é344  ‘  VT ACKT73  '  MA 7XN637 Area checked  Narrative:  Checked S-4  17:17  Narrative:  checked  Narrative:  Checked 2359  OH HHL6344  NY  FSG7424  Narrative:  Checked Area  Narrative:  Checked Area  Narrative:  Checked 0325 
+Location/Address: [AIA 333] CHURCH ST
+mit: 37K
+Arvvd-08:15:09 Clré-08:47:04
+15-11697 Q8la Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEMNNT 2COTY E MCGOWAN
+tocatior/Adéress: COLE AVE
+Unit: ip
+Arvc-08:17:09 Clrd-06:35:24
+Unit: S58
+Digp-15:03:48 ArvG-15:07:53 Clrd-15:21:15
+19-117801 0B3S Phone - ANIMAL BITE SERVICES RENDERED
+Call Taker: DZSPATCHFE WILLIAM T JENWINGS JR
+Location/Address: STONEY LEDGE RD
+unit: ITH
+D:gp-08:48:01 Enrt-03:48:06 Arva-08:52:56 Clrd-05:12:26
+Karraktive:
+CP called repcrting on C9/16/19 around 1800 hrs. One ot her
+neighbors dog had leaped at ker and bit her on the arm. The
+ownay of the dog sald that it was up tp dale on all it's
+gots.
+CP has been trying to contac: Mr Wood but has not deen able
+to do s0. Dog was on a leash she stated.
+Narrative:
+10 issued to 'Ciree" skin broken hy resth on McCarthy.
+Animal day confirmed UID rabies vactine, wood
+on left in not mailbox. home, doas
+viewed through ¢eor, quarantine slip
+1959-11658 0840 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cali Taker: SERGEANT S20TT E MTGOWRN
+Location/Address: PINE COSBLE RD
+nik: an
+Arvd-08:40:4¢ Clrd-08:41:01
+Narrative:
+NH: HHLG344
+Narrative:
+OH HHLE344 , Vi HDE235 , MA 125EN8 Area checked
+Narrative:
+OH HHLS344 , VT ACX772 , MA TXN637 Area chucked
+Narrative:
+Checked ES-4 17:.7
+Narrative:
+checoked
+Narrative:
+Checkad 23590
+CH HHLGE344
+NY F807424
+Narrzcive:
+Checked Arex.
+Narracive:
+Checked Ares.
+Karracive:
+Checked 0325

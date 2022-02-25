@@ -1,1 +1,55 @@
-Narrative:  CP reports water running from the house to the road causing  it te be icy. DPW notified.  49-15384  1256  $11 -  9-1-1 WRONG NUMBER  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Narrative:  Neg contact Neg TTY.  29-15385  1424  Other -  LARCENY  INVESTIGATED / REPORT  TAKEN  Cali Taker:  PATROL DAVID JENNINGS, D  Location/Address:  {WIA 77] PARK ST  Narrative:  Recieved a stolen article report from WCSS of a small black  purse, with a long strap containing 3 credit cards, health  insurance card,  and a checkbook. Last seen 9:00am on  12/11/19 in room 204. Valued at $50  Refer To Incident:  19-316-OF  19-15386  1512  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SPRING ST  Unit:  31  Arvd-15:16:02  Clrd-15:21:11  19-15387  isi?  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  PARK ST  Location/Address:  Unit:  38  Arvd-15:18:23  Clrd-15:22:;52  19-15388  1520  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-15:20:40 Clrd-15:29:44  Unit  34  Disp-15:40:37  Clrd-15:50:07  Vehicle  LHGCM66503A045883  GRY 2003 HOND SE ACCORD Req: PC MA 8AP598 VIN:  Operator  MARKOVIC, JAYCEE A @ 640 SIMONDS RD - WILLIAMSTOWN, MA 01267  Race:  W Sex: F  Refer To Citation  T2085628  Owner  MARKOVIC, JAYCEE A @ 640 STMONDS RD - WILLIAMSTOWN, MA 01267-2106  Race:  U Sex: F  1529  Initiated - MOTOR VEHICLE sToOP  CITATION - CIVIL  19-15339  Cali Taker  PATROL BRAD SACCO  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-15:29:44  Clyrd-15:40:22  Vehicle  VIN:  1GCCT19X138214544  BLK 2003 CHEV STRUCK Reg: PC MA 3TF248  Operator  ENGLAND,  RILEY PATRICK @ 985 NORTH HOOSAC ED - WILLIAMSTOWN, MA  01267-2310  Race:  W  Sex: M  Refer To Citation  T2085630  Owner  ENGLAND,  RILEY PATRICK @ $85 NORTH HOOSAC RD - WILLIAMSTOWN,  MA  01267-2310  Race:  {1 Sex:  Mi  19-25351  1547  Phone -  LARCENY  CRIMINAL COMPLAINT 
+Narrative:
+CP reports water running from the house to the road causing
+it to ba icy. DPW notified.
+19-153384 1258 911 - 9-1-1 WRONG HUMBER SERVICES RENDERED
+Call Taker: PATROL DAVID JENN-NGS, L
+Karrative:
+Neu contacl Neg TTY.
+19-152485 1424 Other - LARCENY INVESTIGATED / REPORT
+TAKEN
+Call Taker: PATROL CAVID JENNINGS, D
+Location/Address: ‘WIA 77] PARK ST
+Narrative:
+Recleved a stolen artigle report from WCSS of a smal: black
+purge, wi ih o long strap contalaing 3 credis caxds, hecalzh
+insurance card, and a chueckoock. Lazt seen 9:00am on
+12/11/19 in rocm 204. Valuad ab $50.
+Refer To Incident: 19-316-0
+19-153846 1511 Initiated - PARKING CHECK BERVICEE RENDERED
+Call Take:: SERGEANT DAVID I LEM1:UX
+Loca:ion/Acddreas: SPRING ST
+Unik: 31
+Arvd-35:16:02 Clrd-15:21:21
+1517 Initiated PARKING CHECK SERVICEE RENDEEED
+1595-15387 Call -
+Taker: PATROL JOEX J MCCONNELL JR
+lLecanion/Address: PARYX ET
+Urit: 38
+Arvd-15:18:23 Clrd-15:22:52
+19-1538838 1520 Initiated - MDTOR VEHICLE STOP CITATION - WARNING
+Call Tuker: PATROL: BRAD SACCO
+Location/Address: NOXT® HOOSAC RD
+Drik: 34
+Arvd-1b:20:40 Clré-1b:29:44
+Unit: 34
+Disp-15:40:37 Clrd-15:50:07
+Vehicle: GRY 2003 HOND SE ACTORD Reg: PC MA OAPS98 VIN: 1NGCMGS503A045383
+Operator: MARKOVIZ, JAYCEE A @ 640 STMOWDS RD - WILLIAMSTOWN, MA cl1267
+Racea: W Sex: F
+Refer To Totation: T2083628
+owner: MARKOVIC, .JAVCEE A 6AT STMCNDE RD - WTLLIAMSTOWN, A 01267-2106
+Race: 0 Sex: P
+19-153859 1524 Initiated - MOTOR VEHICLE SYOP CITATION - CIVIL
+Call Tazer: PATROL BRAD SACCO
+Tonation/Address: NORTH HOOSAC RD
+Vnlt: 24
+Arvd 15:29:44 Clrd-15:40:22
+Vahicle: BLK 2003 CIIEV STRUCX Reyg: *C MA 3TF248 VIN: 1CGCCT19X1382-4544
+Operacor: ENGLAND, RILZY PATRICK ® 9ES NORTE HOOBAL RD - WILLLAMSTOWN, MA
+D1267-2210
+Race: W Sax: MM
+Refer To Citation: T2085G32
+Owmer: ENGLAND, RILEY PATRICK @ $E5 NORTH HOOUBAC RD - WILLLAMSTOWN, MA
+21267-2310
+Race: J Bux: M
+19-18391 1547 Phone » LARCENY CRIMINAL COMPLAINT

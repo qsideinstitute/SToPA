@@ -1,1 +1,56 @@
-Unit  38  Arvd-17:03:32  Clyed-17:13:15  Vehicle  GRY 2018 NISS 4D VRS Reg: PC NY JFJ9082 VIN:  3NICNTAPKILS 86970  Operator  KOSTER, RYAN R @ 7 KATELYN PL - E GREENBUSH, NY 12061  Race;  W Sex: M  Refer To Citation  T2085446  Owner:  KOSTER, ROBERT F @ 7 KATELYN PL - EAST GREENBUSH, NY 12061  Race: U Sex: M  19-14959  1714  Phone - TRAFFIC COMPLAINT  CETATION - WARNING  Call Taker  PATROL KALVIN DZIEDZIAK  NEW ASHFORD RD  Location/Address  Unit  31  Arvd-17:19:47  Clrd-17:29:59  Disp-17:15:38 Enrc-i7:16:24  Unit  38  Disp-17:15:38  Arvd-17:16:16  Clrd-17:37:34  Vehicle  GRY 2019 SUBA SE IMPREZ Reg: PC MA 2P0548 VIN: 453GKAR6XK3601580  Operator  LEACH, PATRICIA A @ 28 PROSPECT ST - WILLIAMSTOWN, MA 01267-2536  Race:  W Sex: F  Refer To Citation  T2085447  Owner  PATRICIA A @ 28 PROSPECT ST - WILLIAMSTOWN, MA 01267-2536  LEACH,  Race: W Sex: F  Narrative  grey sedan 2pj548. Just entered into Williamstown Via rt. 7  heading North. Vehicle is slowing down then speeding up and  is failing to stay within their lane. Vehicle is registered  to town resident ak  1517- North on Green River Road  Narrative  No improper driving. Oper, hit headlight switch making right  turn from Cole Ave.  19-14960  1732  Initiated - BUILDING CHECK  BULLDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUZ  Location/Address  SOUTHWORTH ST  Unit  31  Arvd-17:33:06  Clrd-217:35:09  Narrative  Checked 0029  19-24961  18901  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  COLD SPRING RD  Unit  38  Arvd-18:01:05  Clrd-18:10:21  Vehicle  GRY 2019 FORD Reg: PC FL LDTHSS  VIN:  LEMS KTV FESKGB16910  ZELLER, WALTER C @ 3718 85TH ST Apt.  #41 - JACKSON HEIGHTS, NY 11372  Operator  Race:  W Sex: M  Refer To Citation  T2085448  Owner  PV HOLDING CORP @ 8600 HANGAR BLVD - ORLANDO, FL 32827-0000  2131  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  19-14964  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  MAIN ST  Unit  38  Arvd-21:31:45  Clrd-21:39:41  Vehicle  BLK 2001 4D E320  Reg: PC NY¥ EK553T VIN: WDBJH82J21X%049211  COCHRAN, ERIC L @ $90 W BR Apt.  #7 - NEW YORK, N¥ 10007  Operator  Race: W Sex:  M 
+Unil: 38 Arvd-27:03:32 Clrxd-17:13:15
+Vehicle: GRY 2018 NISS 40 VRS Reg: PC NY JFJ90B2 VIN: 3N_CN7AZXJLEBEITQ
+Jpevataor KOSTER, RYAN R 7 KATELYK PL - T GREENSUSH, NY 12061
+Race: BW Rex: M
+Refer io Citation: T22854416
+owner: KOSTER, ROBERT F @ 7 KATELYN PL - EAST GREENBUSH, NY 12061
+Race: UU Sex: M
+19-1495359 1713 Phone - TRAFFIC COMPLAINT CITATION - WARNING
+Call Taker: “ATROL KALVIN DZIZEDZIAK
+Location/Address: NEW ASHFOZD RD
+Unit: 31
+Disp-17:15:38 Enrt-17:16:24 Arvd-17:19:47 Clrd-17:29:59
+Unit: 38
+Digp-17:15:38 Arvd-17:16:16 Cirpd 17:37:24
+Vehicle: (GRY 23519 5UBA SE IMEBREZ Reg: FC MA 2FJE48 VIN: 4E53GKABBXKIEC1LEC
+Cperator: LEACH, FATRICIA A ®@ 28 PROSPECT ST - WILLIAMSTOWH, MA 01267-2536
+Race: W 3ex: F
+Rafer To Citation: T20R5447
+Owner: TEACH, PATRICIA A @¢ 2B PROSPECT ST + WILLIAMSTOWN, MA 01257-2536
+Race: W Sex: F
+Narrative:
+grey pedan 2pjS4B. Just ertered into Williamstown Via rt. 7
+heaéine North. Vehicle is slowing down then speeding up acd
+is Failing to stay within their lane. Vehicle is registered
+to town residool at
+1517- North on Green River Road
+Marracive:
+Kc rpreper driving. Oper. hit headlighl swetlck making right
+Turn —rom Cole Ave,
+19-14960 1732 Initiated - BUILDING CIECK BUILDING CHECKED/SECURED
+Czll Taker: SERGEANY DAVID R LEMIEUX
+location/Address: SOUTHNWORTH 7T
+thiz: Ch
+AYvE-17:35:06 Clrd-17:15:09
+Narrative:
+Checked 0029
+19-314961 1801 Initiated - MOTOR VEHICLE ETOP CITATION - WARNZNG
+Ce.l Taker: PATROL, JOHN J MCCONKELT, JR
+Lacation/Address: COLD SPRING RD
+Unic: a8
+Arvd-18:01:05 Clrd-13:10:21
+Vehicle: GRY 2019 FORD Reg: PBC FL LDTHSS VIN: 1FMSK7FBSKGB16510
+Operator: ZELLER, WALTER C $ 3718 BS5IH ST ant. #41 - JACKSON EEIGIITS, NY 11372
+Raca: W Sex: J
+Refcr To Jitzbisy: T208544¢
+HOLDING CORP @ B500 HANGAR AWD - ORLANDO, FL 32827-0000
+Qumner: PV
+Initiated MOTOR VEHICLE ETOP CITATION - WARNING
+19-149564 2131 -
+Call Taxer: PATROL JOHN J MCCONNELL JR
+MAIN ST
+Location/Address: mit: 3g
+Arvd-21:31:45 Clrd-22:39:41
+Vehicle: BLX 2001 4D E320 Reg: PC NY EKS553T VIN: WDBJHE2J22X045211
+ERIC L @ 90 W RR Apt. #7 - NEW YORK, NY 10507
+Operator: COCHRAN, Race: W Sex: H

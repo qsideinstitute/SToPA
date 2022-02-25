@@ -1,1 +1,45 @@
-19-12706  1026  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  WOODLAWN DR  unit  34  Arvd-10:26:48  Clrd-10:28:14  Narrative  MA S6XT76  Narrative  done  Narrative  Checked Area.  19-12707  L031  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  HARWOOD ST  Unit  34  Arvd-10:32:26  Clrd-10:33:21  Narrative  done  Narrative  checked  19-12708  1037  fnitiated - BUILDING CHECK  BULLDING CHECKED / SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  MAIN 8ST  Unit:  34  Arvd-10:37:15  Cird-10:37:53  Narrative:  done  Narrative:  Checked Area.  19-22795  1045  Initiated ~- BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  STRATTON RD  Unit  a4  Arvd-10:45:39  Clrd-16:47:25  Narrative  done  19-12716  1054  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  34  Arvd-10:54:51  Clird-10:55;43  Narrative  Checked  Narrative  Checked 
+1595-12706 1026 nitiated - BULLDING CHECK BUILDING CHECKED/SECURED
+C51] Taker: PACYRO.L ANTHOKY M DJIPRAT
+Location/addross: WOODLANIT CR
+UnilL: 54
+Cord-iu:iH:14
+Kurrakbive:
+MA 26XT7G
+Karrative:
+done
+Narrative:
+Chueclked Area.
+19-12707 1031 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+2alz lohkhoer: PATROL ANTIIONY M DUPZAT
+Lesation/Address: IIARWO0D S57
+Jait: 3¢
+Arvd-10:32:26 Clrd-15:32:21
+Nerrative:
+dore
+Narrative:
+cheooleed
+19-127048 1037 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROZ: ANTHONY M TVISRAT
+Location/Adcress: MAIN ST
+unit: 4
+Arvd-10:37:15 CIrd 10:37:53
+Karrative:
+done
+Karrative:
+Cheched Area.
+19-127Q9 1045 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal. Taxex: PATROL ANTHONY M NUPRAT
+Location/Address: STRATTCHN RD
+Jit: 35
+Arvd-10:45:39 Clrd-10:47:24
+Narralive:
+one
+19-312713 1054 Initiated - BUILDING CHECE BUILDING CHECKED/3ECURED
+Call Tuker: PATROL ANTIIORY M DIPRAT
+Locab icnfaddress: [WIA 1832] KORTH HOCSAC RD
+Unik: 34
+Arvad-1C:54:5L OTrd-10:535:43
+Xurrakbive:
+fo Copeied PP be
+Narral lve:
+Cliecxed

@@ -1,1 +1,50 @@
-Narrative:  Reports seeing a tall male, shoulder length dirty blond  hair, wearing dark clothes, carrying a tan satchel, running  along the fence toward the transfer station.  Narrative:  Gaited coming out of transfer station as  described. He entered to gather some books from the free  book case. Said he did same as the transfer station closes  before he gets home from school. Bag contained a couple used  books. Advised against same and sent on his way.  19-2879  1757  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  [WIA 190] MAIN ST  Unit:  38  Arvd-17:58:25 Clrd-17:58:30  Narrative:  Checked 0157  19-2880  1800  Initiated - PARKING CHECK  NO ACTION REQUIRED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SCHOOL ST  Unit:  38  Arvd-18:01:01  Clrd-18:02:21  19-2881  1812  initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SIMONDS RD  Unit:  32  Arvd-18:15:  01  Clrd-18:17:59  Vehicle:  VIN: 3GCEK13J08G289432  WHI 2008 CHEV SILVER Reg: PC MA SNXF90  Operator:  MCCORMICK, MARK E @ 133 PROSPECT ST Apt.  #3 ~- LANESBOROUGH, MA 01237-  O591  Race: W Sex:  M  Owner:  MCCORMICK, MARK E @ 133 PROSPECT ST Apt.  #3  ~  LANESBOROUGH, MA 01237-  0591  Race: W Sex: M  Narrative:  Party was just leaving site and stated he works for the  electrical contractor.  Narrative:  Checked 0317  For Date:  03/07/2019  -  Thursday  19-2883  0003  Walk-In -  ANIMAL CONTROL  PATROL ADVISED  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  ARNOLD ST  Unit:  31  Disp~00:16:55  Clrd-00:17:05  Unit:  32  Clrd-00:17:05  Disp-00:16:55  Narrative:  Dog got loose. Last seen around around 2100 hours. Black Lab  with orange bandana. Name: Blue 
+Narrative:
+Reports seeing a tall male, shoulder length dirty blond
+hair, wearing dark clothes, carrying a tan satchel, running
+along the fence toward the transfer station.
+Narrative:
+noted coming out of transfer station as
+described. He entered to gather some books from the free
+book case. Said he did same as the transfer station closes
+before he gets home from school. Bag contained a couple used
+books. Advised against same and sent on his way.
+19-2879 1757 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: [WIA 190] MAIN ST
+Unit: 38
+Arvd-17:58:25 Clrd-17:58:30
+Narrative:
+Checked 0157
+19-2880 1800 Initiated - PARKING CHECK NO ACTION REQUIRED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SCHOOL ST
+Unit: 38
+Arvd-18:01:01 Clrd-18:02:21
+19-2881 1812 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMONDS RD
+Unit: 31
+Arvd-18:15:01 Clrd-18:17:59
+Vehicle: WHI 2008 CHEV SILVER Reg: PC MA S9NXF90 VIN: 3GCEK13J08G289432
+Operator: MCCORMICK, MARK E @ 133 PROSPECT ST Apt. #3 - LANESBOROUGH, MA 01237-
+0591
+Race: W Sex: M
+Owner: MCCORMICK, MARK E @ 133 PROSPECT ST Apt. #3 - LANESBOROUGH, MA 01237-
+0591
+Race: W Sex: M
+Narrative:
+Party was just leaving site and stated he works for the
+electrical contractor.
+Narrative:
+Checked 0317
+For Date: 03/07/2019 - Thursday
+19-2883 0003 Walk-In - ANIMAL CONTROL PATROL ADVISED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: ARNOLD ST
+Unit: 31
+Disp-00:16:55 Clrd-00:17:05
+Unit: 32
+Disp-00:16:55 Clrd-00:17:05
+Narrative:
+Dog got loose. Last seen around around 2100 hours. Black Lab
+with orange bandana. Name: Blue

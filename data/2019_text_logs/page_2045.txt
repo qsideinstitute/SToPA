@@ -1,1 +1,53 @@
-Location/Address  HARWOOD ST  Unit  a4  Arvd-08:47:43  Clrd-08:49:15  Narrative  Checked  Narrative  Checked Area.  28-14002  0901  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  SPRING ST  Unit  34  Arvd-09:01:19  Clrd-09:10:12  Narrative  2 violations  1219-14003  0912  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  PARK ST  Location/Address:  Unit:  34  Arvd-09:13:00 Clrd-09:22:03  Narrative:  4 Violations  15-14004  O951  Initiated - MOTOR VEHICLE stop  CITATION - WARNING  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  BRIDGES RD  Unit  34  Arvd-09:51:45  Clird-09:57:31  Vehicle  WHI 2012 CHEV SE IMPALA Reg: PC MA 5SDN342  VIN: 2G1NGS5SE33C1236889  Operator  THOMPSON, ATARA LYNN @ 35 BLACKINTON ST - NORTH ADAMS, MA 01247-4024  Race: W  Sex: F  Refer To Citation  T2085194  Owner  THOMPSON, ATARA LYNN @ 35 BLACKINTON ST - NORTH ADAMS, MA 01247-4024  Race:  W Sex:  F  329-14005  ToL  Phone - B.O.L.0,  UNABLE TO LOCATE  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  MAIN ST  Unit :  34  Arvd-10:16:34  Clyrdg-10:36:57  Disp-10:12:15 Enrt-10:12:58  Narrative:  FDNA out on West main with fuel in roadway. NAPD reports  BOLO for possible vehicle leaking fuel heading west on Main  St into Williamstown  NAPD reports vehicle may be tractor trailer with no fuel cap  on. Leaks appear to be diesel fuel and only around corners.  1035- Rensselaer County Sheriffs Notified.  Narrative:  Diesel fuel throughout town on Main street down Cold Spring  and up Taconic Trail Rt2, dispatch to notify New York  Police.  1959-14006  1246  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  iWIA 333] CHURCH ST  Unit:  34  Arvd-12:46:47  Clrd-12:48:13 
+Location/Address: HARWOOD ST
+Uait: 3d
+Arvd-08:47:43 Clrc-08:49:15
+Rarralive:
+Checked
+Narrative:
+Checked Area.
+1989-14002 0301 Iritiated - PAREING CHECK SERVICES RENDERED
+Cali lzker: EZATSROL ANTHONY M DUPRAT
+Lesatlon/Addrees: BPRING ST
+Unit: i4
+Arvd-09:81:29 Clrd-uv:10:12
+Narrative:
+2 violaliecns
+1585-14003 0912 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: PARK ST
+mit: 34
+Arvd-09:23:80 Clrd-05:22:03
+Narrative:
+c Vislat.ens
+18-14004 0951 Initiated - MOTOR VBHICLE ETOP CITATION - WARNING
+Call Taxer: SATROL ANTHONY M DUPRAT
+Location/Address: BRIDGES RD
+Jrik: 34
+Arvd-09:51:45 Clrd-03:57:31
+Vehicle: WH- 2012 CHEV SE IMPALA Reg: PC MA 5DN342 VIN: 2G1HGSE33Cl226889
+Operator: THOMPSON, ATARA LYNN 35 BLACKINTON ST - WORTH ADAMS, MA 01247-4024
+Race: W Sex: F
+Refer To Citatien: TSGC8N294
+Ovner: THOMPSON, ATARA LYHK I 35 BLATKINTON ST - NORTH ADAMS, MA (01247-4724
+Race: W Sex: F
+19-14005 1018 Phong - B.O.L.O. THABLE TO LOCATE
+Carl Taker: PATRO. KALVIK DZIEDZIAK
+Location/Address: MAIN ST
+Unit: 34
+Disp-10:12:13 Enrt-10:12:38 Arvd-10:16:34 Clrd-70:36:57
+Narrative:
+F.NA out on West main with Juel in roadway. NAFLD reports
+BOLO for possible vehicla leaking fuel heading west or Main
+St into Witliamstown
+NAPD vehicle be tractor trailer with no fuel
+on. Leaks reports to be may diesel fuel and only arouné corners. cap
+1635- Rensselaer appear County Steriffs Notified.
+Narrative:
+Diepel fuel town on Main street down Cold Spring
+and Taconic throughout Trail to Yew York
+Police. up RKt?, dispatch notify
+1246 Initiated BUILDING CHECK BUILDING CHECKED/SECURED
+19-140086 -
+Call Taker: PATROL ANTIICHY M DUSRAT
+Location/Address: [WIA 333) CEURCH ST
+Unit: 34 Arvd-12:46:47 Clx3-12:48:13

@@ -1,1 +1,50 @@
-Arvd-12:45:55  Clrd-12:48:56  Narrative:  Checked $§-4  18:46  Narrative:  Checked Area.  29-22975  1251  initiated - DISABLED M V  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  SIMONDS  RD  Unit  36  Arvd-12:52:06  Clrd-12:55:26  Vehicle  BLE  2006  PORD F250 Reg: PC MA 3971LC3  VIN: LFTNX21L8YEDO1118  MAHONEY,  Operator  SHAUN P @ 9 RADCLIFFE AVE - PITTSFIELD, MA 01201-5439  Race:  W  Sex:  Mi  Owner  MAHONEY,  SHAUN P @ 9 RADCLIFFE AVE - PITTSFIELD, MA 01201-5439  Race:  U  Sex: M  Narrative  Ron's was on scene assisting.  19-12976  1253  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  COLD SPRING RD  Unit  34  Arvd-12:53:30  Cird-12:53:37  Narrative  Checked §-4  18:53  Narrative  Checked Area.  19-12977  1254  Initiated - MOTOR VEHICLE sToP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  MAIN sT  tit  35  Arvd-12:55:01  Clrd-13;:06:48  Vehicle  GRY 2019 AUDI SE A4 Reg: PC MA 3264D¥ VIN: WAUENAP44KN005776  Operator  GARBER, GARY LEONARD @ 6 TANGLEWOOD RD - SHARON, MA 02067-2752  Race:  W Sex: M  Refer To Citation  T2085048  Owner  GARBER, GARY LEONARD @ 6 TANGLEWOOD RD - SHARON, MA 02067-2752  Race:  W Sex: M  i9-12978  1303  Other - PUBLIC RECORDS REQUEST  MAILED  Call Taker:  CHIEF  KYLE J JOHNSON  Narrative:  Requesting 19-12701. Mailed.  19-12979  13i1  Phone - ASSIST OTHER AGENCY -  UTILITY  TAREN/REFERRED TO OTHER  AGENCY  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  {WIA 1928] COLD SPRING RD  Unit  35  Disp-13:12:06  Enrt-13:12:;40 Arvd-13:24:33  Clird-13:26:26  Narrative  Reports of two wires,  1 low and one down almost in the read.  Narrative  Secondary line on the ground. 
+Arvrd-:2:415:55 (Clré-12:24:56
+NeYrrat_ ve: Checkad
+5-4 18:6
+Nerrative:
+Checked Area.
+19-129756 1351 Initiated - DISABLED M V SERVICES RENDERED
+Ca_1 Taker: PATROI, TANIRE HERNANDEZ
+Locaten/Address: S$INMOKDS RD
+Tnit: 3s
+Arve-12:52:08 Cird-_2:hbh:28
+Vahlele: BLX 2000 FORD F250 Rec: PC MA 97.02 VIN: LPFTNXZ_8Y<U1118
+Operator: MAIIOKEY, SHAUN FP 9 RADCLIFFE AVE - PITTSFIELD, MA (0l201-53¢
+Raca: 0 Sex: M
+owner: MAHONEY, SHAUN 2 §@ 9 RADCLIFFE Avid - DPUTTSKFIELD, MA 02201-5435
+Race: J Scx: M
+Karrative:
+RON'S was Ol gcene assisting.
+19-129786 1253 Iniriated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call ''aker: PATROL ANTECNY M DUPRAT
+Locazion/Addrazy: CCLD SPRING RD
+Unt: 3c
+Arvd-.2:53:20 Clre-12:53:37
+Narrative:
+Checkes 8-41 15:53
+Nzrrative:
+12-.124977 1254 Initiated - MOTOR VZHICLE STOP CITATION - WARNING
+Cza.1 Taker: PATROZ: BRAD SACCO
+Locaticn/address: MAIN ST
+nit: 3S
+Arve-12:55:00 Tivd-3:06:486
+Vanicle: 3Y 2015 AUDI ST A4 Reg: PC MA 3264DY VIN: WAUENARA/RXNOCS77S
+Opurator: GARBZTR, GARY LEONARD @ 6 TANGLEWOOD RD - SEARON, MA 02067-2752
+Race: W Sex: M
+Refer Tc Citakio:: T20R5048
+Ovner: GARBER, GARY LEONARD @ 6 TANGLEWOOD XD - SHAROE, MA 02067-2752
+Rgn: F Sex: M
+i9-12018 1303 Other - PUBLIC RECORDE REQUEST MAILED
+Call Taker: CHIEF KYLE J SOINSON
+Karral ive:
+Requesting 19-1270]. Maiied,
+19-12979 1311 Phone - ASSIST OTHER AGENCY - UTILITY 'TAXEN/RRFERRED TO OTHER
+ASENCY
+Cul_ Teger: DISPATCIER CIRISTINE LEMOINT
+Localion/Address: IWIA 1928] COLT SPRING RD
+Jill: 35
+Cisp-23:22:08 Errt-13:12:40 Arvd-13:24:33 Clrd-13:26:26
+Harrative:
+Raporkte of twe wivas, 1 Teaw and ome down almost in the road.
+Narvativa:
+Sacondary Zine on the ground.

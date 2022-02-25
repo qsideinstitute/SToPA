@@ -1,1 +1,52 @@
-Narrative:  32 Checked 0020  19-9382  1651  Initiated - MOTOR VEHICLE sTOP  CITATION - WARNING  Call Taker  PATROL ANTHONY M DUPRAT  WATER ST  Location/Address  Unit  35  Arvd-16:51:14  Clrd-16:57:36  Vehicle  RED 2013 AUDIT CO AS  Reg:  PC MA HOTCAT VIN: WAULFAFH6DNO015770  Operator  WEBER, LAWRENCE F @ 156 IDE RD Apt. #0126 - WILLIAMSTOWN, MA 01267  Race:  W Sex: M  Refer To Citation  T1785980  owner  WEBER, JUDITH E @ 156 IDE RD - WILLIAMSTOWN, MA 01267-2816  Race:  W Sex:  F  19-8393  1721  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  GREEN RIVER RD  Unit  35  Arvd-17:21:20  Cird-17:28:42  Vehicle  WHI 2010 HOND SE CIVIC Reg: PC MA 2XFV40 VIN: 2HGFALFS4AH560392  Operator  NAOR, TAMAR @ 12 WALNUT ST Apt.  #15  - E NATICK,  MA 01760-3565  Race:  W Sex: F  TL78Eoer  Refer To Citation  Owner:  NAOR, TAMAR @ 12 WALNUT ST Apt. #15 - E NATICK, MA 01760-3565  W Sex: F  Race:  19-9394  1746  $11 - ASSIST OTHER AGENCY  » DPW  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  SIMONDS FD  Dnit  a5  Enrt-17:49:30  Arvd-17:53:58  Clrd-17:58:38  Disp-17:49:20  Narrative  Report of Tree down blocking one lane. Caller unsure of  where she is,  other than in Williamstown between the old PD  and New PD.  Second caller reports bridge south of new station, at  Riverbend farm.  Narrative  Tree removed from road way two lanes open, dispatch to  notify State highway regarding tree on side walk.  MA Highway notified.  19-9395  1857  Other - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  (WIA 910] TACONIC TRL  Location/Address  Narrative  Checked  Narrative  32 checked 0205  19-9356  4908  911 - 9-1-1 HANG DP CALL  NO ACTION REQUIRED  Call Taker:  DISPATCHER LAURIE TUPER  Lecation/Address:  MCCAULEY  LN  Narrative:  Called number back, Party reports her granddaughter banged 
+Karralbive:
+Jmegked (020
+19-9352 1651 Initiated - MOTOR VEEICLE STOP CITATION - WARNING
+2211 Taker: PATROT: ANTREONY M DUOPRAT
+WATER AT
+Dnirt: 35
+Arvd-16:51:2¢ Clrd-16:57:36
+Vericle: RZC 2013 AODT CO AS Reg: PC MA HOTCAT VIN: WAULFAFHODKO1Z770
+Cparalbor: AZBEY, LAWNRENTE FP @ 156 INT RD Apt. #0126 - WILLIAMSTOWE, MA 0°267
+Ruce: W Sea: M
+Refar To Citatiliox: T>_TEZDEQ
+Ownear: WERER, JUDITH EB S “b6 I1DK HL - WILLIAMSTOWN, MA 01267-2816
+Race: # Sex: F
+15-8393 1721 Initiarad - MOTOR VEHICLE STOP CITATION - WARNING
+Tall Taker: PATROL ANTZONY M DUZRALT
+Looanion/Adcresa: GREEN RIVEz RD
+Unit: is
+Arvd-17:21:20 Clrd-17:28:42
+Varipole: WZI 2010 HON S< OTVIO Req: PC MA 2XFV40 VIN: 2HGFALF34A5560332
+Uparator: NACGR, TRHAR @ 12 WALNUT BT Apt. F_5 - I NATICK, MA S17E80-3565
+Race: W Sex: F
+Refer To Cikcarion: T_78061
+Owna1: NACR, TAMAR G 12 WALNUT ST Apt. #.5 - E NATICK, MA J17EC-5565
+Race: W Sex: F
+19-5394 1746 911 - ASSIST OTHER AGENCY - DPW TAKEN/REFRRRED TO OTHER
+AGENCY
+2811 Taker: DISPATCHER LAURIL TUPER
+Tocstisn/AdCrass: SZKONES RD
+Tnit: 33
+Dogp-17:49:20 Znrt-17:49:30 Arvd-17:53:58 Clrd-17:58:38
+Narrazive:
+Report of Tree down b_ocking one lane. Culler unsure of
+w-ere she is, other than in W:lliamstown between Lhe o.d PO
+gd Kew PD.
+Second caller reports bridge scutk of new station, at
+Rivorkend farm.
+Marraive:
+Tree remeved from road wav two lanes open, dispatch to
+nolLify stzze highway regarding tree on side walk.
+MA Highway notified.
+19-3385 1857 Other - BURLDLING CHECK BUILDING CHECKED/SECURED
+Call Takor: PATROT. ANTHONY M DOPRAT
+Logction/adérens: [WTA 910] TACONIC TRL
+Narrative:
+Coeczed
+Narranive:
+32 phecked 0225
+19-9396 1808 511 - 5-1-1] HANG UP JALL NO ACTION REQUIRED
+Cail Taker: -SPATCHER LAURLE LEER
+Lecetlon/Address: MOCAJLEY LN
+Narrative:
+Called nuwaber back. Party reports her granddauchtar banged

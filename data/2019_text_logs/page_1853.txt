@@ -1,1 +1,47 @@
-19-12886  o738  Initiated - BUILDING CHECK  BUTLDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arva-07:38:13  Clyrd-07:38:50  Narrative  checked  Narrative  Checked  19-12887  o738  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  36  Arvd-07:39:08  Clrd-07:39:53  Narrative  checked  Narrative  done  Narrative  checked  Narrative  Checked 0016  Narrative  Checked 0325  19-12888  0740  Initiated - BUTLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING ED  Unit  30  Arvd-07:40:58  Clrd-07:41:07  Narrative  checked  Narrative  Checked  19-12889  av44  Initiated - TRAFFIC CONTROL  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  GALE  RD  Unit  30  Arvd-07:44:32  Cird-07:44:53  Unit  30  Disp-07:45:53  Arvd-07:46:13  Clrd-07:58:23  Unit  34  Disp-14:49:25  Enrt-14:49;46  Arvd-14:52:56  Clrd-15:18:19  19-12490  0759  Tnitiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  NORTH HOOSAC RD  Unit:  36  Arvd-07:50:05  Clra-67:55:21 
+19-128886 0738 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT 5 MOGUWAN
+Location/Address: 2OLL BPRING RD
+nit: al
+Ava-07:38:118  Dlxd-07:38:b0
+Harasive:
+orneokxed
+Harrazive:
+Thacxad
+19-128887 0738 Initiated - BUILDING CHECK RULLDING CHECKFD/SECURED
+Call Taker: PATROL 1TANZA HERNANDEZ
+bLocaticn/Adcress: [WiA 1832] NCR:H HOCSAC RD
+Unis: ie
+Arvd-07:39:08 Clrd-07:39:23
+Xarrablve:
+checked
+Xarrative:
+cons
+Xarrative:
+checksad
+Xarrative:
+Checked 0216
+Kurrative:
+Checked 0325
+15-12888 0740 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+call Taker: SERGFEART SCOTT RF MOGOWRAN
+Lecazion/Addrees: COT SPRING FI
+Unit: 30
+Arvd-07:40:58 Clrd-07:21:07
+Narrative:
+checked
+Narrative:
+Checked
+15-12889 a744 Initiated - TRAFFIC CONTROL BUILDING CHECKED/SECURED
+rall 'l'zgier: SEXCEANT SCOTT BE MIGOWAN
+Lozsabion/Aaddrcess: asLE RL
+nil: 30
+Arvd 07:44:32 Clrd-07:44:52
+Unit: 30
+Disp: 07:45:53 Arvd-07:46:13 Clrd-27:53:42
+Unik: 34
+Lisp-14:49:25 Enrt-14:49:46 Arvd-14:52:56 Clrd-.L:18:19
+19-122890 6750 Tnitlated - MOTOR VEHICLE S100 CLrATION - WARMING
+Cul Tuker: PATROL "ANIA HE<NANDEZ
+socat-on/Address: RORTH HOOSAC RD
+Til: 35
+Arve-07:50:05 Jord 07:55:2C

@@ -1,1 +1,56 @@
-49-13733  2025  Phone -  ASSAULT  LOG ENTRY REQUEST  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  (WIA 165] ADAMS RD  Narrative:  Requests log note of a reportable potential abuse. Dementia  Patient was trying to be escorted out of her room by her  husband. She started striking at him and he grabbed her arms  because she was swinging at him. CP (Administrator)has  already has contacted DPH and provisions have been made for  husband to visit in common areas only and educate him on  asking staff for help when she needs to leave a room.  Nothing further needed from WPD, just requesting the  incident logged. Agen  19-13732  2027  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIBUX  Location/Address  SOUTHWORTH ST  Unit  a1  Arvd-20:27:17  Clrd-20:29:27  Narrative  Checked 0102  CITATION - WARNING  19-13734  2056  Initiated - MOTOR VEHICLE STOP  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  NORTH HOOSAC RD  Unit  38  Clrd-21:07:30  Arvd-20:58;18  Vehicle  BLK 2010 VOLV V70  Reg: PC MA 566FX2 VIN: Y¥V1982BW9A1125033  Operator  SOLUM, STEFANIE LEE @ 30 JOHN ST - WILLIAMSTOWN, MA 01267-2406  Race:  W Sex: F  Refer To Citation  T2085222  Owner  STARENKO, PETER ELSEL @ 30 JOHN ST - WILLIAMSTOWN, MA 01267-2406  Race:  UY Sex: M  19-13737  2306  Phone + ASSIST OTHER AGENCY  ENVESTIGATED / REPORT  TAKEN  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH HOOSAC RD  Unit  37K  Disp-23:29:16  Enrte-23:29:24 Arvd-23:36:14  Clrd-23:59:15  11/01/2619 23293)  Location Change  [NOT 2] HOSPITAL AVE [Modified:  Narrative  ER calling to report a stab wound that happened at 7:00pm at  above address. ER reports the party accidently stabbed  himself in the abdomen while doing the dishes. ER reports  the wound will require staples.  31 called the LT and LT will handle.  Refer To Incident:  19-283-OF  19-13738  2323  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  WATER ST  Unit  32  Arvd-23:23:22  Clrd-23:30:38  Vehicle  RED 2009 VOLK SE JETTA Reg: PC MA 236¥WS VIN: 3VWH2Z71K49M135345  Operator  BETTI, JASON MATTHEW @ 26 JULEANN DR - LANESROROQUGH, MA 01237-9785  Race:  W Sex: M  Refer To Citation  T2085344  Owner  BETTI,  ROBERT @ 26 JULEANN DR - LANESBOROUGH, MA 01237-9785 
+19-123733 2025 Phone - ASSAULT LOG ENTRY REQUEST
+“all la Taker: OTAPATCHER TAURIE TUPER
+Leocozion/ rantHrR] ae la Rnd [WIA 16S] ALAMS RD
+Karralive:
+Reguesly log nole of a repar-able potenctia. abuse, neme—tia
+Pat-ent was Lrying Lo bo escorted out of her room by her
+huaband. She started striking «+L him asd he grabbed her arms
+because she was swinging ab him. CP (Admin strator)has
+already has contactec DPI and provigions have boecn made for
+musband to visit in ccmmon aress on.y and educule him oo
+afrk-ng staff fcr help when she needs to lesave a rou.
+hetring further needad fram WFD, just requesting the
+ne_den. _ogaged.Aqgen
+19-13732 2027 Initieted - BUILDING CHECK BUILDING CHECRED/SECURED
+Call Talar: SERGIANT DAVID R LERIZUX
+Iocatior/Address: SOUTAWORT:I ST
+Uniz: al
+Arvd-20:27:17 Clrd-20:29:27
+Yarraktive:
+Checked 0102
+19-313734 2058 Initiated - MOTOR VEHICLE STOF CITATION - WARNING
+Call Taker: PATRCL JOHN J MCCOKNELL SX
+Locaticn/adcresa: JORTH HCOSAC RD
+unit: ag
+Arvd-25:58:18 Clrd-21:07:30
+V70 BC MA 568FX2 VINK: YV13B25W9Al12E033
+RILEK 2010 VOIL.W LEZ Reg: @ 30 JOHW ST - WILLIAMSTOWN, MA 01267-2406
+SOTT, STEFANIE Sex: F
+Race: @
+Rofer Te Ciktazioz: T2087222
+Owner: STARENKD, PETExX ELSEL @ 30 JOHN ST - WILLIAMSTOWN, MA 01267-2406
+Race: IJ Sex: M
+19-13737 2306 Fhone - ASSIST OTHER AGENCY INVESTIGATED / REPORT
+TAKEN
+Cull Taker: PATROL DAV™D JENNINGS, D
+Locaticn/Address: NORI'A HCOSAC RD
+Unit: 37K
+Disp-23:29:10 Enrt-22:29:24 Arvcé-23:36:14 Clrd-23:59:15
+Locarion Change: [KOT 2] HOSPITAS AVE [Mcdified: 11/70./720.9 2323]
+Haxranive:
+RR nalling to report a stab wound that bappencd at 7:000m at
+above address. ER reports the party accidently stabbed
+himsels in the ahdomer while doing tie dishes. ER rwpuslus
+toe wound wil™ recuire staples.
+22 zalled the TT and T.T will handle.
+Rergr To Incidonk: 43-2R3-0F
+19-137238 2323 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cail Takuer: PATROLMAN 8CGTT SKORUPSKI
+Locat-on/Address: WATER SU
+Tuit: 32
+Arvé-23:23:22 Clxd 23:30:38
+Yohicole: RED 2009 VOLE SE CETTA Reg: PC MA 236YWS VIN: 3VWHA/LK49M13bH345
+Opcrator: BRETTT, JASON MATTHEW @ 26 JULEANN DR - LANESRORCUCH, MA 01237-9785
+Race: W Sax: M
+meler “Mo Citotion: Tz085344
+Uwner: RRTTT, RCBERT @ 26 JULEBANN DR - LANESBCROUGH, MA 01237-4785

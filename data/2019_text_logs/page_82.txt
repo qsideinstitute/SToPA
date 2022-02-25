@@ -1,1 +1,43 @@
-Narrative:  01/15/2019 0406 Checked S3  19-572  0945  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  {WIA 333] CHURCH ST  Unit:  37K  Arvd-09:45:36  Clrda-09:47:05  Narrative:  Checked  19-573  0947  Initiated -~ PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK ST  Unit  36  Arvd-09:47:11  Clrd-09:52:23  Narrative  3 violations  19-574  0948  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  NORTH HOOSAC RD  Unit:  37K  Arvd-09:49:21  Clird-09:49:38  Narrative:  Checked S-~4  17:04  Narrative:  01/15/2019 0030 Checked S83  19-575  0950  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  {WIA 1832] NORTH HOOSAC RD  Unit  37K  Arvd-09:51:41  Clrd-09:52;31  Narrative  Checked  Narrative  Checked  5-4  16:56  Narrative  Checked  s-4  19:07  Narrative  checked  Narrative  done  Narrative  01/15/2019 0033 Checked $3  Narrative  01/15/2019 0411 Checked $3  19-576  0958  Initiated - PARKING CHECK  SERVICES RENDERED 
+Narrative: 01/15/2019 0406 Checked S3
+19-572 0945 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: (WIA 333] CHURCH ST
+Unit: 37K
+Arvd-09:45:36 Clrd-09:47:05
+Narrative:
+Checked
+19-573 0947 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: PARK ST
+Unit: 36
+Arvd-09:47:11 Clrd-09:52:23
+Narrative:
+3 violations
+19-574 0948 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: NORTH HOOSAC RD
+Unit: 37K
+Arvd-09:49:21 Clrd-09:49:38
+Narrative:
+Checked S-4 17:04
+Narrative:
+01/15/2019 0030 Checked S3
+19-575 0850 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: Unit: 37K [WIA 1832] NORTH HOOSAC RD
+Arvd-09:51:41 Clrd-09:52:31
+Narrative:
+Checked
+Narrative:
+Checked 5-4 16:56
+Narrative:
+Checked S-4 19:07
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+01/15/2019 0033 Checked S3
+Narrative:
+01/15/2019 0411 Checked S3
+19-576 0958 Initiated - PARKING CHECK SERVICES RENDERED

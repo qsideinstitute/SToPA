@@ -1,1 +1,50 @@
-Narrative:  Plumbing & Heating van on scene.  Unable to locate anyone on  property.  Narrative:  Checked 0128  19-10406  1818  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SOUTHWGETH ST  Unit  31  Arvd-18:20:12  Cird-18:24:09  Narrative  Checked Area.  19-19408  1925  Phone - TRAFFIC COMPLAINT  UNABLE TO LOCATE  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  NORTH HOOSAC RD  Unit  35  Disp-19:17:08  Arvad-19:17:19  Clyrd-19:20:16  Narrative  Reports a Subaru (VT PC GKE667)driving all over the road.  Swerving into other lane numerous times.  19+10409  1320  Phone - THREATS /HARASSMENT  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  (WIA 1832]  NORTH HCOSAC RD  Unit:  31  Disp-19:21:13  Enrt-19:23:02 Arvd-19:27:45  Clird-20:05:11  Narrative:  Requests to speak to officer regarding being threatened  through a third party.  Narrative:  Continuation from last night regarding messages sent from  Ns cos RE's Facebook friend. Advised RP to seek H.  Order at court and to call if party shows up at her  residence.  19-20411  2129  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  [WIA 910]  TACONIC TRL  Unit  35  Arvd-21:30;01  Clrd+21:31:27  Narrative  Checked Area.  1898-10412  2135  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT DAVID R LEMIEUK  Location/Address  (WEA 249] NORTH ST  unit  31  Arvd-21:35:44  Clyed-21:36:34  Narrative  Checked 0150  19-10415  2236  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+harrasive:
+P.umbing é Heating van om pcene. Unable Lo locate anycne on
+preperty.,
+Marral ive:
+Checzxed Q12F
+19-104006 1818 Initiated - BUILDING CSECK BUILDING CHECKED/SECURED
+Call Tehoer: SERGELRNT LAVID R LEMIEDX
+Locaticn/Addrusy: SCUTHWORTH ST
+Jit: 31
+Arvd-18:28:12 Cird-iB:24:09
+Narrztive:
+Checked Areca.
+19-104008 1915 Phone - TBAFFIC COMPLAINT UNABLE TO LOCATE
+Call Taker: CISPATCIER ZAJRIE TUPER
+Lecation/adcvess: NORTH HUOSAL RD
+Unit: 35
+Digp-19:17:08 TVG-19:17:19 Clrd-19:20:26
+Narrative:
+Repor-e a Subaru (VT BC GKESe7)driving al the road.
+Swerving into other ianc over
+numerous times.
+19-10409 1520 Phone
+Cal. Taker: - THREATS/HARASSMENT SERVICES RENDERED
+Location/Address: DISEAICEXR LAURIZ TJPER
+[Wla 1832] NORTs HCOSAZ RC
+Init: 31
+Digu-19:21:23 BEnzrt-19:23:02 Arvd-39:27:45 OIrd-20:95:11
+Narratblve:
+Requests to speak oc officer regarding beiig chreateaned
+throug> a third party.
+Harra-ive:
+Continuaticn from las: night regarding messaqgos sent trom
+zc RP's Facebook friend. Advisad RP Lo seek II.
+Order at cour: and to call if parcy shows up at her
+residence.
+19-110411 21.29 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal. Taker: PATROL 3RAL SACTO
+Locat oen/Address: [WIZ 912] TACCNIC TR
+Jolt : a5
+Arvd-21:32:02 J:rxrd-21:27:27
+Narrative:
+Checked Arca.
+19-104132 2138 Initiated - BUILDING CHECE BUILDING CHECKED/SECIRED
+“all taker: SERCGEAKT DAVID R LEMNIEUX
+Lacasion/Mddress: [Wik 249 KORTE ST
+init: 31
+ArvE-21:35:44 CIrc-2Ll:38:3L
+Narrative:
+Crooked 0152
+1595-10415 2236 Initiated - BUILDIMG CESCK BUILDING CHECKED/SECURED

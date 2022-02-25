@@ -1,1 +1,51 @@
-Arvd-17:07:44  Clrd-17:09:43  Narrative:  05/09/2019 1707 - no violation  Narrative:  Checked no violations S-4  17244  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  tana,  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  MAIN ST  Unit:  31  Arvd-17:14:39  Clrd-17:15:48  Narrative:  all quiet  Narrative:  Checked Area.  19-5833  1719  911 - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Narrative:  Male party called in reference in lowering electric bill.  19-5832  1724  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SIMONDS RD  Unit:  31  Arvd-17:24:18  Clrd-17:24:59  Narrative:  done  Narrative:  OS el eee es  Checked Area.  19-5835  1907  Initiated - MOTOR VEHICLE STOP  CRIMINAL COMPLAINT  Call Taker  PATROL KEVIN P GARNER  Location/Address  HANCOCK RD  Unit  34  Arvd-19:07:59 Clrd-20:10:29  Vehicle  WHI 2005 CHEV LL AVALANCHE Reg: PC NY JCT3443 VIN:  3GNEK12255G152156  Operator  ADAMS, ANDREW A @ BOX 43 AL - CHERRY PLAIN, NY 12040  Race:  W Sex: M  Refer To Citation  T1785185  Owner  ADAMS, ANDREW A @ BOX 43 AL - CHERRY PLAIN, NY 12040  Race: U Sex: M  Narrative  1938 - Ron's requested, notified, enroute,  2003 - Ron's on scene.  Refer To Summons:  19-47-AR  Summons  ADAMS, ANDREW A  Address  P.O. BOX 43  CHERRY PLAIN,  NY  58  Age  Charges  UNLICENSED OPERATION OF MV  UNREGISTERED MOTOR VEHICLE  SPEEDING  19-5836  2005  Other - LARCENY  INVESTIGATED / REPORT 
+Narrative: Arvd-17:07:44 Clrd-17:09:43
+05/09/2019 1707 - no violation
+
+Narrative:
+Checked no violations S-4
+19-5831 1714 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: MAIN ST
+Unit: 31
+Arvd-17:14:39 Clrd-17:15:48
+Narrative:
+all quiet
+Narrative:
+Checked Area.
+19-5833 1719 911 - 9-1-1 WRONG NUMBER LOG ENTRY REQUEST
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Narrative:
+Male party called in reference in lowering electric bill.
+19-5832 1724 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMONDS RD
+Unit: 31
+Arvd-17:24:18 Clrd-17:24:59
+Narrative:
+done
+Narrative:
+Checked Area.
+19-5835 1907 Initiated - MOTOR VEHICLE STOP CRIMINAL COMPLAINT
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: HANCOCK RD
+Unit: 34
+Arvd-19:07:59 Clrd-20:10:29
+Vehicle: WH] 2005 CHEV LL AVALANCHE Reg: PC NY JCT3443 VIN:
+3GNEK12255G152156
+Operator: ADAMS, ANDREW A @ BOX 43 AL - CHERRY PLAIN, NY 12040
+Race: W Sex: M
+Refer To Citation: T1785185
+owner: ADAMS, ANDREW A ® BOX 43 AL - CHERRY PLAIN, NY 12040
+Race: U Sex: M
+Narrative:
+1938 - Ron's requested, notified, enroute.
+2003 - Ron's on scene.
+
+Refer To Summons: 19-47-AR
+Summons : ADAMS, ANDREW A
+Address: P.O. BOX 43 CHERRY PLAIN, NY
+58
+Age: UNLICENSED OPERATION OF MV
+Charges: UNREGISTERED MOTOR VEHICLE
+SPEEDING
+19-5836 2005 Other - LARCENY INVESTIGATED / REPORT

@@ -1,1 +1,52 @@
-2 violations  19-10719  1018  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker  PATROL DAVID JENNINGS, D  Location/Addregs  (WIA 151] COLD SPRING RD  Unit  36  Disp-10:21:29 Enrt-10:21:41  Arvd-10:29;23  Clrd-10:43;:08  Vehicle  WHI 2012 CHEV SE MALIBU Reg: PC MA 7LK412 VIN:  LG1ZCSEOSCF289391  Operator  SIMS, TIANA DIAMOND @ 35 PLEASANT ST Apt. #302 - ADAMS, MA 01220-0000  Race:  B Sex: F  Owner  SIMS, TIANA DIAMOND @ 72 PLEASANT ST Apt. #302 - ADAMS, MA 01220-2014  Race:  B Sex: F  Narrative  White Chevy Malibu. Right near the begining of the parking  lot.  19-16720  1053  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANITA HERNANDEZ  Location/Address:  HOPPER RD  Unit:  36  Arvd-10:53:40  Cird-10:57:47  Narrative:  checked  Narrative:  Checked  13-10723  1240  Phone - SHOPLIFTING  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Addregs:  SPRING sT  Unit:  39  Enrt-12:43:48 Arvd-12:52:35  Disp-12:42:10  Cird-13:13:48  Narrative:  RP has a video of a shoplifting from 08/28/19.  19-1l0724  1302  Sil -  9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE Jd JOHNSON  Narrative:  Recorded sales calls {x2} on E-Line.  19-10726  1431  Phone - FOUND/ LOST PROPERTY  LOG ENTRY REQUEST  Call Taker:  MICHAEL STRIZZI  Location/Address:  [WIA 1278] MAIN ST  Narrative:  CP states that he believes he lost his phone at subway.  He  stated that someone may have taken it out of his car but he  Advised  believes he locked the car hefore entering Subway.  we will call him if someone turns in the phone.  19-10727  1509  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker:  MICHAEL STRIZZI  Location/Address:  {WIA F4] SIMONDS RD  Unit:  45  Disp-15:13:04  Enrt-15:13:50 Arvd-15:16:909  Clrd-15:45:53  Unit:  34  Arvd-15:24:26 Clrd-15:38:56  Narrative:  Party calling from above adress states that he belives there  is a human bone behind one of the buldings.  Will wait out 
+2 viclations
+1$-10719 1018 Phone - MOTOR VEHICLE LOCK OUT VEHICI,® OPENED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Addreas: (WIA 151] COLD SPFRING RD
+Univ: 1
+Digp-10:21:28 EBErrt-i0:21:41 Arvd-10:29:2! Clrd-10:43:09
+Vehicle: WHI 201z CHEV SE MALIBU Reg: PC MA 7T.KA12 VIN: LGLECE205CF289391
+Cperaltoxr: SIMS, TIANA DIAMOND @ 5t PLEASANT ST Apt. #302 - ADAMS, WMA 01220-0000
+Race: B Sex: PF
+Oumar: SIMs, TIANA DIAMOND @ /2 DLEASANT ST Apt. #302 - ADAMS, MA 01220-2014
+Race: B Sox: F
+Narrative:
+White Chevy Malibu. Right near the becining of the parking
+lot.
+19-100720 1053 Initipnted - BUILDING CHECK BUILDING CHECKED/SRCURED
+Zall Taker: PATROL TANZA HERNANDEZ
+Location/Address: HOPPER RD
+nic: 36
+Arvé-10:53:40 Clrd-10:57:47
+Karrative:
+onecked
+Narrative:
+Checked
+19-10723 1240 Fhone - SEOPLIFTING SERVICES RENDERED
+Cal. Taker: CHIEF KYLE  JOHKSON
+Locat-on/Address: EFRING 5T
+Jait: a0
+Disp-12:42:10 Enrt-12:43:48 Arvd-12:52:35 (lrd-13:13:48
+Harrativae:
+RP has a video of a shoplifring from 28/28/19.
+18-10724 1302 2:1 - 9-1-1 WRONG NUMSER LOG ENTRY REQUEST
+Call Taker: CHIZF XYLE J JONSON
+Harrative:
+Recorded sales culls (x2) on Z-Lane.
+19-10726 143) Phone - FOUND/ LOST PROPERTY LOG ENTRY REQUEST
+call Taker: MICHAEL STRIZZI
+Location/Address: fWwra 127v] MAIN ST
+Narrative:
+CP? grates that he beliuves ne lost his phone at subway. He
+stated that someone may have taken it out of his car but he
+believes he locked the var belore entering Subway. Advised
+we will call him if someone turns in the phone.
+19-107227 1509 Phone - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call Taxer: MICHAEL STRTAZEI
+Location/Address: INIA F4] SIMONDS RD
+Unik: as
+Disp-15:13:04 Inrt-15:13:50 Arvd-15:56:09 Clrd-15:45:43
+Unik: 34
+ryd-1lh:24:26 Clrd-15:38:56
+Narrazive:
+Party calling from above adress states that he helives there
+is a human bone behing one of the buildings. Wilil wait out

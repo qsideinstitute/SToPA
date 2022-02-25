@@ -1,1 +1,54 @@
-Cail Taker  PATROL JOHN J MCCONNELL JR  Location/Address  NORTH HOOSAC RD  Unit  38  Arvd-21:20:35  Clrd-21:34:38  Vehicle  ONG 2002 CHEV AVALAN Reg: PC MA 7LM882 VIN: 3GNEK13T52G142569  Operator  MEDINA, EUGENIO RHAU @ 20 1/2 BEACON ST ~ NORTH ADAMS, MA 01247-2701  Race: W Sex: M  Refer To Citation  T1785230  Owner  GUILLOTTE, VIVIAN LEE @ 648 CHASE AVE - N ADAMS, MA 01247-2535  Race: U Sex: F  19-6447.  2141  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  MAIN ST  Unit  35  Arvd-21:41:56 Clrd-21:48:31  Vehicle  GRY 2007 SUBA ST IMPREZ Reg: PC MA 196TT2 VIN: JF1GG74657H817435  Operator  STAPP, ACY JAMES @ 26 MAIN ST - WILLIAMSTOWN, MA 01267-0000  Race: W Sex: M  T1785938  Refer To Citation  Owner  STAPP, ACY JAMES @ 26 MAIN ST - WILLIAMSTOWN, MA 01267-0000  Race: W Sex: M  19-6448  2154  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  MAIN ST  Unit  35  Arvd-21:54:47  Clrd+-22:09:12  Vehicle  GRY 2001  NISS SE ALTIMA Reg: PC MA 2KZ227 VIN:  1IN4DLOLDX1C151721  Operator  CRIDDLE,  JACK W @ 419 CHURCH ST Apt. #2 - NORTH ADAMS, MA 01247  Race: W  Sex: M  Refer To Citation:  T1785939  Owner:  CRIDDLE,  JACK W @ 419 CHURCH ST Apt. #2 - NORTH ADAMS, MA 01247  Race: W  Sex:  M  19-6449  2218  Phone -  ANIMAL CONTROL  GONE ON ARRIVAL  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  SLOAN RD  Unit  38  Disp-22:20:18 Enrt-22:20:43 Arvd-22:28:40 Clrd-22:35:49  Narrative  Has a racoon on his porch, pawing at the door, trying to get  in. Concerned because it does not seem to be afraid and may  be ill.  Narrative  Animal had left the area. RP said it has been acting  strangely lately doing the same at the neighbors a couple  nights ago. Adv. to call back if it returns or pest control.  19-6450  2247  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SIMONDS RD  Unit:  38  Arvd-22;50:05 Clrd-22:51:43  Narrative:  Checked 0317  For Date:  05/23/2019  ~  Thursday 
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: NORTH HOOSAC RD
+Unit: 38
+Arvd-21:20:35 Clrd-21:34:38
+Vehicle: ONG 2002 CHEV AVALAN Reg: PC MA 7IM882 VIN: 3GNEK13T52G142569
+Operator: MEDINA, EUGENIO RHAU @ 20 1/2 BEACON ST - NORTH ADAMS, MA 01247-2701
+Race: W Sex: M
+Refer To Citation: T1785230
+Owner: GUILLOTTE, VIVIAN LEE @ 64B CHASE AVE - N ADAMS, MA 01247-2535
+Race: U Sex: F
+19-6447 2141 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL BRAD SACCO
+Location/Address: MAIN ST
+Unit: 35
+Arvd-21:41:56 Clrd-21:48:31
+Vehicle: GRY 2007 SUBA ST IMPREZ Reg: PC MA 196TT2 VIN: JF1GG74657H817435
+Operator: STAPP, ACY JAMES ®@ 26 MAIN ST - WILLIAMSTOWN, MA 01267-0000
+Race: W Sex: M
+Refer To Citation: T1785938
+owner: STAPP, ACY JAMES @ 26 MAIN ST - WILLIAMSTOWN, MA 01267-0000
+Race: W Sex: M
+19-6448 2154 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+PATROL BRAD SACCO
+Call Taker:
+Location/Address: MAIN ST
+Unit: 35 Clrd-22:09:12
+Arvd-21:54:47
+Vehicle: GRY 2001 NISS SE ALTIMA Reg: PC MA 2KZ227 VIN: 1N4DLO1DX1C1l51721
+Operator: CRIDDLE, JACK W @ 419 CHURCH ST Apt. #2 - NORTH ADAMS, MA 01247
+Race: W Sex: M
+Refer To Citation: T1785939
+Owner: CRIDDLE, JACK W ®@ 419 CHURCH ST Apt. #2 - NORTH ADAMS, MA 01247
+Race: W Sex: M
+19-6449 2218 Phone - ANIMAL CONTROL GONE ON ARRIVAL
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: SLOAN RD
+Unit: 38
+Disp-22:20:18 Enrt-22:20:43 Arvd-22:28:40 Clrd-22:35:49
+Narrative:
+Has a racoon on his porch, pawing at the door, trying to get
+in. Concerned because it does not seem to be afraid and may
+be ill.
+Narrative:
+Animal had left the area. RP said it has been acting
+strangely lately doing the same at the neighbors a couple
+nights ago. Adv. to call back if it returns or pest control.
+19-6450 2247 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SIMONDS RD
+Unit: 38
+Arvd-22:50:05 Clrd-22:51:43
+Narrative:
+Checked 0317
+For Date: 05/23/2019 - Thursday

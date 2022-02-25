@@ -1,1 +1,45 @@
-0225Hrs Checked Area #32.  19-4736  1007  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  HAWTHORNE RD  Unit  37K  Arvd-10:07:25  Clrd-10:07:31  Narrative  Checked S-4  17:16  Narrative  0100 Hrs Checked Area #32.  19-4737  1009  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  HILL PROVINCE RD  Unit  37K  Arvd-10:09:32  Clrd-10:09:42  Narrative  Checked 5-4  17:19  Narrative  31- Checked  19-4739  1014  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cali Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  37K  Arvd-10:14:42  Clrd-10:15:18  Narrative  checked  Narrative  Checked S-4  16:21  Narrative  Checked §-4 20:15  Narrative  31-  Checked  Narrative  a1-  Checked  19-4740  1019  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  NORTH HOOSAC RD  Unit  37K  Arvd-10:19:51 Clrd-10:19:58  Narrative  Checked S-4  26:31  Narrative  31-  Checked  19-4741  1030  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr 
+0225Hrs Checked Area #32.
+19-4736 1007 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HAWTHORNE RD
+Unit: 37K
+Arvd-10:07:25 Clxd-10:07:31
+Narrative:
+Checked S-<¢ 17:16
+Narrative:
+0100 Hrs Checked Area #32.
+19-4737 1009 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HILL PROVINCE RD
+Unit: 37K
+Arvd-10:09:32 Clrd-10:09:42
+Narrative:
+Checked S-4 17:19
+Narrative:
+31- Checked
+19-4739 1014 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 37K
+Arvd-10:14:42 Clrd-10:15:18
+Narrative:
+checked
+Narrative:
+Checked S-4 16:21
+Narrative:
+Checked 8-4 20:15
+Narrative:
+31- Checked
+Narrative:
+31- Checked
+19-4740 1019 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: NORTH HOOSAC RD
+Unit: 37K
+Arvd-10:19:51 Clrd-10:19:58
+Narrative:
+Checked 8S-4 16:31
+Narrative:
+31- Checked
+19-4741 1030 Initiated - PARKING CHECK
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr SERVICES RENDERED

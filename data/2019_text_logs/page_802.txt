@@ -1,1 +1,47 @@
-Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  30  Arvd-08:43:53 Clrd-08:44:05  Narrative  Checked  Narrative  checked  Narrative  done  Narrative  DONE  19-5349  0845  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  SIMONDS RD  Location/Address  Unit  30  Arvd-08:46:09  Clird-08:46:18  Narrative  checked  Narrative  done  19-5350  0849  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HENDERSON RD  Unit  30  Arvd-08:49:46  Cird-08:50:31  Narrative  Checked  Narrative  done  19-5351  0856  Initiated -~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  LONGVIEW TER  Location/Address:  Unit:  35  Arvd-08:56:15  Clrd-08:56:42  19-5352  0904  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  ‘Call Taker  PATROL DAVID JENNINGS, D  Location/Address  HILL PROVINCE RD  Unit  35  Arvd-09:04:17  Clrd-09:05:11  Narrative  checked  Narrative  Checked 0218  19-5353  0907  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PETERSBURG RD 
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 30
+Arvd-08:43:53 Clrd-08:44:05
+Narrative:
+Checked
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+DONE
+19-5349 0845 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: SIMONDS RD
+Unit: 30
+Arvd-08:46:09 Clrd-08:46:18
+Narrative:
+checked
+Narrative:
+done
+19-5350 0849 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Irocation/Address: HENDERSON RD
+Unit: 30
+Arvd-08:49:46 Clrd-08:50:31
+Narrative:
+Checked
+Narrative:
+done
+19-5351 0856 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: LONGVIEW TER
+Unit: 35
+Arvd-08:56:15 Clrd-08:56:42
+19-5352 0904 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: HILL PROVINCE RD
+Unit: 35
+Arvd-09:04:17 Clrd-09:05:11
+Narrative:
+checked
+Narrative:
+Checked 0218
+19-5353 0907 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID
+Location/Address: PETERSBURG RD JENNINGS, D

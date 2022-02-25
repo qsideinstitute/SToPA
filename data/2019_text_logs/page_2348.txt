@@ -1,1 +1,52 @@
-38 transporting one female to the station, mileage 46388.  Party in lobby attempting to arrange a ride.  0001 Taxi for pickup  Narrative:  At station, mileage 46393.  Refer To Summons:  19-160-AR  Summons  MARTENSON, VANESSA E  Address  3 PHILADELPHIA AVE Apt.  #AL  MECHANICVILLE, NY  Age  a4  Charges  UNLICENSED GPERATION OF MV  SPEEDING  For Date:  12/27/2019  =  Friday  19+15927  OL27  initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  {WIS 108] NEW ASHFORD RD  34  Unit  Arvd-01:28:16  Clrd-01:30:45  Vehicle  BLK 2019 SUBA IMPREZ  Reg:  PC MA 4CG761  VIN:  4S36TAM68K3731206  Owner  HEBKIN, KATHERINE T @ 19 SLOAN RD - WILLIAMSTOWN, MA 01267-3048  Race:  Uo Sex:  F  Vehicle  BLK 2019 SUBA FOREST Reg: PC MA 64CM42 VIN: JF2SKASC9KH410690  Owner  HEEKIN, KATHERINE T @ 19 SLOAN RD - WILLIAMSTOWN, MA 01267-3048  Race:  U Sex: F  Narrative  Subaru Impreza parked in business parking lot. Second  vehicle registered to same party located across the street  in park lot. Building Checked and Secure  49-155928  0348  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  iWIiR 390] SIMONDS RD  Unit:  31  Arvd-03:49:15  Clrd-03:49:27  19-15929  0655  Phone - ALARM ~ BURGLAR  ALARM FALSE  Call Taker  ALL EQUIPMENT POLICE DEPARTMENT  Location/Address  LINDEN ST  Unit  34  Clrd-07:10:37  Disp-06:55:00 Emrt-06:55:15 Arvd-06:58:56  Narrative  entry exit  Narrative  Nothing ovt of the ordinary. All okay.  19-15936  o71l  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  ELM ST  Unit:  34  Arvd-07:11:54  Clrd-07:11:58  Narrative:  done  Narrative:  Checked 0048 
+38 transporiing one Iemalc to the station, mileage 463238.
+Party in lobby attempting L¢ arrange a ride.
+0001 Taxi for nickup
+Narrative:
+Ar station, wileage 461393.
+Rafer “oo Sumupons: 19-160-AR
+Butmcns MARTENSON, VANESSA E
+Address: 3 PHITADSLPHTA AVE Apt. iHAl MECHANICVILLE, NY
+Ago: i4
+Chargss: UNLICENSED OPERATION UF MV
+SPEEDING
+For Date: 12/27/2019 - Friday
+BUILDING CHECKED/SECURED
+19-15927 0127 Initiated - BUSFICICUS MOTOR VEHICLE
+Call Taxer: PATROL, KATWTN DZIEDZIAK
+Location/Addrens: [WIA 108] NEW ASEFORD RD
+Unit: 34
+Arvd-01:28:16 Clrd-01:30:45
+Vehicla: BLK 2019 SURAA IMPREZ Req: PC MA 4CG761 VIN: 4S2CTAM68K3731206
+Ouner: HERXTK, KATHERINE T @ 19 SLOAN RD - WILLIAMSTOWN, BA 01267-2048
+Race: U 2ex: F
+Vehicla: BLK 201Y SUBA FOREST Reg: PC MA R4CM42 VIN: JFeSEASCOKIIG1ID690
+Owner: HEEXIN, KATHERINE T @ 19 SLOAN RD - WTLT.TAMSTOWN, MA 01267-3048
+Race: U Sex: I
+Narrative:
+Subaru Impreza parked in business parkiuy lot. Second
+vehicle registered to same party locatud zcross the strect
+in park Loft. Bul.ding Checked and Secure
+19-15928 0348 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATHOL CRAIC A EICHHAMMER
+RD
+Locarion/Address: iWIA 390, SIMOKDS
+Unit: 31 Clx»d-03:49:27
+Arvd-n3:45:15
+15-15929 0655 Phone - ALARM - BURGLAR ALARN FALSE
+Call Taker: ALL EQUIPMZNT POLICE DEPARTMENT
+Location/Address: LINDEN ST
+Unit: 34
+Disp-06:55:00 Enr:-06:55:15 Arvd-06:58:56 Clrd-07:10:37
+Karrative:
+entry exi:c
+Narrative:
+Nothing out ot the ordinary. All okay.
+15-5930 0711 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID CENNINGS, D
+Location/AdéYress: BLM ST
+Unik: 14
+Arvd-07:11:54 Clrd-07:11:58
+Narrative:
+done
+Narrative:
+Checked (048

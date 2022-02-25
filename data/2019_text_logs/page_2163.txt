@@ -1,1 +1,47 @@
-Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  ELM 8T  Unit  30  Arvd-10:37:07  Cird-10:37:25  Narrative  Checked s§-4  17:13  Narrative  Checked 0115  19-14717  1041  Initiated - PARKING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  SCHOOL ST  Unit  30  Arvd-10:41:27  Cird-10:41:34  Narrative  Checked  1419-14718  1048  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HARWOOD ST  Unit  30  Arvd-10:49:05  Cird-10:49:30  Narrative  checked  19-14719  1057  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  HOPPER RD  Location/Address  Unit  34  Arvd-10:58:07  Clrd-11:01:36  Narrative  checked  19-14729  1058  Enitiated - BUILDING CHECK  BUILDING CHECKED /SHCURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  39  Arvd-10:59:00  Clrd-10:59:11  Narrative  Checked  Narrative  Checked S-4  17:02  Narrative  Checked $§-4  19:51  Narrative  Checked 2355  Narrative  Checked 0311  19-2472.  1705  Initiated - TRAFFEC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  LONGVIEW TER 
+Call "Taker: SERCEANT SCOTY E MCCGONAN
+Toeation/adérass: xiv ST
+Unil: 30
+Arvd-18:37:07 Cipd-Z0:37:2:
+Karrative:
+Checked 5-4 17:13
+Narrat-ve:
+Chackead 2115
+19.14717 1841 Tuitiated - PARKING CHECK BUILDING CHECRED/SECURED
+Cal. Taxger: BERGEANT ECOTT E MCGOWAN
+Lozal lun/Addreus: ST100 8T
+nit: 30
+Rrvd-10:41:27 Clré 10:41:34
+Harrative:
+Thacked
+1959-14718 1048 Initiated - BUILDING CHECK BUILDING CHECKED /SECURED
+Call Taker: SEROANFAND HSUCOTT BE MOGOW2REK
+Loacat-on/Addresce: ZARWOOD ST
+Lnic: 30
+Arve-10:249:05 Clrd-10:48:30
+Narrazive:
+checked
+19-314719 1057 Initiated - BUILBING CHECK BUILBING CHECKED/SECURED
+Call Takex: FATROT, BRAD SACCO
+Locarion/Bddvass: HOPPER RD
+Unit: 34
+Arvd-20:59:07 Clxd-11:01:385
+Narrail._vo:
+checked
+1959-14720 1058 Initiated - BUILDING CEBCK BUILDING CHECKED/SHCURED
+Cul. Tagur: SER3ZANT SCOTT E MIGOWLH
+_ocaticn/Address: [WIA 1822) NORTZ HOOSAD RC
+nit: ag
+Arvd-10:59:20 Clrd-19:59:11
+Narz-. Live:
+Chiecked
+NarraLive:
+Checked S-4 17:12
+Narrative:
+Chackad S-4 12:31
+Karrative:
+Chackad 2350
+Karrative:
+Checked 9311
+19-14721 1105 Initiated
+Call SERGEANT H2COTT - TRAFFIC BE MOSOWAN CONTROL BERVICES RENDERED
+Lecatlion/Address: Tzker. LOKAVTRA TER

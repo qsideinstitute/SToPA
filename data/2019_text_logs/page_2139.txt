@@ -1,1 +1,52 @@
-Vehicle:  VIN: 3FAHPOCG3SR136851  GRY 2011 FORD SE FUSION Reg: PC MA 3FXK376  Operator:  ANDERSON, PETER G @ 578 N HOUGHTON ST - CLARKSBURG, MA 01247  Race:  W Sex: M  Refer To Citation:  T2085786  Owner:  ANDERSON, PETER GEOFFREY @ 578 N HOUGHTON ST - CLARKSBURG, MA 01247-  9610  Race:  U Sex: M  7  For Date; 11/21/2019  Thuraday  19-14577  o002  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call  Taker  PATROL KALVIN DZIEDZTAK  Location/Address  COLE AVE  Unit  a4  Arvd-00:02:14 Clrd-00:10:26  Vehicle:  BLU 2006 HYUN SE ELANTR Reg: PC MA 9AH327  VIN: KMHDN46D360308250  Operator:  JOHNSON, SYDNEY G @ 28 JACKSON ST - NORTH ADAMS, MA 01247-2739  Race:  W Sex:  F  Refer To Citation:  T2085787  Owner:  JOHNSON, SYDNEY G @ 28 JACKSON ST - NORTH ADAMS, MA 01247-2739  Race:  U Sex:  F  19-14578  0401  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  31  Arvd-04:01:57  Clrd-04:02:08  19-14579  0428  Initiated - PUBLIC SERVICE  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address  BANK ST  tit  34  Arvd-04:28:32 Clrd-04:31-:57  Narrative  7 Cones with 3 "No Parking" signs deployed for moving truck.  Narrative  Cones put on wrong Street, moved to Bank Street.  Narrative  Picked up  19-14580  Ov 17  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  COLD SPRING RD  Location/Address:  Unit:  37K  Arvd-07:17:42  Clird-07:38:11  19-14581  07396  Initiated ~- BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANTA HERNANDEZ  Location/Address:  [WIA 1832] NORTH HOOSAC RD  Unit:  36  Arvd-07:36:40  Clrd-07:37:37  Narrative:  checked  Narrative:  checked  Narrative:  done 
+Vehicle: GRY 2011 FORD S5E FUSICN Reg: PC MA 3FX376 VIN: 3FAEPOCG3BR136851
+Operator: ANDERSCN, FETER G § S578 N HOUGETON ST - CLARESBURG, MA C1247
+Race: W Sex: M
+Refer To CilLation: Tz085"!
+owner: ANDERSON, PETRR GEOFFRRY «¢ 578 N HOUGHTON ST - CLARKSBURG, MA 0°247-
+9510
+Race: U Bex: MM
+For Date: 11/21/2019 - Thuraday
+19-314577 0002 Initiated - MOTOR VEHICLE STOR CITATION - WARNING
+Call Taker: EATROL EALVIKE DZIEDZIAK
+Location/Address: “OLE AVE
+nit: 3
+Arvd-00:02:12 Clrd-0L:10:26
+Vehicle: BLY 2006 HYUN SE ELANTR Reg: PC MA SAH3I2T7 VIH: KMHDN4SD36R306250
+Operator: —OHNEON, BYDREY ¢ 3 28 JACKSON ST - NORTH ADAMS, MA 01247-2739
+Race: W Sex: F
+Refer To Cite. lion: TEE B
+28 JACKSDN NORTH 01247-2739
+owner: JOHNSON, SYDKFY G oi ST - ADAMS, MA
+Race: 17 Sex: F
+19-145"78 0401 Initiated - BARKING CHECK SERVICES RENDERED
+Cail Taker: PATROL CRAIG Ah ELCHEAMMER
+Lucation/Address: [WIA 390] SIMUNDS RD
+Unit: nn wa
+Arvd-04:01:57 Clrd-04:02:08
+19-314579 0428 Initiated - PUBLIC SERVICE SERVICES RENDERED
+Ca.]l Takar: PATROL KALVIK DZIED2IAK
+Toacat-on/Addrass: BANK 8ST
+mig: 4
+Arvd-04:28:32 Clrd-04:31:57
+Narrative:
+i Cormes with 3 "No Zarking" signs deploved for moving truck.
+Marrative:
+Cones puk on wrong Street, moved to Hank Street,
+Narracive:
+Picked up
+19-14580 0717 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Takcyr: LIEUTENANT MICHAEL J ZIEMBA OX
+Location/Address: COLD SPRING RD
+sniz: 37K
+Awd-07:17:42 Clrd-07:38:11
+19-145811 0736 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call —aker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA 1832] NORTH HOGSAC RD
+Un:z: 3s
+Arvd-07:36:40 Cli1d-07:37:37
+Narrative:
+checked
+Karraklive:
+checked
+FRavrative:
+done

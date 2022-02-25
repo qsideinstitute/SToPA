@@ -1,1 +1,47 @@
-Narrative:  Checked Area.  19-356  0817  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  LONGVIEW TER  Unit:  36  Arvd-08:18:06  Clrd-08:18:44  Narrative:  checked  Narrative:  Checked Area.  19-357  0830  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-08:30:45  Clird-08:30:59  Narrative  checked  Narrative  Checked Area.  19-358  0834  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  {WIA 225] COLD SPRING RD  Unit:  37K  Arvd-08:34:25  Clrd-09:16:03  19-359  0839  911 - 9-1-1 TEST CALL  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  {WIA 249] NORTH ST  Narrative:  Test call received.  19-360  0850  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  BRAWTHORNE RD  Unit  34  Arvd-08:50:25  Clird-08:51:13  Narrative  Checked S~4  19:40  Narrative  Checked Area.  19-362  0923  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit:  34  Arvd-09:24:10  Clird-09:26:38  19-364  1013  Phone - PARKING COMPLAINT  LOG ENTRY REQUEST  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr 
+Narrative:
+Checked Area.
+19-356 0817 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: LONGVIEW TER
+Unit: 36
+Arvd-08:18:06 Clrd-08:18:44
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-357 0830 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J Z1EMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-08:30:45 Clrd-08:30:59
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-358 0834 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 225) COLD SPRING RD
+unit: 37K
+Arvd-08:34:25 Clrd-09:16:03
+19-359 0839 911 - 9-1-1 TEST CALL LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 249] NORTH ST
+Narrative:
+Test call received.
+19-360 0850 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: HAWTHORNE RD
+Unit: 34
+Arvd-08:50:25 Clrd-08:51:13
+Narrative:
+Checked S-4 19:40
+Narrative:
+Checked Area.
+
+19-362 0923 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: PARX ST
+Unit: 34
+Arvd-09:24:10 Clrd-09:26:38
+19-364 1013 Phone PARKING COMPLAINT LOG ENTRY
+Call Taker: PATROLMAN - MICHAEL J ZIEMBA Jr REQUEST

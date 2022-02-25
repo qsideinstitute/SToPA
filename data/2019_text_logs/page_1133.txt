@@ -1,1 +1,48 @@
-19-8460  0940  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cail  Taker  PATROL DAVID JENNINGS, D  Location/Address  OBLONG RD  Unit  35  Arvd-09:40;:15  Clrd-09:41:61  Narrative  checked  Narrative  Checked 0319  19-8461  O94]  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  MAIN ST  Unit:  36  Arvd-09:42:11  Clrd-09:42:59  Narrative:  checked  Narrative:  done  19-8462  0945  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDES  SCHOOL ST  Location/Addresa  Unit  36  Arvd-09:45:32  Clrd-09:45:55  Narrative  Checked  Narrative  checked  Narrative  checked  15-8463  6350  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  (WIA 1832] NORTH HOOSAC RD  unit  36  Arvd-09:51:19  Clrd-09:54:18  Narrative  Checked  Narrative  checked  Narrative  checked  Narrative  done  19-8466  O954  Phone -  ASSIST OTHER AGENCY  - POLICE  UNABLE TO LOCATE  Call Taker  MICHAEL STRIZ41  Location/Address  WHITE OAKS ED  Unit  36  Disp-09:56:00  Arvd-10:10:30 Clrd-10:15:12  Narrative 
+15-8460 0940 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: BATRCL DAVID JENNINGS, D
+Location/Address: OBLONG RD
+Unis: is
+Arvd-09:20:18 Clrd-09:41:01
+Karrative:
+chacked
+Marrative:
+Chacked 0319
+15-8461 0941 Initiated - BUYLDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL TANIA HuRNANDEZ
+mocation/Add-ess: MAIN ST
+Unik: 36
+Arvd-09:42:11 Clrd-39:42:52
+Narrative:
+chacked
+Narrative:
+cone
+18-8462 0o45 Initiated - PARKING CHECE SERVICES RENDERED
+Call Taker: PATROL TANIA HSRNANLEZ
+Location/Address: SCHCOL ST
+Unik: 36
+Arvd 09:45:32 Clrd-09:45:55
+Narrative:
+Checkad
+Narrative:
+checked
+Narrative:
+checked
+15-8463 0950 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tzher: PATROL TANIA HERNANDEZ
+Locat-_on/Address: "WIA 1832] NORTH HODSAC RD
+Jrit: 36
+Arvd-09:51:19 Clxd-09:54:18
+Narrative:
+Checked
+Narrative:
+checked
+Narrative:
+checked
+Narrative:
+done
+19-8486 0954 Phone - ASEIST OTHER AGENCY - POLICE UNABLE TO LOCATE
+Call Taker: MICHAEL STRIZZI
+WAITZ DAXS RO
+Location/Address: Unit: 36
+Arvd-10:10:30 Clrco-10:15:12
+Narrative: Disp-09:56:00

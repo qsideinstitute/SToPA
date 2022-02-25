@@ -1,1 +1,54 @@
-Refer To Citation:  T1400552  Owner:  VAISHNAV, GAURAVKUMAR @ 148 BENMONT AVE - BENNINGTON, VT 05201  Race:  W Sex: M  19-4469  1545  Walk-In - PUBLIC SERVICE EVENT  SERVICES RENDERED  Cail Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  {WIA 249] NORTH ST  Narrative:  Assist church youth group with K-9 meet and greet and tour  of the station.  19-4444  1622  Phone ~- SUSPICIOUS ACTIVITY  INVESTIGATED / REPORT  TAKEN  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  (WIA 249] NORTH ST  Unit:  37K  Disp-16:23:34  Arvd-16:23:36 Clrd-16:25:12  Narrative:  Requests to speak to officer regarding a check cashing issue  with her sister.  Refer To Incident:  19-86-OF  19-4445  1625  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  WATER ST  Unit  38  Arvd-16:25:32 Clrd~16:33:52  Vehicle  WHI 2013 KIA CO FORTE Reg: PC MA 2KW477 VIN: KNAFU6A27D5690286  Operator  CUNNINGHAM,  MEGHAN E @ 1062 SIMONDS RD - WILLIAMSTOWN, MA 01267-2102  Race: W Sex: F  Refer To Citation  T1401148  Owner  CUNNINGHAM,  MEGHAN E © 1062 SIMONDS RD - WILLIAMSTOWN, MA 01267-2102  Race: U Sex: F  19-4446  1706  Phone - SUSPICIOUS MOTOR VEHICLE  GONE ON ARRIVAL  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  MAIN ST  Unit  31  Disp-17:07:48  Enrt-17:08:36  Arvd-17:12:30  Clrd-17:22:63  Narrative  Reports a green car driving around. Does not believe  vehicles should be in there where people and dogs are  walking.  Narrative  Checked the area behind the tennis courts and the corn field  west of the Spruces and was unable to locate vehicle.  19-4448  1726  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  NORTH HOOSAC RD  Unit  38  Arvd-17:27:36 Clrd-17:35:26  Vehicle  BLK 2011 FORD SE TAURUS Reg: PC MA 8JAC90  VIN:  LFAHP2HW6BG117472  Operator  HNATONKO,  JASON M @ 30 GROVE ST - ADAMS, MA 01220  Race: W Sex: M  Refer To Citation:  71401149  Owner:  HNATONKO,  KAREN LEE @ 28 GROVE ST - ADAMS, MA 01220-2114  Race: U Sex: F  19-4449  1727  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+Refer To Citation: T1400552
+Owner: VAISHNAV, GAURAVKUMAR @ 148 BENMONT AVE - BENNINGTON, VT 05201
+Race: W Sex: M
+19-4469 1545 Walk-In - PUBLIC SERVICE EVENT SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 249] NORTH ST
+Narrative:
+Assist church youth group with K-9 meelL and greet and tour
+of the station.
+19-4444 1622 Phone - SUSPICIOUS ACTIVITY INVESTIGATED / REPORT
+TAKEN
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 249] NORTH ST
+Unit: 37K
+Disp-16:23:34 Arvd-16:23:36 Clrd-16:25:12
+Narrative:
+Requests to speak to officer regarding a check cashing issue
+with her sister.
+Refer To Incident: 19-86-0OF
+19-4445 1625 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: WATER ST
+Unit: as
+Arvd-16:25:32 Clrd-16:33:52
+Vehicle: WHI 2013 KIA CO FORTE Reg: PC MA 2KW477 VIN: KNAFU6A27D5690286
+Operator: CUNNINGHAM, MEGHAN E @ 1062 SIMONDS RD - WILLIAMSTOWN, MA 01267-2102
+Race: W Sex: F
+Refer To Citation: 11401148
+Owner: CUNNINGHAM, MEGHAN E @ 1062 SIMONDS RD - WILLIAMSTOWN, MA 01267-2102
+Race: U Sex: F
+19-4446 1706 Phone - BUSPICIOUS MOTOR VEHICLE GONE ON ARRIVAL
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: MAIN ST
+Unit: 31
+Disp-17:07:48 Enrt-17:08:36 Arvd-17:12:30 Clrd-17:22:03
+Narrative:
+Reports a green car driving around. Does not believe
+vehicles should be in there where people and dogs are
+walking.
+Narrative:
+Checked the area behind the tennis courts and the corn field
+west of the Spruces and was unable to locate vehicle.
+19-4448 1726 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: NORTH HOOSAC RD
+Unit: 38
+Arvd-17:27:36 Clrd-17:35:26
+Vehicle: BLX 2011 FORD SE TAURUS Reg: PC MA 8JAC90 VIN: iFAHP2HW6BG117472
+Operator: HNATONKO, JASON M @ 30 GROVE ST - ADAMS, MA 01220
+Race: W Sex: M
+Refer To Citation: I1401149
+Owner: HNATONKO, KAREN LEE @ 28 GROVE ST - ADAMS, MA 01220-2114
+Race: U Sex: F
+19-4449 1727 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

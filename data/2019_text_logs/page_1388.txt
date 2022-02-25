@@ -1,1 +1,51 @@
-Unit:  32  Enrt-00:14:40 Arvd-00:16:37  Cird-01:03:35  Disp-00;14:40  Vehicle:  2018 BMW 4D x2  Req: PC NJ F34KHP VIN: SUXTROCSOJLD73846  Towed:  For: Expired Registration By: RONS AUTO REPAIR To: RONS TOWING  Operator:  BROCHIN, KATHLEEN A @ 273 16TH ST - JERSEY CITY, Nd 07310-1000  Race:  Wo Sex: F  Refer To Citation:  T1I786075  Owner:  BROCHIN, KATHLEEN A @ 273 16TH ST - JERSEY CITY, NJ 07310-1000  Race:  W Sex:  F  Narrative:  Ron's Notified and enroute.  Narrative:  Ron's on scene.  19-10127  oo11  Phone - SUSPICIOUS ACTIVITY  PATROL ADVISED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 1469]  MILL ST  Narrative:  Reports she believes {but cannot confirm) her estranged  husband,  , has been lurking around her home this  evening. Requests extra patrols of the area.  Narrative:  Area checked 0214  Narrative:  Area checked 0331  1$-10128  0153  Initiated - BUELDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  PATROL CRAIG A BICHHAMMER  Location/Address  [WIA 249] NORTH ST  Unit  31  Arvd-01:53:41  Cird-61:54:05  Narrative  Checked 0153  19-10129  0402  finitiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  {NIA 390] SIMONDS RD  Unit:  31  Arvd-04:02:33  Clrd-04:03:00  19-30130  0837  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIEUTENANT MICHAEL J 4IEMBA Jr  Location/Address  HOPPER RD  Unit  37K  Arvd-@8:37:41  Clrd-08:39:08  Narrative  Checked  Narrative  Checked  19-10132  0848  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J 4IEMBA Jr  Location/Address:  SYNDICATE RD  Unit:  37K  Clrd-09:05:16  Aryd-08:48:32  Narrative: 
+Unic: az
+Digp 00:34:40 EBurk-00:14:40 Arvd 03:16:37 Clrd-01:03:35
+Vehiglie: 2018 BMW 4D X3 Rey: PC NJ F34KIHP VIN: SUXTRICSOJLD73846
+Towad: For: Expired Registration By: RONS AUTO RIFAIR To: RONS TOWING
+Joerator: BRCCHIN, XATHLEEN A @ 273 16TH 87 - JERSEY CITY, NJ 07310-10C0
+Race: W Sex: F
+Rafer To Citation: T>786075
+Cvmer: BRCCHIN, KATHLEEN A @ 272 16TH ST - JERSEY CITY, No 07310-1340
+Raca: W Sex: F
+Narrative:
+xch'e Notified and enrouse.
+Narrative:
+ROY DI HUenad,
+19-110127 0g11 Phone - SUSPFICIQUS ACTIVITY PATROL ADVISED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: (WIA 1469) HILL ST
+Narrative:
+xeports she believes (but cannot confirm) her estranged
+aushand, , hag been lurking around -er home this
+evening. Recuests axtra patrols of the ares.
+Narrative:
+Arca checked 02-4
+Narrakive:
+Araa checked 0331
+19-10128 0253 Initiated - BUILDING CHEECK BUILDING CHECKED/SECURED
+Cali Trker: PATROL: CRATG A ETCHHAMMER
+Location/Addrers: [WIA 245] NORTH ST
+Unit: 31
+Arvd-01:53:41 Cird-01:54:05
+Narrative:
+Checked 0153
+19-10129 C402 Initiated - PARKING CHECK BERVICEE RENDERED
+Call Taker: PATROL CRALG A EICHHAMMRER
+Locuticn/aAddreas: ‘WIA 320] SZMONDS RD
+Unril: 31
+Arvd 04:22:33 Cl:zd-04:03:00
+19-310130 0837 Initlated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: LIEUTENANT MICHAEL J ZIZKBA Jr
+Location/Address: HOPPER RL
+Unit: aTK
+Arvd-08:37:41 Clzd-08:-39:09
+Narrative:
+Checkad
+Narrative:
+Checked
+15-10131 f848 Initiated - TRAFFIC CONTROL SERVICEE RENDERED
+Call Taker: LIEUTENANT MICHAEL J ZIEMBA Jr
+Locztion/hddress: SYNRICATE RD
+Unit: 37K
+Arva-08:48:32 Clrd-09:05:16
+Narrasivo:

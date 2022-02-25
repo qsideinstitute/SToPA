@@ -1,1 +1,48 @@
-Call Taker  PATROL KALVIN DATEDZIAK  Location/Address  LONGVIEW TER  unit  38  Arvd-08:31:55  Clrd-08:32:15  Narrative  Checked  19-9106  0832  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL KALVIN DZTEDZIAK  Location/Address  LUCE RD  Unit  38  Arvd-08:33:12  Clrd-06:52:59  Narrative  Checked  19-9307  0853  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  {WIA 1832] NORTH HOOSAC RD  Unit  30  Arvd-08:53:29  Clrd-08:53:44  Narrative  Checked 5-4  19:36  Narrative  Checked  §-4  20:31  Narrative  Checked 2338  Narrative  Checked 0321  19-9108  6905  Enitiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL KALVIN DATEDZTIAK  Location/Address  PINE COBBLE  RD  Unit  38  Arvd-09:05:43  Cird-09:06:18  Narrative  ec  MA 7KF260  Narrative  RI  111506  RI  ¥V-188  FRF2Z60  Narrative  Checked 6205  MA 7KF260  RI ¥V188  RI 111506  19-9109  0510  911i - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  BISPATCHER WILLIAM C JENNINGS JR  Narrative:  Automated call trying to sell something.  49-9111  1013  Initiated - ROAD CONDITIONS  TAKEN/REFERRED TO OTHER  AGENCY 
+fall “Taker: PATROL KALV.N DEIEDZLAX
+Locar ion/Adcress LONGVIEW TEX
+tnik: ae
+Arvd-08:31:55 C.rd-08:32:.5
+Narrative:
+Theoked
+19-9106 0832 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Pall Waker: PATROL XALVIN DZIEDZIAK
+Lecatiun/Adoreys: LUCE RD
+Uniz: 23
+Arvd-08:32:12 Cl>d-08:52:59
+Karrative:
+Checked
+19-9107 0853 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: ATRGEARYT ICOTT FE MCGOWAN
+Losatior/Acdrocs: [WIn 1832] NORYH AOCSAC RD
+uniz: 30
+Arvd-ug:53:29 Clrd-oB:53:24
+Nurrative:
+Checked 5-4 18:36
+Narrative:
+Chacked 8-4 20:31
+Narrative:
+Chackead 2338
+Narrat.ve:
+Chackad 032]
+19-2X1908 09os Initiated - PARXING CHECK SERVICES RENDERED
+Cal’ Tsxer: PATROL KALVIN DZTEDZIAK
+Locaticn/Address: 2IZ CCBS.E RD
+rit: as
+Arvd-00:05:42 Clrd-32:06:18
+Narrative:
+PZ MA TKF2IE0Q
+Narrative:
+RI 11:5C6
+RI YV-168
+HA TEF260
+NarraTiva:
+Thecked (256
+Mh TEF260
+KR: Yvigs
+RZ 1.1506
+18-9109 0910 911 - $-1-1 WRONG NUMBER LOG ENTRY REQUEST
+Tall Taker: DZSPATCTHER WILLIAM C JENNINGS JR
+Kavrative:
+rutonated cal” trying to fell something.
+19-9111 1018 Initiated - ROAD CONDITIONS TAKEN/REFKRRED TO OTHER
+AGENCY

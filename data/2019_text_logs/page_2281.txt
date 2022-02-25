@@ -1,1 +1,51 @@
-Arvd-08:55:39  Cird-08:55:52  Narrative:  checked  Narrative:  CHECKED  19-15488  O856  tnitiated »« TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  LONGVIEW TER  Location/Address  Unit  30  Arvd-08:56:26  Cird-09:23:495  Narrative  Two M/V's, speed: 18, 30  Narrative  checked  19-15489  0925  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL KALVIN DZIEDSTAK  Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  34  Arvd-09:25:53  Clrd-09:25:58  Narrative  done  Narrative  checked  Narrative  done  Narrative  12/16/2619 0054 Checked 33  Narrative  12/16/2019 0434 Checked 83  19+15490  1600  Phone - VANDALISM  INVESTIGATED / REPORT  TAKEN  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  [WIA 2044] LATHAM ST  34  Unit:  Disp-10:02:21  Enrt-10:02:51 Arvd-10;04:59  Cird-10:17:44  Vehicle:  GRY 2015 TOYT SE COROLL Reg:  PC MA 3LE282  VIN: 2TIBURHE2FC473799  Operator:  TROTTIER, COLE ® @ 159 MALLERY RD - NEW ASHFORD, MA 01237-9604  Race: U Sex: M  Owner:  TROTTIER,  COLE W @ 159 MALLERY RD - NEW ASHFORD, MA 01237-9604  Race:  U Sex: M  Narrative:  wess would like to see an Officer in reference to someone  putting stickers on one of there signs. Wcss is at location  now.  Refer To Incident:  19-321-0OF  19-15492  1056  Phone « ROAD CONDITIONS  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  SLOAN RD  unit:  34  Disp-11:46:29 Emrt-11:46:36 Arvd-11:56:10  Clr@-11:58:58  Unit:  34 
+Arvd-08:55:32 Clrd-08:b5b:52
+Narrative:
+checked
+Harrative:
+CHECK®D
+15-15488 08586 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cal: Tarxer: SEXRCEANT SCOTT E MCGOWAN
+Lecation/Address: LONGVIEW TER
+Jit: 30
+Arvd-08:56:26 Clrd-09:23:49
+Narratlve:
+Two M/V'e, speed: 1E, 3<
+Rarral:ve:
+checked
+19-154385 0925 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tuker: PATROL KALVIN DZIEDZTAK
+Location/Address: (WIA -932] RORTH HCOSAC RD
+Unit: 34
+Arvd-$9:25:53 Clrd-09:25:58
+Narrative:
+done
+Murralive:
+checksd
+Marrative:
+done
+Marrative:
+12/16/2019 0054 Checked §3
+Narracive:
+12/16/2029 (0434 Checxed 83
+19-115490 1000 Phone - VANDALISM INVESTIGATED / REPORT
+TAKEN
+Call Tako:-: DISPATCHER WILLIAM C JENNINGS JR
+Loczzion/Acdress: "WIA #044] LATHAM ST
+Unit: 34
+Disp-10:02:21 Enrt-10:02:51 Arvd 20:04:59 Clrd-10:17:44
+Vehicle: GRY 2015 TOYT SE CCROLL Reog: PC MA 3LE282 VIN: 2TIBURHEIFCA7:739
+Operator: TROTTZER, CCLE W @ 159 MALLERY RD - MEW ASHFORD, MA 01237-9604
+Race: U Sex: MW
+Cwnex: TROTTIER, COLE W @ 159 MALLERY RD - NEW ASHFORD, MA 01237-9604
+Hace: UF Bex: M
+Narrative:
+Wess would like to see an Officer in reference to someone
+putzing srickers on one of there signs. WIS8 is at location
+NOW.
+Refer To Incident: 19-221-0QF
+CONDITZONS SERVICES RENDERED
+1595-15491 1056 Phone - ROAD JERVNINGS JR
+fall Takor: LISPATOHER WIL. JIAM OC
+LocuLion/Aéd-ess: 2LOAN RI
+tmit: 3d Enrt-11:46:36 Arvd-11:58:10 Clrd-11:58:58
+Unit: Disp-11:4:29 34

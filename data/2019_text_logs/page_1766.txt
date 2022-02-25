@@ -1,1 +1,45 @@
-Narrative:  done  Narrative:  10/06/2018 0047 Checked $3  19-12355  9928  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  WORTH ST  Unit  35  Arvd-09:28:39  Clird-09:29:24  Narrative  Checked 5-4  18:36  Narrative  done  Narrative  40/06/2019 0017 Checked $3  19-12396  0933  Initiated - BUILDING CHECK  BUILDING CKECKELD/ SECURED  Call Taker  PATROL BRAD SACCO  COLD  SPRING RD  Location/Address  Unit  35  Arvd-09:33:34  Clrd-09:33:50  Narrative  Checked $-4  18:52  Narrative  Checked Area.  19-32397  0936  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  a5  Arvd-09:37:05  Clrd-09:37:53  Narrative  Painters at residence  Narrative  Checked §-4  18:45  Narrative  Checked Area.  19-12398  1009  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL BRAD SACCO  NEW ASHFORD RD  Location/Address  Unit  35  Arvd-16:09:47  Clrd-10:16:20  Vehicle  BLU 2017 VOLV SE 330  Reg: PC MA 4XL278 VIN: YVIA2Z2ML7H1000639  Operator  BOYD, JULIANNE M @ 300 CTRL PEK W Apt.  #11F - NEW YORK, NY 10024  Race:  W Sex:  F  Refer To Citation  T2085071  Owner  BOYD, NORMAN W @ 152 WENDELL AVE - PITTSFIELD,  MA 01201-6926  Race;  U Sex: U  49-12400  1030  Initiated - MOTOR VEHICLS STOP  CITATION ~ WARNING 
+Hazrazive:
+done
+Nar-anive:
+12/06/2619 0047 Checked 23
+19-123945 0528 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+Cuil Taker: PATROL 2RAD SACCC
+Loctak—on/Address: NORIE S57
+nit: 33
+AzvG-09:28:39 (lrd-909:29:24
+Harrazive:
+NarrazTive:
+done
+Nazra.ive:
+15/08/2019 001+ Checked S3
+19-123956 0933 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+Call Taker: PATROL SRAD SaCCC
+Location/Address: “OL SPRING RD
+Unit:
+Arvd-05:33:34 OT 1rd-09:33:5)
+YarralLive:
+Xarrative:
+Chevied Areu.
+19-1i2357 0936 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROT. BRAD BANCH
+Loczlbion/addrese: COLD SPRING RD
+Uniz: a5
+Cl>»d-09:37:53
+Narvative:
+Painters at residence
+Karrative:
+Checked -4 18:45
+Narrative:
+Checked Area.
+1989-12328 1409 i - MOTOR VEHICLE STOP CITATION - WARNING
+ull Taker: PATRCL BHAD SACCO
+scasion/Acdress: KEW ASSFORD RD
+nil: 35
+Arva-10:09:47 Clyrc-10:16:20
+vehicle: aLy 20°27 VOLY SE 290 Reg: PC MA 4X52YE VIN- YV ARZMI 7-10006539
+Queralos: BeYD, JUL_ANNE M @ 300 CURT, 2K W ADT, #11F - NEA YORY, KY 10024
+Rago: W Sex:
+RBefoy To U-tabk-on: P2ushofl
+CwWer: ROYD, NORMAN W @ 1052 WENDELL AVE - PITTEFISLD, MA 01201-6926
+Raze: IT hex: 71
+1959-12400 1030 Initiated - MOTOR VEHICLE #TOP CLTATION - WARNING

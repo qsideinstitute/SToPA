@@ -1,1 +1,56 @@
-Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  HANCOCK RD  Unit  30  Arvd-12:05:39 Clrd-12:14:18  Vehicle  GRN 2008 HOND CRVSPO Reg: PC MA 22ZA27 VIN: JHLRE483X8C002334  Operator  IWASIWKA, ROMAN G @ 114 BRIDGES RD Apt. #LLi - WILLIAMSTOWN, MA 01267  Race: W Sex:  M  Refer To Citation  T1400352  Owner  IWASIWKA, ROMAN G @ 114 BRIDGES RD Apt. #LL1 - WILLIAMSTOWN, MA 01267  Race: W Sex: M  19-1822  1209  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  {WIA 333] CHURCH ST  Unit:  34  Arvd-12:09:29 Clrd-12:10:25  19-1823  1220  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KALVIN DZIEDZTAK  Location/Address:  COLD SPRING RD  Unit  30  Arvd-12:20:51  Clrd-12:34:21  Vehicle  GRN 2005 SUBA FORESTER Reg: PC VT GXF179 VIN: JF1SG67635H734860  Operator  KOPALA, MATTHEW D @ 131 PUTNAM ST - BENNINGTON, VT 05201  Race:  W Sex: M  Refer To Citation  T1400352  Owner  KOPALA, DAVID A @ 131 PUTNAM ST ~ BENNINGTON, VT 05201  Race:  U Sex: M  19-1825  1248  Phone - BURN PERMIT  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  WM Luce rd; BBR N. voosac Rd  19-1826  1253  911 ~ SUSPICIOUS ACTIVITY  UNABLE TO LOCATE  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  ADAMS RD  Unit  30  Disp-12:57:54 Enrt-12:58:09 Arvd-13:05:05 Clrd-13:43:48  Unit  34  Disp-13:23:11 Enrt~13:23:58 Arvd-13:26:35 Clrd-13:55:50  Narrative  Male party walked into Medical Assc., threatened staff and  was yelling & nasty to patient. He was also throwing things  and ranting. Described as male party wearing black  sweatshirt, white shirt around his waste and gray sweat  pants.  North Adams Animal Hospital also called and stated party  possibly  entered their business and was  threatening staff as well. Description was similar.  1301 NAPD called in regards to this possible same party  Narrative:  Checked restaurants and area unable to locate at this time.  19-1827  1343  911 - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Recorded sales call on emergency line  19-1828  1344  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED 
+Call Taker: PATROL KALVIN DZIEDZIAKR
+Location/Address: HANCOCK RD
+Unit: 30
+Arvd-12:05:39 Clrd-12:14:18
+Vehicle: GRN 2008 HOND CRVSPO Reg: PC MA 222327 VIN: JHLRE483X8C002334
+Operator: IWASIWKA, ROMAN G ® 114 BRIDGES RD Apt. #LL1 - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+Refer To Citation: 11400351
+Owner: IWASIWKA, ROMAN G @ 114 BRIDGES RD Apt. #LL1l - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+19-1822 1209 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA 333) CHURCH ST
+Unit: 34
+Arvd-12:09:29 Clrd-12:10:25
+19-1823 1220 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-12:20:51 Clrd-12:31:21
+Vehicle: GRN 2005 SUBA FORESTER Reg: PC VT GXF179 VIN: JF18G67635H734860
+Operator: KOPALA, MATTHEW D @ 131 PUTNAM ST - BENNINGTON, VT 05201
+Race: W Sex: M
+Refer To Citation: T1400352
+Ovmer: KOPALA, DAVID A @ 131 PUTNAM ST - BENNINGTON, VT 05201
+Racc: U Sex: M
+19-1825 1248 Phone - BURN PERMIT LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Narrative:
+Il Luce rd ll] N. Hoosac Rd
+19-1826 1253 911 - SUSPICIOUS ACTIVITY UNABLE TO LOCATE
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: ADAMS RD
+Unit: 30
+Disp-12:57:54 Enrt-12:58:09 Arvd-13:05:05 Clrd-13:43:48
+Unit: 34
+Disp-13:23:11 Enrt-13:23:58 Arvd-13:26:35 Clrd-13:55:50
+Narrative:
+Male party walked into Medical Assc., threatened staff and
+was yelling « nasty to patient. He was also throwing things
+and ranting. Described as male party wearing black
+sweatshirt, white shirt around his waste and sweat
+pants. gray
+North Adams Animal Hospital also called and stated
+possibly entered their business and was party
+threatening staff as well. Description was similar.
+1301 NAPD called in regards to this possible same
+party.
+Narrative:
+Checked restaurants and area unable to locate at this time.
+19-1827 1343 911 - 9-1-1 WRONG NUMBER LOG ENTRY
+Call Taker: CHIEF KYLE J JOHNSON REQUEST
+Narrative:
+Recorded sales call on line
+emergency
+19-1828 1344 Other - PUBLIC RECORDS REQUEST SERVICES RENDERED

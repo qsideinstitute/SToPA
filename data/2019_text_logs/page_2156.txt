@@ -1,1 +1,46 @@
-Unit:  36  Arvd-07:46:32  Clyrd-07:47:37  Narrative:  Checked  Narrative:  checked  Narrative:  Checked S§-4  19:27  Narrative:  done  Narrative:  Checked Area  Narrative:  Checked Area  19-14679  O752  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  PINE COBBLE RD  Location/Address  Unit  36  Arvd-07:52:39  Clrd-07:53:35  Narrative  35EV77 -  SPN226  Narrative  MA  9ALE31 -S96YL8  VT  GMY4 94  Narrative  MA 7CR258  VT 37247  Narrative  Checked empty  s-4  19:23  Narrative  done  Narrative  Checked Area.  Narrative  Checked Area.  19-14680  O756  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANITA HERNANDEZ  Location/Address  HALL ST  Unit  36  Arvd-07:56:20  Clird-07:58:12  Narrative  MA Livery 76800 parked out front, same car in driveway  Narrative  Checked  Narrative:  checked 
+Unit: 36
+Arvd-07:46: 32 Clxd-07:47:37
+Narratjve:
+Checked
+Narrative:
+checked
+Narrative:
+Checked 2-4 19:27
+Narrative:
+doe
+Narrative:
+Checked Area.
+Marrat.ve:
+Checked Area.
+19-1468679 0751 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Takex: PATROL THNTA HERNANDEZ
+Locus ion/addreso: PINE COBBLE RD
+Unit: 36
+Arvd-07:5 Z:33
+Marrat:ve:
+MA 35EV77 AFN226
+Karrarive:
+Mii 9ALE31 -L96YLB
+VT CMY491
+Narrative:
+MA TCR258
+VT 37247
+Karrativo:
+Checked ompty 5-4 19:23
+Karrative:
+done
+Narrative:
+Checked Arca.
+Narrative:
+Chockod Area.
+19-145680 0756 Initiated - BUILDING CHECE BUILDING CEECKED/SECURED
+Call Taker: PATRCL TANIR HERNAKDEZ
+Incation/Adcrezs: ZALL oT
+nit: 36
+Arvd-07:56:20 Clrd-07:38:12
+Marrative:
+MA Livery 76800 parked ou: front, same car In driveway
+Narrative:
+Checked
+Narrative:
+checkad

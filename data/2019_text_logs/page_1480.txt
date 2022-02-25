@@ -1,1 +1,47 @@
-Upen cailback,  it was determined to be a misdial.  19-10682  1157  911 -  $-1-1 HANG UP CALL  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  [WIA 390} SIMONDS RD  Narrative:  No  ANI/ALI on emergency line. Redial failed numerous times.  19-10683  1238  911 -  9-1-1 TEST CALL  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  (WIA 150] GALE RD  49-10684  1244  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  2  Call Taker:  CHIEF KYLE J JOHNSCN  Location/Address:  [WIA 262]  MAIN ST  Unit:  36  Disp-12:48:31  Enrt-12:48:50 Arvd-12:52:12 Clrd-13:04:27  Unit:  30  Disp-12:48:58  Enrt-12:50:02 Arvd-12:52:51  Clrd-13:12:08  Narrative:  "Friend" of the motel owner reports a black male pulling  weeds out of the sidewalk in front of business.  2nd call  3rd  from property owner, reports male yelling at customers.  call from mailman, who reports being yelled at by party.  Narrative:  Spoke with Mr. Balthazar, who was cooperative with both  officers. Mr. Baltazar had been picking weeds for most of  the day and had placed a large amount of weeds/dirt, in the  break-down lane on Main Street. Mr. Balthazar agreed to  return to North Adams and was provided with $5.00.  Officers were also advised that Mr. Balthazar earlier pushed  both a male and female.  The identities of the individuals  are not known at this time.  Further,  the individuals have  not reported this incident to the police.  A Willows Motel employee cleared the roadway, and traffic  control was provided during this task.  19-10685  1258  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-9884. Redacted & emailed.  19-10686  4442  911 - SHOPLIFTING  CRIMINAL COMPLAINT  Cail Taker:  DISPATCHER LAURIE TUPER  Location/Address:  (WIA 245] SPRING ST  Unit:  30  Disp-14:42:00  Enrt-14:42:58  Arvd-14:44:06  Clrd-15:06:43  Narrative:  Reports someane owner is chasing a shoplifter.  Narrative:  Ofc  Kalvin Dziedziak 
+Upon callback, it was determined to bo a misdial.
+i19-10682 1157 911 - 9-1-1 EANG UP CALL LOG ENTRY REQUEST
+fall Taker: CHIEF XYLE J JOHNSON
+Locazion/Address: [WIA 390: SIMONDS RD
+Narra-ive:
+No ANI/ALI on emargency line. Redial failed numercus times.
+19-1068683 1238 81l1l - $-1-1 TEST CALL BERVICEE RENDERED
+Call Taker: CEIEF KYLA J JOHNSON
+—ocation/Address: [WIA 150] GALE RD
+19-1068684 1244 Phone -« SUSPICIOUS ACTIVITY SERVICES RENDERED
+2
+Call Taker: CEIEF KYLE J JCHNSCN
+Location/Address: [WIA 262] MARIN 8°
+Unzce: 3é
+Disp-12:48:37 Enyt-.2:48:50 Arvd-12:52:12 Clrd-13:04:27
+UriLk: 30
+Diap-12:48:58 Enrt-12:50:02 Arvd-12:52:51 Clrd-13:12:08
+Rarrative:
+"Friend" of the motel owner reports a black male pullang
+weads out of the sidewalk ir front of business. 2nd call
+from preperly ownzr, roports male yelling az customers. 3rd
+call Ixcm mailua, who reports being yelled at by party.
+Narraiive:
+Spoke with Mr. Balthazar, who was cooperative with both
+citicers. Kr. Saltazar had beer picking weeds for most of
+the day and hac placed a large amount of weeds/dirt, in the
+break-cowr. lane 21 Hain Street. Mr. Balthazar agrecd Lo
+»eturn to North Adams and was provided wilh $5.00.
+Offizers were also advised that Mr. Balthazar earlicr pushed
+hoth a male and fema_e. The identities of the iadividuars
+sre not know: at this time. Further, the individuals have
+not reported Lhis inclidesu Lo the police.
+A Wiilows Motel emp_oyes cleared the roadway, and traffic
+contrel was provided during thlz task.
+19-10685 1258 Other - PUBLIC RECORDE REQUEST SERVICES RENDERED
+Call Takor: CHIEF KYLE J JONNSCH
+Narracivo:
+Requesting 19-5884. Redacted emailed.
+19-1068286 1442 911 - SHOPLIFTING CRIMINAL COMPLAINT
+Cail Taker: DISPATCHER LAURIE TUFER
+location/Address.: [WIA 245] SPRING ST
+Unit: ag
+Disp-24:12:00 Enrt-14:42:58 Arvd-14:44:06 Clrd-15:06:43
+Narrative:
+Reports zomecne owner is chasing a shoplifter,
+Farrakive:
+Ofc. Kalvin Dziedziak

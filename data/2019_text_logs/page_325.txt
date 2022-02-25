@@ -1,1 +1,50 @@
-Narrative:  MV with 4-way flashers activated, doors locked, no one with  vehicle. At driveway of J Main just west of Cole Avenue.  MV not causing a traffic hazard, will check back soon.  Narrative:  Vehicle out of gas, picked up owner on main st with gas  fueled vehicle and on his way.  19-2278  gg15  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLD SPRING RD  Unit:  30  Arvd-09:15:57  Clrd-09:16:28  Narrative:  Checked S-4  17:30  Narrative:  Checked Area.  19-2279  0918  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLD SPRING RD  Unit:  30  Arvd-09:18:40  Clrd-09:19:35  Narrative:  Checked §-4  17:20  Narrative:  Checked Area.  19-2280  1002  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  SPRING ST  34  Unit:  Arvd-10:05:20  Clrd-10:05:321  19-2282  1012  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit;  34  Arvd~10:12:58  Clird-10:20:19  Vehicle:  RED 2010 TOYT PRIUS Reg: PC MA 96482I VIN: JTDKN3DUSA0022327  Operator:  GOODBODY, ANN D @ 423 NORTH HEMLOCK LN ~ WILLIAMSTOWN,  MA 01267-2093  Race:  W Sex: F  Refer To Citation:  T1400487  Owner:  MA 01267-2093  GOOCDBODY, ANN D @ 423 NORTH HEMLOCK LN - WILLIAMSTOWN,  Race: U Sex: F  19-2283  1043  911 - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  No one on line. Recording says number has changed upon  callback.  19-2284  1212  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  COLD SPRING RD 
+Narrative:
+MV with 4-way flashers activated, doors locked, no one with
+vehicle. At driveway of [JJ] Main just west of Cole Avenue.
+MV not causing a traffic hazard, will check back soon.
+Narrative:
+Vehicle out of gas, picked up owner on main st with gas
+fueled vehicle and on his way.
+19-2278 0915 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-09:15:57 Clrd-09:16:28
+Narrative:
+Checked S-4 17:30
+Narrative:
+Checked Area.
+19-2279 0918 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-09:18:40 Clrd-09:19:35
+Narrative:
+Checked S-4 17:20
+Narrative:
+Checked Area.
+19-2280 1002 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SPRING ST
+Unit: 34
+Arvd-10:05:20 Clrd-10:05:31
+19-2282 1012 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: PARK ST
+Unit: 34
+Arvd-10:12:58 Clrd-10:20:19
+Vehicle: RED 2010 TOYT PRIUS Reg: PC MA 96482I VIN: JTDKN3DUSA0022327
+Operator: GOODBODY, ANN D @ 423 NORTH HEMLOCK LN - WILLIAMSTOWN, MA 01267-2093
+Race: W 8Scx: F
+Refer To Citation: T1400487
+ovmer : GOODBODY, ANN D @ 423 NORTH HEMLOCK LN - WILLIAMSTOWN, MA 01267-2093
+Race: U Sex: F
+19-2283 1043 911 - 9-1-1 WRONG NUMBER LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Narrative:
+No one on line. Recording number has changed
+callback. says upon
+19-2284 1212 Initiated MOTOR VEHICLE STOP CITATION WARNING
+- -
+Call Taker: PATROL DAVID
+Location/Address: COLD SPRING RD JENNINGS, D

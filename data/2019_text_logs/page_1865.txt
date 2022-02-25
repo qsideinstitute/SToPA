@@ -1,1 +1,50 @@
-Narrative:  Power has been out since 0745,  Narrative:  Power restored via N. Grid email  1$-12954  0846  Radio - ASSIST OTHER AGENCY  ~-  UTIEITY  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  SLOAN RD  Narrative:  37K reports that pole 11 on Sloan Rd has broken guidewires  and the pole is leaning into the road. National Grid  notified.  19-12855  oesl1  Initiated - ASSIST OTHER AGENCY: MGRSD  SERVICES RENDERED  Call Taker  PATROL BRAD SACCO  Location/Address  [WEA 333] CHURCH ST  Tit  35  Arvd-08:51:48  Clrd-09;55;:27  Unit  37K  Disp-08:54:03  Enrt-08:54:03  Arvd-09:00:39  Cird-10:06:20  Narrative  Lockdown drill  19-12956  o301  Phone - ROAD CONDITIONS  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  COLD SPRING RD  Narrative:  Dead Deer across from address,  MA DOT notified.  19+-12957  og21  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cali Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 1832] NORTH HOOSAC RD  unit  34  Arvd-09:21:19  Clyrd-09:22:18  Narrative  Checked  Narrative  checked  Narrative  done  Narrative  10/18/2019 0132 Checked 83  Narrative  10/18/2019 0358 Checked $3  19-12958  0825  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  PINE COBBLE RD  Unit  34  Arvd-09:26:46  Clr@-09:27:16  Narrative  PA KRY3202 
+Narrztive:
+Power has been out since 0745.
+Narrative:
+Power Trestared via KH. Grid email
+1989-12954 0846 Radio - ABSIBT OTHER AGENCY - UTLILIYTY TAKEN/REFERRFD TO OTHER
+AGENCY
+Call Taker: LISDAZCHSR CHERLISTINE LEMGINZ
+—ocalion/addread: SLOAN RD
+Narz-zkive:
+37K reports that pole 1 oo Sloan Rd has brozen gu_dowiros
+anc the pele is leaning intc the rcad. Nationa. Grid
+nati®ied.
+19-125555 0as1 Tanikiated - ASSIST CTHER AGENCY: MGRSD SERVICES RENDERED
+Cull Tukor: SRTROL BRAL SACCD
+Location/Address: WIA 333] CHURCH S5VU
+grit: 35
+ArvAa-0B:51:4B Clrd-09:55:27
+grit: TK
+Disp-28:54:03 Enrt-08:24:03 Arvd 09:00:39 Clrd-10:08:20
+Narrztive:
+Lockdown drill
+19-129586 0801 Phone - ROAD CONDITIONS TAKEN/REFERRED TC OTHER
+AGERCY
+Call Taxer: PISTATCHER UZRISTINE LEMCGINF
+Location/Address: COLD SZRCNG xD
+Narrxabtive:
+Cead Deer zcross from address, MA DOT notified.
+12-12957 g921 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+ali Taxer: FETROL ANTHONY M LUPRAT
+Location/Mddress: WIA _832] RORTH HOOSAT RD
+gJrit: 34
+Arvd-09:21:19 Clrd-09:22:18
+Narrative:
+Checked
+Norrative:
+checked
+Narrative:
+doe
+Narratives:
+10/18/2028 2132 Checked 53
+Narrative:
+10/18/2029 2358 Checked S3
+0825 Initiated - BUILDIKG (CHECK BUILDING CHECKED/SECURED
+19-125958
+Cal: Taxer: SATROL ANTHONY M TUPRAT
+Location/Address: ZINsS CORs"F ®D
+Ireit: 34
+Arvd-09:26:46 Clrd-09:27:16
+Herrative:
+Da KRY3242

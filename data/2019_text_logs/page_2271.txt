@@ -1,1 +1,48 @@
-19-15414  0945  Initiated - BULTLDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  HARWOOD ST  Location/Addreas:  Unit:  30  Arvd-09:45:39  Clrd-09:46:00  Narrative:  checked  Narrative:  Checked Area.  1419-15415  0950  Initiated - BUILDING CHECK  BUTLDING CHECKED/ SECURED  SERGEANT SCOTT E MCGOWAN  Call Taker  Location/Address  STRATTON RD  Unit  30  Arvd-09:50:32  Clrd-09:51:32  Narrative  checked  Narrative  Checked Area.  L9-15416  0952  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  [WIA 225] COLD SPRING RD  Location/Address:  Unit:  34  Arvd-09:52:41  Clrd-09:55:20  19-15419  1624  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  LONGVIEW TER  Unit:  39  Arvd-10:24:54  Clrd-10:49:08  Narrative:  Four M/v's, speed: 25, 22, 25, 24  Narrative:  checked  19-15420  1031  Other - ASSIST OTHER AGENCY -  RMV  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  hocation/Address:  (WIA 2244] BULKLEY ST  Unit:  34  Disp-10:33:59 Enmrt-10:37:54 Arvd-10:44:38 Clrd-10:48:48  Narrative:  Serve immediate threat.  Narrative:  Paperwork delivered  1939-15422  1054  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  (WIA 333] CHURCH ST  Unit:  30  Arvd-10:54:47  Clyrd-10:57:34 
+15-15414 0945 Initiated - BUILDING CHECK BUILDING CHECKED/SRECURED
+Call Taker: SERGEANT SCOTT E MCAOWAN
+Lecarion/Address: HARWCODD ST
+Unit: 30
+Arvd-09:45:33 Clrxd 09:46:00
+Narrat ve:
+checked
+Narrative:
+Checkad Area.
+19-15415 0950 Imitiated BUILDING CHECK BUILDING CHECKED/SECURED
+-
+call Taker: SERGEAKT S5CCTT E MCSOWAN
+Location/Address: STRATTON RD
+Unit: 30
+Arvd-09:50:32 Clrd-09:51:32
+Narrative:
+checked
+Narrat:ve:
+Checked Area.
+19-15416 0952 Initiated - BUILDING CHECK BUILDING CHECKED/SECURZED
+Call Tukox: BRAD SACCO
+PATROL
+Loczvion/Addresg: NIA 225. COLD SPRING HD
+Unit: 34
+Arvd-29:52:41 Clxd 05:55:20
+19-154139 1024 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Addrans: LONGVIEW TZR
+Unit: 30
+Arvd-20:24:54 Clrd-10:49:28
+Narrative:
+Four M/v's, Speed: 25, 72, 25, 24
+Harrativis:
+checked
+19-154320 1031 Other - ASSIST OTHER AGENCY - RMV SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Lecacion/Address: (WIA 2244] BULKLEY ST
+Unit: 34
+Disp-10:33:59 Enrt-10:37:54 Arvd-10:44:38 Clrd-10:48:48
+Narrative:
+Serve impedia.e Lhrcat.
+Narralkive:
+Puperworx delivered
+1898-15422 1054 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: BERGEANT ECOTT E MCGOWAN
+[WIA 233] CHURCH ST
+Location/Address:
+Unit: 30 Arvd-10:94:47 Clrd-10:57:34

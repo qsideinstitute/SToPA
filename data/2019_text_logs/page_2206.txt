@@ -1,1 +1,56 @@
-Arvd-11:37:23  Clrd-11:43:21  Vehicle  BRO 2012 NISS SE VERSA Reg: PC MA 556VH8 VIN: 3NICN7APLOCL944273  Operator  REYNOLDS, EMILEE A @ 224 CROSS ST -  HANSON, MA 02341-1447  Race:  W Sex: F  Refer To Citation  T2085624  Owner  REYNOLDS, ROBERT JAMES @ 224 CROSS ST -  HANSON, MA 02341-1447  Race:  U Sex: M  1914984  i149  Initiated - MOTCR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  NORTH HOOSAC RD  34  Unit  Axvd-11:49:57  Clyrd-11:54:50  Vehicle  GRY 2007 GMC SIERRA Reg: PC MA S1iKC22 VIN:  IGTHK24K77E521959  Operator  SMITH, ELIZABETH A @ 35 LONGVIEW TER - WILLIAMSTOWN, MA 01267-2913  Race:  U Sex: F  Refer To Citation:  T2085625  Owner:  SMITH, ELIZABETH A @ 35 LONGVIEW TER - WILLIAMSTOWN, MA 01267-2913  Race:  Uo «Sex: F  19-14986  1625  911 - ROAD CONDITIONS  SERVICES RENDERED  Call Taker:  DISPATCHER  LAURIE TUPER  Location/Address:  NORTH HOOSAC RD + CHESTNUT ST  Unit:  34  Disp-16:31:02  Enrt-16:31:15 Arvd-16:35:38  Clyrd-16:46:53  Narrative:  Reports being unable to get her vehicle to move. Stuck in  Middle of road. No accident or injuries.  Narrative:  Assisted party with moving her vehicle. Cant get the car ail  the way up Chestnut St. at this time. Vehicle parked in the  apartment building lot at the base of Chestnut &t.  VA UNJ7619  19-14987  4633  Phone - ROAD CONDITIONS  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  WHITMAN ST  Unit  31  Disp-16:34:56  Envt.-16:35:;17 Arvd-16:37:53  Clrd-18:37:11  Vehicle  TAN 2009 BU Reg: AP NY 47452PC VIN:  2MG3 JMHAS 9W065217  Operator  GEROWJACKSON, KEVON T @ 16 TALFORD PL Apt. #APT2 - SARATOGA, NY 12866  Owner  WADE TOURS INC @ 797 BURDECK ST - SCHENECTADY, NY 12306  Narrative  Reports one of the College's buses stuck near the parking  garage.  Narrative  Wade Tours coach bus stuck on Whitman Street at intersection  with road to parking garage.  Narrative  Contacted Ron's. Unable to tow due to size of bus.  Attempted,  unsuccessfully X3 numbers to contact Deans  Made contact with Village Sales. They are in route with up  to an hour ETA due to weather conditions.  notified to try to get the area cleaned up for the  wrecker,  Narrative  Village Truck on scene. Bus removed and on his way. No  damage . 
+Aryd-11:37:23 Clrd-11:43:21
+Vehicle: BRC 2012 RIGSS 5X VERSA Req: PC MA 555VHE VIN: 3NICHNTAPLICLS442723
+Operator: RATIHOLDE, EMITLEZ A 6 2:24 :095 ST - HANSON, FMA S25341-1447
+Raz: W Sex: F
+Rzfe+ "cc Citazion: TROBSRAA
+Owner: RETHOLDE, ROBERT CANES @ 224 CRISES ST - ZANSCN, ML 02341-1447
+Raca: J Ssx: M
+19-1458684 1149 Initiated - MOTOR VEEICLE STOF CITATION - WARNIRG
+Czll Taker: FATROL BRAD SACCD
+Locaticn/Adcresy: JORTE ZOCSAC RD
+Tniz: a4
+Axve 12:49:57 Clrd -—1:54:50
+Vehicle: GRY 2007 GMC STERRA Reg: PC MA S1KEZ:Z2 VIN: 1GTHEZ4K77ESZ1958
+Opsarator: EMIT:, ILIZABETII A 4 35 LONGVIEW TER - WILLIAMSTCWN, MA 01267 2913
+Race. J Ssx: F
+rafev Tc Citation: m20EL620
+Owvnar: SEITE, BLIZABETH A a 315 LONGVIEW TER - WILLIAMSTCAN, MA 01267-2012
+naca: J Sex: F
+19-149846 16258 911 - ROAD CONDITIONS SERVICES REMDERZED
+C11 Taker: DISPATCHER LAURIE TOPER
+Locaticen/hddresk: YORTE ZDCSAC RD + CHESTNUT ST
+nix: 3a
+iep-16:31:02 Enrt-16:31:15 Arvi-148:35:38 Clrd--6:46:53
+Hazrative:
+Reporty beiny unasle te get her vehicle ze move. Stuck in
+Midéle of read. No agcidenk or imjuries.
+Navrazive:
+Ass_gted party with moving her vehicle. Cant get Lhe cur all
+the way up Cheetnu: St. at this time. Vehic.e parked in Lie
+apar-ment building lot at the bzse ot Tnestiiut Bt.
+vn TNI7aL1S
+1E33 Phone - ROAD CONDITIONS SERVICES REKDERED
+19-114987 LAURIE “TIPER
+czll Taker: DISPATCHER
+Locaticen/adcress: WHITMAN SI
+Tni-: a1 AvvE-15:37:83 Clrd--8:27:1_
+Disp-15:34:96 Enrt-16:35:17
+Var iclie: TAN 20C9 BU Feg: AFP NY 4T7AR2PC VTIH: 2MGIIMHA9ON065217
+Cperator: GEROWCACKSON, KEVOK 'I' @ 1 TALFORD PL Apt. H#APTR - SARATOGA, NY 12866
+Owner: WADE TOURS INT @ 737 BURDECK 't - SCEENECTADY, NY 23506
+Navrazive:
+Reporty one of Lhe College's buses stuck naar the parking
+garage.
+Harrazive:
+Wade Tours coecl bus stuck on Whitman Streat an in-ersecticn
+with roud _¢ parking garage.
+Narrative:
+Ccntacted Ren™s. Unapie to Low due Lo s zc of buns.
+Attempted, unsuccessiully X3 numbers to contact Deans
+Made coxtact with Village Sules. They cre in route wich up
+tc an hour ETA due to weaihur conditions.
+notitied zo Liy .¢ get the area cleaned up for the
+wrecker.
+Naxrazive:
+Vil aga Truck on scene. Dus removed aud on his way. No
+AMAgE .

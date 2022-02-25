@@ -1,1 +1,53 @@
-Call Taker:  PATROL KEVIN P GARNER  Location/Address:  SOCUTHWORTH ST  Unit:  34  Arvd-01:01:36  Clrd-04:01:58  Narrative:  done  19-10087  0204  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  Location/Address  COLD SPRING RD  Unit  34  Arvd-02:04:30  Clird-62:09:59  Vehicle  BLK 2014 TOYT U Reg:  PC VT HLAS43  Operator  BOHL, CHRISTOPHER NOAH @ 123 FRANCIS ST Apt.  #2 - N ADAMS, MA 01247-  3824  Race: W Sex:  M  Refer To Citation  TL785358  Owner  RIVERACARABALLO, STEPHANTE @ 51 GROVE ST Apt  #201/2 - BRATTLEBORO,  VT 05301  Race:  W Sex: F  29-10088  0406  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 390] SIMONDS RD  Unit:  35  Arvd-04:07:11  Clrd-04:07:19  Narrative:  7 Violations  19-+10090  0817  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  SYNDICATE RD  Unit:  30  Arvd-08:17:43  Cird-08:38:54  Narrative:  checked  19-1009)  0846  initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  LUCE RD  Unit  39  Arvd-08:47:03  Clyrd-09:20:28  Narrative  Checked  19-10092  ogo1  Initiated - BUTLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  37K  Arvd-09;01:41  Clrd-09:02:24  Narrative  Checked.  Narrative  Checked  Narrative  Checked 2326  Narrative 
+call Taker: FATROL KEVIN P GARNER
+Lozasion/Address: SOUTIWORTH ST
+Cnit: 34
+Arvd-01:01:36 Clrd 03:01:58
+Karracive:
+done
+19-110087 0204 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROZ, KEVIN P GARNER
+Location/Address: J0LD SPRING RD
+Thir: 34
+Arvd-02:04:30 Clrd-0zZ:09:59
+Vehic.a: BLK 2014 TCYT UI Rey: PC VI ZLAB43
+Onerator: BOHL, CHRISTOZHER NOAH @ 122 rRANCIS SI Apt. #2 N ADEMS, MA 01247-
+jg24
+Race: W Sex: HM
+Refer "oo Cization: 1785358
+JWner: RIVERACARABALIO, STEPHANIE @ 51 GROVE ST Apt. #201/2 - BRATTLEBORS,
+VT 25301
+Race: ® Sex: F
+15-10088 0406 Initiated - PARKING CHECK SERVICES RENDERED
+Call 'lakexr: SAIROL ANTHONY M CUPRAT
+Locatien/Address: (WIA 320] SIMONDS RD
+Umit: is
+Arvd-04:07:31 Clx3-04:07:10
+Narrative:
+7 violations
+19-1D0090 0817 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SEXGRANT 3COTT E MCCOWAN
+Tocation/hddress: SYNDICATE RD
+Unit: 30
+Axrvd-0B:17:43 Clrd-08:38:54
+Karrative:
+checked
+19-1009] 0848 Initiated - TRAFFIC COMTROL SERVICES RENDERED
+Call Taker: SERGEZANT SCOTT E MCGOWAN
+Location/Address: LUCE RD
+Unxs: ag
+Arvd-08:47:02 Clxd-05:20:28
+Narrative:
+Checked
+19-10092 0501 Iniviated - BUILDING CHECE BUILDING CHECKED/SECURED
+Call Taker: PATRCIMAN MICHAEL J ZIFMBA Jr
+Location/AddreBs: NORT HOOSAZ RL
+init: a7K [WIA 1532]
+Arvd-09:01:41 Clrad-09:02:24
+Rarrativa:
+Checked.
+Narrative:
+Checked
+Harrazive:
+Checked
+2326
+Narrative:

@@ -1,1 +1,51 @@
-Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  (WIA 190] MAIN ST  Unit  ME  Arvd-17:28:29  Clird-17:29:49  Narrative  Checked 0152  19-4450  1731  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SCHOOL ST  Unit:  31  Arvd-17:32:53  Clrd-17:34:57  19-4451  1739  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SIMONDS RD  Unit  31  Arvd-17:43:05 Clrd-17:45:16  Narrative  Checked 0324  19-4452  1804  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  HENDERSON RD  Unit  38  Arvd-18:05:09 Clird-18:11:57  Vehicle  BLU 2010 HOND CRV Reg: PC MA 331HY3 VIN:  5J76RE4H7XALO58886  Operator  ZHANG, CHT @ 389 HENDERSON RD ~ WILLIAMSTOWN, MA 01267  Race: A Sex: M  Refer To Citation  T1401150  Owner  ZHANG, CHI @ 389 HENDERSON RD - WILLIAMSTOWN,  MA 01267  Race: A Sex: M  19-4454  2132  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  MAIN ST  Unit  31  Arvd-21:33:02  Cixd-21:44:26  Vehicle  GRY 2019 JEEP LL CMP Reg: BU NY JFN4454 VIN: 3C4NJDCB7KT709697  Operator  BELK,  THOMAS MILBURN JR @ 444 EASTOVER RD -  CHARLOTTE, NC 28207  Race:  W Sex: M  Refer To Citation  T1400672  Owner  @ 14002 E 21ST STE1500 - TULSA, OK 74134  19-4455  2213  Other -  LARCENY  INVESTIGATED / REPORT  TAKEN  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  (WIA 87] MAIN ST  Narrative:  Received, via fax, stolen article report from WCS regarding  a missing paix of Gucci Sunglasses valued at $150.00 and  bottle of perfume valued at $290.00.  Refer To Incident:  19-87-OF  For Date:  04/11/2019  ~  Thursday  19-4456  0229  Initiated -~ SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED 
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: [WIA 190] MAIN ST
+Unit: 31
+Arvd-17:28:29 Clrd-17:29:49
+Narrative:
+Checked 0152
+19-4450 1731 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SCHOOL ST
+Unit: 31
+Arvd-17:32:53 Clrd-17:34:57
+19-4451 1738 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMONDS RD
+Unit: 31
+Arvd-17:43:05 Clrd-17:45:16
+Narrative:
+Checked 0324
+19-4452 1804 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: IIENDERSON RD
+Unit: 38
+Arvd-18:05:09 Clrd-18:11:57
+Vehicle: BLU 2010 EOND CRV Reg: PC MA 331HY3 VIN: S5J6RE4H7XALO58886
+Operator: ZHANG, CHT @ 389 HENDERSON RD - WILLIAMSTOWN, MA 01267
+Race: A Sex: M
+Refer To Citation: T1401150
+owner: ZHANG, CH] @ 389 HENDERSON RD - WILLIAMSTOWN, MA 01267
+Race: A Sex: M
+19-4454 2132 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: SERGEANT DAVID R LEMIEUX
+lLLocation/Address: MAIN ST
+Unit: 31
+Arvd-21:33:02 Clxd-21:44:26
+Vehicle: GRY 2019 JEEP LL CMP BU NY JFN4454 VIN: 3CANJDCB7XT709697
+THOMAS MILBURN JR Reg: @ 444 EASTOVER RD NC 28207
+Operator: BELK, Race: W Sex: M - CHARLOTTE,
+Refer To Citation:
+I1400672
+Owner: @ 14002 E 21ST STE1500 - TULSA, OK 74134
+19-4455 2213 Other - LARCENY INVESTIGATED / REPORT
+TAKEN
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 87] MAIN ST
+Narrative:
+Received, via fax, stolen article report from WCS regarding
+a missing pair of Gucci Sunglasses valued at $150.00 and
+bottle of perfume valued at $290.00.
+Refer To Incident: 12-27 -0OF
+For Date: 04/11/2019 - Thursday
+19-4456 0229 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED

@@ -1,1 +1,44 @@
-Narrative  Checked  Narrative  Checked S$-4  16:09  Narrative  Checked S-4  22:01  Narrative  done  Narrative:  done  1959-14430  C827  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  SCHOOL 8ST  Unit:  36  Arvd-08:27:57  Cird-08:28:19  19+14431  0830  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  ELM ST  Unit  36  Arvd-08:30:25  Clrd-08:33:20  Narrative  Checked  5-4  16:29  Narrative  done  19-14432  0833  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  HALL ST  Location/Address  Unit  36  Arvd-08:34:01  Clyd-06:34:57  Narrative  Same vehicle  Narrative  Checked same  Narrative  Checked 5-4  16:17  Narrative  Checked §-4  22:14  Narrative  done  19-14433  0836  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker  PATROL TANIA HERNANDEZ  PINE COBBLE RD  Location/Address  Unit  36  Arvd-08:36:46  Clrd-08:38:01  Warrative  MA 7KS521 
+Narrative:
+Checked
+Narrak ve:
+Checked S-4 16:09
+Narrakive:
+Checked -4 22:01
+Narrative:
+done
+KarzratLive:
+donc
+19-14d4430 oB27 Initiated - PARKIKG CHRCK SERVICES RENDERED
+Call ‘'aker: PATRCL TANIA HERKANDEZ
+Location/Address: RCHOOT. 5T
+vnic: ip
+Arve-0B:27:a7 Clrd-68:26:19
+19-1423] 0830 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cazl Takur: PATRUL TANIA HERNANDEZ
+Lacaticn/Address: ELM BT
+anit: 3
+Arvd-08:30:25 Clrd-08:33:20
+Narrative: Checked S 4 16:20
+Narrativa:
+done
+1959-14432 a833 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: DATROL TANLAR EERNANDEZ
+Looazion/Acdreas: HALL 87
+Unit: 36
+Arvd-58:34:01 Clrd-08:34:57
+Marrative:
+Same vehicle
+karrative:
+Checked same
+Harrative:
+Checkec S54 “6:17
+Narrative:
+Checked 3JS-4 2Z2:14
+Narrative:
+done
+19-144313 083d Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCO™, TANIA HERNANDEZ
+PINE COBRIE RD
+tocation/Address: Unit: ie
+Arvd-Ng:35:46 Clré-06:38:01
+Narrative: MA TES5Z1

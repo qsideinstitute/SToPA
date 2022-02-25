@@ -1,1 +1,53 @@
-Vehicle:  GRY 2010 TOYT TACOMA Reg: PC MA 52MM24 VIN:  STEUU4ENGAZ6 81526  Operator:  YORKE, ADAM C @ 122 DEPOT ST - CHESHIRE, MA 01225-8913  Race:  W Sex:  M  Refer To Citation:  T17B6039  Owner ;  YORKE, ADAM C @ 122 DEPOT ST - CHESHIRE, MA 01225-8913  Race: U Sex: M  19-12741  0036  tnitiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/ SECURED  PATROLMAN SCOTT  SKORUPSKI  Call Taker  Location/Address  [WIA 107] MAIN ST  Unit  32  Arvd-00:39:06  Clrd-00:39:43  Vehicle  WHI 2001 LEXS 4D ES300 Reg: PC NY GXY13e88 VIN: JTS8BF28G615108355  Owner  WANG, ZIMING @ 1817 CENTRAL AV L Apt. #17 - ALBANY, NY¥ 12205  Race: J Sex: M  Narrative:  M/V¥ parked in the parking lot, unoccupied.  19-12742  0104  Initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/ SECURED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address  [WIA 240) COLE AVE  Unit  32  Arvd-01:05:06  Clrd-01:05:42  Vehicle  BLU 2007 TOYT YARIS Req: PC MA 158238 VIN; JTDJT923175123682  Owner  MADRIGAL,  KATHERINE ) @ 702 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267-  2318  Race: U Sex:  F  Narrative  M/V¥ parked in the parking lot, unoccupied.  19-12743  0107  Initiated - LIQUOR LAW VIOLATION  LOG ENTRY REQUEST  Call Taker:  PATROL KEVIN PF GARNER  Location/Address :  HOXSEY ST  Unit:  34  Arvd-01:512:45  Clrd-01:17:54  Narrative:  Student carrying open can of Busch beer. Advised about  future contact for same reason.  19-12744  0117  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  MICHAEL STRIZ2I  Call Taker  Location/Address  MORLEY DR  Unit  35  Disp-01:18:306  Arvd-01:18:36  Clrd-01:20:53  Narrative  WCSS reported fire works.  Narrative  Picked up two roman candles that were already fired.  Disposed of.  19-12745  0233  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  (WIA 390] SIMONDS RD  Unit  32  Arvd-@2:34:09  Clrd-02:34:13  Narrative 
+Vehicle: GRY 2610 TOYT TACOMA Reg: PC MA 52MM24 VIN: STEUIMENGAZEB81L2E
+Operator: YORKE, ADAM CC @ 122 DEPO™ 87 - CHESHTRE, Ma C1225-8913
+Race: BR Sex: M
+Refer Io Citation: T1736u39
+Oumner: YORRE, ADAM CC © Z22 DEPOT 57 - CHESHIRE, MA 01225-8213
+Race: U Bex: M
+156-1274L1 0038 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+Call Taxer: 2ATROLMAN S5COTT SKORUZSKI
+ocation/Address: WIA 307] MAIN o9—
+Jnit: 32
+Arvd-00:39:26 Clrd-00:39:43
+Vehicle: WHI 2001 LEXS 4D E5300 Reg: PC NY GXY138f VIN: JTSBF2BG615108355
+Owner: KANG, ZIMTNG @ 1817 CENTRAL AV 1, Ant. #17 - ALBANY, NY 12205
+Race: UU Eex: M
+Narrative:
+inn
+N/V parked Lhe parking lot, unoccunied.
+19-122742 0104 Initiated - BUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+Call Taker: FATROLMAN SCOTT SZORUPSKL
+Location/Address: ‘WIA 240) COLE AVE
+Jit: az
+Arvd-01:25:06 Clrd-01:05:42
+Vehicle: RI 2507 TOYT YARIS Reg: PC MA 1BA238 VIN: JIDJT923175123682
+Ouwrier: MADRIGAT, KATHERINE 9 @ 702 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01257-
+2318
+Race: U Sex: F
+Narrative:
+K/V parked ir the parkiza lot, unoccupied.
+15-1274] 3107 Initiated - LIOUOR LAW VIOLATION LOG ENTRY REQUEST
+Call Taxer: oATREOL KEVIH P GARNER
+Location/Address: HOXSEY ST
+nit: 34
+Arvd-01:22:45 Clrd-0i:17:54
+Narrative:
+Student carrying open can of Busch kesr. Advised about
+future contact for same reason.
+19-127444 0117 Phone - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Cull Taier: MICHAE: SIRIZZI
+Iocation/Address: MORLEY DR
+Unit: 35
+Disp-01:18:30 Arvd-01:18:36 Clrd-21:26:52
+Narrative:
+WCES reported fire works.
+Narrative:
+Picked up twee rowan candles that were already fired.
+Lizpbosed of.
+183-12748 0233 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: BATROLMAN SCOTT BKORUPESKL
+Location/Address: [WIA 390] SIMONDS RD
+init: az
+Arvd-02:34:09 Clrd-c2:24:13
+Narraltiwva:
+9

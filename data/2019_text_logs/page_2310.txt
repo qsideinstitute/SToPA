@@ -1,1 +1,47 @@
-LONGVIEW TER  Location/Address  Unit  34  Arvd-09:25:24  Clrd-03:25:36  Narrative  checked  Narrative  Checked  19-15693  0926  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  STRATTON RD  Unit  34  Arvd-039:26:30  Clrd-09:26:46  Narrative  checked  Narrative  Checked  19-15694  G926  initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  STRATTON ED  Unit:  34  Arvd-09:27:01  Clrd-09:38:39  Narrative:  checked  19-15695  0937  tnitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 333] CHURCH ST  37K  Unit:  Arvd-09:37:36  Cilrd-09:39:16  Narrative:  Checked.  19-15697  0343  Initiated - PARKING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  SPRING ST  Unit  34  Arvd-09:48:35  Clyr@-09-:51:11  Narrative  1595-15698  a952  Initiated - PARKING CHECK  SERVICES RENDERED  PATROL DAVID JENNINGS, D  Call Taker:  Location/Address:  PARK ST  Unit:  34  Arvd-09:51:57  Clrd-09:53:16  CITATION - WARNING  1939-15699  0957  Initiated - MOTOR VEHICLE STOF  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  BRIDGES RD  Unit  33  Arvd-09:557:32  Clrd-10:04:56  Vehicle  GRY 2014 SUBA ST IMPREZA Reg: PC MA 72B270 VIN: JF1IGPAD67E8267696  CARSON, REBECCA ANN @ 805 RIVER RD - CLARKSBURG, MA 01247-4607  Operator 
+Lacation/Rddress: LONGVIEW TER
+mit: aq Arvd-09:25:24 Clrd-05:25:36
+Narrative:
+checked
+Narrative:
+Checked
+19-1569313 09286 initiatad - BUILDING CHECK BUILDING CHECKED/SECURER
+Cal. Taxer: PATROL, DAVID JENKINGS, D
+Lazsation/Address: STRATTCN RD
+Unit: 34
+Arvd-09:28:30 Clrd-09:26:46
+Marrative:
+checksd
+Narrative:
+Checked
+19-156094 0926 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL DAVTR GENNINGS, ©
+Location/Address: ETRATTON RT
+Unik: 3a
+Arvd-05:27:01 Crd 05:38:33
+Xarrative:
+checked
+19-15695 0937 Initiated - BUILDING CHECK BUILDIRG CHECKED/SECURED
+Cu.l Taksx: LIFUTENANT MICHAEL J ZZEMBA Jr
+Location/Address: [WIA 333] CHURCH ST
+Unik: 37K
+Arvd-04y:37:368 Clrd-05:39:16
+Narralivo:
+necked.
+15-15697 1948 Initiated - PAREING CHECK BUILDING CHECKED/SRCURED
+Cal: Taker: PATROL DAVID JENNINGS, D
+Lecation/Address: SPRING ST
+Unit: 34
+Arvd-09:48:35 Clré-09:51:11
+Narrative:
+19-15698 a951 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL CAVID JENNINGE, b
+Loocasion/Aédrass: PARK 5T
+Unit: 34
+Arvd-59:51:87 Clrd-09:53:26
+19-15699 0957 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taksr: CHIEF XYLE J JOHRSON
+Location/Addéress: SRTOGES RD
+un.t: 33
+Arvd-03:57:32 Jlrd-10:04:56
+Vehicle: GRY 2014 SUBA 871 IMFREZA Reg: PC MA 72D270 VIN: JE1GUADETER2ATESE
+Operator: CARSON, REB®(CCA ANK « R05 RIVER RD - CLARKSBURG, MA 01247-4607

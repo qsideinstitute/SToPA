@@ -1,1 +1,52 @@
-19-14866  1522  Phone -  LARCENY  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 152)  COLD SPRING RD  Narrative:  Request to speak to officer regarding larceny from his  checking account.  Refer To Incident:  19-300-O0F  19-14868  1707  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  (WIA 406] SCHOOL ST  Umit:  32  Arvd-17:07:21  Clyrd-i7:07:34  19-14869  1i8i4  fnitiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  [WIA 249]  NORTH 8T  38  Unit  Arvd-18:14:45  Cird-18:16:42  Narrative  done  Narrative  11/28/2019 0050 Checked 523  19-14870  2236  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Cali Taker  PATROL KEVIN P GARNER  COLD SPRING RD  Location/Address  Unit  34  arvd-22:36:44  Clrd-22:44:27  Vehicle  GRY 2018 GMC U Reg:  PC PA KSA5850  Operator  MCCABE,  MICHAEL JOSEPH © 220 E.MERMAID LN - PHILADELPHIA,  PA 19118  Race: W Sex: M  Refer To Citation  T2085604  owner  ACAR LEASING LTD OF PA @ 4001 EMBARCADERO DR - ARLINGTON, TX  i3-14871  2337  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  STMONDS RD  Unit:  30  Arvd+23:37:35  Clrd-11/28/2019 @  00:17:19  Vehicle:  BLE 2009 PONT CO G5  Reg: PC MA SWxX693  VIN:  1G2AL18H197112746  Towed:  For: REVO/INSC By: RONS AUTO REPAIR  Operator:  MAYNARD, MITCHELL EVERETTE-JAMES @ 242 DEPOT  ST Apt.  #8 - BENNINGTON,  VT 05201  Race:  W Sex: M  Refer To Citation:  T2085788  Owner:  STARBIRD, KARA MAE © 67 RIVER ST 2ND FLOOR - N ADAMS, MA 01247-2407  Race:  WU Sex: F  Narrative:  Rons notified and enroute.  19-257-PR  Narrative:  Operator had valid insurance in hand seperate from that of  the insurance listed by RMV  ~  For Date:  11/28/2019  Thursday 
+19-148606 1522 Phone - LARCENY 8ERVICES RENDERED
+Call Taker: DISPATCHER ZLAJRIE TUPER
+Location/Address: ‘HIA 152) COLD SPRING RC
+Narrative:
+Request to mpeak ne officer regarding larceny from his
+checking account.
+Reter To Incident: 19-300-0F
+19-148868 1707 Initiated - PARKING CHECK SERVICES RENDERED
+Call “taker: PATROL BHUAM N WILLIMM
+Tocation/Adéreas: [WIA 468] SCHOOL ST
+nie: 32
+Arvd-17:07:21 Clrd-17:07:34
+19-148689 1814 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ceill Taker: PATRCL JCHN J MCCONKELL JR
+Loval.on/Address: [WIA 2423] NORTH 8ST
+Undic: 38
+Arvc-18:14:45 Clrd-18:16:42
+NHarraubLivoe:
+done
+Narrative:
+11/23/2019 0050 Checkad S3
+19-14870 2236 Initiated - MOTOR VEEICLE ST0P CITATION - WARNIKG
+Cal: Taker: BATROI. KEVIN 7 GARNER
+mocation/Address: COLL SERTNG RD
+Jait: 34
+Arvd-22:36:44 Clrd-22:44:27
+vehicle: URY 2018 GMT U Reg: FC Pha KSAS850
+Opexator: MCCABE, MICHAEL JOSEPH « 220 E.MERMAID LN - PIILADELPHIA, PA 13118
+Race: W Eex: M
+Refer To Citation: T2085G04
+Owner: ACAR LEASING LID OF PA @ 40021 EMBARCADERO DR - ARLINGTON, TX
+i9-14871 2337 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KALVIN DZIEDZZAK
+Location/Address: SIMONDS RL
+Unit: 30
+Arvd-23:37:35 Clrd-11/28/2019 @
+no:17:19
+Vehicle: BLK 2009 PONT CO Gb Reg: PC MA 8WX693 VIM: LCG2AL1BZ197.12746
+Towed: For: REVD/INSC By: HONS AUTO REPAIR
+Iperator: MAYNARD, MITCHELL EVERKPTR-JAMES 242 DEPOT ST Apt. #B - BENNINGLON,
+UT 05201
+Race: HW Sox: M
+Refer To Citaticn: T2oa57B8
+Cuwner: BTARB_RC, ZARA MAR R 67 RIVER ST 2ND FLOCR - HN ADAMS, MA 01247-2407
+Ruce: U Lex:
+Karrative:
+Fons nolLificed and enroute.
+j9-257-DPx
+Karrative:
+Operator ad valié insuranca in hand seperate from that of
+zhe insurance listed by RMV
+For Date: 11/28/2019 - Thursday

@@ -1,1 +1,54 @@
-19-14641  1225  $11 -  9-1-1 ABANDONED CALL  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  MAIN ST  Unit:  34  Enrt-12:30:05 Arvd-12:31:38  Clrd-12:32:38  Disp-12:30:00  Narrative:  Abandoned 911 call, tried calling back multiple times unable  to make contact.  Narrative:  Employees stated they did not dial 911. Nothing further  needed.  19-14642  1417  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  COLD SPRING RD  Unit:  34  Arvd-14:18:06  Clrd-14:33:54  49-14643  1433  Phone - TRAFFIC COMPLAINT  NO ACTION REQUIRED  Call Taker  PATROL ANTHONY M DUPRAT  MAIN ST  Location/Address  Unit  34  Enrt-14:34:56  Clrd-14:35:49  Disp-14:34:;32  Narrative  Town hall reporting 4 tractor trailer made a wrong turn and  is holding up traffic trying to back up at Field Park.  Narrative  Town hall called back to report tractor trailer made it out  and traffic is moving again.  19-14645  1459  Initiated -  TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  [WIA 333] CHURCH ST  Unit:  32  Arvd-14:59:56  Cird-15:15:;i1  19-14646  15325  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SPRING ST  Unit:  32  Arvd-15:16:08  Clrd-15:23:14  Narrative:  11/22/2019 1515 ~ Start  11/22/2019 1700 - no violations  19-4647  1521  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:22:13  Cird-15:27:30  1631  Phone -  ANIMAL CONTROL  SERVICES RENDERED  19-14648  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  MAIN ST  Unit:  32  Disp-16;34:25 Enrt-16;34:44  arvd-16:35:13  Clyrd-16:39:47  Narrative:  Reports receiving a call regarding finding a dog with a  harness on. They are where the cars park. CP attempted to 
+19-145641 Call 1225 811 - 9-1-1 ABANDONED CALL SERVICES RENDERED
+Taxex: ZATROL ANTEONY M AJPRAL
+Leeazion/Address: MAIN E81
+Uirit: 34
+Disp-22:30:00 Enrt-12:30:05 Arvd-12:32:38 Clzd 12:32:38
+Narrative:
+Abandoned 511 call, tried calling back multiple times unable
+to make contact.
+Narrative:
+Exployees stated they iid nok dial 911. Nothing further
+needed.
+19-146422 1417 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: EATROL BRAD SACCO
+Leacatlon/Address: COLE S2RING RO
+Unit: a4
+Arvid-14:18 1Ch Clrd-14:33:54
+1959-14643 1433 Phone - TRAFFIC COMPLAINT RO ACTION REQUIRED
+Call Taker: PATROL ANTHONY M DUPRAT
+Lorcation/Addrecs: MAZN EBT
+unit: 34
+Ciap-14:24:32 Eaxxrt-14:324:50 Clrd-14:35:49
+Narrative:
+Town hall a traclor trailer made a Lurn aad
+is reporting tratfic to back at Field wrong Park.
+holding up trying up
+Narrative:
+Town ha'l zallad back to report tractor trailer made it out
+end traffic is moving agali::.
+19-146645 1459 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+Cal Taker: PATROT. SEUAN N WTITLIAM
+Location/Address: [WIA 332] CHURCE BT
+Unit: 32
+Aryc-14:59 Clrd-15:18:11
+19-145646 1515 Initiated - PARKING CHRCK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SFRING 5T
+Unis: a2
+Arvd-15:16 1QR Clrd-.5:23:14
+Karracive:
+il/2272019 1515 « Starc
+11/22/2019 1700 - no vioclations.
+19-145647 1521 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location /Adéreas: PARK ST
+Unit: al
+Arvd 15:22: 13 Cird-15:27:20
+19-146458 1631 Phone - ANIMAL CONTROL SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Locztion/Address: MAIN ST
+Unit: 32
+Diap-16:34:25 BEnr:-106:34:44 Arvd--6:3E 13 Clrd-16:39:47
+Harrative:
+Reports receavine a call revarding [inoding a deg wikn a
+harness on. They are where the cars park. CF attempted to

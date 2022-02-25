@@ -1,1 +1,54 @@
-Narrative:  Party back at station to report that her neighbor continues  to lock RFP's cat in her home,  feed cat, put medicine on cat  and make false claims that RP is abusing cat.  LT. dgimeba advised of complaint.  1219-10602  1318  Phone - NOISE COMPLAINT  LOG ENTRY REQUEST  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 1090] CHURCH ST  Narrative:  Rose calling to report malicious activation of "alarm"  outside her doorway w/o her permission that was quickly  Silenced. Demanded police response to investigate. Advised  this would not happen,  there were many possibilities for the  alarm to briefly activate. Advised to contact housing  authority. Party appeared to be very unhappy with the fact  that thig was not a police or criminal matter.  19-10604  1406  Initiated - MOTOR VEHICLE STOP  CITATION  + WARNING  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address  LUCE RD  Unit  34  Arvd-14:06:02  Clyrd-14:17:42  Vehicle  GRY 2018 SUBA FOREST Reg: PC MA 2NWF41  VIN: JF2SJARC3JH486000  Operator  LACASSE, MARY A @ 738 RESERVOIR RD - N ADAMS, MA 03247-3759  Race;  W  Sex: F  Refer To Citation  T1786152  Owner  LACASSE, MARY ALICE @ 738 RESERVOIR RD - N ADAMS, MA 01247-3755  Race:  U Sex: F  19-10605  1521  initiated - MOTOR VEHICLE STOF  CITATION ~ WARNING  Call Taker  PATROL KALVIN DZIEDZTIAK  SAND SPRINGS RD  Location/Address  Unit  34  Arvd-15:21:47  Clrd-15:25:44  Vehicle  GRY 2019 FORD F250  Reg:  PC MA 7EL186  VIN:  LFTTW2BG3KECG5415  Operator:  BARAN, PETER V @ 12 POWERS ST - ADAMS, MA 01220  Race:  W Sex: M  Refer To Citation:  T1786153  Owner:  BARAN, PETER V @ 12 POWERS ST - ADAMS, MA 01220  Race: W Sex: M  19-10606  1625  Walk-In - LICENSE TO CARRY  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  31  Enrt-16:35:41  Arvd-16:37:18  Clrd-16:56:47  Disp-16:25:00  Narrative:  Party in for LTC.  19-10607  L647  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Cail Taker  PATROL KALVIN DZIEDZIAK  Location/Address  WATER ST  Unit  34  Arvd-16:48:01  Clrd-17:13:54  Vehicle  BLU 2915 JEEP RENEGA Reg: PC MA 797VF7  VIN: ZACNJBBBGKPK26633  Operator  MARTIN, TIMOTHY D @ 87 BRAYTONHILL TER - N ADAMS, MA 01247-3604  Race:  W Sex:  i  Refer To Citation:  T1786154 
+Narrative:
+Party back al slation to report that her neighaor continues
+tc lock RP's cal in her home, feed cat, put mediclne on cat
+and make false claims that RF is abusing cat.
+LT. Zimeba adviged of complaint.
+19-10602 1318 Phong - NOISE CONPLAINT LOG ENTRY REQUEST
+Call Taker: LIEJTENANT MICHAEL J ZIZMBA Jr
+Location/Address: [WIA 1390] CHURCH sv
+Narrative:
+Rose calling Lo report malicious activation of "alarm"
+cutside her doorway w/o her permission that was quickly
+silenced. Dowmanded police response to investigate. Advised
+Lhis would nolL happen, there were many possibilities fcr the
+alarm to brietly activate. Advised to cortact housing
+author-ty. Party appeared to be very unhappy with the Sact
+that this was not a police or criminal metcer.
+15-10604 1406 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATRON KATLVIN DEIEDZIAX
+mosation/adéresns: LJCE RT?
+Unik: 34
+Arvd-14:06:52 Clrcé-14:17:42
+Vehicle: GRY 2018 SUBA FOREST Reg: PC MA 2NWF41 VIN: JF2SJARCSJHABS5000
+Operator: LACASSEE, MARY A @ 738 RESERVOIR RD - K ADAMS, MA 01247-3759
+Race: W Sex: F
+Kuerler To Citation: T>786152
+Owney : LACASSE, MARY ALZCE @ 733 RESERVOIR RD - N ADAMS, MA 01287-3749
+Race: U Sex: F
+19-110605 1521 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call ‘Taker: PATROL KALVIK DZIEDZIAK
+Location/Address: EAND SPRINGE RD
+Jait: 34
+Arvd-15:27:47 Cird 15:25:44
+Vehicle: GRY 201.9 FOKI) F250 Rec: PC MA YELi®S VIN: I1FT7THZBE3IKECG3415
+Operator: BRRAN, PETER V @ 12 POWERS 81 - ADAMS, MA 01220
+Race: W Rex: M
+Refer To Citation: T1786153
+Owner: BARAN, PETER V @ 12 POWERS ST - ADAMS, MA 01220
+Race: W Sex: M
+19-130506 1625 Walk-In - LICENSE TO CARRY SERVICES RENDERED
+Call Taker: DISPATCHER TAURTE TUPFR
+Location/Address: [ATA 390] STMONDS RD
+nit: 21
+Niap-16:25:00 Enrt-16:35:41 Arvd-16:37:18 Clrd-16:56:47
+Narrative:
+Party ir Zor LIC.
+1595-10607 1647 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cal: Taker: PATROL KAIVTE DZIEDZTAK
+Location/Address: WATER 87
+Unit: 3a
+Arvd-26:48:02 Cird-17:13:54
+Vehicle: S20 2005 JEZ2 RENEGA Rug: PC MA 797VEF7 VIN: ZACKIBRBREKPK2662]
+Dpoeralbor MARTIN, TIMOTHY D @ B87 BRAYTCHIILL TER - N ADAMS, MA 51247-36504
+Rave: W Sex: M
+Refer "Mo Citation: 117865154

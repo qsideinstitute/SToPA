@@ -1,1 +1,54 @@
-149-12576  1604  Phone - SUSPICIOUS ACTIVITY  LOG ENTRY REQUEST  Call Taker:  PATROL KALVIN DZTEDZIAK  Location/Address;  (WIA 61] MAIN ST  Narrative:  Williams College Director of Security, a. contacted  the Williamstown Police Department regarding a male party  who was acting inappropriate.  states the maie party,  , was in the college gym facility calling people  names and swearing at students and staff members. Party will  likely be posted from by Williams College on 10/10/2019.  also centacted the WPD stating same and  has had reughly 6 similar interactions  with students and staff within the past 2-3 months.  i9-12578  1657  Initiated - DISABLED M V  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  {WIA 109]  MAIN ST  Unit  a2  Arvd-16:58:14  Cird-16:59:03  Vehicle  RED 2015 SUBA ST OUTBAC Reg:  PC MA 2LR983 VIN: 4S4BSEJC8F3341500  Owner  CRAGG,  MELISSA D @ 981 OBLONG RD - WILLIAMSTOWN,  MA 01267-3030  Race:  U Sex: F  Narrative:  10/09/2019 1657 - Party has a flat tire, jack collapsed  under vehicle. AAA notified and enroute. Given options if  they do not show up in timely manner.  19-12581  L704  $11 -  9-1-1 WRONG NUMBER  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZTEDZIAK  Narrative:  Accidental 911 call from jogger. Upon answering 911 call  system froze and network status went offline. 911 call was  then rolled over to North Adams.  Help desk notified.  Ticket number-  63520  1727- Help desk states due to departments new location  second 911 circuit has been delayed and is net active yet.  Department currently running on one circuit which  momentarily crashed at the same time as the $11 call.  System active and back online.  19+12579  1722  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  [WIA 910] TACONIC TRL  Unit  38  Arvd-17:22:20  Cird-17:23:07  Narrative  done  19-12580  1723  Initiated - BUILDING CEECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  (WIA 190] MAIN ST  Unit:  32  Arvd-17:23:093  Clrd-17;23:415  Narrative:  10/09/2019 2342 Checked $3  1$-12582  1739  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+19-125746 1604 Phone - SUSPICIOUS ACTIVIULY LOG ENTRY REQUEST
+Ce:]l Takar: PATROY, KATNN DZTEDZ LAK
+Location/hddress: [WTA 61] MATN 3T
+Narra<ive:
+#illiame College vireccor of security, |. vntecied
+the wWillicamgtown Pollce Deparimenl regarding a ma-e party
+whe was auvting insppropriate. JJJf states the maie party,
+, was in the college gym facility callinc people
+names and swearing at stucente amd staff members. Farty will
+likely be posted from by Williams College on 10/10/2019.
+a sn centacted the WPL rRtat'ng same and
+reporting that has had *aighly similar intervactions
+with students and staff within tie nast 2-2 months.
+19-125878 16587 Initiated - DISABLED M V SERVICES RENDERED
+Call Taker: PATRCL BIIJAN H WILLILM
+Location/Address: |WIA 1.9) MAIN ST
+Unis: a2
+Arvd-16:58:14 Clrd-16:59:23
+Velic_e: ED 20.5 SUBA ST OUTDAC ZReqg: PC MA 2LRT83 VIN: 484RBSECCBr3341500
+Cvmer: CRAGG, MELISSA L @ 982 DBLCNG RD - WILLIAMSTOWN, MA C12¢7-3030
+Rage: U Sex: F
+Xarrative:
+10/29/2015 1657 - Party as a fat tire, jack coilapsed
+under vehicle. AAA notified and enroute. Given options -
+they do not shew up ‘nn timely manncr.
+19-112581 1704 211 - 9-1-1 WRONG NUMBER SERVICES RENDERED
+Jall Take>: ZAT0L KALVIN DZIZTZIAK
+HNarrat-.ve:
+Accideztal 9:1 call from jogger. Upon answering 911 call
+svstem froze and netwcrk status went offline. 9.1 call was
+then rolied over to Ncrth Adams.
+Help desk notified.
+Ticket mirber- 3523
+1727- Fe_p desk states cue tc departments new locaticn
+gagend 271 aircult has heen de_ayed and 1s not active
+oirecuit which yet.
+Lapartmet currently nutning on one
+momentarily crashed at the same time as the 211 eall,
+Yysten active and back cnline.
+15-12579 1722 Initiated - HUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL (JOHN J MCCONHELL JR
+Tacation/Address: [WIA 91c] TACCH-C TRL
+nit: 3E
+Arvd-17:22:20 21lrd-"7:23:07
+Narroazive:
+done
+19-12580 1723 Initiated - BUILDIKG CHECK SERVICEE REHLERED
+Ca_l Taker: PATROL ZHUAN N WILLIAM
+location/Address: [WIA 1953] MAIN 1
+Tnit: iz
+Aovwd 1V:23:08 Cxd-17:23:12
+Harrazive:
+10/05/2019 2342 Chuched S3
+15-12582 1739 Initiated - BUILDING CHECK BUILDING CHECKRD/SHCURED

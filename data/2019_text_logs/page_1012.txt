@@ -1,1 +1,54 @@
-19-6736  1730  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  SIMONDS RD  Unit  38  Arvd-17:31:33 Clrd-17:32:09  Narrative  Checked 0311  19-6737:  1740  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  call Taker  PATROL JOHN J MCCONNELL JR  NORTH HOOSAC RD  Location/Address  Unit  38  ArvG-17:40:40 Clird-17:47:33  Vehicle  BLK 2006 HOND SE CIVIC Reg: PC MA 7WL718 VIN: 2HGPA15576HS17691  Operator  POLITIS, LIAM CEDRIC @ 1254 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267-  0000  Race: W Sex: M  Refer To Citation  71785239  Owner  POLITIS, GARRETT A @ 1254 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267-  2317  Race: U Sex: M  19-6738  i759  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SCHOOL ST  Unit:  38  Arvd-17:59:30 Clrd-18:06:01  19-6739  1934  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  ‘Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  (WIA 190] MAIN ST  Unit:  38  Arvd-19:35:04  Cird-19:35:52  Narrative:  Checked 0122  19-6740  2040  Walk-In - PUBLIC SERVICE  LOG ENTRY REQUEST  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  (WIA 177] MAIN ST  Vehicle:  2011 TOYT 4D PRUIS Reg: PC NC HAC9349 VIN: JTDKN3DU0B0283916  Narrative:  Party, hiking the App. trail, in need of a place to park  from thursday to sunday. Will be catching a bus at the Inn.  Inn will not allow him to park there due to Williams  Graduation, Officer gave permission for him to park at the  Library.  Narrative:  Library staff advised.  19-6741  2056  Phone - TRAFFIC COMPLAINT  CRIMINAL COMPLAINT  1  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  COLE AVE  Unit:  35  Disp-20:56:00  Enrt-20:56:58 Arvd-21:05:02 Clrd-21:46:56  Unit:  38  Disp-20:56:00 Enrt-20:56:58 Arvd~-21:05:12 Clrd-22:00:42  Vehicle:  BLK 2013 HOND 4D FIT Reg: PC VT ERW980 VIN: JHMGE8H31DC024274 
+19-6736 1730 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SIMONDS RD
+Unit: 38
+Arvd-17:31:33 Clrd-17:32:09
+Narrative:
+Checked 0311
+19-6737 1740 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: NORTH HOOSAC RD
+Unit: 38
+Arvd-17:40:40 Clrd-17:47:33
+Vehicle: BLK 2006 HOND SE CIVIC Req: PC MA 7WL718 VIN: 2HGFA15576H517691
+Operator: POLITIS, LIAM CEDRIC @ 1254 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267-
+0000
+Race: W Sex: M
+Refer To Citation: T1785239
+Owner: POLITIS, GARRETT A @ 1254 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267-
+2317
+Race: U Sex: M
+19-6738 1759 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SCHCOL ST
+Unit: 38
+Arvd-17:59:30 Clrd-18:06:01
+19-6739 1934 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: [WIA 190] MAIN ST
+Unit: 38
+Arvd-19:35:04 Clrd-19:35:52
+Narrative:
+Checked 0122
+19-6740 2040 Walk-In - PUBLIC SERVICE LOG ENTRY REQUEST
+Call Taker: DISPATCHER LAURIE TUPER
+Localion/Address: [WIA 177) MAIN ST
+Vehicle: 2011 TOYT 4D PRUIS Reg: PC NC HAC9349 VIN: JTDKN3DUOB0283916
+Narrative:
+Party, hiking the App. trail, in need of a place to park
+from thursday to sunday. Will be catching a bus at the Inn.
+Inn will not allow him to park there due to Williams
+Graduation. Officer gave permission for him to park at the
+Library.
+Narrative:
+Library staff advised.
+
+19-6741 2056 Phone - TRAFFIC COMPLAINT CRIMINAL COMPLAINT
+1
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: COLE AVE
+Unit: 35
+Disp-20:56:00 Enrt-20:56:58 Arvd-21:05:02 Clrd-21:46:56
+Unit: 38
+Disp-20:56:00 Enrt-20:56:58 Arvd-21:05:12 Clrd-22:00:42
+Vehicle: BLK 2013 HOND 4D FIT Reg: PC VT ERW980 VIN: JHMGESH31DC024274

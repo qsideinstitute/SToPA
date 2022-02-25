@@ -1,1 +1,52 @@
-PINE COBBLE RD  Location/Address  unit  37K  Arvd-13:34:14  Clrd-13:34:53  Narrative  Checked 9$§-4  17:16  Narrative  < cars, no damage  19-9951  1346  Walk-in - FOUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SPRING ST MUNICIPAL LOT  Narrative:  RP in station with a lost wallet. Gray leather bi-fold  female wallet,  with $102.00 cash. Attempt to locate owner,  unsuccessful at this time.  i9-142-PR.  18~-S052  1348  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  LUCE RD  Unit  35  Arvd-13:48:05  Clird-13:58:295  Vehicle  BRO 2012 CHEV EQUINO Reg: PC MA 113LF0  VIN: 2GNFLNES2C6262494  Operator  SENAY, ROBIN M @ 244 NOTCH RD - N ADAMS, MA 01247-0000  Race:  W Sex: F  Refer To Citation:  T1785635  Owner:  SENAY,  ROBIN M @ 244 NOTCH RD - N ADAMS, MA 01247-0000  Race:  W  Sex:  F  19-9053  1451  Phone - MOTOR VEHICLE ACCIDENT  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  COLD SPRING RD  Unit  35  Disp-14:52:10  Enrt-14:52:;22  Arvd-~14;:59:34  Clxyed-415:12:57  Vehicle  GRY 2015  SUBA SE IMPREZ Reg: PC MA SSKBEO  VIN: JFIGJAAG3FHOO9795  CAROLLO,  SEAN A @ 322 NORTH ST - WILLIAMSTOWN, MA 01267  Operator  Race:  W  Sex: M  Owner  CAROLLO,  SEAN A @ 322 NORTH ST - WILLIAMSTOWN, MA 01267  Race:  W  Sex: M  Narrative  MV vs Deer.  Deer still alive  Narrative  Deer had to be put down.  Refer To Accident:  19-87-AC  29-9054  1507  Initiated ~- PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:07:55  Cird-15:11:49  19-9055  1568  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL DAVID JENNINGS, DB  Location/Address  SPRING ST  Unit  34  Arvd-15:08:16  Clrd-15:11:49  Narrative  4 violations 
+Iotation/Address: PINE CUHBLS RD
+Unit: JK
+Arvd-_3:34:14 Clré-12:34:53
+Narrative:
+Chacked 5-4 17:16
+Narrative:
+2 Cars, Ino damage
+19-9051 12346 Walk-In - FOUND/ LOST PROPERTY SERVICES RENDERED
+Cal, Terex: FATZOL SIIUAN KN WILLIAM
+Loval on/Address: SPRING ST MUNICIPAL LCT
+Harrative:
+RP in statior with a 128t wallet, Gxzy leather bi-fold
+female wallez, with S102.03 cash. Attempt to locate owner,
+unsuccessfu’. at this time.
+19-14:-P3,
+15.5052 1348 Initiated - MOTOR VEHICLE STQ®P CLTATION - WARNING
+Carl Taker: PATROL BRAC SACCOD
+Localicen/Addresds: LJJE RO
+Unik: 35
+Arve-12:48:05 OCIrd--—3:58:23
+Vehicle: BRO 201: CHEV EQUINO <xeg: g FO Ma T15LFO0 VON: ZGNFTNES2CE262454
+Operator: SEKAY, ROBIN M # 244 NOTCH RD - N ADAMS, MA 01247-0000
+Race: W Sex: F
+z2fer To Citazion: 1. 8bESn
+wmnar: SENAY, "ORTH M w 214 NOTCH RD - N ADAKS, MA Ql247-0003
+Race: § Bex: F
+19-9053 1451 Phone - MOTOR VEHICLE ACCIDENT SERVICES RENDERED
+Tall Takar: DTBPATHERR TAURTE TL PER
+Location/ndéresa: Z0LD SPRING RD
+Unit: a>
+idp 14:52:10 Surlk14:52:22 Arvd 14:56:34 Clrzd 15:12:57
+Vehicle: GRY 2015 SULA SZ IMSREZ Jey: PI MA S58KD60 V_H: JF1GJAAG3FI002795
+Cperator: TARDLLO, SEAN A 322 NORTH ST - WILLIAMSTOWN, MA 0lzZ67
+Raca: W Sex: M
+Owrler : CAROLLO, SZ A § 322 NORTH ST - WILLIAMSTOWN, MA 01zZ67
+Rage: W Sex: M
+Kurrative:
+MY vs Deer. Deex sti_l zlive
+Narralive:
+Deer had 0 be pu. down,
+Relar To Ace den: 9 27 AC
+19-9054 1307 Initiated - PAREING CHECK RENDERED
+Cal. Texer: SERGEANT DAVID BR LEMIEDX SERVICES
+—ocation/Address: Jeit SARK 3T
+31 Arvd-15:07:55 Clrd-15:13:4¢
+15-5085 1508 Initiated FARKING CHECK BEERVICES RENDERED
+Call Takor: PETROL DAVID - JENKINGS., DI
+Loculicn/addreny SPRING ST
+Unil: : 34
+Arve-15:00:16 Z_rd-:15:11:49
+Narrative:
+4 violations

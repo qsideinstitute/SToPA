@@ -1,1 +1,52 @@
-19-3752  1501  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:03:32  Clrd-15:07:32  Narrative:  No violations  19-3753  1515  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SPRING ST  Unit  32  Arvd-15:15:51  Clird-15:21:01  Narrative  03/27/2019 1515 ~ Start  ;  03/27/2019 1700 - 1 violation  19-3754  1539  Walk-In - PUBLIC SERVICE  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 249] NORTH ST  Unit:  31  Disp-15:41:55  Arvd-15 :41:59  Clr@-16:08:25  Narrative:  Party stopped in requesting to speak to officer regarding  getting personal property back from his estranged  girlfriend.  1545 Message lef  phone to contact PD.  No contact with  ; RP advised.  19-3756  1701  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  [WIA 406] SCHOOL ST  Unit:  32  Arvd-17:01:45  Clrd-17:03:41  19-3757  1727  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SIMONDS RD  Unit  ad  Arvd-17:28:28  Clrd-17:29:31  Narrative  Checked Area.  19-3758  1802  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  {WIA 190] MAIN ST  Unit  31  Arvd-18:03:10  Clrd-18:03:45  Narrative  done  Narrative  Checked Area.  19-3759  1857  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  BRIDGES RD  Unit:  32 
+19-3752 Call 1501 Initiated - PARKING CHECK SERVICES RENDERED
+Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:03:32 Clrd-15:07:32
+Narrative:
+violations
+19-3753 1515 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SPRING ST
+Unit: 32
+Arvd-15:15:51 Clrd-15:21:01
+Narrative:
+03/27/2019 15315 - Start
+03/27/2019 1700 - 1 violation
+19-3754 1539 Walk-In - PUBLIC SERVICE SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 249] NORTH ST
+Unit: 31
+Disp-15:41:55 Arvd-1E:41:59 Clrd-16:08:25
+Narrative:
+Party stopped in requesting to speak to officer regarding
+getting personal property back from his estranged
+girlfriend.
+1545 Message left on phone to contact PD.
+No contact with . RP advised.
+19-3756 1701 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 406] SCHOOL ST
+Unit: 32
+Arvd-17:01:45 Clrd-17:03:41
+19-3757 1727 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMCNDS RD
+Unit: 31
+Arvd-17:28:28 Clrd-17:29:31
+Narrative:
+Checked Area.
+19-3758 1802 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R I.FMIEUX
+Location/Address: [WIA 190] MAIN ST
+Unit: 31
+Arvd-18:03:10 Clrd-18:03:45
+Narrative:
+done
+Narrative:
+Checked Area.
+19-3759 1857 Initiated - MOTOR VERICLE STOP
+CITATION - WARNING
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Adcress: BRIDGES
+Unit: 32 RD

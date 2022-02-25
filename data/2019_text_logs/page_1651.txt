@@ -1,1 +1,55 @@
-19-11706  03947  Phone - SERVE WARRANT  UNABLE TO SERVE  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  MAIN ST  Unit  35  BDisp-09:57:00 Enrt-10:04:25 Arvd-10:10:45  Clyd-10:14:05  Unit  37K  Disp-09:57:00 Enrt-10:04:27 Arvd-10:10:37  Clrd-10:13:01  Marrative  Involved party not at work. Another worker stated party  received a phone call that we were looking for him and he  left ta go to the police department. Detail officera will  keep us posted if involved party returns.  1024 Involved party turned himself in. Per Berkshire  Control.  19+11705  0955  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  [WIA 333] CHURCH ST  Location/Address  Unit  37K  Arvd-09:56:04  Clrd-09:56:27  Narrative  Checked  19-1707  1023  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  SPRING ST  Unit:  35  Arvd-10:24:32  Clrd-10:34:23  Narrative:  1 Violation  1939-11708  1038  Initiated - PARKING CHECK  SERVICES RENDERED  PATROL ANTHONY M DUPRAT  Call Taker:  Location/Address:  PARK ST  Unit:  35  Arvd-10:39:03  Clrd-10:47:49  Narrative:  3 Violations.  1415-11710  1117  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker  ALL EQUIPMENT POLICE DEPARTMENT  Location/Address  NORTH HOOSAC RD + SUMMER ST  Unit  30  Cird-11:19:43  Disp-11:18:31  Unit  35  Enrt-11:19:37  Arvd-11:21:07  Clrd-11:49:41  Bisp-11:39:36  Unit  20  Disp-11:20:41  Enrt-11:20:52  Arvd-11:35:35  Clrd-11:55:47  Narrative  Disoriented person needs help getting home  Narrative  Party has early stages of dementia. Daughter has been  contacted and is aware of the situation, and in the process  of getting her mother into a home within the next month. As  of now she has assisted living coming every week day in the  afternoon to help care for her.  19-11711  2119  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+19-11706 0947 Phone - BERVE WARRANT UNABLE TO SERVE
+Call Taker: DISPATCHER WiLL1AM C JENNINGS JR
+Tocation/nddreas: MAIN Sr
+Unit: ch
+Digp-09:87:00 Earkb-10:04:25 Arvd-10:10:45 Clxd 10:14:05
+Unis: 37K
+Disp-09:57:03 Enrt-10:04:27 Arvd-16:10:37 Clrd-10:13:01
+Marracive:
+Tnvolved party not as work. Another worker stated parry
+received a phone call that we were Leoking for him and he
+eft to go ro the police dsparement. Devail offlcersa will
+keep us pasted ‘ff involved party returns,
+1024 Involved party turned himself in. Per Serishire
+Cecntrol.
+35-11705 0555 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: LIRUTENANT MTCHAXL  ZIEMBA Jr
+Toacation/hddress: [VTA 333] CHURCH ST
+Unit: 37K
+Arvd-09:56:04 Clrd-32:56:27
+Narrative:
+Checked
+19-111707 1023 Initiated PARKING CHECK SERVICES RENDERED
+Call Taker: PATRCL ANTHONY - M CUPRAT
+Location/Address: SPRING ST
+Unil:
+35
+Cord 10:34:22
+Narrative:
+1 Viclation
+1353-11708 l038 Inikiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL ANTHONY M DUPRAT
+Local lon/Address: DARK ST
+Jit: i5
+Arvd-10:39:03 Cl»d-10:47:49
+Narrative:
+3 violatzons.
+1989-11710 1117 Phone - SUSPICIOUE ACTIVITY SERVICES RENDERED
+Ca:l Taker: ALL EQUIPMENT POLICE DEPARTNENT
+Locaticn/Address: HORTH HCOSAC RD + SUMMEH SU
+Unil: 30
+Cisp- 1:18:31 Clrd-11:19:43
+nit: a5
+Disp-11:19:36 Enrt-11:19:37 Arvd-11:21:07 Clrd-11:49:41
+Unik: 30
+Disp-11:25:41 Enrt-11:20:52 Arvd-11:35:35 Clrd-11:55:47
+Narraziva:
+Disorienzed pexson needs hely gztting hune
+Narrazive:
+Party has early stages of dementia. Daughter has been
+contacted ané is aware of the situatien, and in the process
+of getting her mother into a home within the next month. As
+af now she has assisted living coming weex day in the
+afrerccon to for her. every
+help care
+1989-11711 1119 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

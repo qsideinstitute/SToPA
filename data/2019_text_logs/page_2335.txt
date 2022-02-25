@@ -1,1 +1,47 @@
-Narrative:  checked  Narrative:  Checked  19-25850  0850  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  LONGVIEW TER  Unit  34  Arvd-08:51:01  Clyd-08:52:15  Narrative  checked  Narrative  Checked  19-1585  0852  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  STRATTON RD  Unit  34  Arvd-08:52:43  Clrd-08:53:06  Narrative  checked  Narrative  Checked  19-35852  0925  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  34  Arvd-09:25:19  Clrd-09:26:06  Narrative  Checked S-4  15:25  Narrative  Checked  BUILDING CHECKED/SECURED  1219-15853  03928  Initiated - BUILDING CHECK  Call Taker  PATROL BRAD SACCO  Location/Address  HAWTHORNE RD  Unit  34  Arvd-09:28:48  Clrd-09:29:05  Narrative  checked  Narrative  Checked  19-15854  0933  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  PETERSBURG RD  Unit:  34  Arvd-09:33:49 Clrd-09:44:01  Vehicle:  BLE 2018 DODG TK RAM  Reg: PC VP 3248961 VIN: 3C6UR5DG0JG174890 
+Narrative:
+checked
+Narrativa:
+Checked
+l18-15880 2850 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cali: Taxer: PATROL BRAD SACTO
+Lezarion/Address: LONGVIEW —ER
+Unit: 34
+Arvd-08:51:01 Clrxd-yd:b1:15
+Narrakives:
+checked
+Narral.ve:
+Checked
+19-15851 0852 Injtiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Locetion/Addrees: STRATTON RD
+Unit: 34
+Arvd-08:52:43 Z.rd-0B:L3:05
+Narrative:
+checked
+Karrative:
+Checked
+19-1i5852 0925 Initinted - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/nddress: COLD SPRING RD
+Untt: a4
+»wd-04:25:19 Clrd-9:26:06
+Narrative:
+Checked 8- "5:25
+Narrative:
+Chocked
+19-1585313 0528 Initliatad - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taher: PALROL SRAD SACCC
+Location/Address: SIANTHORRE HD
+nat: 34
+Arvd-09:2B:48 Clxd 03:22:05
+Narrazive:
+checked
+Narra-ive:
+Checked
+0833 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+15-15854
+PATROL BRAL SACCO
+Cal Taker: PETERSBIURC RD
+“ncaticn/Address: Unit: ag
+Arva-09:33:49 Clrd-05:44:01
+Vehicle: BLK 2018 DODG TK RAM Reg: 2C VT 324A9M1 VIK: 2CeURSDI0JG174820

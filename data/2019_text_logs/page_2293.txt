@@ -1,1 +1,54 @@
-19-A15566  2253  Other -  TRESPASS  LOG ENTRY REQUEST  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  (WIA 61] MAIN ST  Narrative:  No trespass order for involved party all of campus.  Filed in book  For Date:  12/17/2019  ~  Tuesday  19-15568  0347  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKT  Location/Address:  [WEA 390] SIMONDS RD  Unit :  32  Arvd-03:47:17 Clrd-03:47:22  19-15570  0418  Initiated - ROAD CONDITIONS  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  NORTH HOOSAC RD  Unit:  a2  Arvd-04:18:46  Clrd-04:19:58  Narrative:  Roads are becoming snow covered and slippery. Dispatch to  notify DPW.  contacted and will get crews out.  19+15572  0753  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-143-Ac / emailed.  19-15573  0922  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  (WIA 1488] HANCOCK RD  Unit  39  Enrt-09:23:43  Arvd-09:32:10  Clrd-10:44:52  Disp-09:23:37  Vehicle  BLK 2013 FORD EDGE Reg: PC MA 3VC967 VIN: 2FMDK47C8DBCS4758  Towed  For: ACCIDENT By: RONS AUTO REPAIR To: RONS TOWING  Operator  SCHOORLEMMER,  ETHAN JAMES @ 585 HANCOCK RD ~ WILLIAMSTOWN, MA 01267  Race:  W Sex:  M  T2085378  Refer To Citation  Owner  SCHCORLEMMER ,  PATRICK W @ 585 HANCOCK RD - WILLIAMSTOWN, MA 01267  Race:  W Sex: M  Narrative  One car in a ditch, no reported injuries. across from  address.  Narrative  Ron's and NBEMS requested.  Narrative  Ron's and Unit 7 enroute.  Narrative:  Ron's On Scene.  Refer To Accident:  19-168-AC  19-15575  0937  Initiated - TRESPASS  LOG ENTRY REQUEST  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 108] NEW ASHFORD RD  Unit:  37K  Arvda-09:37:27  Clrd-09:39:26 
+19-15566 22583 Other - TRESPASS LOG ENTRY REQUEST
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: [AIA B1: MATN ST
+Narrative:
+No trespass oxder for involved party all of campus.
+Filed in book
+Fox Date: 12/17/2019 - Tuesday
+19-15568 0347 Initiated - PARKING CHECK BERVICES RENDERED
+Call Tazer: PATROLMAN SCOTTI SKORUESKI
+Location/Address: [WzA 390] STMONDS RD
+ik: 32
+Arvd-03:47:17 Clrd-03:47:22
+19-158570 0418 Initiated - ROAD CONDITIONS SERVICES RENDERED
+Cali Taker: FATROLNMAN SCOTT SXORUZSk.
+Tonation/aAddress: NORTH HOO0SAC RD
+Unit: 32
+Arvd-04:12:46 Clrd-04:19:58
+Narrative:
+Roads are becoming snow covered and alippery. Dispatch to
+notiZy DEX. [NNER contucted and will get crews ont.
+15-15572 0753 Other - PUBLIC RECORDS REQUEST SERVICEE RENDERED
+call Taker: CHIZF KYLE J JOHNSON
+Narrative:
+Requesting 19-142 AT / cmailed.
+19-155573 0922 Phone - MOTOR VEHICLE ACCIDENT INVRSTIGATED / REPORT
+TAKER
+Call Taker: DISPATCHER CHRISTINE LEHCINE
+Locztion/Adéress: [WIA 1488: HANCOCK RD
+Unic: 30
+Jisp-09:23:37 Enrc-05:23:43 Arvd-02:32:10 Clrd-20:44:52
+Verio e: 5LK 2013 FORD ERSF Reg: PC MA 3VO967 VIN: 2FMDK4JCBDBC94758
+Towed: For: ACCIDEET ®"y: RCNS AUZO REFAIR To: RONS TOWING
+Cparalor: SCHOCRLETMMER, WTHAN JAMES ® 385 HANCOCK XD - WILLLAMSTOWN, MA 01267
+Race: W Sex: M
+Rafer To Citation: ‘T2085378
+Owner: SCHOORLEMMER, PATRICK W § 585 HANCCCK RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+Narrative:
+Ona car in a ditch, no rcported Znjuries. across frem
+address.
+Harrative:
+Ron's and NBEMS reguested.
+NarzralLive:
+Ron's and Unit 7 anroute.
+Narrative:
+On Scena.
+Ron's
+Reler Aocidont:
+To 19-168-AC
+LOG ENTRY REQUEST
+19-1557 0937 Initisted - TREBPABE ZISMBA
+(all Taker: LIEUTENANT MICHAZL J Jr
+Location/Address: [WIA 108] NEW ASHFORD RD
+Unit: 37K Arvd-09:37:27 Clré-09:39:26

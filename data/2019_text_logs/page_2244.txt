@@ -1,1 +1,50 @@
-19-15229  O746  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  GALE RD  tmit  30  Arvd-07:46:34  Clrd-07:59:35  Unit  32  Disp-14:55:23  Enrt-14:55:27 Ayvd-25:03:26  Clrd-15:14:53  1419-15230  0749  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  [WIA 1832] NORTH HOOSAC RD  Unit:  36  Arvd-07:49:56  Cird-07:50:47  Narrative:  Checked  Narrative:  checked  Narrative:  done  Narrative:  checked  Narrative:  Checked 2351  Narrative:  Checked 6322  19-15231  0806  initiated - BUELDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  ELM ST  Location/Address  Unit  30  Arvd-08:06:28  Clrd-068:07:24  Narrative  Checked 0117  19-15233  0812  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLE AVE  30  Unit:  Arvd-08:  12:50  Cird-06:33:04  SERVICES RENDERED  19-15234  0817  Initiated - TRAFFIC CONTROL  Call Taker:  PATROL TANITA HERNANDES  CHURCH ST  Location/Addresa:  [WIA 333]  Unit:  36  Arvd-08:  18:13  Cird-08:36:40  Unit:  38  Disp-15:00:10  Enrt-15:00:17  Arvd-15:  06:49  Clrd-15:16:18  19-15235  0835  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT EF MCGOWAN  Location/Address  PINE COBBLE RD  30  Unit  Arvd-08:  35:49  Clrd-08:36:12  Narrative 
+19-152289 D746 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MOGUWAN
+Local ion/Address: GALE RD
+unit: ig
+Arvd-0T7:46:: Clrd-07:59:35
+Unik: a2
+Disp-14:55:23 EnrL-14:55:27 Arvd-15:03: 26 Clrd-15:14:53
+19-152330 0745 Initigted - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tazer: PATROL TANIA HERKANDEZ
+Location/Address: [WIA 1832] NORTH HOOSAT RD
+Unit: 36
+Brvd-07:49:¢ Clrd-07:50:47
+Nerracive:
+Checked
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+checked
+Karrative:
+Chackad 2351
+NYarrative:
+Checked 0322
+1595-15231 pEds Initiated - BUILDINZ CHECK BUILDING CHECKED/SECURED
+Call Taker: SIRGEAN. SCOTT  MCGONAN
+Location/Address: ELM ST
+nit: 30
+Arvd-0B: 0G: Clrd 03:07:24
+Narraktiva: Crecked
+0117
+SERVICES RENDERED
+19-152313 9812 Initiated - TRAFFIC CONTROL
+Call Taxer: SERGEANT BCOIT BR MCGOWAK
+Ioczarion/hddress: COLE AVE
+Uait: 30
+Arvi-08: 2: 50 Clre 06:33:0
+19-152234 0817 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+cali Taker: PATROL TANIA HERNANLSZ
+Location/Address: [#IA 333] CHURCH 8T
+Unit: ae
+Arvd-08: Clré-06:30:40
+uUnikt: a8
+Tisp-15:00:10 Enrt-15:00:17 Arvd-15: OR 49 Clrd-15:16:20
+19-158235 0835 Initiated - BUILDING CEECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCCTT E MCCOWAN
+Location/néd ess: PINS COBBLE RD
+unit: E11
+Arvi-08: Clrd-08:36:12
+Harrakive:

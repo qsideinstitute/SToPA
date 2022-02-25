@@ -1,1 +1,47 @@
-Narrative:  11/22/2019 0057 Checked $3  Narrative:  11/22/2019 0338 Checked $3  19-14582  07490  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  GALE RD  Unit  37K  Arvd-07:40:52  Clrdg-07:55:29  38  Unit  Disp-15:03:58 Enrt-15:04:01 Arvd-15:06:53  Cird-15:18:49  19~+14583  0741  initiated - BUILDING CHECK  BUILDENG CHECKED/ SECURED  Cali Taker  PATROL TANIA HERNANDEZ  Locat ion/Address  PINE COBBLE RD  Unit  a6  Arvd-07:42:07  Clrd-67:42:29  Narrative  Empty  Narrative  MA 4KT799 -  16GT01  Narrative  empty  Narrative  empty  Narrative  11/22/2015 0014 Checked $3  Narrative  Checked, no vehicles.  0341.  19-14584  O74?  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  HARWOOD ST  Location/Address  Unit  36  Arvd-07:48:12  Clrd-07:49:22  Narrative  checked  Narrative:  Checked 0118  19-14585  0751  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  LONGVIEW TER  unit  36  Arvd-07:52:40  Clrd-07;:59:48  36  Unit  Disp-08:00:412  Arvd-08:00:48  Clrd-08:05:26  Narrative  checked  19-14586  o759  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED 
+Narrative:
+11/22/2019 0057 Cheoked 23
+Narrative:
+11/22/2019 0338 Checked S3
+19-14582 0740 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+Call Taker: LIEUTEKANT MICHAEL J ZIEMBA Jr
+Location/Mdcress: GALE RD
+unit: 37K
+Arvd-07:40:52 (Clrd-0'7:5L:249
+Unit: ig
+Disp-15:03:58 Enrt-15:04:01 Arvd-15:06:53 Clrd-15:18:49
+19-114583 074l Initiated - BUILDING CHRCK BUILDING CHECKED/EECURED
+Call Taker: DATROL TANIA HERNANDEZ
+Location/Address: PINE CORBLR RD
+Unik: 36
+Arvd-07:42:07 Clrd-07:42:29
+Karrative:
+2mpty
+Karralive:
+KA 4KTT99 - 16CTO1
+Narrative:
+empry
+Karrative:
+ennty
+Karrative:
+11/22/2013 0014 Checked 83
+Karrakbive:
+Checked, io vehiclew. 0241.
+1585-14584 0747 Initiated - BUXLDING CHECK BUILDING CHECKED/SECURED
+call Taker: PAT20L TANIA HERWANDEZ
+Location/Address: HARWOOD ST
+thit: 36
+Arvd-47:48:12 Clrd-07:49:22
+Narrat:zve:
+checked
+Narrative:
+Checked 5118
+19-145385 0751 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+call lake»: #ATROT, TANIA HERNANDEZ
+Lecazion/Acdress: LONGVIER TER
+unit: 36
+Arvd-07:52:40 Cl:d 07:59:48
+Init: 3s
+Disp-08:00:41 Arvd-08:00:48 Clrd-0B:0b:26
+Narrative:
+checksd
+19-14586 0759 Initiated - BUILDING CHECK BUILDING CHECXED/BECURED

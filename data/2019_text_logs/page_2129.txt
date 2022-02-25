@@ -1,1 +1,53 @@
-Unit:  a4  Disp-14:11;30  Arvd-14:11:45  Clyrd-14:36:23  19-14508  O742  Initiated ~ TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  GALE RD  Unit:  30  Arvd-07:42:27  Clrd-07:58:09  Unit:  34  Disp-14:49:15  Arvd-14:49:28  Clrd-15:10:12  19-14509  0810  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLE AVE  Unit:  30  Arvd-08:10:32  Clird-08:33:57  19-14510  0859  Phone -  WELL BEING CHECK  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 2089] CHURCH ST  Unit  30  Disp-09:02:25  Bnrt-09:02:52 Arvd-09:09:45  Clrd-69:25:38  Narrative  cP reports RMD screaming and throwing objects in  the computer room, requesting a well being check.  Narrative  was located in the first floor computer room. I  did hear  have two,  short, but loud outbursts.  I  advised  of the complaint who indicated she would  cease her yelling. After speaking with  +  I advised  the property manager to contact WPD if the behavior resumes.  19-14511  O904  $11 -  $-1-1 TEST CALL  NO ACTION REQUIRED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  (WIA 390] SIMONDS RD  Narrative:  Test call.  19-14513  0326  Phone ~ TRAFFIC COMPLAINT  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address;  (WIA 93]  PARK ST  Unit  30  Clrd-10:15:90  Disp-09:29:00 BEnrt-09:29:19 Arvd-09:31:32  Vehicle  WHI 2011 MERZ SE E350W4  Reg: PC MA 5LBZ30 VIN: WDDHFSHBSBA298778  Owner  LEAMON, TOM B @ 30 KEEP HILL RD - WILLIAMSTOWN, MA 01267-2833  Race: U Sex:  M  Narrative  White vehicle blocking driveway to church, MA 5LBZ30.  Narrative  Owner/operator of MV appeared, regqualary visits Park Street,  likely missed the driveway due to snow cover.  19-14516  1002  Phone -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  {WIA 61] MAIN 8ST  Narrative:  WCSS reports they have a dog they found tied to a tree.  Narrative:  Spoke with owner who stated her friend was walking her dog 
+Unit: 4
+Disp-14:21:20 Arvel-14:11:45 Clrd-14:38:23
+19-14508 0742 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SER3ZANT SCCIT E MOGCWAN
+Locat-on/Address: GALE RD
+nit: ag
+Mvd-07:42:27 Clxd-07:5E:09
+Lnit: 34
+Disp-14:49:15 Arvd-14:49:28 Clrd-15:10:12
+19-114508 0810 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cail Taker: SERGEANT SCOTT E MIGOWAN
+Locat.on/Addrese: “OLE AVE
+Unit: ag
+Arvd-08:10:32 Clrd-08:33:57
+19-145190 0859 Phone - WELL BEING CHECK SERVICES RENDERED
+Cz1l Taker: PATROI. ANTHONY M TRIPRAT
+Location/Address: [WIA 2089] CHURCH ST
+nit: 10
+Digp-09:02:25 Enrt-09:02:52 Arvd-09:09:45 Clrd-09:25:38
+Harzallive:
+CF reports   aereaning and throwing objeets in
+the computer rocm, reguesting a well being check.
+Narracive:
+was iccaced in che first flcor computer room. I
+did hear      have two, short, but lcud outbursts. I
+advised   of the ccmplalnt whe indicated she would
+cease her yelling. After epeaking wizh [JJ 7 advised
+the property manager to contact W2D if the behavior resumes.
+19-145111 090 911 - 9-1-1 TEST CALL NO ACTION REQUIRED
+Call —aker: PATRCL ANTHONY M DUERAT
+Location/Address: [WIR 390] SIMONDS RD
+Naxrative:
+Test call.
+19-145113 0826 Phone - TRAFFIC COMPLAINT SERVICES RENDERED
+Call Taker: PATROL ANTIICNY NM DUPRAT
+Location/Address: [WIA 93] PARK ST
+Unit: 30
+Disp-09:29:00 Bnrb-09:25:19 Arvd 09:31:32 Clrd 10:15:80
+Vehicle: WHI 2C21 MERZ SE Z350Ws Reg: PC MA S5LB23C VIK: WDDIAFBHSSBR25S8778
+Cunex: LEAMON, TOM B @ 30 KBEP ILL ED - WilLLIANSTCWN, MA 01267-2823
+Race: U1 Sex: M
+Karrative:
+vhize vehicle klocking driveway ts church, MA S5LEZ30.
+Narrative:
+cwmer/cperator of MV appeared, regualary visits Park Street,
+likely m:2sed the driveway cue to snow cover.
+19-145146 1002 Yhone - ANIMAL, COMTROL SERVICES RENDERED
+Call ‘Taker: SATROT, ANTHONY M DUPRAT
+Location/Addrera: (WIA 511 MAIN 8T
+Narrative:
+WCSS reports they have a dog they found tied to a tree.
+Narrative:
+Spoke with owner who stated her friend was walking her deg

@@ -1,1 +1,46 @@
-Narrative:  checked  Narrative:  Checked  1419-13261  1003  Enitiated - BUILDING CHECK  BULLDING CHECKED / SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  WOODLAWN DR  Unit  36  Arvd-10:04:03  Clrd-10:06:47  Narrative  checked  Narrative  Checked Area.  19+13262  1010  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  SPRING ST  Unit  35  Arvd-10:10:21  Clyrd-10:21:56  Narrative  Noa  violations  49-13263  1910  tnitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANTA HERNANDEZ  Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  36  Arvd-10:10:51  Clrd-10;42:35  Narrative  Checked  Narrative  checked  Narrative  done  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked Area  19-13264  1032  initiated ~ BUILDING CHECK  BULLDING CHECKED/SECURED  Call Taker  PATROL ANTHONY M DUPRAT  HOPPER RD  Location/Address  Unit  35  Arvd-10:32:42  Clrd-10:37:04  Narrative  Checked 5-4  17:56 
+Narrative:
+checkad
+Narrative:
+Checked
+15-13261 1043 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATPOL TANIA EEENANDEZ
+Lecation/Address: WOODLAWN DR
+Unit: an
+Arvd-10:84:03 Clrd-10:06:47
+Narrative:
+checkad
+Narrative:
+Checked Aroa.
+19-13262 1010 Iaitiated - PARKING CHECK SERVICES RENDERED
+Cal: Tsaker: PATROL ANTHONY HM DUPRAT
+Lecation/Address: SPRING ST
+nit 35
+Arvd-10:10:21 Clrd-10:21:56
+Narrative:
+Na violanions
+19-13263 1010 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tarter: EATROL TANIA IIERKANDIZ
+—ocaticn/Adiress: [W-A 18322] NORTH HOOSAT RD
+Unit: 36
+Arvd-10:10:51 Clrd-10:12:38
+Narrative:
+Checked
+Narxalbive:
+checked
+Narrauive:
+done
+Narxz:tive:
+Opoked Arca.
+NarraiLive:
+Sheoked Arca.
+Marrazive:
+Chockhed Arca.
+NarralLive:
+Chicvized Arva.
+19-132E4 1032 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL ANTZONY M DUTRAT
+Location/Addressy: EOPPER RD
+Unit: as
+Arvd-19:3::42 (lxd-10:37:04
+Karrative:
+Checked 35-4 17:36

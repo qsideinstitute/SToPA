@@ -1,1 +1,46 @@
-Narrative:  Checked Area.  Narrative:  Checked Area.  19-31311  LOI2  Initiated « BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PINE COBBLE RD  Unit  36  Arvd-10:13:16  Clrd-10:13:45  Narrative  Same VT truck from yesterday all ok  Narrative  Add MALHAX81 and VT truck still all ok  Narrative  no vehicles  Narrative  lot empty  Narrative  TX KTS8374  Narrative  no cars  Narrative  Checked Area.  Narrative  Checked: No vehicles in lot  Narrative  Checked Area.  19-11322  1016  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANTA HERNANDEZ  Location/Address  [WIA 333] CHURCH ST  Unit  36  Arvd-10:16:54  Clrd-10:18:18  Narrative  Checked  19-23313  1020  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PARK ST  Unit:  36  Arvd-10:20:39  Clrd-10:26:09  Narrative:  2 violations  19-11314  1044  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  SPRING ST  Unit  36  Arvd-10:44:36  Clyrd-10:51:37  Narrative 
+Narrative:
+Checked Area.
+Nurrakb.ve:
+Chacked Area.
+19-311311 iDl2 Initiated - BUILDING CHECK BUILDING CHECKED/SRCURED
+Cz:l Taker: PATROY, TANIA HEXNANDEZ
+Location/Address: Z2INS COBBLE RD
+Lnit: 36
+Arvd-10:23:16 Clxd-10:13:45
+Harrazive:
+Same VT truck fron yestercay all ok
+Karrative:
+Add MALHAXS1 and vl Ltruzk sk_11 all ok
+Karrative:
+no vehiocles
+Narrative:
+lob cuply
+Narralbiveo:
+TX XIS5374
+Nerrative:
+nec cars
+Narzative:
+Checked Area,
+Harraztive:
+Checked: Ng vchisies tn lok
+Marramiwve:
+Checked Arez.
+19-11312 1016 Initiated - BUILDING CHECK BUILDING CHECKER/SECURED
+Call Taker: PATROZ: TANTA EFRNANDRZ
+—ocation/Acd>ess: [KIA 332] CHIIRCH ST
+nis: 316
+Arvd-. D:18:54 Clpd
+Narrabt-ve: 20:12:18
+Checked
+19-231313 1020 Initiated - PARKING CHECK
+Cu_l Taker: PATAOL TANIA HERNANDEZ BERVICEE RENDERED
+Loculion/Address: ZARX ST
+nit: 36
+Warracziva: Prvd-10:20:25 Clrd-10:26:L9
+2 violations
+19-11314
+all Taker: 1044 initiated - PARKING CHECK SERVICES RENDIRED
+PATROT, VAKLA ERENANDEY
+Location/add-azs: SPRING 8.
+n-z: 38
+Narrative: Arvd 10:44:36 Clrd-10:52:37

@@ -1,1 +1,50 @@
-‘call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  (WIA 249] NORTH ST  Unit  35  Disp-10:12:04  Arvd-10:12:09  Clrd-10:16:52  Vehicle  GRY 2018 VOLK Tiguan Se  Reg: PC CT AS22912 VIN: 3VV2B7AX7JM054404  Owner  DERVISEVIC, AIDA @ 5 MOREY RD - NEW MILFORD  Race: U Sex: F  Narrative  Erratic Operator. Gray Tiguan with CT plates.  19-6981  1010  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  MAIN ST  Unit  30  Arvd-10:10:43 Clrd-10:10:56  Narrative  Checked S§-4  18:22  Narrative  Checked Area.  1013  19-6983 ©  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  ‘Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  COLD SPRING RD  Unit:  37K  Arvd-10:13:27  Clxrd-10:14:36  : Narrative:  checked  Narrative:  Checked Area.  1021  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  m= BOE  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  OBLONG RD  Unit:  37K  Arvd-10:21:12  Cird-10:25:22  "Narrative:  checked  19-6985  1028  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Adéress:  COLD SPRING RD  Unit:  37K  Arvd~10:29:13  Clrd-10:29:44  ‘Narrative:  014 on scene,  Narrative:  checked  Narrative:  Checked Area.  19-6986  1050  Walk-In - FOUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  {WIA 162] MAIN ST 
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: [WIA 249] NORTH ST
+Unit: 35
+Disp-10:12:04 Arvd-10:12:09 Clrd-10:16:52
+Vehicle: GRY 2018 VOLK Tiguan Se Reg: PC CT AS22912 VIN: 3VV2B7AX7JM054404
+owner: DERVISEVIC, AIDA @ 5 MOREY RD - NEW MILFORD
+Race: U Sex: F
+Narrative:
+Erratic Operator. Gray Tiguan with CT plates.
+19-6981 1010 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOT1 E MCGOWAN
+Location/Address: MAIN ST
+Unit: 30
+Arvd-10:10:43 Clrd-10:10:55
+Narrative:
+Checked S-4 18:22
+Narrative:
+Checked Area.
+19-6983 1013 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+nit: 37K
+Arvd-10:13:27 Clxd-10:14:36
+Narrative:
+checked
+Narrative:
+Checked Area.
+
+19-6984 1021 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: OBLONG RD
+Unit: 37K
+Arvd-10:21:12 Clrd-10:25:22
+Narrative:
+checked
+19-6985 1028 Initiated - BUILDING CHECK BUILDING
+CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-10:29:13
+Narrative: Clrd-10:29:44
+014 on scene.
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-6986 1050 Walk-In
+Call Taker: DISPATCHER - FOUND/ CHRISTINE LOST PROPERTY SERVICES RENDERED
+Location/Address: [WIA 162] MAIN ST LEMOINE

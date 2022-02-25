@@ -1,1 +1,56 @@
-19-5468  1356  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  PARK ST  Location/Address:  Unit:  35  Arvd-13:57:02  Clrd-14:04:39  19-5469  1400  Phone - LARCENY  LOG ENTRY REQUEST  Call Taker:  ALL EQUIPMENT POLICE DEPARTMENT  Location/Address:  MAIN ST  Narrative:  CP  is a victim of an internet scam and would like it logged.  cP  scammed out of $1900.00.  re  19-5470  1405  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  SPRING ST  Unit:  35  Arvd-14:05:30 Clrd-14:12:13  19-5471  1502  Phone - PUBLIC SERVICE  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  CHURCH ST  Unit:  31  Disp-15:16:21  Enrt-15:16:43 Arvd-15:18:23  Clrd~-15:25:38  Narrative:  RP requests removal of Lock Box. Tenant has vacated their  apartment, and is now in a Nursing Home.  Unable to remove.  Code incorrect.  Narrative:  given permission to pry open or cut off box if  needed. Advised to contact us if further assistance is  needed.  19-5472  1552  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  NORTH ST + MAIN ST  Unit  35  Disp-15:53:18  Arvd-15:53:24 Clrd-16:27:293  Unit  32  Disp-15:54:08 Enrt-15:54:50 Arvd-15:55:12 Clrd-16:24:07  Vehicle  BLK 2019 TOYT SH CAMRY Reg: PC MA 9NF644 VIN: 4T1B1L1HK6KU722971  Operator  BERGH, LINDA GOODSELL @ 4315 XERXES AVE - MINNEAPOLIS, MN 55410  Race: W Sex: F  Refer To Citation  T1401285  Owner  EAN HOLDINGS LLC @ 14002 EAST 21ST ST ST Apt. #1500 - TULSA, OK  74134-0000  Vehicle  RED 2015  CHEV TRAVER Reg: PC MA 5736YT VIN: 1GNKVGKD4FI241606  Operator  HURLBUT,  SARAH Y @ 170 CROSS RD - CLARKSBURG, MA 01247-4617  Race: U  Sex: F  Owner  HURLBUT,  KYLE R @ 170 CROSS RD - CLARKSBURG, MA 01247-4617  Race: U  Sex: M  Narrative  RP reports she's in a accident at the rotary.  1553 - 35 reports 2 car MVA.  1554 - Ron's requested, enroute.  1602 - Ron's on scene.  Refer To Accident:  19-55-AC  19-5473  1635  Walk-In - LICENSE TO CARRY  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM 
+19-5468 1356 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL BRAD SACCO
+Location/Address: PARK ST
+Unit: 35
+Arvd-13:57:02 Clrd-14:04:39
+19-5469 1400 Phone - LARCENY LOG ENTRY REQUEST
+Call Taker: ALL EQUIPMENT POLICE DEPARTMENT
+Location/Address: MAIN ST
+Narrative:
+CP is a victim of an internet scam and would like it logged.
+CP scammed out of $1900.00.
+19-5470 1405 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL BRAD SACCO
+Locat ion/Address: SPRING ST
+Unit: 35
+Arvd-14:05:30 Clrd-14:12:13
+19-5471 1502 Phone - PUBLIC SERVICE SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: CHURCH ST
+Unit: 31
+Disp-15:16:21 Enrt-15:16:43 Arvd-15:18:23 Clrd-15:25:38
+Narrative:
+RP requests removal of Lock Box. Tenant has vacated their
+apartment, and is now in a Nursing Home.
+Unable to remove. Code incorrect.
+Narrative:
+given permission to pry open or cut off box if
+needed. Advised to contact us if further assislLance is
+needed.
+19-5472 1552 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: NORTH ST + MAIN ST
+Unit: 35
+Disp-15:53:18 Arvd-15:53:24 Clrd-16:27:29
+Unit: 31
+Disp-15:54:08 Enrt-15:54:50 Arvd-15:55:12 Clrd-16:24:07
+Vehicle: BLK 2019 TOYT SE CAMRY Reg: PC MA 9NF644 VIN: 4T1B11HK6KU722971
+Operator: BERGH, LINDA GCODSELL @ 4315 XFRXES AVE - MINNEAPOLIS, MN 55410
+Race: W Sex: F
+Refer To Citation: T1401285
+Owmer: EAN HOLDINGS LLC @ 14002 EAST 21ST ST ST Apt. #1500 - TULSA, OK
+74134-0000
+Vehicle: RED 2015 CIIEV TRAVER Reg: PC MA 5736YT VIN: 1GNRVGKD4FJ241606
+Operator: HURLBUT, SARAH Y @ 170 CROSS RD - CLARKSBURG, MA 01247-4617
+Race: U Sex: F
+Owmer: HURLBUT, KYLE R @ 170 CROSS RD - CLARKSBURG, MA 01247-4617
+Race: U Sex: M
+Narrative:
+RP reports she's in a accident at the rotary.
+1553 - 35 reports 2 car MVA.
+1554 - Ron's requested, enroute.
+1602 - Ron's on scene.
+Refer To Accident: 19-55-AC
+19-5473 1635 Walk-In
+Call Taker: PATROL SHUAN - LICENSE N WILLIAM TO CARRY SERVICES RENDERED

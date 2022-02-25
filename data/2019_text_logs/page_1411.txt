@@ -1,1 +1,55 @@
-i9-10270  1355  Walk-In -  SEX OFFENDER REGISTRATION  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  [WIA 390] STMONDS RD  Unit:  36  Disp-13:56:28  Arvd-13:56:35  Clrd-14:09:33  19-10271  1422  Phone - SUSPICIOUS ACTIVITY  GONE ON ARRIVAL  Cail Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  (WIA 1855]  MAIN ST  Unit:  32  Disp-14:23:05  Enrt-14:23:52 Arvd-14:29:21  Clird-14:36:30  Vehicle:  BLU 2010 FORD F150  Reg:  PC MA 154372 WIN:  1LFTEXLEW4AFA03860  Owner:  HALL, ALAN D JR @ 78 NOTCH RD - N ADAMS, MA 01247-3612  Race:  U Sex: M  Narrative:  Initial report of a male party wearing a gray shirt with an  orange stripe was acting like he was stealing from the  store.  When confronted, party wags observed to have a bag  with an unknown quantity of pills in it.  Party left the scene prior to officer arrival.  Heading  towards North Adams.  RP did state that she was unsure if  anything was stolen.  15-10275  1655  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  Location/Address  TACONIC TRL  Unit  34  Arvd-16:55:17  Cird-17:00:00  Vehicle  BLU 2015  VIN:  1GKERVPKD6 F.I369259  GMC ACADIA Reg: PC MA 7ED823  Operator  BLEVINS,  JESSICA ROLNICK @ 19 E HOOSAC ST - ADAMS, MA 01220  Race: W  Sex: F  Refer To Citation  T1785360  Owner  BLEVINS,  JESSICA ROLNICK @ 19 E HOOSAC ST - ADAMS,  MA 01220  W  Race;  Sex: F  19-20276  1659  initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZITEDZIAK  Location/Address  [WIA 910] TACONIC TRL  Unit  a9  Ayvd-17:01:24 Clrd-17:91:55  Narrative  Checked  Narrative  Checked  19-10278  L722  Phone -  ANIMAL BITE  SERVICES RENDERED  Call Taker:  MICHAEL STRIZZI  Location/Addresa  COLD SPRING RD  Narrative  CP states party in the ER because her cat bit her.  Narrative  Cat Name:  Animal Hospital: Berkshire Veterinary Hospital  Animal records faxed to Williamstown Police Department.  Narrative  WAME placed on 10 day Quarantine.  Narrative 
+19-102770 wall 1355 Walk-In - SEX OFFENDER REGISTRATION SERVICES RENDERED
+Takor: SERCEANT PAUL D TICMPSON
+LogsaLlon/Addrens: [ZA 3905 SIMONCS RD
+Unik: 36
+Disp-13:546:2R Arva-13:56:235 Clrd-14:09:33
+15-10271 1422 Phone - SUSPICIOUS ACTIVITY GONE ON ARRIVAL
+Call Taker: SERGEAN'Y PAUL D TECOMPSON
+—ocation/Adéress: [WIA 1855] MAZN ST
+Uniz: 32
+Disp-14:23:05 Enrt-14:23:52 Arvd-14 1:29:21 Clrd-14:36:30
+Vehiclie: BLU 2010 FCRD F150 Reg: PC MA 1S237:Z VIK: 1FTEXL1EWAAFAN3BA0
+Cwikzx: IIALL, ALAN D JR @ 78 NOTCH RD - N ADAMS, MA 01247-3612
+Race: UU Sex: M
+Harrative:
+Tnitial report of a male party wearing a gray shirt wilh an
+orange stripe was acting like he wes stealing from Lhe
+gtore. Who coafronted, purly was observed to have a bag
+with an unkoown quantity ob pills ire it.
+Party leit che scone prior Lo officer arrival. Heading
+Towards North AGaums. RP did state that she was unsure if
+anything was stolen.
+19-10275 1655 Initiated - MOTOR VEHICLE BTOP CITATION - WARNING
+Call Taker: PATROL KEVIN P QARNER
+Location/Address: TACONTC TRT
+unit:
+34
+Arvd-16:55:17 <Cxrd-17:50:02
+Vehiclo: BLY 20_.5 GMC ACADIA Req: PC MA 73D823 VIN: 1GKKVPED6FJ369259
+Operacer: BLEVINS, JESBICA ROLNICX @ 19 E HODSAT ST - ADAMS, MA 01220
+Race: W Sex: F
+Refer To Citaticn: T17385360
+Owmnmer: BLEVINE, vEESSTICA ROLNICK @ 19 E HOOSAC ST - ADAMS, MA (1220
+Race: W Bex: F
+19-100276 1659 Initlated - BUILDING CHECK SERVICES RENDERED
+Call Taker: PATROL ALVIN DZIBDZIAX
+Lozalion/Address: [WIA 910] TACONICT TRL
+Unit: as
+Arvd-17:01:24 Clrd-17:01:55
+Narrative:
+Crecked
+Narrative:
+Checked
+19-102786 1721 Phona - ANIMAL BITE BERVICES RENDERED
+Call Taker: MICHAEL STRIZZI
+Location/Address: COLD SPRING XD
+Narrat-ve:
+CP states party in the [ER bacause hey cat bit her.
+Narrative:
+Cat Name:
+Animal Hospital: Barkehira Veterinary HEesntal
+Animal racords faxed to Wi'liamatown Police
+Departrent,
+Narvative:
+Jl r:aced on 10 day Quarantine.
+Narrative:

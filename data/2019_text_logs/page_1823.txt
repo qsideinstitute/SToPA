@@ -1,1 +1,49 @@
-Narrative:  Checked 58-4  19:07  Narrative:  Checked Area  Narrative:  Checked Area  19-12711  1144  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  35  Arvd-11:45:16  Clrd-11:45:15  Narrative  Checked S§-4  17:58  19-12712  1150  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  HOPPER RD  Unit  35  Arvd-11:50:31  Clrd-11:506:34  Narrative  Checked  Narrative  done  19-12713  1158  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  SCHOOL ST  Unit  36  Arvd-11:58:31  Cird-11:59:25  Narrative  Checked S-4  17:18  19-12715  1i59  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEA  Location/Addrass  SPRING ST  Umit  36  Arvd-12:00:25  Clird-12:07:20  Narrative  no  violations  19-12714  1200  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  HANCOCK  RD  Unit  35  Arvd-12:00:11  Clrd-12:05:04  Vehicle  BLT 2008  HOND SE CIVICL Reg:  PC MA 94BB94 VIN: 2HGPALG518H518286  Operator  LACOSSE,  DANIEL A @ 2519 HANCOCK RD - HANCOCK, MA 01237-1046  Race: U  Sex: M  Refer To Citation  T2085007  Owner  LACOSSE,  DANIEL A @ 2519 HANCOCK RD - HANCOCK, MA 01237-1046  Race:  U Sex:  M  1$-12716  1245  Phone - B.0.L.0.  UNABLE TO LOCATE  Call Taker:  DISPATCHER CHRISTINE LEMOINE 
+Narrative:
+Checkad 8-4 19:07
+Harrative:
+Checkad Arsa,
+Warrzative:
+Checked A-ed.
+19-112711 1144 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca_l Taker: PETROT, BRAD SATCG
+Loacaten/dddress: COT SPRING RL
+Mit: is
+Arvid 11:45:19 Cird-21:45:15
+HAX Seh LVia:
+Checked 5-4 >7:58
+19-127112 1150 Initiated - BUILDINZ CHECK BUILDING CHECKED/SECURED
+Call —aker: PATROL 3RAD SACCOS
+Locaticn/Address: HOZPZIR KD
+unit: 3
+Arvd-1.:50:31 (Clz4d 11:50:34
+Karracive:
+Karrallve:
+done
+19-12713 1158 Initiated - PARKIN3 CHECK SERVICES RENDERED
+Tall Taker: PATRCL TANTA HARNANDEZ
+Lacsnion/Addrasn: SCHOCT, 8T
+Unis: 16
+Arvd-.'l:b8:31 Clrc-11:59:25
+Narrative:
+Checked t-4 17:18
+19-12715 1159 Initiated - PARKING CHECK SERVICES RENDERED
+Cull Takers: DATZOL TAKTIE HERKANDIZ
+Lesalion/Addressg: SPRCNG ST
+Jeaile 36
+Arvd-12:50:26 Clrd-12:0::20
+Narrative:
+violations
+18-12714 1200 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taxer: EATROL BRAD SATZCO
+—ocation/aAddress: IIANCOCK IC
+onilk: 35
+Arvid 12:00:1- Jord 12:05:04
+Vehliclo: BLT 2002 HOND S83 JIVICL Req: PC MA 94EBSS VIN: ZHGFALGS5Z8HS_B8266
+Operalor: LACUSBE, LCANIFL A @ 2529 HANUOCK XD - HANCOCK, MA 01237-1040
+Ruce: U Sex: M
+Refer Tc Citazion: T-2085007
+A HANUOUK HD MA
+wnor: LACOSSK, DANIEL M @ 2529 - HANCOCK, 01237-1046
+Roce: U Box:
+19-127716 12435 Phone B.C.L.O. UNABLE TO
+Call “akss: D_SPATUHER - CHE-.SITKNE LEMO_NE LOCATE

@@ -1,1 +1,49 @@
-Arvd-09;35:51  Clrd-09:36:21  Narrative:  checked  Narrative:  checked  19-11077  0938  Initiated ~ MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  MAIN ST  Unit  37K  Arvd-09:38:03  Clird-09:42:20  Vehicle  RED 2012  CHEV SE CRUZE Reg: PC MA 7CF278 VIN: 1GILPF5SC7C7110873  Operator  FORREST,  SCOTT MICHAEL @ 33 BROOKLYN ST - N ADAMS, MA 01247-2555  Race:  Ww  Sex: M  Refer To Citation  T1785525  Owner  FORREST,  ScOTT MICHAEL @ 33 BROOKLYN ST - N ADAMS, MA 01247-2555  Face;  W  Sex: M  1219-11078  0940  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  NORTH ST  Unit  36  Arvd-059:40:17  Clrd-059:46:55  Narrative  checked  Narrative  done  Narrative  Checked 0138  19-11079  0947  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  PETERSBURG RD  Unit:  30  Arvd-09:47:28  Clrd-09:49:01  Narrative:  Checked S-4  18:43  Narrative:  done  Narrative:  Checked  19--110890  9950  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd-69:50:51  Clyrd-09;51:25  Narrative  Checked §-4  17:58  Narrative  Checked 
+Arvd-39:35:52 Clrd-29:36:21
+Marriil ve:
+checkad
+Nzxrative:
+checked
+19-110077 0938 Initiated - MOTOR VEHICLE STOP CITATION - WARMING
+Call "aker: LIEUCTEKANT MIT:REL J ZEMBA Tr
+Lecation/Addresy: MATM ET
+Tnit: 3TK
+Arve 09:38:73 Clrd-09:42:20
+Vehicle: RED 2012 CHRY SE CRUZE Recq: RPC MA 7CF278 VON: 1GLPFRSO707110873
+Cperator: FORRRAT, SCOTT MICHAKL 3 33 BXCOKLYN ST - NH ADEMS, MA 01247-2555
+Race: W Eox: MK
+Refer To Citatios: TUBERD
+Cuwmier: FORREST, 2COT. MICHAEL 33 ZBRODIGYY BST - N ADAMS, MM QL2E4Y-4b5h
+Race: W Bex: M
+19-11078 0540 Initiated - BUILDING CHECK SUILDING CHECKED/SECIRED
+Cal. Taker: SERRGEANT S200 EB MOUOWAY
+Location/Address: KCRTH 3"
+Jnit: 30
+Arvd-09:40:17 Clrd-09:44:55
+Narrative:
+checkeac
+Narrative:
+doe
+Narrazive:
+Checked 0138
+19-110789 0247 Initinted - BUILDING CHECK
+BUILDING CHRCKED/SECURED
+Call Taker: SIRZEANT
+rocation/Acdzesa: SCOTT E MCSORAN
+PETERSBIRE RD
+Un_.: 20
+Arvd-39:47:26 Clrd-09:49:01
+Narrative:
+Chacked 3-4 12:47
+Nerrulive:
+clone
+Narrative:
+Checked
+19-110840 3959 Initiated - BUILDING CHECK BUILDING CHECKID/SECURED
+call Takar: SERGERANT ACCTT FR MOGIOWAN
+Locazion/Adéress: COLD 2PRTRG RD
+nit: a
+Arvd-09:50:31 Clrd-09:51:25
+Karrative:
+Thenxed S-4 17:58
+Narrative:
+Checked

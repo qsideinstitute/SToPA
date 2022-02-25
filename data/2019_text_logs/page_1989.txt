@@ -1,1 +1,54 @@
-Call Taker  PATROL KALVIN DZIEDZTAK  Location/Address  COLD SPRING RD  Unit  35  Arvd-23:42:23  Clrd-23:45:33  Vehicle  GRN 2016 HOND HRV Reg: PC MA 752027 VIN: 3CZRUGH50GM721404  MA 0L225-9739  Operator  FLORCZYK, MARK J @ 328 LANESBORO RD - CHESHIRE,  Race;  W  Sex: M  Refer To Citation  T2085743  Owner  FLORCSYK, MARK J @ 38 LANESBORO RD -  CHESHIRE, MA 01225-9739  Race:  U Sex: M  19-13670  4352  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KALVIN DZTEDZIAK  Location/Address  NEW ASHFORD RD  Unit  35  Arvd-23:52:21 Clrd-23:57:53  Vehicle  BLU 2016 SUBA CROSST Reg: PC MA 3076Y¥M VIN: JF2GPABC4G3317350  Operator  LEDEWITZ, MARK H @ 36 BRENTON TER - PITTSFIELD, MA 01201-6036  Race:  W Sex: M  Refer To Citation  T2085744  Owner  LEDEWITZ,  MARK H @ 36 BRENTON TER - PITTSFIELD, MA 01201-6036  Race:  W  Sex: M  Vehicle  os  For Date:  11/02/2019  Friday  1939-13671  0049  Phone - ROAD CONDITIONS  SERVICES RENDERED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  NORTH HOOSAC RD  Unit  35  Disp-00;51:37  Clrd-00:52:39  Unit  32  Disp-00:52:16  Enmxrt-00:52:17  Arvd-00:53:59  Cird-01;29:40  Narrative  Tree blocking a full lane just before the North Adams Line  Narrative  Lecated by 32,  Chris Lemoine notified to send someone in.  Tree blocking 3/4 of road on @ turn  Narrative  0120Hrs DPW on scene.  O128Hrs roadway cleared, opened.  1219-13672  o105  Initiated - ROAD CONDITIONS  SERVICES RENDERED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  WATER ST  Unit  35  Arvd-01:06:45  Clrd-01:10:55  Narrative  Dead branch across north bound tavel lane  Narrative  Removda  19-13673  O211  Phone - ROAD CONDITIONS  SERVICES RENDERED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  NORTHWEST HILL RD  Unit  35  Disp-01:15:17  Enrt-01:15:36  Arvd-01:22:18  Clrd-02:05:59  Narrative  Pole 72. Tree in road and limb on wires, no power in the 
+Call Taker: EATRIL KALVIN DZIDDZIAK
+—ocation/Address: COLD SPRING sD
+Unit: 35
+Arvd-23:42:23 Clrd-Z3:4:z:33
+Vahicle: GRN 2015 HOND HRV Reg: PC MA T5207J VIN: 3CZRUSHEUEM 21404
+Orerator: FILAJRTEYK, MARK J 4 28 TANRSBORD RD - CHESHIRE, MA L122s5-9739Y
+Face: HW Sax: M
+Refer To Citation: Tz085743
+owner: FIORCAYK, MARK J @ 385 LANEKSEORO RD - CHESHIRE, MA (12:25 9739
+Race: U Bex: M
+19-136770 2382 Initiated - MOTOR VEHICLE BTOP CITATION - WARNING
+Coll akar: PATROL KALV-M DZIEDZIAK
+Local. onfAddress: NEW ASHFCRD RC
+Tnik: 23
+Bryc-23:52:21 CO'rid-23:57:53
+Venicgle: RIAT 207A RBA CROSSET weg: FC MA 3078YM  VIN: JH2@PABCAGBLILTILO
+Oparator: LEDERITZ, MARK H @ 36 ZRENTCN TER - PITTSFIELD, MA 01201-60346
+Race: W Yex: M
+Refer Tc Cltatiom: T2085744
+Owner: LEDERITZ, MAREK H @ IG SRENTCON TER - PITTSFIELD, MA 01201-603¢
+Race: W Sex: M
+Varicle:
+For Date: 11/01/2019 - Friday
+29-13671 0049 Phone - ROAD CONDITIONS SERVICES RENDERED
+Call Taker: DLISPATCHER CHE_STIME LSMOLNE
+Locatien/Eddraso: NORIH ZCOSAC RD
+Uniz: i5
+Dign-00:51:37 Clzxd 00:52:39
+Un-z<: iz
+Mep-03:52:16 EBEnrz-023:52:17 Arvd-30:53:59 Clrd-01:29:40
+Xarrative:
+Trea blozcxing a full lane just before the Korth Adans Line
+Narrative:
+Leoated by 32, Chris Zemoine notified to send someone in.
+Tree b_ociing 3/4 of road on a turn.
+Narrative:
+0120Hrs DPW on scene.
+0128Hrz roadway cleared, cpened.
+19-13672 S108 Initiated - ROAD COKDITIONS SERVICES RENDERED
+Cal. Taxer: SATREOL KA-WIN LDZZECZIARK
+Lcoation/Address: WATER ST
+Trit as
+Arvi-0):96:45 Clxd-1:12:56
+Harrativa:
+Lz2ad ranch across rierth bound tavel lane
+Narrative
+MTICVE
+19-13673 0111 Phone - ROAD CONDITIONS SERVICES RENDERED
+Call Taker: CISZATCIER CERISTIHE LEMOINST
+Location/Address: ROZTHWEST HILL RD
+Unit: 35
+Dizp 01:15:27 EBEu:-L-01:15:386 Arvd-01:22:18 CUlrd-02:095:5Y
+Narrative:
+Pole 72. Pree in road and 1imd on wires, no power in tha

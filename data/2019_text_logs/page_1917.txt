@@ -1,1 +1,43 @@
-Narrative  Same as earlier  Narrative  checked  Narrative  Checked §-4  19:33  Narrative  done  Narrative  Checked Area.  19+13257  0932  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDE?  PINE COBBLE RD  Location/Address  Unit  36  Arvd-09:33:12  Clrd-09:33:26  Narrative  no vehicles  Narrative  MA 1GAH30  Narrative  enpty  Narrative  Checked 5-4  empty 19:28  Narrative  empty  Narrative  Checked Area  Narrative  Checked Area  1959-13258  0940  tnitiated - BUILDING CHECK  BUZLDING CHECKED/SECURED  Cali Taker:  PATROL TANIA HERNANDEZ  Location/Address:  HARWOOD ST  Unit  36  Arvd-09:40:25  Clrd-09:42:12  Narrative  checked  Narrative  done  Narrative  Checked  19+13255  o954  Initiated - BUTLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  STRATTON RP  Unit:  36  Arvd-09:54;:32  Cird-09:57:18 
+Narrative:
+game as variier
+Harrative:
+chacked
+NHarrabive:
+Checked 83-4 13: ul - ul ad
+Narrative:
+donc
+Narrative:
+Checked Areaa.
+19-13257 0832 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call taker: PATROL 'I'ANTA HRENANDEZ
+Locaticen/Addyesa: PINE COBSLE RD
+Unit: 38
+Arvd-09:33:12 Clrd-09:33:26
+Narrative:
+no vehicles
+Narrativa:
+MA 1GAH20
+Harrative:
+cmpty
+Checked S.4 vaplty 1G:28
+Narrative:
+ecnpbhy
+Narrative:
+Chackad Area.
+Narrative:
+Chacked Area.
+19-132586 0940 Initiated - BUILDING CHECE BUILDING CHECKED/BECURED
+Cail Taker: PATROL TANIA HERNANDEZ
+Locaticon/2ddress: HARWOOD ST
+Unit: ig
+Arvd-09:40:25 Clxd-09:42:12
+checked
+Narrativa:
+done
+Narrative:
+Spcked
+0454 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+19-132589
+Call Takcr: PATROL TANIA HERNAMDEZ
+Locat-.on/Address: STRATTON RD
+Unit: 36 Arva-09:-54:22 Clrd-09:57:18

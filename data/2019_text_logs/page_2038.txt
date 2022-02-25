@@ -1,1 +1,53 @@
-Unit:  34  Disp-15:56:09  Enrt-15:56:24  Arvd-16:00:59  Cled-16:11:27  Narrative:  Requests well being check on  She did not  answer her door for meals on wheels today. CP has already  checked with neighbors and hospitals, none of which have  seen her.  Narrative:  Note left on front door asking food service to leave food by  deor (no date given). Apartment checked, no one home.  19-13568  i612  Initiated - PUBLIC SERVICE  SERVICES RENDERED  Call Taker  PATROL KALVIN DZIEDZTAK  Location/Address  (WIA 1090] CHURCH ST  Unit  34  Arvd-16:13:32  Clrd-16:24:00  Narrative  Assigt resident, who lost her keys, with entry into  apartment.  Entry gained, keys found by apartment door.  19-135969  1727  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  PATROL KALVIN DZIEDZTAK  Call Taker  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-17:27:  1i  Clrd-17:37:01  Vehicle  GRY 2007 TOYT TACOMA Reg: PC MA 5YS253  VIN: STELU42N1 72467696  Operator  GEORGE, KAITLIN V @ 227 FRANKLIN ST Apt.  #8C - NORTH ADAMS, MA 01247  Race:  W Sex: F  Refer To Citation  T2085754  Owner  GEORGE, KAITLIN V @ 227 FRANKLIN ST Apt.  #8C - N ADAMS, MA 01247-0000  Race:  U Sex: F  19-13579  1731  Initiated - RBUXLDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  (WIA 190] MAIN ST  Unit:  38  Arvd-1L7:32:  ol  Clrd-17:32:45  Narrative:  Checked 0211  15-13971  L736  Initiated - PARKING CHECK  NO ACTION REQUIRED  Call Taker:  PATROL JOHN J MCCONNELT JR  Location/Address:  SCHOOL ST  Unit:  38  Arvd-17:36:28  Clrd-17:36:48  19-13972  1741  InitLated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KALVIN DZITEDZTAK  Location/Address  COLE AVE  Unit  34  Arvd-17:41:35  Clrd-17:49:08  1C4PIMCS1HW531846  Vehicle  RED 2017 JEEP CHEROK Reg: PC MA 2GP423 VIN:  Operator  CARVALHO,  JOHN F @ 765 SIMONDS RD - WILLIAMSTOWN, MA 01267-2107  Race:  W Sex: M  Refer To Citation  T2085755  Owner  CARVALHO,  BNTHONY WILLIAM @ 765 SIMONDS RD - WILLIAMSTOWN,  MA 01267-  2107 
+nit: 34
+Disp-15:56:09 Enrt-16:06:24 rvd-16:00:59 Clrd-16:11:27
+Narrative:
+Requests well bailing check cn . She did not
+answer her door for meals on wheels zoday. CP has already
+checked with neighbors anG hospitals, none of which have
+seen her,
+Narrative:
+Note left on frent door asking Eocod gervice to leave food by
+door (no date given). Apartment checxed, no one home,
+19-1395968 igl2 Initiated - PURLIC SERVICE SERVICES RENDERED
+Call Taker: PATROL XALVIN DZIEDZIAR
+Location/Address: [WIA 1290: CHURCH S1
+Unit: 24
+AavyE-16:15:31 Clrd-16:24:00
+Narraciva:
+Resist resident, whe ost her keys, wilh entry into
+apartmenl.
+Entry gained, xeys found by apartment door.
+18-132969 1727 Initia-ed - MOTOR VEHICLE STOP CITATION - WARNING
+Cell Taker: PATROL XALVIN LZIEDZTAK
+Local lon/Address: NORTH HOOSAC RD
+Unik: 34
+ArvEé-1T7:27:1:2 Clrd-17:37:01
+Vehicle: GRY 2007 'TOYI TACOMA Reg: PC MA 5YS253 VIN: STELUA2N172467636
+Operator: @ECRGE, KALTLIN V @ 227 FRANKLIN ST Apt. #2C - NORTH ADAMS, MA 01247
+Raca: W Sex: F
+Xefer T¢ Citazina: T<085754
+Owner: GECRGE, KAITLIN V @ 227 FRANKLIN 1' Apt. #80 - N ADAMS, MA 01247-0000
+Race: U Sex: F
+15-13070 1731 Initiated - BUILDING CEECE BUILDING CHECKED/SECURED
+Ca-.l Teker: PATROL JCIIN J MCCOMNMELL JR
+Locaticn/Address: [WIA 120] MAIR ST
+Unit: aa
+Arvd 17:32:01 Clrd 17:32:45
+Narrazive:
+Checxed 0211
+15-13971 1736 Initiated - BARKIKG CHECK NO ACTION REQUIRED
+Czll “iaker: PATROL. JOHN J MCCOHNELL JR
+Local: .on/address: SCHOOL ST
+Unit: 38
+Arvd-17:36:28 Clxd-17:36:48
+15-13573 1741 Initiated - MOTOR VYRHICLE STOP CITATION - WARNING
+Cxll Takar: PATROL EALVIN DZIEDZIAR
+Locaticn/Address: COLE AVE
+Unit: 3a
+A-vd-17:41:35 Clrd-17:49:28
+Vehicle: RID 2017 JEX> CHEROY keg: PT MA 20P423 VIN: 1C4PJMCELIHWS21046
+Operator: CARVATHO, JOHN # 4 765 STMONDS RD - WILLIAMSTOWN, MA 01257-2107
+Race: @ Sex: HM
+Refer To Citaziou: T20H5"EYS
+owner: CARVALEQ, ANTHONY WILLIAM @ 765 SIMONDS RD - WILLIAMSTOWN, MA 01267:
+2104

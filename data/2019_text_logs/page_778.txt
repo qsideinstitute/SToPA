@@ -1,1 +1,49 @@
-Narrative:  Right pass state garage, tree too big to move.  Mostly in  breakdown lane with some branches in the Northbound travel  lane. Deployed some cones.  Narrative:  Mass DOT notified.  Narrative:  Tree cut from road, cones retrieved.  19-5209  0755  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  SIMONDS RD  Unit  37K  Arvd-07:55:26  Clrd-07:55:35  Narrative  Checked S~4  17:36  Narrative  done  Narrative  Checked 0329  19-5210  0755  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  SIMONDS RD  Unit  37K  Arvd-07:55:52  Clrd-07:55:58  Narrative  Checked S-4  17:32  Narrative  done  Narrative  Checked 0327  19-5211  0757  Initiated - ROAD CONDITIONS  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-07:58:44  Cird-07:58:51  Narrative  Large pothole capable of disabling mv. Dispatch to notify  MADOT.  Narrative  Notified.  19-5212  0812  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA dr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-08:13:03  Clrd-08:13:40  Narrative  Checked §-4  16:38 
+Narrative:
+Right pass state garage, tree too big to move. Mostly in
+breakdown lane with some branches in the Northbound travel
+lane. Deployed some cones.
+Narrative:
+Mass DOT notified.
+Narrative:
+Tree cut from road, cones retrieved.
+19-5209 0755 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+I.ocation/Address: SIMONDS RD
+Unit: 37K
+Arvd-07:55:26 Clrd-07:55:35
+Narrative:
+Checked S-4 17:36
+Narrative:
+done
+Narrative:
+Checked 0329
+19-5210 0755 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: SIMONDS RD
+Unit: 37K
+Arvd-07:55:52 Clrd-07:55:58
+Narrative:
+Checked S-4 17:32
+Narrative:
+done
+Narrative:
+Checked 0327
+19-5211 0757 Initiated - ROAD CONDITIONS TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-07:58:44 Clrd-07:58:51
+Narrative:
+large pothole capable of disabling to
+MADOT. mv. Dispatch notify
+Narrative:
+Notified.
+
+19-5212 0812 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRIKG RD
+Unit: 37K
+Narrative: Arvd-08:13:03 Clrd-08:13:40
+Checked S-4 16:38

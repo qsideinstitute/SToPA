@@ -1,1 +1,51 @@
-19-10219  0846  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Lecation/Address:  SYNDICATE  RD  Unit:  35  Arvd-08:46:44  Clrd-08;59:39  Narrative:  checked  19-10220  0500  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit;  35  Arvd-09:06:33  Clird-09:01:30  19+10221  O90  Initiated ~ PARKING CEECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  SPRING ST  Unit:  a5  Arvd-09:02:14  Clrd-09:04:18  49-10222  o909  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  PATROL DAVID JENNINGS, D  Location/Address  HOPPER RD  Unit  35  Arvd-69:09:31  Cird-09:12:24  Narrative  Checked  Narrative  Checked 03112  19-10223  0924  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  MAIN sT  Unit:  a5  Arvd-09:24:38  Clrd-09:25:49  Narrative:  checked  Narrative:  done  19-10224  0926  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Cail Taker  PATROL DAVID JENNINGS, D  Location/Address  LUCE RD  Unit  35  Arvd-09:26:41  Clrd-09:36:23  Unit  34  Enrt-16:12:08  Arvd-16:15:31  Clyrd-16:16:21  Disp-16:12:00  Unit  34  Disp-16:23:20  Arvd-16:27:41  Cird-16:49:56  19-10225  O947  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH ST  Unit  35  Arvd-09:47:44  Clrd-09:48:12  Narrative  checked 
+19-102129 0846 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL DAVID JENNIKGS, D
+Lovation/Address: SYNDICATE RD
+Tnit: 35
+Arvid-08:46:42 Clrd-08:59:39
+Karracive:
+greazked
+15-10220 0s30 Initiated - PARKTIRG CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENMNINGS, D
+Location/Address: PARK ST
+Bric: 25
+Arvd-0o:00:353 Clrd-05:01:30
+15-10221 gsoi Initiated - PARRING CHECK SERVICES RENDERED
+Call Takei: PATRGT DAVID JENKINGS, D
+Location/Address: SPRING BT
+Unit: ig
+Arvd 03:02: 14 Clrd-09:04:18
+19-102322 0509 Initiated - BUILDING CHECK BULLDING CHRECKED/3ECURED
+Cali Tzker: PATROL DAVID JENNINGS, D
+Locaticn/addrees: HCPPER RD
+Pail: a5
+Arvd-09:05:
+Narrative: al Cird-09:12:24
+Checked
+Narrzlkive:
+Cheoked 0311
+15-10223 0924 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Takeor: PATROL LCAVID JENNINGS, D
+Lozalion/Address: MAIN ST
+Unit: at
+Arvd-09:24:38 Clrd-09:25:49
+Narrative:
+cheozed
+Narrative:
+done
+19-110224 092§ Initimted - TRAFFIC CONIROL SERVICES RENDERRD
+Call Taker: PATROL DAVID JENMINGS, D
+Location/Address: LUCE RD
+Unik: 35
+Arvd-29:26 141 Clrd-09:26:22
+Unit: JL
+Disp-16:12:00 Znrt-16:°2:08 Arvd-i6:15: 21 Clrd-16::6:21
+unit: 3¢
+Disp-14:23:20 Arvd-ig:24: 41 Clrd-16:49:55
+19-10225 0947 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cail Taker: FATRQL. DAVIT) JENNTKGS, D
+Location/Address: NQRTH ST
+nit: as
+Arvd-09:47: Clrc-09:48:22
+Karrarive: 44
+checked

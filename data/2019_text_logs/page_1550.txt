@@ -1,1 +1,57 @@
-Operator:  KLINE, COLLIN M @ 27 ALBERT ST - ADAMS, MA 01220-1501  Race:  W Sex: M  Refer To Citation:  T1786010  Owner:  KLINE, COLLIN M @ 27 ALBERT ST - ADAMS, MA 01220-1501  Race:  W  Sex:  M  19-1109)  1314  initiated - MOTOR VEHICLE STOP  ARREST (S}  Call Taker:  PATROL BRAD SACCO  NEW ASHFORD RD  Location/Address:  Unit:  35  Arvd-13:14:35 Clird-14:19:36  Unit:  30  Disp-13:30:00  Arvd-13:38:23  Clrd-13:51:25  Vehicle:  WHI 2003  IPAFP552X3G184409  FORD SE TAURUS Reg: PC MA 8CT777 VIN:  Operator:  MAYOTTE,  JUSTIN J @ i00 MADISON AVE - PITTSFIELD, MA 01201-4081  Race: U  Sex: M  Refer To Citation:  T17e6011  Owner:  MAYOTTE,  KAYLA MARIE @ 100 MADISON AVE - PITTSFIELD, MA 01201-4081  Race: U  Sex: F  Narrative:  1335  One in  custody.  1344  Enroute to station 84165.  1354  Arrive 84174.  1356  Prisoner in booking.  1415  Clerk Hobart contacted and enroute.  1433  Clerk Hobart in booking.  1446  Prisoner released.  Refer To Arrest  19-107-AR  Arrest  MAYOTTE, JUSTIN J  Address  100 MADISON AVE  PITTSFIELD, MA  32  Age  Charges  INSPECTION/STICKER, NO  LICENSE SUSPENDED, OP MV WITH, SUBSQ.OFF  15-11693  1521  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  28  Arvd-15:24:21  Cird-15:32:43  15-11092  1822  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  a1  Arvd-15:23:30  Clrd-15:25:33  19-11094  L707  Initiated - MOTOR VEHICLE STOP  NO ACTION REQUIRED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  NORTH HOOSAC RD  Unit:  38  Arvd-17:07:08  Clrd-17:08:59  Vehicle:  BRO 2006 FORD ESCAPE  TFMYU93126KD47192  Reg: PC MA 716007 VIN:  Owner:  DUNNE, ANTHONY M @ 243 UNION ST - NORTH ADAMS,  MA 01247-3571  Race: U Sex: M  Narrative:  Stopped for 90/20. Veh. Purchased today.  15-11095  1743  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT DAVID R LEMIEUX  SOUTHWORTH ST  Location/Address:  Unit :  31  Arvd-17:43:19  Clrd-17:45:55 
+Oporator: KLINE, COLLIN M 2 27 ALBERT ST - ADAMS, MA 01220-1501
+Citation: Race: W Bex: M
+Reter To T1786310
+Owner: KL_NE, COLLIN M 27 ALBERT ST - ADAMS, MA 01220-1501
+Razoe: WW Sox: M
+19-131091 1514 Initiated - MOTOR VEHICLE STOP ARREST(5)
+Call Taker: PATROL BRAD SACCO
+Locaniaon/Address: NEW ASHFORD RD
+nit: 36
+Arvd-13:34:35 Clrd-14:19:36
+unit: ie
+Disp-13:20:00 Arvi-13:38:23 Clrd 13:51:25
+Vehicle: WHI 2003 FORD SE TAURUS Reg: PC MA BCT777 VIN: 1PAFPS552X3GlB4408
+Cpurator: MAYOTTE, JUSTIN J @ 100 MADISON AVE - PITTSFIELD, MA 01201-4081
+Race: U Sex: M
+Refer To Citanion: F1785011
+Owmer: MAYCTTE, KAYLA MARIE @ 102 MADISON AVE - PITTSFIILD, MA 0120xz-40E1
+Race: J Sex: F
+Karrative:
+1335 One in custody.
+1344 Enroute to station 84165.
+1354 Arrive 84174.
+1356 Priscner in hooxing.
+1415 Clerk Zcokart costacted and enroute.
+1439 Clerk Hokar: in bkooxing.
+1446 Prisoncr released,
+Reter To Arregt: 19-107-AR
+Arrest: HAYOTTE, JUSTIN J
+Address: 180 MADLSON AVE PITTSFIELD, MA
+Ace: 32
+Charges: IKSPECTION/STICKER, NO
+LICEXSBE SUSPEMCED, OP MV WITH, SUBSQ.OFT
+19-1109313 1521 Initiated - PARKING CHECK SERVICES RENDERED
+Call Takar: PATROL SOHN J MCCONNELL JR
+rocation/Address: SPRIXG ST
+nin: 28
+Arvd-13:24:21 (Clyrd-15:32:43
+15-1140593 1522 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID BR LEMIEUX
+Location/Address: PARK BT
+Unis: 31
+Arvd-15:23:30 Clrd-15:25:33
+16-11094 1707 Initiated - MOTOR VEHICLE 5TQPF NO ACTION REQUIRED
+Call Taker: PATROL JOHN J MOCONMELL JR
+NORTH HOOSAC RD
+Location/Address:
+Un-k: ia Arvd-17:07:08 Clrd-:7:03:59
+vehic.e: PC MA 7150JJ VIK: 1FMYU93126KDAT192
+BRO 2005 ANTHONY FORD ESCAPE M E43 Rog: JNLION 8T NOKTH MA G1247-3571
+Cwner : Race: JUNNZ, U Sox: M § - RDANS,
+Narrakb: ve: for 20/20. Veh. Purchased
+Stopped today.
+Initiated CHECK BUILDING CHECKED/SECURED
+15-11085 1743 - BUILDING
+Cal: Taker: EERGEANT DAVID R LEMIEUX
+Locaticn/Address: Unit: SCUTHWORTH ST
+3 Arvd-17:43:19 Clrd-17:45:55

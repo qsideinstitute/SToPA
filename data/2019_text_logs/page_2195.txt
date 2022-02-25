@@ -1,1 +1,55 @@
-Unit:  34  Disp-12:04:44  Arvd-12:05:07  Clrd-12:25:46  Narrative:  Clerk reports older male who she believes to be  took an under the counter light valued at 522.99  and didn't pay for same. Wishes him to return and pay or  leave item and not return to store.  Narrative:  Made contact with Pe | at his residence. Explained  to him the reason for my visit. He stated he would go right  down to Aubuchon and take care of the issue.  I escorted him  to the store where he paid for the item. He was then  verbally trespassed from the store until the manager has him  formally trespassed. BRRRBNBMM understands he is now  trespassed from the store.  1595-14918  1236  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  MAIN ST  Unit  34  Arvd-12:36:56  Cird-12:48:43  Vehicle  VIN: JTMPLRFVSKD01Es51  GRY 2019 TOYT RAV4 Reg: PC MA 957KM7  Operator  DUBIE, MATTHEW DAVID @ 47 WATSON ST - NORTH ADAMS,  MA 01247-3160  Race:  W  Sex: M  Refer To Citation  T2085856  Owner  DUBIE, MATTHEW DAVID @ 47 WATSON ST - NORTH ADAMS, MA 01247-31690  Race:  W Sex: M  49-14919  1256  Initiated - MOTOR VEHICLE sToP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  WATER ST  Unit  34  Arvd-12:56:02  Clird-13:25:12  Vehicle  ONG 2013 JEEP WRANGL Reg: PC MA B82NM30  VIN:  1C4AJWAG3DL500092  MEAD, CAYMAN H @ 41 MASON ST - WILLIAMSTOWN, MA 01267-2219  Operator  Race:  U Sex: M  Refer To Citation  T2085857  Owner  MEAD, CAYMAN H @ 41 MASON ST - WILLIAMSTOWN, MA 01267-2219  Race:  G Sex: M  Narrative  Operator unable to renew at this time. Passenger cant drive  vehicle due to the fact she cant drive a standard. Licensed  driver coming from Hancock to remove the vehicle.  19-14921  1403  Phone - ROAD CONDITIONS  LOG ENTRY REQUEST  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  NORTH HOOSAC RD  Narrative:  37K reports that North Adams was asked to have their highway  repair the damage from their water main break on North  Hoosac Rd.  19-14923  1441  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  34  Arvd-14:41:43  Clrd-14:49:15  Vehicle  BRO 2007 FORD ST FREEST Req: PC MA 7MK749  VIN:  LFMDKC61X7GAL8241  Operator  FUHRMANN, ANDREW @ 22 ARNOLD ST - WILLIAMSTOWN, MA 01267-2544 
+Joit: 54
+Cisp-12:54:44 Arvd-12:25:07 Clrd-12:25:46
+Nurratowvs:
+Clerk reports older rale wo ste belisves to be
+took an andar the counter light valucd at 522.99
+and didn't pay for same. Aishes him to reburn and pay or
+leave item and nct return te stere.
+Narrative:
+Made cenrtact with al hiz reuidenve. Explainec
+Lo him Lhe rcagson [ox my visit. He stabsd he would ge right
+down Lo Aubuchorr wmnud take care of the issue. I escorted him
+to the store where he paid for the item. He was then
+verbally trespzssed Irom the stove until Tha mzmager has hir
+formally trespzesed. undevs-ands he ie now
+trespasced from the atore.
+19-14918 1236 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATRCL SRAD BACCC
+Locaticn/Address: MAIN ST
+Tniz: iq
+Arvyi-12:36:56 Clrd-12:45:42
+Vehicle: GRY 2013 TOYT RAV4 Reg: PC MA 957KM7 VIN: JIMPLRFVEEI01E851
+Operator: DIZ, MATTIIEN DAVD ®@ 47 RATSON ST - NOXTH ADAMS, MA G1l247-3160
+Race: H Sax: M
+Pafer Te Citamion: TAORGRNG
+owner: OBIS, MATTIIEW DAVIL @ 27 RATZCHN ET - NORTH ADAMS, MA 01247-3260
+Jace: W Sex: M
+18-34919 1256 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call "taker: PATOL BRAD SACCO
+Incztion/Addrasn: KATER ST
+Unit: ar
+Arvd--2:58:02 Cird-13:2b:12
+Vehicle: ONG 2113 JEP WRANGL Reg: PC MA BZINM30 VIN: 1C4AJWAGIDLEG0S92
+doepralbes: MEAD, CAYMAN Z § 41 MASON ST WILLIAMSTOWN, MA 0°267-22_9
+Rage: T Sex: K
+Reiter Teo Citation: T2335857
+Cwrno™> : MEADY, CAYMAN —- 4 41 MABOK ST WILLZAKSTOWN, MA 0ZI267 22°29
+Racc: © Hox: M
+Narralive:
+Cpercter unable Ue renew at Chis time. Passenger cant drive
+Ch ve Lhe facl she cosl drive a siandoaré, Licazsed
+driver coming from Hancock Tc remove the vehicle.
+19-149921 1409 Phone - ROAD CONDITIONS LOGE ENTRY REQUEST
+Call Texor: DAEPATCHSR UERISTING LEMOIN.
+Location/Address: NORLE HOOSHRC KD
+Narrative:
+37X reports that North Adams was asked to have their highway
+Lhe daiteye from Lhoir wator mein ein Hroak ol North
+ITocaac repa.r Rd.
+19-145923 1441 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Ce_1 Taker: PATROL I3RAD EATCC
+Locat-on/Address: “OLD SPRING RD
+Unit: 24
+Axvé-14:41:43 Clrd-24:45:15
+Vahicle: BRO 2037 FOXD 5T FALEST Reg: 7C MA 7TMK742 VICI: IFMCECelX7GAI8245
+Opsrator: IUIIRMANE, ANDREW @ 22 ARNOLL ST - WILLIAMS3TOWN, MA 01207-2544

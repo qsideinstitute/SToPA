@@ -1,1 +1,56 @@
-Location/aAddress  GALE RD  Unit  36  Arvd-07:40:33  Clrd-07:45:47  Unit  36  Arvd-07;:53:41  Clrd-08:07:06  Disp-07:53:37  Narrative  1 violation  19-13837  O745  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  GALE RD  Unit  36  Arvd-07:45:47  Clrd@-07:51:50  Vehicle  WHI 2008 CHEV SILVER Reg: PC MA 9NXF9Q VIN: 3GCEK13J08G289432  MCCORMICK,  MARK E @ 26 JUDITH DR - DALTON, MA 01226-0000  Operator  Race:  W Sex:  M  Refer To Citation  TL7S5644  Owner  MCCORMICK, MARK E @ 26 JUDITH DR - DALTON, MA 01226-0000  Race:  Ww  Sex: M  Narrative  Vehicle pulled into work at a residence before plate came  back.  Advised not to drive until taken care of.  49-13838  0812  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  WATER ST  Unit  36  Arvd-08:11:20  Cled-08:19:15  Vehicle  BRO 2015 TOYT PRIUS Reg: PC MA 7AH8O0  VIN: JTDEN3EUGFI023579  Operator  FALER, KIMBERLY ANNE @ 29 HOLBROOK ST - NORTH ADAMS, MA 01247-4210  Race:  W Sex;  F  Refer To Citation  T1785612  Owner  FALER, KIMBERLY ANNE @ 29 HOLBROOK ST - NORTH ADAMS, MA 01247-4210  Race:  W Sex: F  19-13839  0820  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  COLE AVE  Unit:  36  Arvd-08:20;:55  Clrd-08:41:29  19-13840  ge21  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J Z2IEMBA Jr  Location/Address:  (WIA 333] CHURCH ST  Unit:  37K  Arvd-08:21:47  Clird-08:42:17  unit:  32  Disp-14:59:21  Enrt-14:59:39 Arvd-15:00:06  Clrd-15:18:18  19-13841  G842  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDES  Location/Address:  HALL ST  Unit:  36  Arvd-06:43:38  Clrd-08:45:42  Narrative:  Vehicle parked on road MA 7LF182  In driveway MA 3FP136  Narrative:  just car in road in front still 
+GALE RID
+26
+Arvd-07:40:33 Clré 07:45:47
+Unit: 36
+Disp-07:53:37 Arvd-07:53:41 Clrd-05:07:086
+Narrative:
+1 vieclation
+15-13837 0745 Initiated - MOTOR VERICLE STOP CITATION - WARNING
+Tall Taker: PATROL TANIA SZERNANDLKZ
+Lecacion/Address: GALE RD
+Unik: 36
+Arvd-07:45:47 Clrg-07:51:50
+Vahic_e: WHI 2008 CIIEY SILVER Rey: PC M3 9NXF90 VIN: 3GCEXK13JOBG289432
+Cperator: MCCORMICK, MARX BE @ 26 JJDIT: CR - DALTON, MA 01226-0000
+Race: BW dew: K
+Rcfor To Citation: T17B5BELL
+Owner: MCCORMICK, MARK BE ® 26 JJDITH CR - DALTON, Ma 01226-0000
+Race: BW Sex: M
+Narrative:
+Vehicle pulled intc work at a residence befcre plate came
+hack. Advised not to drive until taken care oI.
+9-13838 081ll Initiated MOTOR VERICLE BTOF CITATION - WARNING
+-
+TANIA HERNANDEZ
+Call Taker: PATROL
+Location/Address: WATER ST
+tinit: 26 Clrd-08:19:15
+Arvd-08:11:20 YIN:
+vehicle: BRC 20.5 TOYT PRIJE Req: #C MA TAHEDU JTDZNIEJEFCC23579
+Operator: FALER, XIMA2RLY ANKE ® 29 HOLBROOX 87 NORTH ADAMH, MA 31247-4210
+Race: § Sex: PF
+Reter To Citation: T_785612
+Ownar: FAZER, XTMRERLY ANNE é 29 HOLzROOX ST - NORTH ADAMS, MA 01247-<210
+Race: W Sex: F
+19-136839 0820 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+call —aker: PATROL TANTA HERNANDEZ
+Locakion/Address: COLE AVE
+Unit: as
+Arvd-06:20:55 Clxd-08:41:29
+15-13840 ge21 Initiated - TRAPFIC CONTROL SERVICES RENDERED
+Call Taker: L EUTENANT MICHAEL J ZIEMBA or
+Local on/address: [WIA 333] CHURCH ST
+Unit: id
+Arvd-08:21:47 Clrd 08:42:17
+Unit: 32
+Dasp-14:499:21 Enrt-14:59:39 Arvd-15:00:06 Clrd-15:28:18
+19-130841 0842 Initlated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca:l Taker: PATROL TANIA HERNANDEZ
+Locaticn/Address: HALL ST
+rnit: JE
+Arvé-06:43:38 Clrd-08:45:42
+Narrztive:
+Vehicle parked on rcad MA 7LF_B2
+In driveway MA 3FP_36
+Harrative:
+just car in road in [ront still

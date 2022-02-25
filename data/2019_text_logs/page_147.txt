@@ -1,1 +1,46 @@
-19-1038  0854  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  PATROL DAVID JENNINGS, D  NORTH HOOSAC RD  Location/Address  unit  30  Arvd-08:54:15 Clrd-08:54:21  Narrative  checked  Narrative:  01/26/2019 0045 Checked $3  19-1039  0859  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  STONEY LEDGE RD  Location/Address  Unit  30  Arvd~-08:59:29 Clrd-09:01:22  Narrative  checked  Narrative  done  19-1040  0903  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  STRATTON RD  Unit  30  Arvda-09:03:58  Clird-09:04:34  Narrative  checked, driveway a little slick in spots.  Narrative  done  19-1041  0906  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  LONGVIEW TER  Unit:  30  Arvd-09:06:47 Clrd-09:06:56  Narrative:  Checked  Narrative:  done  19-1042  0910  Initiated -. BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  FRENIER AVE  Unit  30  Arvd-09:10:14  Cird-09:10:24  Narrative  checked  Narrative  done 
+19-1038 0854 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NORTH HOOSAC RD
+Unit: 30
+Arvd-08:54:15 Clrd-08:54:21
+Narrative:
+checked
+Narrative:
+01/26/2019 0045 Checked S3
+19-1039 0859 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: STONEY LEDGE RD
+Unit: 30
+Arvd-08:59:29 Clrd-09:01:22
+Narrative:
+checked
+Narrative:
+done
+19-1040 0903 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL
+DAVID JENNINGS, D
+Location/Address: STRATTON RD
+Unit: 30
+Arvd-09:03:58 Clrd-09:04:34
+Narrative:
+checked, driveway a little slick in spots.
+Narrative:
+done
+19-1041 0906 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: LONGVIEW TER
+Unit: 30
+Narrative: Arvd-09:06:47 Clrd-09:06:56
+Checked
+Narrative:
+done
+19-1042 0910 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: FRENIER AVE
+Unit: 30
+Arvd-09:10:14 Clrd-09:10:24
+Narrative:
+checked
+Narrative:
+done

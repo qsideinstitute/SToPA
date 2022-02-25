@@ -1,1 +1,53 @@
-Unit:  36  Arvd-16:34:58  Clrd-10:37:53  Narrative:  checked  19-11963  1048  Phone -  ASSIST OTHER AGENCY  - FIRE  SERVICES RENDERED  Call Taker:  PATROL ANTHONY ™ DUPRAT  Location/Address:  {WIA 146] ADAMS RD  Narrative:  Testing Sprinkler system incase we receive a call, Will call  back when testing is completed.  Narrative:  Testing completed.  19-11904  1159  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  HOPPER RD  Unit:  35  Arvd-11:59:41  Clyrd-12:02:17  Narrative:  checked  Narrative:  CHECKED  19+11905  1248  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  MAIN 8ST  Location/Address  Unit  35  Arvd-12:48:42 Clrd-12:55:32  PC MA 8CP477 VIN: WBABNS5S34X1J023621  Vehicle  GRY 2001 BMW CO 330 Req:  Operator  MILLIKEN, GLENN D @ 32 AVERY ST - E LONGMEADOW, MA 01028-2035  Race:  W  Sex:  M  Refer To Citation  T2085275  Owner  MILLIKEN, GLENN D @ 32 AVERY ST - E LONGMEADOW,  MA 01028-2035  Race:  W  Sex: M  19-11906  1439  Phone -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  NORTH HOOSAC RD  Location/Address:  Unit:  34  Disp-14;42:53  Enrt-14:42:57 Arvd-14:47:24  Clrd-14:55:42  Narrative:  Black  Boston  1445-  Placed in celi 3  1414-  Number on tag called, owner en route  1527-  Party at station to pick up dog. States new boiler is  being  installed in her home and the dog escaped.  1528-  Dog out of station  159-11908  1502  initiated ~ PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID KR LEMIEUX  Location/Address:  SPRING ST  31  Unit:  Arvd-15:03:33  Clrd-15:12:22  1219-11509  1529  Initiated - MOTOR VEHICLE STOP  CRIMINAL COMPLAINT  Call Taker:  PATROL BRAD SACCO 
+Unit: 36
+Arvd-10:34:58 Clrd-10:37:53
+Narrative:
+shecked
+19-1190313 1048 Phone - ABSIET OTHER AGENCY - FIRE SERVICES RENDERED
+Call Taker: PATROL ANTHOKY M DUPRAT
+Location/Address: fWlA 146] ADAMS RC
+Narrative:
+l'eat-ng Sprinkler system incase we receive a call, Wiil call
+back when testing Is completed.
+Narrative:
+Testing conpleted.
+19-115504 1159 Initiated - BUILDING CHECK BUTLDING CHECKED/SECURED
+Call akerxr: PATROL ARAD EACCO
+Location/Address: HOPPYR RD
+Unit: as
+ArvAd-11:59:4> Cird-12:02:17
+darratzive:
+crheoked
+Narrative:
+CHECKED
+19-119805 1243 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL BRAD SACUC
+Location/AdCreus: MAIN ST
+Unit: a5
+Arvd-12:48:42 Clrd-12:55:32
+Vehicle: GRY 2001 BMW CO 333 Req: PC MR ECP47Y7 VIN: WBABNS34X1JU23621
+Operalor: MILLIKEN, GLENN LC @ 32 AVERY 871 - E LONGMEADOW, MA 01028-2035
+Racu: @ Sex: M
+later Top Citation:
+Owncr: MILLIKEN, CLENK I @ 32 AVERY 8T - E LCNGMEADOW, MA 01028-2033
+Ruce: WW Scx: M
+19-119406 1439 Phone - ANIMAL CONTROL SERVICEE RENDERED
+Call Taker: PATRCL ANT:IONY M DUZRAT
+Location/Address: NCORTII HCOSAC RD
+Un.w: 34
+Disn-14:42:53 Enrt-14:42:57 Arvd-14:47:24 Clxd-14:55:42
+Narrative:
+Dlack BosglLon
+1445- Placed in cell 3
+1l414- Humber on tag called, owner en routo
+1527- Party ui. stallon Lo pick dog, Btates new boiler is
+being ingtalied in her home and up the dog escaped.
+1528 out ¢f station
+Joc
+1502 Initiated PARKING CHECK SERVICES RENDERED
+15-11908 SERGEANT DAVID - R LEMIEUX
+Call Taker: ST
+Locarion/Address: SPRING
+Unit: 3l Arvd-15:03:33 Clré-15:12:22
+1529 Initiated MOTOR VEHICLE BIOP CRIMINAL COMPLAINT
+19-11909 -
+Call Taker: PATROL BRAD SACCO

@@ -1,1 +1,52 @@
-Disp-11:28:47 Enrt-11:29:10  Clrd-11:31:22  Unit:  20  Enrt-112:30:36 Arvd-11:32:24  Clrd-11:42:30  Disp-11:30:20  Narrative:  Interior hall way motion alarm. Key holder may be responding  in a silver subaru outback. Alarm company was not positive  they were responding.  Narrative:  It appears the wind opened a door which tripped the motion.  Home checked with keyholder, all appears in order at this  time. Keyholder advised if homeowner finds somethig out of  place to call BD.  19-12914  11248  Initiated ~- BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL SHUAN N WILLTAM  Location/Address  HOPPER RD  Unit  32  Arvd-11:28:24  Clrd-11:28:31  Narrative  checked  Narrative  Checked  19-12915  1218  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  KEEP HILL RD  unit  36  Arvd-12:18:18  Clrd-12:21:53  Narrative  done  Narrative:  Checked  19-12916  1253  Walk-In - FOUND/ LOST PROPERTY  LOG ENTRY REQUEST  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  {WIA 390] SIMONDS RD  Narrative:  RP stated he lost his Brown Wallet 2 days ago, Unknown  location.  319-12517  1329  Walk-In - THREATS /HARASSMENT  LOG ENTRY REQUEST  Call Taker:  PATROL ANTHONY ™ DUPRAT  Location/Address:  [WIA 390] SIMONDS RD  Narrative:  RP states her daughter has been threatened by a (RI  VIA Snap Chat. RP states the snap chat stated he was was  going to "shoot and stab" Rps daughter. The High School is  involved and in the process of getting a restraining order  on  LT. Ziemba has been informed of the incident by  both Ofe. Duprat and the High School.  19-2919  1503  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:05:05  Clrd-15:15:05 
+Disp-11:28:47 Enrt-11:22:10 Clrgé-11:3):22
+Unit: 30
+Disp-11:32:20 Enrt-11:30:36 Arvd-11:33:24 Clrd-11:42:30
+Narrative:
+Interior hali way motion alarm. Key hoider may be responding
+in a silver subaru outback. Alarm company was not positive
+they were responding.
+Narrative:
+IL appeara the wind opened a door which tripped the motion.
+Ecne checked with keyholder, al\ appears in order at this
+Lime. Keyholder advised if homeowner finds sometzig out of
+place to calli CD.
+19-1298914 1128 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL SHIAN N WINLJ,IAM
+Location/Address: HOPPER RD
+Unit: 32
+Arvd-12:28:24 Clxd 11:28:31
+Narrative:
+checked
+Nazrative:
+Checked
+19-125915 1218 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANTA HERNANDEZ
+Locat-cn/Addraess: KEEP HILL RJ
+Thit: as
+Avvci-12:1R:18 Clrd-12:21:53
+Narrative:
+done
+Narrative:
+Checked
+15-12816 1253 Walk-In - FOQUND/ LOST PROPERTY 1L.OG ENTRY REQUEST
+all Taker: PATROL ANTHONY M DUPRAT
+Local lon/Address: [WTA 39¢] SIMCNDS RD
+Narrative:
+kP stated he lost his Srowr Wallel 2 days ago, Unknow:
+locaticn.
+1319 Walk-In THREATS/HARASSMENT LOG ENTKY REQUEST
+1838-12917 Taker: ANTHONY - M DUPRAT
+Ca-l PATROL SIMONDS RD
+_ocation/Address: [WTA 392]
+Rarratiwva: EP states her hug bacn threatened by a
+VTA Chat. daughter RP states Lhe chat stated he was was
+Srap “shcot and stab" RFs snap “he High School is
+going to in the of daughter. restraining order
+involved and process been getlLing informed a ot the incident
+co JJ. LT. Ziemba has by
+both Ofc. Duprat and the High School.
+RENDERED
+15-12919 1503 Initiated - PARKIRG CHECK SERVICES
+Cali Taner: FAVROL OHN T MCCCNNSLL JR
+Location/Address: SPRTNG 37
+Jnit: EL: Arvd-15:05:05 Clrd-15:15:05

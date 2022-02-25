@@ -1,1 +1,50 @@
-Narrative:  checked  1219-11053  12i1  Initiated - PARKING COMPLAINT  REMOVED HAZARD  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  SPRING ST MUNICIPAL LOT  Unit  33  Arvd-12:12:17  Clrd-12:20:30  Unit  35  Arvd-12:15:11  Cird-12:20:06  Narrative  Picnic tables stacked in HP van spot  Narrative  Moved to proper location  49-11054  1245  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  COLD SPRING RD  Unit  26  Arvd-12:45:38  Clrd-12:46:16  Narrative  company visiting  Narrative  Checked S§-4  17:58  Narrative  Checked  19-11056  1316  $11 - THREATS /HARASSMENT  SERVICES RENDERED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  PINES LODGE PARK  Unit  37K  Disp-13:32:33  Clird-13:48:42  unit  35  Disp-13:45:16  Enrt-13:45:17  Arvd-13:49:40  Cird-14:05:14  Narrative  Party is being harrassed via phone.  Narrative  Party having an argument with an unknown party.  CP wants it  legged. Number was blocked.  19-11057  15903  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Cali Taker:  DISPATCHER WILLIAM € JENNINGS JR  Lecation/Address:  COLE AVE  Unit:  31  Arvd-15:03:00  Cird-15:21:53  19-11058  1517  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  SPRING ST  Location/Address:  Unit:  32  Arvd-15:17:21  Cird-15:23:38  Narrative:  09/06/2019 1517 - Start  03/06/2019 1700 - 4 violations  1219-11055  1523  Initiated ~- PARKING CHECK  SERVICES RENDERED 
+Narrative:
+checked
+19-11053 1211 Initiated - PARKING COMPLAINT REMOVED HAZARD
+cull Taker: CIIZEF KYLE J <cOHNSOR
+Lecazion/Adcress: SPRING ST MUNICIPAL LOT
+mit: 33
+Aryd 12:12:17 Clzd-12:20:20
+unit: 3h
+Aryd-12:15:11 Clrd-12:20:26
+Narrallve:
+P_cuic tables stacked in IIP van spot
+Narrative:
+Moved to proper locatio
+15-11054 1245 Initiated - BUILDING CHECE BUILDING CHECKED /SECURED
+Call Taker: PATROL TANIA “ERNANDEY
+—_ocation/Acdrese: SOLD SPR_KG RO
+uniz: Kl
+Arvd-12:45:38 Clrd-12:46:16
+Narrative:
+Company visiting
+Narrative:
+Cherkedl 8-4 17:58
+Narrat -ve:
+Checked
+1959-11056 131é 911 - THREATS/HARASSMENT SERVICES REMDERED
+Call Texexr: JISPATCITER CHEISTINE LEMOINE
+Locaticn/Address: PINES LODGE PARK
+Jomit: 37K
+Disp-13:32:33 Clrd-13:48:42
+urit: a5
+Digp-13:45:26 Enrt-13:45:17 Arvd-13:43:20 Clrd-14:25:14
+Narrative:
+Farcy ig beinc harrassed via phone.
+Narrative:
+Farcy raving ar argunent with an unknown party. C7 wants it
+loaged. Nurber was blockec.
+19-11057 1503 Initiatad - TRAFFIC CONTROL SERVICES RANDERED
+Tall Taker: DISPATCHER WITIIAM CC SENNIKGS JR
+Lecazion/address: COLE AVE
+Lnit: 31
+Arva-15:03:00 Clrd-15-21:53
+18-11cCc58 1517 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN NW WIT...TAM
+Lcoation/Address: SPRING ST
+hit: 32
+ArvG-13:17:72] Clrd-15:23:38
+Narrative:
+05/08/2019 1b17 - start
+0c/0s/2019 1700 - 4 violations
+19-11059 1523 Initinted - PARKING CHECK SERVICES RENDERED

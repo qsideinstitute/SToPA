@@ -1,1 +1,51 @@
-Narrative:  Belt broke, trying to get it fixed. Will tow if they cannot  fix.  s..  Narrative:  GE called Pp requesting Ron call her with a price  to tow. Ron notified and will contact her.  19-2422  1907  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  [WIA 385] NORTH HOOSAC RD  Unit  31  Disp-19:08:42 Enrt-19:08:59 Arvd-19:10:31  Cird-19:14:19  Narrative  Requests officer go to above location and check on  vehicles/people near her shop. Can see them on cameras.  Narrative  02/24/2019 1911 - Same parties from earlier Disabled MV Call  (19-2421). They attempted a fix, but only got to Neethawk  Sign. Called for a Tow. All parties in previous call.  19~2423  2049  911 - 9-1-1 SILENT CALL  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  HALL ST  Unit  38  Arvd~21:05:01  Cird-21:12:55  Disp-20:51:21 Enrt~20:51:39  ee  Narrative  Open line with static. Officer sent to assure no  emergencies.  Narrative  Problem with the phone line. He will call Verizon in the am.  For Date: 02/25/2019  -  Monday  19-2424  0033  Initiated - SUSPICIOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Call Taker  PATROL KEVIN P GARNER  Location/Address  (WIA 240] COLE AVE  Unit  34  Arvd-00:34:35  Clrd-00:35:36  Vehicle  BLU 2014 CHEV SE SONIC Reg: PC MA 7XR167  VIN: 1G170CSSH5E4167586  Operator  KING, JOSEPH ALDEN @ 429 NORTH ST - WILLIAMSTOWN, MA 01267-2013  Race: W Sex: M  Owner  KING, JOSEPH ALDEN @ 429 NORTH ST - WILLIAMSTOWN, MA 01267-2013  Race: W Sex: M  Narrative  Subject pulled over to use phone. Advised about closed  business  19-2425  0319  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  {WIA 249] NORTH ST  Unit:  34  Arvd-03:20:02 Clrd-03:22:42  Narrative:  {1) violation 
+Narrative:
+Belt broke, trying to get it fixed. Will tow if they cannot
+fix.
+Narrative:
+IH c211¢d PD requesting Ron call her with a price
+to tow. Ron notified and will contact her.
+
+19-2422 1907 Phone - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 385] NORTH HOOSAC RD
+Unit: a1
+Disp-19:08:42 Enrt-19:08:59 Arvd-19:10:31 Clrd-19:14:19
+Narrative:
+Requests officer go to above location and check on
+vehicles/people near her shop. Can see them on cameras.
+Narrative:
+02/24/2019 1911 - Same parties from earlier Disabled MV Call
+(19-2421). They attempted a fix, but only got to Neethawk
+Sign. Called for a Tow. All parties in previous call.
+19-2423 2049 911 - 9-1-1 SILENT CALL SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: HALL ST
+Unit: 38
+Arvd-21:05:01 Clrd-21:12:55
+Disp-20:51:21 Enrt-20:51:39
+Narrative:
+Open line with static. Officer sent to assure no
+emergencies.
+Narrative:
+Problem with the phone line. He will call Verizon in the am.
+For Date: 02/25/2019 - Monday
+19-2424 0033 Initiated - SUSPICIOUS MOTOR VEHICLE LOG ENTRY REQUEST
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: [WIA 240] COLE AVE
+Unit: 34
+Arvd-00:34:35 Clrd-00:35:36
+Vehicle: BLU 2014 CHEV SE SONIC Reg: PC MA 7XR167 VIN: 1G1JCSSH5E4167586
+Operator: KING, JOSEPH ALDEN @ 429 NORTH ST - WILLIAMSTOWN, MA 01267-2013
+Race: W Sex: M
+Owner: KING, JOSEPH ALDEN @® 429 NORTE ST - WILLIAMSTOWN, MA 01267-2013
+Race: W Sex: M
+Narrative:
+Subject pulled over to use phone. Advised about closed
+business
+19-2425 0319 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: [WIA 249) NORTH ST
+Unit: 34
+Arvd-03:20:02 Clrd-03:22:42
+Narrative:
+(1) violation

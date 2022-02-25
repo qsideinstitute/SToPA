@@ -1,1 +1,50 @@
-like this. Advised that the address was valid as of May and  to find other means to reach out.  19-1221  0742  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:;  GALE RD  Unit:  32  Arvd-07:42:30  Clrd-08:06:46  Unit:  31  Arvd-15:05:48  Clrd-15:21:32  Disp-15:03:31 Enrt-15:04:54  19-1222  0810  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  [WIA 333] CHURCH ST  Unit:  32  Arv@-08:10:33  Clrd-08:38:33  Unit:  38  Arvd-15:08:06  Clrd-15:19:10  Disp-15:03:23 Emrt-15:05:18  19-1223  0842  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL SHUAN N WILLIAM  NORTH HOOSAC RD  Location/Address:  Unit:  32  Arvd-08:42:26  Clrd-08:42:33  Narrative:  Checked S-4  17:53  49-1224  0845  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  32  Arvd-08:45:39  Cird-08:45:48  Narrative  checked  Narrative  L7355  Checjed 5S-4  19-1226  0906  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Add@ress:  STONEY LEDGE RD  Unit:  32  Arvd-09:06:29  Clrd-09:06:40  Narrative:  checked  19-1227  0909  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  STRATTON RD  Unit:  32  Arvd-09:09:25  Clird-09:09:41  Narrative:  checked  19-1228  0912  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  LONGVIEW TER 
+like this. Advised that the address was valid as of May and
+to find other means to reach out.
+19-1221 0742 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: GALE RD
+Unit: 32
+Arvd-07:42:30 Clrd-08:06:46
+Unit: 31
+Disp-15:03:31 Enrt-15:04:54 Arvd-15:05:48 Clrd-15:21:32
+19-1222 0810 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 333] CHURCH ST
+Unit: 32
+Arvd-08:10:33 Clrd-08:38:33
+Unit: 38
+Disp-15:03:23 Enrt-15:05:18 Arvd-15:08:06 Clrd-15:19:10
+19-1223 0842 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: NORTH HOOSAC RD
+Unit: 32
+Arvd-08:42:26 Clrd-08:42:33
+Narrative:
+Checked S-4 17:53
+19-1224 0845 Initiated - BUILDING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 32
+Arvd-08:45:39 Clrd-08:45:48
+Narrative:
+checked
+Narrative:
+Checjed 8-4 17:55
+19-1226 0906 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: STONEY LEDGE RD
+Unit: 32
+Arvd-09:06:29 Clrd-09:06:40
+Narrative:
+checked
+19-1227 0909 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: STRATTON RD
+Unit: 32
+Arvd-09:09:25 Clrd-09:09:41
+Narrative:
+checked
+19-1228 0912 Initiated - BUILDING CHECK BUILDING
+CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: LONGVIEW TER

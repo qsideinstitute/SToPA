@@ -1,1 +1,59 @@
-Disp-13:35:00  Arvd-13:35:08  Cird-13:43:28  Vehicle:  GRY 2017 SUBA FOREST Reg: PC MA 5JF247 VIN: JF2SJAGC4HH441558  Owner:  LOPEZ, CAITLIN C @ 231 SWEETBROOK RD - WILLIAMSTOWN, MA 01267-3060  Race: U Sex: F  Narrative:  Male party advised not to pick up in crosswalk and block it.  He apologized and moved on.  19-5075  1325  Initiated - FINGERPRINTING  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  [WEA 249] NORTH ST  Unit:  35  Arvd-13:25:00 Clrd-13:34:51  19-5076  1327  Walk-In ~  LARCENY  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  PETERSBURG RD  Narrative:  Reports her $400 iPad missing from her home and suspects the  cleaning crew.  RP has fired company and does not wish an  investigation at this time.  19-5077  1346  Initiated - FINGERPRINTING  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  [WIA 249] NORTH ST  Unit:  35  Arvd-13:46:00  Clrd-13:55:02  19-5078  1355  Initiated - FINGERPRINTING  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  [WIA 249] NORTH ST  Unit:  35  Arvd-13:55:00  Clrd-14:03:27  19-5079  1357  Initiated ~- MOTOR VEHICLE STOP  CRIMINAL COMPLAINT  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  {WIA 191] MAIN ST  Unit  37K  Arvd-13:57:00 Clrd-14:28:02  Unit  30  Disp-14:00:35  Arvd-14:00:39 Clrd-14:29:46  Vehicle  VIN: KNAGE123665050536  GRY 2006 KIA Reg: PC VT GXF855  Operator  RICHARD, JOHNATHON D @ 59 SOUTH ST - NORTH ADAMS, MA 01247  Race: W Sex: M  Refer To Citation  T1403173  Owner  CARD, AMANDA @ 89 APPLE GATE DR Apt. #45 - BENNINGTON, VT 05201  Race: W Sex: F  Refer To Summons:  19-42-AR  Summons  RICHARD, JOHNATHON D  Address  59 SOUTH ST  NORTH ADAMS, MA  Age  32  Charges  LICENSE SUSPENDED, OP MV WITH  DRUG, POSSESS CLASS A,  SUBSQ.OFF.  19-5081  1408  Initiated ~- MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL TANIA HERNANDEZ  MAIN ST  Location/Address  Unit  36  Arvd-14:08:11 Clrd-14:14:16  Vehicle  BLU 2012 HYUN SE ELANTR Reg: PC MA 2CP344 VIN: KMHDH4AE0CU385161  Operator  GALVIN, HUGH E @ 386 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267  Race:  W Sex: M 
+Vehicle: GRY isp-13:35:00 2017 SUBA FOREST Arvd-13:35:08 Clrd-13:43:28
+Owner: CAITLIN Reg: PC MA 5JF247 VIN: JF2SJAGC4HH441558
+LOPEZ, C @ 231 SWEETBROOK RD - WILLIAMSTOWN, MA 01267-3060
+Race: U Sex: F
+Narrative:
+Male party advised not to pick up in crosswalk and block it.
+He apologized and moved on.
+
+19-5075 1325 Initiated - FINGERPRINTING SERVICES RENDERED
+Call Taker: CHIEF KYLE .J JOHNSON
+Location/Address: [WIA 249] NORTH ST
+Unit: 35
+Arvd-13:25:00 Clrd-13:34:51
+19-5076 1327 Walk-In - LARCENY LOG ENIRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: PETERSBURG RD
+Narrative:
+Reports her $400 IPad missing from her home and suspects the
+cleaning crew. RP has fired company and does not wish an
+investigation at this time.
+19-5077 1346 Initiated - FINGERPRINTING SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 249] NORTH ST
+Unit: 35
+Arvd-13:46:00 Clrd-13:55:02
+19-5078 1355 Initiated - FINGERPRINTING SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 249] NORTH ST
+Unit: 35
+Arvd-13:55:00 Clrd-14:03:27
+19-5079 1357 Initiated - MOTOR VEHICLE STOP CRIMINAL COMPLAINT
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: (WIA 191] MAIN ST
+Unit: 37K
+Arvd-13:57:00 Clrd-14:28:02
+Unit: 30
+Disp-14:00:35 Arvd-14:00:39 Clrd-14:29:46
+Vehicle: GRY 2006 KIA Reg: PC VT GXF855 VIN: KNAGE123665050536
+Operator: RICHARD, JOHNATHON D @ 59 SOUTH ST - NORTH ADAMS, MA 01247
+Race: W Sex: M
+Refer To Citation: T1401173
+Owner: CARD, AMANDA @ 89 APPLE GATE DR Apt. #45 - BENNINGTON, VT 05201
+Race: W Sex: F
+Refer To Summons: 19-42-AR
+Summons : RICHARD, JOHNATHON D
+Address: 59 SOUTH ST NORTH ADAMS, MA
+Age: 32
+Charges: LICENSE SUSPENDED, OP MV WITH
+DRUG, POSSESS CLASS SURBSQ.OFF.
+A,
+19-5081 1408 Initiated - MOTOR VEHICLE STOP CITATION
+- WARNING
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: MAIN ST
+Unit: 36
+Arvd-14:08:11
+Vehicle: BLU 2012 HYUN SE ELANTR Clrd-14:14:16
+HUGH E 386 NORTH Reg: PC MA 2CP344 VIN: KMHDH4AEOCU385161
+Operator: Race: GALVIN, W Sex: M @ HOOSAC RD - WILLIAMSTOWN, MA 01267

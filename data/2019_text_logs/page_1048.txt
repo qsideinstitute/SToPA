@@ -1,1 +1,54 @@
-TAKEN  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 92] DRISCOLL HALL DR  Narrative:  Received, via fax, stolen article report from WCS regarding  larceny of four 3-drawer storaged bins with make up inside.  Valued at $900.00.  Refer To Incident:  192 13920F  For Date:  06/03/2019  ~~  Monday  19-6968  oos1  Initiated - ASSIST OTHER AGENCY  - DPW  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  MAIN ST + COLE AVE  Unit  32  Arvd-00:55:04 Clrd-00:56:09  i Narrative  The crosswalk button keeps getting activated causing the  lights to keep changing with no one around. Dispatch to  notify MADOT in the am.  ‘Narrative  Mass DOT Lenox notified.  19-6969  0329  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  (WIA 249] NORTH ST  Unit:  a2  Arvd-03:30:07 Clrd-03:30:12  19-6970  0403  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL ANTHONY M DUPRAT  MAIN ST  Location/Address  Unit  35  Arvd-04:03:22 Clrd-04:12:13  Vehicle  GRY 2018 FORD EXPLORER Reg: PC Fl BNVA34 VIN: 1FM5K7F8XJGA16183  Operator  SAINT, FREDERICK GILMAN © 1365 RIVER FOREST RD NW  - ATLANTA, GA 30327  Race: W Sex: M  Refer To Citation  T1785214  Owner  PV HOLDING CO, @ 8600 HANGAR BLVD - ORLANDO, FL 32827-0000  19-6972  0715  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd-07:15:20  Cird-07:37:50  Unit  30  Disp-14:29:24  Enrt-14:29:37  Arvd-14:33:37  Clird-14:44:06  19-6973  0746  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Cail Taker:  SERGEANT SCOTT E MCGOWAN  GALE RD  Location/Address:  Unit:  30  Arvd-07:46:13  Clrd-08:01:28  19-6974  0749  Phone - TRAFFIC COMPLAINT  PATROL ADVISED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  COLE AVE  Vehicle:  Reg: PC MA 59D29D  Narrative:  Cole Ave toward Main St. Maroon Rav 4 driving erraticly. 
+TAKEN Call Taker:
+DISPATCHER LAURIE TUPER
+Location/Address: [WIA 92] DRISCOLL HALL DR
+Narrative:
+Received, via fax, stolen article report from WCS regarding
+larceny of four 3-drawer storaged bins with make up inside.
+Valued at $900.00.
+Refer To Incident: 19-139-0OF
+For Date: 06/03/2019 - Monday
+19-6968 0051 Initiated - ASSIST OTHER AGENCY - DPW TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: MAIN ST + COLE AVE
+Unit: 32
+Arvd-00:55:04 Clrd-00:56:09
+Narrative:
+The crosswalk button keeps getting activated causing the
+lights to kecp changing with no one around. Dispatch to
+notify MADOT in the am.
+Narrative:
+Mass DOT Lenox notified.
+19-6969 0329 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA 249] NORTH ST
+Unit: 32
+Arvd-03:30:07 Clrd-03:30:12
+19-6970 0403 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: MAIN ST
+Unit: 35
+Arvd-04:03:22 Clrd-04:12:13
+Velicle: GRY 2018 FORD EXPLORER Reg: PC FL BNVA34 VIN: 1FM5K7F8XJGAl16183
+Operator: SAINT, FREDZRICK GiLMAN @ 1365 RIVER FOREST RD NW - ATLANTA, GA 30327
+Race: W Sex: M
+ReEer I'o Citation: T1785214
+Owner: PV HOLDING CO, @ 8600 HANGAR BLVD - ORLANDO, FL 32827-0000
+19-6972 0715 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-07:15:20 Clrd-07:37:50
+Unit: 30
+Disp-14:29:24 Enrt-14:29:37 Arvd-14:33:37 Clrd-14:44:06
+19-6973 0746 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: GALE RD
+Unit: 30
+Arvd-07:46:13 Clrd-08:01:28
+19-6974 0749 Phone - TRAFFIC COMPLAINT PATROL ADVISED
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: COLE AVE
+Vehicle: PC MA 59D29D
+Narrative: Reg:
+Cole Ave toward Main St. Maroon Rav 4 driving erraticly.

@@ -1,1 +1,56 @@
-Vehicle  BLU 2017 SUBA ST QUTBAC Reg: PC MA 8EXS10 VIN: 4S4BSACC2H3294506  Operator  MYGATT, JENNIFER D @ 1331 OBLONG RD - WILLIAMSTOWN, MA 01267  Race: W Sex: F  Refer To Citation  71400441  Owner  MYGATT, JENNIFER D @ 1331 OBLONG RD - WILLIAMSTOWN, MA 01267-3094  Race;  U Sex: F  19-958  1014  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  (WIA 225] COLD SPRING RD  Unit:  30  Arvd-10:15:08 Clrd-10:17:16  19-961  1202  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  © Cail Taker  PATROL DAVID JENNINGS, D  |  Location/Address  MAIN ST  Unit  30  Arvd-12:02:37 Clrd-12:08:33  Vehicle  BLU 2009 SUBA FOREST Reg: PC MA 24LA37 VIN: JF2SH63659H724660  Operator  CROWELL,  CHARLES EUGENE © 226 CHESTNUT ST = WILLIAMSTOWN, MA 01267-  0000  Race:  W  sex: M  Refer To Citation  T1400442  Owner  CROWELL,  CHARLES EUGENE @ 226 CHESTNUT Si - WILLIAMSTOWN, MA 01267-  0000  Race: U Sex: M  19-962  1211  Phone -  ALARM - BURGLAR  ALARM FALSE  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  {WIA 1299] PETERSBURG RD  Unit  30  Disp-12:11:38  Enrt-12:12:01 Arvd-12:15:50  Clrd-12:24:33  Narrative  Burglary Alarm,  interior motion stairs.  Narrative  Two doors unlocked, house empty, one door secured, dispatch  to notify key holder.  Narrative  Message left for keyholder to contact dispatch.  Narrative  Key holder ((QRRBRMMBMMBMM) called back and will have a  housekeeper secure the premises.  19-964  1308  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  MAIN ST  Unit  30  Arvd-13:08:11  Clrd-13:15:35  Vehicle  BLU 2007 HOND CO CIVIC Reg: PC MA 7EKM50 VIN: 2HGFG12817H575391  Operator  WHITE, MADYSON A @ 481 MAPLE ST - HINSDALE, MA 01235-9320  Race:  W Sex: F  Refer To Citation  T1400443  Owner  WHITE, DAVID K @ 292 SILVER LEAF DR - BECKET, MA 01223-3463  Race:  W Sex: M  19-366  1400  911 -  9-1-1 WRONG NUMBER  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Narrative:  Neg contact and TTY, can't redial. 
+Vehicle: BLU 2017 SUBA ST OUTBAC Reg: PC MA SEXS10 VIN: 4S4BSACC2H3294506
+Operator: MYGATT, JENNIFER D @ 1331 OBLONG RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+Refer To Citation: T1-200441
+Owner: MYGATT, JENNIFER D @ 1331 OBLONG RD - WILLIAMSTOWN, MA 01267-3094
+Race: U Sex: F
+
+19-958 1014 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 225] COLD SPRING RD
+Unit: 30
+Arvd-10:15:08 Clrd-10:17:16
+19-961 1202 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: MAIN ST
+Unit: 30
+Arvd-12:02:37 Clrd-12:08:33
+Vehicle: BLU 2009 SUBA FOREST Reg: PC MA 24LA37 VIN: JF2SH63659E724660
+Operator: CROWELL, CHARLES EUGENE @ 226 CHESTNUT ST - WILLIAMSTOWN, MA 01267-
+0000
+Race: W Sex: M
+Refer To Citation: T1400442
+Owner: CROWELL, CHARLES EUGENE @ 226 CHESTNUT ST - WILLIAMSTOWN, MA 01267-
+0000
+Race: U Sex: M
+19-962 1211 Phone - ALARM - BURGLAR ALARM FALSE
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: [WIA 1299] PETERSBURG RD
+Unit: 30
+Disp-12:11:38 Enrt-12:12:01 Arvd-12:15:50 Clrd-12:24:33
+Narrative:
+Burglary Alarm, interior motion stairs.
+Narrative:
+Two doors unlocked, house empty, one door secured, dispatch
+to notify key holder.
+Narrative:
+Message left for keyholder to contact dispatch.
+Narrative:
+Key hoider (jE c:211cd back and will have
+housekeeper secure the premises. a
+19-964 1308 Initiated - MOTOR VEHICLE STOP CITATION
+- WARNING
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: MAIN ST
+Unit: 30
+Arvd-13:08:11 Clrd-13:15:35
+Vehicle: BLU 2007 HOND CO CIVIC Reg: PC MA 7EKM50 VIN:
+Operator: WHITE, MADYSON A @ 481 MAPLE ST - MA 2HGFG3128i7H575391
+Race: W Sex: F HINSDALE, 01235-9320
+Refer To Citation: T1400443
+Owner: WHITE, DAVID K @ 292 SILVER
+Race: W Sex: M LEAF DR - BECKET, MA 01223-3463
+19-966 1400 911 - 9-1-1 WRONG NUMBER
+Call Taker: DISPATCHER CHRISTINE LEMCINE SERVICES RENDERED
+Narrative:
+Neg contact and TTY, can't redial.

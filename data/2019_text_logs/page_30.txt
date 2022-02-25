@@ -1,1 +1,56 @@
-Enrt+-211:351:51  Arvd-11:54:13  Disp-11:51:43  Cird-11:56:09  Unit:  37K  Disp-11:51:43  Enrt-11:51:54 Arvd-11:56:40 ClIrd-12:11:23  Unit:  34  Disp-11:56:15  Bnrt-11:56:15 Arvd-11:56:59 Clrd-12:11:42  Narrative:  Brien Center requests check through NAPD for  based on some comments she made last night and the meéting  with the Brien Center she missed this morning.  Refer To Incident:  19-7-OF  19-205  1151  Phone - PARKING. COMPLAINT  SERVICES RENDERED  Call Taker  CHIEF KYLE 3 JOHNSON  Location/Address  SPRING ST  Unit  34  Disp-12:12:17 Enrt-12:12:39 Arvd-12:17:48  Clrd-12:40:35  Narrative  Reports buses have been parked on the street since before  0900 and wishes them ticketed.  Advised #34 to check when  free.  19-209  1458  Walk-In - ANIMAL CONTROL  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  NORTH HOOSAC RD + COLE AVE  Narrative:  CP at station to drop off dog she found in the area of North  Hoosac Road/ Cole Ave.  24 pet watch contacted.  1525- Owner contacted, message left on answering machine.  1532- Owner informed dispatch that she has. no vehicle and is  unable to retrieve dog. Will attempt to find a ride for dog.  1551- Owner unable to find ride. Will retrievé dog tomorrow  morning 01/06/2019.  1630- Dog released to owriers friend.  19-210  1505  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:06:18  Clrd-15:15:26  19-211  1507  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:07:25  Cird-15:10:21  19-212  1537  Radio - B.O.L.0.  PATROL ADVISED  Call Taker:  PATROL KALVIN DZIEDZIAK  Location:  {WIA 249] TOWN OF WILLIAMSTOWN  unit:  31  Disp-15:43:06  Clrd-15:43:35  Unit  38  Disp-15:43:06  Cirdg-15:43:35  Vehicle  GRY 2003 JEEP GRACHE Reg: PC MA 2WS228 VIN: 134GW48S93C517806  Owner  MAXWELL, HEATH BRANDON @ 83 DEPOT ST - CHESHIRE, MA 01225-8903  Race: U Sex: M  Narrative  Bolo out of Cheshire (MSP). Male Party involved in domestic.  If seen stop and hold, contact MSP cheshire. PC for arrest.  Narrative  Party not at the White Oaks address. MSP advised. 
+Unit: Disp-11:51:43 37K Enrt-11:51:51 Arvd-11:54:13 Clrd-11:56:09
+Unit: Disp-11:51:43 34 Enrt-11:51:54 Arvd-1i :56:49 Clrd-12:11:23
+Narrative: Disp-11:56:15 Enrt-11:56:15 Arvd-11 1:56:59 Clrd-12:11:42
+Brien
+Center requests check through NAPD for
+based on some comments she made last night and the meeting
+with the Brien Center she missed this morning.
+Refer To Incident: 19-7-OF
+19-205 1151 Phone - PARKING COMPLATNT SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: SPRING ST
+Unit: 34
+Disp-12:12:17 Enrt-12:12:39 Arvd-12:17:48 Clrd-12:40:35
+Narrative:
+Reports buses have been parked on the street since before
+0900 and wishes them ticketed. Advised #34 to check when
+free.
+19-209 1458 Walk-In - ANIMAL CONTROL SERVICES RENDERED
+Call Taker: PATROL KALVIN DZIEDZTAK
+Location/Address: NORTH HOOSAC RD + COLE AVE
+Narrative:
+CP at station to drop off dog she found in the area of North
+Hoosac Road/ Cole Ave.
+24 pet watch contacted.
+1525- Owner contacted, message left on answering machine.
+1532- Owner informed dispatch that she has no vehicle and is
+unable to retrieve dog. Will attempt to [ind a ride for dog.
+1551- Cwner unable to [ind ride. Will retrieve dog tomorrow
+morning 01/06/2019.
+1630- Dog released to owners friend.
+19-210 1505 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SPRING ST
+unit: 38
+Arvd-15:06:18 Clrd-15:15:26
+19-211 1507 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R 1.EMIEUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:07:25 Clrd-15:10:21
+19-212 1537 Radio - B.O.L.O. PATROL ADVISED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location: [WIA 249] TOWN OF WILLIAMSTOWN
+Unit: 31
+Disp-15:43:06 Clrd-15:43:35
+Unit: 38
+Disp-15:43:06 Clrd-15:43:35
+Vehicle: GRY 2003 JEEP GRACHE Reg: PC MA 2WS228 VIN: 1J4GW48S93C517806
+Owner: MAXWELL, HEATH BRANDON @ 83 DEPOT ST - MA 01225-8903
+Race: U Sex: M CHESHIRE,
+Narrative:
+Bolo out of Cheshire (MSP). Male involved in
+If seer. stop and hold, contact MSP Party cheshire. for domestic.
+PC arrest.
+Narrative:
+Party not at the White Oaks address. MSP advised.

@@ -1,1 +1,49 @@
-Narrative:  Checked Area.  19-12263  i729  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  [WIA 406] SCHOOL ST  Unit:  32  Arvd-17:30:10  OClxerd-17:31:54  19-31284  1728  Walk-In - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  [WIA 390] SIMONDS RD  Unit  31  Disp-17:29:00  Enrt-17:30:20 Arvd-17:31:29  Clrd-17:38:36  Narrative  Party stopped in requesting officer look at a flyer to see  if it is a legitmate neighborhood watch type service.  www. nextdoor.com/join.  19-11285  1629  Initiated - BYUZLDING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  [WIA 910] TACONEC TRL  Unit;  32  Arvd-19:29:24  Clyrd-18:29:35  Narrative:  dome  Narrative:  Checked  19-11286  L&56  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT DAVID R LEMIEUX  Loacation/Address  [WIA 249] NORTH ST  Unit  31  Arvd-18:56:36  Clird-18:58:08  Narrative  done  Narrative  Checked Area.  15-11287  2859  Phone -  ALARM  - BURGLAR  ALARM FALSE  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  (WIA 3]  MAIN ST  Unit  34  Disp-19:00:41  Enrt-19:00:593  Arvd-159:03:45  Clrd-19:08:25  Narrative  Activated front motion alarm.  Narrative  Doors were changed, cleaners weren't notified  19-11289  1931  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL  KEVIN P GARNER  HANCOCK RD  Location/Address  Unit  34  Arvd-19:31:42  Clrd-19:33:48  Vehicle  WHE 2014 MINI LL CLB Reg: PC NY HPL2918  VIN: WMW2FSCS3ET493321 
+Narrative:
+Coecked Area.
+19-112683 1728 Initiated - PARKING CHECK SERVICES RENDERED
+Cull Taker: PATROL SHUAN N WTTLTAN
+Locat:on/Addrezs: [WTA 408] SCECOL ST
+it 32
+Arvd-_T7:37:1C Jrd-lv:il:54
+19-111284 1729 Walk-In - SUSPICIOUE ACTIVITY SERVICES RENDERED
+Call Toxee: DISPATCIIER LAURTE TUPER
+Logation/Addresy: (WIA 290] 3ZNONDS RD
+Urit: 31
+Disp-17:29:00 Enmrt-17:30:20 Arvd-17:21:29 Clod 17:38:26
+Narxative:
+Party ctopped in reguesting officer lock az z Zlyer tc cee
+if it is a logilwale nelighborneod watch type service.
+www, Hexibdoer. com/jcin.
+19-112485 1828 Initiated « SUILDING CHECK SERVICES RENDERED
+fall Taker: PATROL SHUAN N WILLIAM
+Lozatior/Adéreas: [WIA 910] TAIONIC TRL
+Unit: iz
+ATvE-14:29:24 Clrd-18:29:35
+Karrative:
+dome
+Narrative:
+Checked
+19-112866 1856 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: Taker: SERGERNT DAVIC  ILEMIEDX
+Locaticn/Address: [WIA 249] NORTH ST
+Tit: 31
+Arvd-18:56:35 (lxd-18:58:023
+Narrative:
+done
+Narrative:
+Checked Ares.
+19-111287 1859 Fhone - ALARM - BURGLAR ALARM FALSE
+Jall Takar: DTRFATCHER TATIRTE TUPRR
+Loznatior/adcreas: [WTA 3] MAIN T
+nit: a1
+Digp-19:40:41 Kart 29:00 :58 Arvd-13:03:45 Clrd-13:0:25
+Harrative:
+Activated frent moticn alarn.
+Narrative:
+dears were changed, cleanare weren'z- nocifl-_¢d
+1959-11289 1931 Initiated - MOTOR VEHICLE 8TOP CITATION - WARNING
+Call Teer: PATROL XEVIN P GARNZR
+locatien/addrcea: HANCOCK RD
+Teil: 34
+Arvd-19:31:42 (Clxd-19:33:438
+vehicle: WHi 2C1< MINI Li: CLB X3ey: sC KY IPL221B VIN: WMWZFICLIRT 93321

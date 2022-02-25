@@ -1,1 +1,52 @@
-Arvd-17:46:00  Clrd-17:49:36  Narrative:  Reports out helping to back up a TT unit.  19-1520  1923.  Walk-In - LICENSE TO CARRY  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  (WIA 249] NORTH ST  Unit  31  Disp-19:24:21  Arvd-19:24:28  Clird-20:09:24  Narrative  Party in for LTC.  aa  For Date: 02/05/2019  -  Tuesday  19-1526  0014  Phone ~- ALARM - BURGLAR  ALARM FALSE  1  Cail Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 2151] COLE AVE  Unit  31  Disp-00:15:53  Enrt-00:16:03  Arvd-00:19:16  Clrd-00:22:38  Unit  32  Disp-00:15:53  Enrt-00:16:19 Arvd-00:18:51  Clrd-00:22:26  Narrative  CP reports interior burglar alarm.  Narrative  owner notified will reset alarm from his cell phone.  Narrative  order.  Checked building and area. Building secure. All appears in  19-1527  0346  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  {WIA 249] NORTH ST  Unit:  31  Arvd-03:46:49  Clrd-03:47:06  19-1529  0716  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Cali Taker  PATROL, TANIA HERNANDEZ  Location/Address  COLD SPRING RD  Unit  36  Arvd-07:17:03  Clrd-07:41:48  Narrative  19-1530  0719  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL DAVID JENNINGS, D  :  Location/Address  NEW ASHFORD RD  Unit  30  Arvd-07:19:50  Clrd-07:41:01  Unit  30  Disp-14:19:49  Enrt~-14:19:;59  Arvd-14:22:39  Clrd-14:26:43  Unit  30  Arvd-14:35:00  Disp-14:34:48  Clrd-14:40:14  19-1531  0744  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  GALE RD  Unit:  36  Arvd-07:44:42  Clrd-08:02:59 
+Narrative: Arvd-17:46:00 Clrd-17:49:36
+Reports out to back
+helping up a TT unit.
+
+19-1520 1923 Walk-In
+Call Taker: DISPATCHER - LICENSE TO CARRY SERVICES RENDERED
+Location/Address: LAURIE TUPER
+Unit: [WIA 249] NORTH ST
+31
+Narrative: Disp-19:24:21 Arvd-19:24:28 Clrd-20:09:24
+Party in for LTC.
+For Date: 02/05/2019 - Tuesday
+19-1526 0014 Phone - ALARM - BURGLAR ALARM FALSE
+1
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: [WIA 2151] COLE AVE
+Unit: 31
+Disp-00:15:53 Enrt-00:16:03 Arvd-00:19:16 Clrd-00:22:38
+Unit: 32
+Disp-00:15:53 Enrt-00:16:19 Arvd-00:18:51 Clrd-00:22:26
+Narrative:
+CP reports interior burglar alarm.
+Narrative:
+owner notified will reset alarm from his cell phone.
+Narrative:
+Checked building and area. Building sccure. All appears in
+order.
+19-1527 0346 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL CRAIG A EICHHAMMER
+Location/Address: (WIA 249] NORTH ST
+Unit: 31
+Arvd-03:46:49 Clrd-03:47:06
+19-1529 0716 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: COLD SPRING RD
+Unit: 36
+Arvd-07:17:03 Clrd-07:41:48
+Narrative:
+19-1530 0719 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NEW ASHFORD RD
+Unit: 30
+Arvd-07:19:50 Clrd-07:41:01
+Unit: 30
+Disp-14:19:49 Enrt-14:19:59 Arvd-14:22:39 Clrd-14:26:43
+Unit: 30
+Disp-14:34:48 Arvd-14:35:00 Clrd-14:40:14
+19-1531 0744 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: GALE RD
+Unit: 36
+Arvd-07:44:42 Clrd-08:02:59

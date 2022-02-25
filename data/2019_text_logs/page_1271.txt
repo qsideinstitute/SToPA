@@ -1,1 +1,54 @@
-19-9381  1239  other -  ALARM PERMIT RENEWAL  PERMIT ISSUED  Cail Taker:  PATROL KALVIN DZIEDA@IAK  Location/Address:  [WIA 1857] LUCE RD  19-9362  1249  Other -  ALARM PERMIT RENEWAL  PERMIT ISSsSveD  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  (WIA 245] SPRING ST  19-3383  1241  Other -  ALARM PERMIT RENEWAL  PERMIT ISSUED  Call Taker:  PATROL KALVIN DZIEDZTIAK  Location/Address:  [WIA 1276]  SYNDICATE RD  13-9384  1244  Other -  ALARM PERMIT RENEWAL  PERMIT ESSUED  Call Taker:  PATROL KALVIN DZITEDZIAK  Location/Address:  PARK ST  [WIA 1774]  19-9385  1303  Phone -  ALARM - BURGLAR  ALARM FOUNDED  Cali Taker  PATROL KALVIN DZTEDZTAK  Location/Address  (WIA 1856]  PURPLE MT PASS  Unit  30  Disp-13:04:57  Enrt-13:05:46 Arwd-13:14:58  Cird-13:45:02  Unit  37K  Disp-13:24:26  Enrt-13:24:24  Arvd-13:30:55  Cird-13;44:54  Narrative  Activated Burglar Alarm. Zone: Front door  Refrence Number: 93299  Narrative  Front door found open, however, no evidence of forced entry.  A second door located on the deck was closed, but unlocked.  Residence checked, all appears in order. All doors locked  prior to clearing.  19-9386  4413  Phone - LARCENY  LOG ENTRY REQUEST  Call Taker:  ALL EQUIPMENT POLICE DEPARTMENT  Location/Address:  [WIA 165] ADAMS RD  Narrative:  Williamstown Commons Staff calling to report a residents  wallet appears to have been stolen from her room. Internal  investigation is ongoing. Call number supplied to employee  for procedural purposes.  25 Adams Road, Unit 2,  Room 224,  Bed i  19-9387  1434  Other -  ALARM PERMIT RENEWAL  PERMIT ISSUED  Call Taker:  PATROL KALVIN DZTEDZTIAK  Location/Address:  [WIA 534} THORNLIEBANK RD  19-9389  1448  Phone - ASSIST OTHER AGENCY  - DPW  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 577] GALE RD  Narrative:  Party reports able to hear an alarm, believes it to be for  am  the sewer p  system. Attempted (unsuccessfully) both  mumbers for  a]  notified and will  haridle.  49-9392  1626  Tnitiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SOUTHWORTH  ST  Unit:  31  Arvd-16:27;33  Clyrd-16:28:25 
+19-9381 1230 Other - ALARM PERMIT RENEWAL PERMIT ISSUED
+Cal> Taker: FATROL, KATVIVN LEIELZZAK
+Location/Address: ‘WTA 1857] ISICR KD
+19-9382 1239 Other - ALARM PEEMIT RENEWAL PERMIT ISSUED
+Cal™ Taker: SATROL KALVIN DZE-EDZIAK
+Iocatlion/Address: [Wik 25] BPRING ST
+19-9383 1241 Othar « ALARM PERMIT RENEWAL PERMIT ISAUED
+Call Toxer: PATROL KALVIN DZIEDRZIAK
+Location/Address: [WZE 1276] SYNDICATE RD
+19-9384 1244 Othar - ALARM PERMIT RENEWAL PERMIT ISSUED
+Cail Taker: PATROT KALVIN NZIEDZIAE
+Location/Address: [WTA 1774] PARK ST
+15-9385 1303 Phone - ALARM - BDRGLAR ALARM FOUNDED
+Call Taker: PATROL KALV1N DZIEDZIAK
+Locazion/Address: (WIA 1856] PURPLE MT PASS
+Unit: al
+Disp-13:04:57 Enrt-13:05:46 Arvd-13:14:58 Clrd-13:45:02
+Unit: 37K
+Disp-13:24:20 Enrt-13:24:24 Axvd-13:30:55 Clrd-13:44:54
+Kazrulive:
+Activated Burglar Alaxm. Zcne: Front door
+Refrance FKumber: 932¢9
+Narrative:
+Front deor found opun, however, ne evidence of forced entry.
+A second decor located on the deck was cioged, but unlocked.
+Residence checked, all appears in order. all doors locked
+prior Lo clearing.
+19. 8386 1413 Phone - LARCENY LOG ENTRY REQUEST
+Call Taker: ALL EQUIPMENT FOLICE DEPARTMENT
+Locat.on/Address: WIA -65] AbAMS RD
+Narrative:
+Williamstown Commons Staff calling to report a residents
+wallat appears to have bhaen stolen from her recom. internal
+investication is sngeing. Call number supplied to employee
+for procedural purposes.
+25 Adams Road, Unit 2, Room 224, Bed I
+15-9387 1434 Other - ALARM PERMIT RENEWAL PERMIT ISS5URD
+Call Takey: PATROL XALVIN LDZYEDZIAK
+Location/Address: [WIA S34) THORNLIEBANK RD
+19-9389 1448 Phone - ASSIST OTHER AGHKNCY - DPW TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: DISPATCHER LAURTE TUPER
+Location/Address: [WTA 577] GALE RD
+Narrative:
+ablo Lo hpar alann, bas jeves it to be Zor
+Party Lhe reports oo
+numbers sewer for pump SEEEEY systen. AlLtempted (unsuccessfully)both notified and will
+Dandle,
+1626 Initiated
+19-9381 - BUILDING CHBCX BUILDING CHECKED/SECURED
+Call
+Taker: SERGEANT DAVID R LEMIEUX
+Local non/Address: Unit: SJOTJTHWCRTII 31 ST
+Arvd-16:27:33 Clrd-16:28:25

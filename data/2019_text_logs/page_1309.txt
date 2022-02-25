@@ -1,1 +1,51 @@
-1308  UNFOUNDED  18-9609  Phone - TRAFFIC COMPLAINT  Call Taker:  PATROL DAVID JENNINGS,  D  NORTH HOOSAC RD  Location/Address:  Unit:  30  Disp-13:10:11  Arvd-13:10:24 Clrd-13:18:48  Narrative:  Brown Pick Up VF taas stopped at RK Miles, reports all over  the road, most likely heading back to Vr after RK MIles.  Narrative;  I observed three vehicles matching the description traveling  westbound on North Hoogac at different times.  I did not  observe any violations committed. A check of the R.K. Miles  parking lot was negative for the reported vehicle.  19-9614  1516  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  SPRING ST  Unit:  35  Arvd-15:17:08 Clrd-15:18:14  19-3615  1518  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  PARK ST  Unit :  38  Arvd-15:18:21  Clrd-15:25:33  19-9616  1525  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  SOUTHWORTH ST  Unit:  35  Arvd-15:29:51  Clrd-15:30:38  Narrative:  Checked 0134  19-9617  1544  Phone - ASSIST OTHER AGENCY  - POLICE  NO ACTION REQUIRED  Call Taker:  DISPATCHER LAURIE TUPER  Lacation/Address:  MAIN sT  Unit:  38  Bnrce-15:45:21 Arvd-15:48:39  Clrd-16:02:26  Disp-15:45:08  Narrative:  NAPD reporting MVC with Deer. Not sure if it happened in NA  or Wmstn. Cars now at old Rentons  Narrative:  MVA was in NA.  19-9618  2555  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL BRAD SACCO  HANCOCK RD  Location/Address:  Unit:  35  Arvd-15:55:22  Cird-16:02:55  Vehicle  Reg: PC MA HKU8664  Vehicle  GRY 2018 CHEV LL EOX Req: PC NY HxUaEéG4  VIN: 2GNAXREV9J6162623  DOMINIC R @ 42 CLARK AVE - CORNWALL ON HUDSON, NY 12520  Operator  CORDISCO,  Race:  W Sex: M  Refer To Citation  Ti786108 
+19-9609 1308 Phone - TRAFFIC COMPLAINT UNFOUNDED
+Call Taker: PATROL DAVID JENNINGS, D
+Laocation/Addvysss: KCRTH HCOSAC RD
+Unit: 3D
+Disp-13:10:11 Arvd-12:10:24 Clyrd-13:18:48
+Nurrative:
+Brown Piuk Up VT tags stopped at EK Miles, reports all over
+Lhe road, most likely hoading back to VIP after RK Mlles.
+Narrative:
+I observed three vehicles matching the description traveling
+wasthound cn Korth Hoosac at different times. I 4id not
+chserve any viclations committed. A check of the R.K. HMilea
+parking lot was negative for the reported vehicle.
+18-9614 1516 Initiated - PARKING CHRCK SERVICES RENDERED
+Call Taker: PATRCL BRAD SACCO
+—otation/Address: S2RING ST
+Unit: 35
+Arvd-15:17:08 (lrd-zbh:18:14
+15-9615 1518 Initiated - PAREING CHECE BERVICES RENDERED
+Call Taker: PATRCL JOHE J MCTONNELL CR
+rocation/address: PARK ST
+nik: ig
+Arvd-15:18:21 Clrd-15:25:31
+15-5616 1529 Initiated - BUIILDIMG CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/Acdress: ECUTIINORTE ST
+u 35
+Arvd-15:29:57 (Cird-1b5rifd:23
+Narrative:
+Checked 0134
+19-9617 i544 Phone - ASSIST OTHER AGENCY - POLICE NO ACTION REQUIRED
+Cal. Taker: NTSPATCHER LAURIE TUPER
+Lacation/Address: MAIN ST
+hit: 38
+Disp-15:45:08 Enrk-15:45:21 Arvd-15:48:29 Clrd-16:02:26
+Narrative:
+NAPD MVC with Deer. Not if it happened in
+reporting sure
+or Wmstn. Cars now at oid Rentons.
+Nuorratove:
+NVA was -n NA,
+19-9618 15585 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call 'Taxer: EFATROL BRAD SACCD
+Locat icn/Address: HANCOCE RD
+Unik: a5
+Arvd-15:55:22 Cirg-16:02:55
+Vehicle: Rea: PU MA HXUSEG4
+Vehicle: GRY 201§ CHEV LL EDX Reg: PC NY HXI:B664 VIN: 2GNAXREVOJG6162623
+Operator: CORDISCO, DOMINIC BE @ 42 CLARK AVE - CORNWALL CN HUDSON, NY 12520
+Race: W Hox: #
+Refer To Cikatlica: T17BE10g

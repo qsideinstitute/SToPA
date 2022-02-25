@@ -1,1 +1,49 @@
-Location/Address:  COLD SPRING RD  Unit:  35  Arvd-69  1:94:30  Clrd-09:09:07  Vehicle;  BLK 2005 SAA CO 93  Reg: PC MA 7YX964  VIN: YS3FD75yY256017871  Operator:  COLONNA, JOSEPH P @ 45 BUXTON HILL RD - WILLIAMSTOWN, MA 01267-2748  Race: W Sex: M  Refer To Citation:  T1786138  Owner:  COLONNA, ISABEL W @ 45 BUXTON HILL RD - WILLIAMSTOWN, MA 01267-2748  Race:  U Sex: F  19-10344  O91i  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  PATROL BRAD S5SACCO  COLD SPRING RD  Location/Address:  Unit:  a5  Arvd-03  2:13:25  Cird-09:11:54  Narrative:  Checked $-4  17:56  Narrative:  Checked Area.  29-10345  0918  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  PINE COBBLE RD  Unit:  30  Arwd-09:19:50  Clrd-09:21:08  Narrative:  MA: 36PH17  18T562  NY¥: HAS6ES  VT: HDS235  Narrative:  MA: 36PH17 - 1ST562 - F760(MA offcial state plate}  NY: HAS64&  Narrative:  MA 4A5245  MA 7MK345  NY HASGS MA BYVI70  DC FT?244  Narrative:  NY HA5&8 only car in lot  Narrative:  Checked 2341  NY HA568  Narrative:  Checked Area.  Narrative:  Checked Area.  Narrative:  Checked 0343  19-10346  0319  Phone -  ANIMAL CONTROL  TAKEN/REFERRED TO OTHER  AGENCY  Cali Taker:  PATROL DAVID JENNINGS, D  Location/Address:  [WIA 558] COLD SPRING RD  Narrative:  CP reports dead deer across from above address.  MA Highway notified. 
+Location/Addrecs: COLL HPRING RD
+Uniz: 35
+Arvd-09:04:30 Clrd-09:09:07
+Vehicle: OLX 2005 SAA CC 93 Reg: PC MA 7VX0ed4 VIN: VYSIFD75Y2L56017R7.
+Joerator: COLONNA, JCSEPH P $2 45 BUKTON HILG RD - AILLIZAMSTCOWN, MA (0l1267-2748
+Race: HW Eex: HM
+Reter To Citation: T 785138
+Cwrar: COLONNA, ISABEL W ® 45 DUXTON HILI RD - WILLIAMSTOWN, MA 01267-2748
+Race: U Sex: F
+19-10344 0511 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Takcy: PATROL BRAL SACCO
+Locak-on/Addraso: COLD SPRING RD
+Unik: i5
+Arvd 09:11:25 Clrd-02:11:54
+Nurrative:
+Checked S-4 17:58
+Narrative:
+Chacked Arex.
+19-110345 0918 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+Call Taker: SERGEANT S00IT EB MOGOWAN
+Locaticn/Addross: DINE COBBLE RD
+nit: 30
+Arvd-09:12:50 TL rd-C9:21:08
+Narrative:
+MA: 3A6PH17? 157562
+NY: HASGE
+VT: HD3235
+darxative:
+7 - 1RI682 - #76CI(MA oZfcial state plate)
+Narrative:
+MA ZAS245 MA JHMK3248 NY EABEH MA BYVITC DT F1/244
+Karratcive:
+NY HAS66 only car in lol
+Marrative:
+Checled 2341
+NY HASGE
+Narralbive:
+Checked Azew.
+Narrative:
+arckaed Arsa.
+Narrative:
+Checxed 03423
+19-100346 0gl9 Phone - ANIMAL CONTROL TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WTA 558] COLD SPRING RD
+Nerrat:ve:
+CP dead deer zc¢ross from above address.
+MA Highway reports notified.

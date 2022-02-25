@@ -1,1 +1,52 @@
-Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  CHURCH ST  Unit;  35  Disp-00:23:59 Enrt-00:24:34 Arvd-00:30:55  Clrd-00:38:15  Unit:  32  Disp-00:25:03  Enrt-00:25:22 Arvd-00:30:09  Clrd-60:37:55  Narrative:  Party complaining about a lound TV from the second floor  right apartment which is keeping him awake.  Narrative:  Party fell asleep and is hard of hearing TV shut off for the  night.  1419-11930  0055  Phone - ROAD CONDITIONS  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  HANCOCK RD  Unit:  35  Enrt-00:57:42 Arxrvd-01:05:45  Clrd-01:12:56  Disp-00:57:08  Narrative:  Calling party states that there is a dead deer in the middle  of the northbound lane just over the Williamstown/Hancock  line in Williamstown.  Narrative:  Moved out of road in front of pole 55.  Narrative:  DPW notified.  19-11931  0344  initiated - FARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  [WIA 390] SIMONDS RD  Unit:  32  Arvd-03:44:53  Clrd-03:44:58  Narrative:  7 VIOLATIONS  19-11932  0541  $11 -  S-1-1 TEST CAEL  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  [WIA 390] SIMONDS RD  Narrative:  Silent call test,  Followed procedure.  CITATION - WARNING  19-11933  0545  Initiated - MOTOR VEHICLE STOP  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  MAIN ST  Unit  35  Arvd-05:45:44  Clrd-05:51:07  Vehicle  BLK 2016 SUBA FOREST Reg: PC MA 7CR324 VIN: JF2SJADC9GG433738  Operator  LEVINSKY, ALEXANDRA W @ 104 LONGVIEW TER - WILLIAMSTOWN, MA 01267~-  2915  Race: W Sex: F  Refer To Citation  T1786032  Owner  LEVINSKY, ALEXANDRA W @ 104 LONGVIEW TER - WILLIAMSTOWN, MA 01267-  2915  Race:  W  Sex:  F  19-11935  O7F13  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  all Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLD SPRING RD 
+Cail Taker: SERGEANT FAUL D THOMPSON
+r.acation/Address: CHURCH ST
+Unit: 35 Arvd-00:30:55 Clrd-T0:38:15
+Disp-00:23:55 Enrt-00:24:34
+Unit: 32
+Disp-00:25:03 Enrt-00:25:22 Arvd-00:30:09 Clrd-00:27:55
+Narrative:
+Party complaining abecut a lound TV from the second floor
+right apartment which is keeping him awake.
+Narrative:
+Party fell asleep and is hard of hearing TV 2h. off for the
+night.
+15-11530 3055 Phone - ROAD CONDITIONS SERVICES RENDERED
+Cal. Taxer: SERGEANT ZAUL CT THOMPEON
+Location/Address: HANCOCE RD
+Jit: 35
+Disp-20:57:08 Enrt-70:57:42 Arvd-01:05:45 Clrd-0.:12:56
+Narrative:
+Calling party states thar there is a dead deer in the midd_e
+of the northbound lane just over the Williuamstown/Hancock
+line in Wiil!amstown.
+Narrative:
+Moved out of road in front of pole 55.
+Narrative:
+DPW notified.
+19-115831 0344 Initiated - FAREKING CHECK SERVICES RENDERED
+Cali Taker: PATROLMAN SCOUT SKORIJPESKI
+Location/Address: INIA 390] SIMONDS RD
+Unit: 32
+Arvd-03:44:53 Clyd-03:24:58
+Narrative:
+7 VICLATTONS
+15-11932 0541 811 - 9-1-1 THST CALL SERVICES RENDERED
+Call Takor: SERGEANS PAUL DI) THOMPSON
+Location/Address: [WlA 330] SIMOWDS RD
+Narrative:
+Silent call test, Fo.lowed procadure.
+19-115833 0545 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: MAIN ST
+Unit: 35
+Arvd-05:45:44 Clrd-03:51:47
+vehicle: BLK 2216 SUBA FORIST Reg: PC MA 7CRIZE VIN: JF28JADCIGG433738
+OperzLox: LEVINSZY, ALEXANDRA W © 04 TONGVIEK TER - WILLIAMSTOWN, MA 01257
+2955
+Raca: W Sox: ©
+Refer To Citation: T1786032
+Cwner: LEVINSEY, ALEXANDIM W @ 104 LCNGVIEW TER - WILLIAMSTOWN, MA 0126°7-
+2915 Racg: W Sex: #7
+0713 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+19-119238 Call Taker: SERGEANT 5COTI E MCGORAN
+Location/Address: COLD SPRING RD

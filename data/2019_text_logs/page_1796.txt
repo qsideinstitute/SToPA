@@ -1,1 +1,48 @@
-Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  (WIA 255] WATER ST  unit  30  Disp-11:38:27  Bnrt-11;40:50  Clrd-11:41:33  Unit  34  Disp-11:39:54  Enrt-11:39:55  Arvd-11:49:16  Clrd-11:55;14  Narrative  RP reporting an injured raccoon by the woodpile in the  Parking lot. Concerned that it may attack patrons.  Narrative  Raccoon dispatched.  19-12563  1218  Phone - TRAFFIC COMPLAINT  UNABLE TO LOCATE  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  NEW ASHFORD RD  Unit  34  Disp-12:20:;08 Enrt-12:20:29  Arvd-12:29:07  Clrd-12:39:01  Narrative  Gray 4D subaru sedan ran a party off the read in hancock at  high speeds traveling into town.  Narrative  followed gray subaru into town no erratic operation.  1219-12566  1357  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  COLD SPRING RD  Unit  34  Arvd-13:58:03  Clrd-13:58:37  Narrative  ehecked  Narrative  done  19-12567  1402  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL ANTHONY M DUPRAT  COLD SPRING RD  Location/Address  Unit  34  Arvd-14:03;34  Clrd-14:04:13  Narrative  Painting company at residence.  Narrative  checked  Narrative  done  19-1256  1405  Phone - ASSIST OTHER AGENCY - FIRE  SERVICES RENDERED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  (WIA 338]  PARK ST  Unit  30  Arvd-14:07:08  Clrd-14:23:21  Disp-14:06:26  Narrative  Assist Fire.  1219-12570  1405  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+Cali Taker: LCISZATCISER CIIRISTINE LEMCINE
+Location/Address: nit: [AZ2a 255] WATER ST
+30
+Lisp-11:38:27 Fn>»L-11:10:50 Clrd-_l:4:i:32
+unit: 34
+Lizp-11:39:54 Hnrt-11:39:55 Arvd-11:49:16 Clrd-Z1:55:14
+Narrolive:
+RP repercinyg an injured ruceson by the woodpile in the
+purkinzg lol, Concerned Lhat iL may abiack patrons.
+Harzutive:
+Raccoon diapatched.
+19-112563 1218 Phone - TRAFFLC COMPLAINT UNABLE TO LOCATE
+Call ‘iaksr: D_SPAITCHER CHRIELINE LSMOIKE
+Locacicn/address: Nik ASHFCRD RD
+tnit: 34
+Digp 12:20:09 ERnrl 12:20:29 AzvE 12:29:07 Card 12:39:01
+Harraczive:
+ray 40 subaru sedan ran a party off the road in hancock at
+high speeds trave_ing into town.
+Harxrazive:
+followed gray subaru into town no erratic operation.
+18-125¢6¢ 1357 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Czll Taker: PATROL ANTEONY M DUFRAT
+Local ior /Adéress: COLD SPRING RD
+Unis: 34
+Arvd-13:58:03 Clrd-12:58:37
+Xarrative:
+chaciked
+Xarrative:
+19-125467 1402 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ja11 Taker: PATOT, ANTHONY M TAIDRAT
+Toesmion/hidresa: CCL APRTRG RD
+Un.t: 34
+Arvd-14:03:34 Clrd-14:04:13
+Narrative:
+raiztisg company at residence.
+Marral -ve:
+chocked
+Nerrative:
+doe
+19-132589 1404 Phone - ABSIBT OTHER AGENCY - FIRE SERVICEE RENDERED
+Cul: Taros: LISSATCH>R CERISTINE LEMOIN>
+Location/Address: [A-A 33E]1 TARK ST
+Jeic: 30
+Cisp- 14:06:26 Arvd-14:07:98 Clrd-"4:23:2!
+Nerrative:
+Adcsigl Firnc.
+19-112570 140F Initiated - BUILDING CHECX BUILDING CEECKED/SECURED

@@ -1,1 +1,55 @@
-Location/Address  (WIA 455] MAIN ST  Unit  32  Enget-212:45:00 Arvd-21:48:13  Cird-22:22:10  Disp-21:43:00  Unit  35  Enrt-22:45:00 Arvd-21:48:13  Clrd-22:02:44  Disp-21:43:00  Narrative  Reports her 16 1/2 y/o neighbor (  } is with her  at above location. Questioning as to whether she can leave  home without mother's permission. States she will take her  home if it is not allowed.  Mother, a. called also stating the child did not  have  permission to leave and wants her home.  2201  hrs. Car 32 transporting juv female to Po  m=.  North Adams; Mileage 27890.8  2206  hrs. Arriving: Mileage 27893.1  2237  hrs.  DCF notified.  Refer To Incident  19-158-OF  19-8236  2258  Phone - SUSPICIOUS ACTIVITY  GONE ON ARRIVAL  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  GRANDVIEW DR  Unit  34  Disp-23:07:53  Arvd-23:07:58  Clrd-23:13:04  Narrative  Reports someone rang the doorbell and ran away. Requests  @rea be checked.  Narrative  Checked entire neigborhood, nobody encountered  For Date:  07/02/2019  “  Tuesday  15-8289  0122  Initiated - SUSPICIOUS ACTIVITY  LOG ENTRY REQUEST  Call Taker  PATROL KEVIN P GARNER  Location/Address  WATER ST  Unit  34  Arvd-01:23:12 Clrd-01:30:03  Unit  32  Arvd-01:23:24  Clrd-01:27:48  Narrative  Two juvenile males out riding electric scooters. Both are  only 15. Followed them home, woke up mother, and explained  dangers to them. Mom will handle, thanked officers.  19-8291  0225  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN PF GARNER  Location/Address  NEW ASHFORD RD  Unit  34  Arvd-02:25:43  Cird-02:31:14  Vehicle  GRY 2018 HYUN 4T ELANTRA Reg;  PC WI L7522Y  VIN: SNPDS4LFS7H326974  Operator  GRASSETTE, LISA SUSAN @ 4215 E BROAD ST Apt  #4 - COLUMBUS, OH 43213  Race:  W Sex:  F  Refer Ta Citation  Ti765496  OK 74134  Owner  EAN HOLDINGS LLC ® 14002 E 21ST ST - TULSA,  19-8252  0259  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KEVIN PF GARNER  NEW ASHFORD RD  Location/Address:  Unit:  34 
+Tocation/Adéress: [WIA 455] MAIN ST
+Unit: 32
+Disp-21:43:80 Enrt-21:45:00 Arvd-21:48:13 Clrd-22:22:10
+Unik: 23
+Disp. 21:43:00 EnrlL-21:45:00 Arvg-21:48:13 Clrd-22:02:44
+Warrative:
+Reports her 16 1/2 y/o neighbor ( ) is with her
+at above location. Questioning as to whether she can leave
+homz without mother's permission. States she will take her
+home 1iZ it is nck allowed.
+Mother. , called also stating the child did not
+have permission to leave and wants her home.
+2201 hys. Car 32 transporting juv female to |)
+BE. vorth Ademg: Kilcage 2v890.8
+2206 hrs. Rrriving: Milcagc 27893.1
+2237 hrs. DCF neot-fied,
+Refer Tc Treildent: 29-108-0F
+19-8280 2258 Phone - SUBPICIOUS ACTIVITY GONE ON ARRIVAL
+Call Taker: DISPATCHER LAURIE TUDPER
+Location/Address: GRANDVIZW DX
+Unit: 34
+Disp-23:07:53 Arv@-23:07:58 Clrd-23:13:04
+Karrative:
+Reports someone rang the doorbell and ran away. Requests
+arez ke checked.
+Narracive:
+Thecxed entire neigborlced, nobody encountered
+Yor Date: 07/02/2019 - Tuesday
+19-8285 0122 Initiated - SUSPICIOUS ACTIVITY LOG ENTRY REQUEST
+4all Taker: PATROL XLVIN P GARNER
+Iocasion/Address: WATER 57
+init: 24
+Arvd 01:23:12 Clrd-02:38:03
+unit: 32
+Arvd-01:23:24 Clrd 01:27:48
+Narrative:
+Two juvenile males out riding electric scooters. Both are
+only 15. Followed chem home, woke up mother, and expleinec
+danaers to them. Mom will handle, thankea officers.
+19-8291 Initiated - MOTOR VEHICLE STOF CITATION - WARNING
+Call Taker: PATROL XEVIN P GARNER
+Leoation/Address NEW ABEFORD RD
+Util: 24
+Arvg-02:25:43 Clrd-02:52:14
+Vanicle: GRY 2018 HYUN 47 ELANTRA Rey: PC WI 175228Y VIN: SKFDS4LF3JH326974
+LISA SUSAN @ 4215 E BROAD ET Apt. ji4 - COLUMBUS, OH 43213
+Operator: GRASSETTE, Race: W Sex: F
+Refer To Citation: Ti7B5496
+LLC @ 14032 E 213T ST + OK 14124
+Owner: RAN HOLDINGS TULSA,
+MOTOR VEEICLE STOP CITATION WARNING
+19-8232 0359 Initiated - -
+GARNER
+Call Taker: NzW PATROL ASHFORD XEVIN RD FP
+Tecation/address: Unit: 34

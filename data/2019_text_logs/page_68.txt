@@ -1,1 +1,50 @@
-Narrative:  Requests to speak to officer regarding a threatening call.  Narrative:  Sometime between 1:30 and 3:30 today  received a  phone call at home. The caller told her "we get you one of  these days"  Nothing else was said and the RP was not aware  of anyone who would be making threats against her. There  have been no issues with employees at the plant lately. They  will check to see if there is any mumber on her caller ID if  she has it.  :  19-479  1704  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SIMONDS RD  Unit  31  Arvd-17:04:43  Clrd-17:05:37  Narrative  Checked 0319  19-480  1711  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SCHOOL ST  Unit:  30  Arvd-17;:14:45  Clrd-17:16:39  19-481  1720  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  {WIA 190] MAIN ST  Unit  32.  Arvd-17:20:25  Clrd-17:21:53  Narrative  No activity  Narrative  Checked 0209  19-483  1758  911 - 9-1-1 TEST CALL  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 249] NORTH ST  Narrative:  Party hung up prior to answer being sent.  19-485  2245  Phone - ASSIST OTHER AGENCY - UTILITY  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 32] MAIN ST  Unit  38  Disp-22:47:57 EBnrt-22:48:07 Arvd-22:50:50 Clrd=22:54:41  Narrative  Reports a wiring arcking on the phone pole.  Narrative  Pole #3 shut off on top of the pole arcing. WFD advised.  Narrative  2301 National Grid on scene per fire department.  2306 All Fire personal clear.  19-487  2355  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING 
+Narrative:
+Requests to speak to officer regarding a threatening call.
+Narrative:
+Sometime between 1:30 and 3:30 today [JJ received a
+phone call at home. The caller told her "we get you one of
+these days". Nothing else was said and the RP was not aware
+of anyone who would be making threats against her. There
+have keen no issues with employees at the plant lately. They
+will check to see if there is any number on her caller ID if
+she has it.
+19-479 1704 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMONDS RD
+Unit: 31
+Arvd-17:04:43 Clrd-17:05:37
+Narrative:
+Checked 0319
+19-480 1711 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SCHOOL ST
+Unit: 31
+Arvd-17:14:45 Clrd-17:16:39
+19-481 1720 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: (WIA 190] MAIN ST
+Unit: 31
+Arvd-17:20:25 Clrd-17:21:53
+Narrative:
+No activity
+
+Narrative:
+Checked 0209
+19-483 1758 911 - 9-1-1 TEST CALL SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 249] NORTH ST
+Narrative:
+Party hung up prior to answer being sent.
+19-485 2245 Phone - ASSIST OTHER AGENCY - UTILITY SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 32) MAIN ST
+Unit: 38
+Digp-22:47:57 Enrt-22:48:07 Arvd-22:50:50 Clrd-22:54:41
+Narrative:
+Reports a wiring arcking on the phone pole.
+Narrative:
+Pole #3 shut off on top of the pole arcing. WFD advised.
+Narrative:
+2301 National Grid on scene per fire department.
+2306 All Fire personal clear.
+19-487 2355 Initiated - MOTOR VEHICLE STOP CITATION - WARNING

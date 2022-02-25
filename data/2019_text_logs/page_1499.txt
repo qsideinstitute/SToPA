@@ -1,1 +1,51 @@
-19-10789  o9g12  anitiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANITA HERNANDEZ  Location/Address:  SCHOOL ST  Unit:  36  Arvd-09:12:58  Clrd-09:13:04  49-10790  O916  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  PINE COBBLE RD  Location/Address  Unit  36  Arvd-09:16:42  Clrd-069:21:04  Narrative  MA  TSDE4O  =  S77LR2 -  583WRM - 64NZ07  MD  5C75006  NY  HVT3386  PA  KPG8236  All okay  Narrative  MA 8MR1I24 7756CC 243EB8 9257KM 7LVE82  FL CTRKo?  NY HVT3386  MN AST265  Narrative  MA SDL516,  3FPi56  NY HVT33906,  BDZ6356  RI QM499  all okay  Narrative  NY HVT3386 only vehicle in lot,  secured  Narrative  Checked Area.  Narrative  NY HVT3386 area checked.  Narrative  Checked Area.  Narrative  NY HVT3386 area checked  19-10791  0927  tnitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  MAIN ST  Unit  36  Arvd-09:27:40  Clrd-09:30:36  Vehicle  GRY 2012 HOND Accord LK Reg: PC CT 3JAVTFO  VIN:  1LHGCS1B37CA01 9830  Operator  PATIL, UTKARSH @ 1196 MIDDLE W TPKE Apt. #52 - EAST HARTFORD  Race:  U Sex: M  Owner  PATIL, UTKARSH @ 1156 MIDDLE W TPKE Apt. #B2 - EAST HARTFORD  Race:  0 sex: M  Narrative  checked  Narrative  Checked Area.  18-10792  0944  Initiated ~- BUILDING CHECK  BUILDING CHECKED / SECURED 
+19-107889 0912 Initiated - PARKING CHECK SERVICES RENDERED
+all Takcor: PATROL TANIA HIRNAKDFZ
+Leoation/Adéreas: SCIICOL ST
+Unik: as
+Arvd-09:12: in oa Clrc-09:13:04
+1959-10790 091e Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL, TANIA IIERKANDEZ
+Location/Address: LINE COZBLE RD
+Jnit: 36
+hevd-09:128:42 Cird-59:27:04
+Narrative:
+MA 7SDELQ - 977.R2 - S33IWRM - 64NZ)7
+ND LCOEZ008
+NY HVTIi3BE
+EL KPME32138
+Al. okay
+Warrazive:
+MA BMRLz4 YYE6CT 243EB8 2257XM TLVEBZ
+FL CTRX2'Y
+NY HVI3386
+ME AST265
+Nurrative:
+Mr SDI516, 3FPISE
+KY ZVI33a86, RR7Z535F
+RI QM99
+all okay
+Narrzative:
+NY HVT33BG cnly vehicle in lot, secured
+Narra: lwa:
+Checked Area.
+KarraLive:
+SY HVT3386 sree checxe:d.
+Nurrative:
+Checxed area.
+Marrative:
+KY ZVT:2386 area chocked
+19-140791 0827 Initiated - BUILDING CHECK BUILDING CIECKED/SECURED
+Call Taker: FATRCH TAN_A HERNAKDEZ
+Loouakd on/Address: MATE BT
+Unit: 36
+Arvd-09:27:40 ClréE-N9:30:36
+Velirle: 3RY 2013 FOND hosord LX Roy: BC OT ZAVIFZ  VIN: 1HECS1B3IZ?TANL9L30
+Cperator: PATTT, UTAARSE @ 1i4e MIDDLE W TPSE Apt. #BZz - EAST HARTIORD
+Race: TI Sex: HM
+Cwner: PATTL, UTKARSH @ 1192 MIDDLE W TPXE Apt. #BZ - EAST HARTFORT
+Race: U Hox: HM
+Narrative:
+cheokod
+Narrative:
+Checked Arca.
+19-1075952 (6944 Initiated - BUILDING CHECK BULLLING CHECKED/SECURED

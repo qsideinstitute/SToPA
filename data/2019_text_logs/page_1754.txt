@@ -1,1 +1,52 @@
-Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  WOODLAWN DR  Unit  30  Arvd-10:48:44  Clrd-10:49:21  Narrative  checked  Narrative  Checked 0112  19-12324  1153  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANTA HERNANDEZ  SPRING ST  Location/Address:  Unit:  36  Arvd-11:53:43  Cird-12:08:32  Narrative:  3 violations  1419-12325  1217  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address;  {WIA 225] COLD SPRING RD  Unit:  36  Arvd-12:17:40  Clrd-12:22:53  19-12327  1234  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANTA HERNANDES  Location/Address  STRATTON RD  Unit  36  Arvd-12:34:58  Clrd-12:39:35  Narrative  checked  Narrative  Checked  19-12330  1320  Walk-In - FOUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  [WIA 390] SIMONDS RD  Unit:  33  Arvd-13:44;11  Clrd-13:44:13  Disp-13:43:26  Narrative:  Party looking to surrender a firearm due to concern  regarding wife's mental health. 19-210-PR.  19-123332  1529  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:20:44  Cird-15:27:37  1418-12334  L713  $11 - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  LUCE RD  Location/Address  Unit  32  Disp-17:13:00  Enrt-27:15:59 Arvd-17:21:55  Clrd-17:48:27  Unit  38  Disp-17:13:00  Bnrt-27:15:58  Arvd+-17;22:36  Clrd-17:;49:30  Vehicle  GRN 2003 TOYT SE ECHO Reg: PC MA 7MK219 VIN: JTDBT123530283190 
+Call Taker: SARGEANT SCOTT E MOGOWAN
+Locatioz/Adcrese: WOLDLAHN DR
+Units: 20
+Arvd-10:48:44 Clrd-10:49:21
+Karrative:
+checked
+Karrative:
+Chiechked 6112
+19-12324 1153 Initiated - PARKING CHECK SERVICES RENDERED
+Zall Taker: PATROL TANTA HERNANDR?
+Location /aAcdvasza: SEFRTNG 8T
+Un-n: ib
+Arvd-21:53: 43 Clrd-12:08:32
+Narrative:
+3 viclations
+1898-12325 1217 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATZ0L TAKIA EERNANDEZ
+Leecazion/Address: WIA Z325] COLD SPRING RD
+Unit: 36
+Arvd-12:17: 40 Clrd-12:22:53
+18-12327 1234 Initiated
+- BUILDING CHECK BUILDING CHECKED/SECURED
+Cal. Tuxer: SATROL TANIA HERKANDEZ
+Lecakion/Addresy: STxATTCH RED
+Joit: 36
+Arvd-12:34: Clrd 12:59:35
+Narrative:
+chacked
+Narrative,
+Checker
+1565-12330 1320 Walk-In - FOUND/ LOST PROPERTY SERVICES RENDERED
+Cal Taker: DTEZATCETR CRRTASTTHR LEMGINE
+—ocation/Address: [AZA 390] SIMCNDE RI
+Unit: 33
+Diep-13:43:26 Arvd-13:44:11 Clrd-_3:44:13
+Narrative:
+Party locking to surrerder a firearm due to COLIC eXT
+ragardinrg wifa s mental healt. i19-220-PX.
+19-123313 15290 Initiated - PARKING CHECK SERVICES RENDERED
+Cazl Taker: PATROL JOHN J MCCONKELL JR
+Locat-en/Addresy: SPRING ST
+Tnit: aa
+Areyie15: Clrd-15:27:31
+18-12334 1713 311 - MOTOR VEHICLE ACCIDENT INVESTIGATRR / REPORT
+TAKEN
+Call Takor: LDIBSPATCHER WILLERM C JZNNIN3S JR
+Local icn/Adéroas: LLCK RD
+Uniti: 22
+Divp-17:13:00 Enrb 17:15:59 Arvd 17:21:55 Clrd-17:48:27
+Unit: 28
+Disp 17:13:00 Enrc 17:15:59 Arvad-17:22:3536 Clrd-17:49:30
+Velkicle: GRMN 2003 TOYTI SE ECHO Rey: PC MA TMXZ1S VIN: JTDRT123530283140

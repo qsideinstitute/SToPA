@@ -1,1 +1,53 @@
-For Date:  -  09/18/2019  Sunday  19-112454  0057  Phone - NOISE COMPLAINT  SERVICES RENDERED  Call Taker  MICHAEL STRIZAI  Location/Address  [WIA 142] WATER ST  Unit  31  Disp-01:00:12  Enrt-01:00:43  Arvd-01:02:59  Clrd-01:07:52  Unit  35  Disp-01:00:12  Bnrt-01:00:38  Arvd-01:04:25  Clird-01:07:00  Unit  32  Disp-01:05:09  Enrt-01:05:10  Arvd-01:06:00  Clrd-01:68:08  Narrative  CP complaining of screaming and  shouting coming from Casa  Lina,  Narrative  Upon exiting for the night a large crowd of students were  being loud, woke a resident in the apt complex next door.  Students left area, presently quiet.  19-113455  G059  Initiated - MOTOR VEHICLE 8STaP  CITATION - WARNING  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  MAIN ST  Unit  32  Arwd-00:59:39  Cird-01:04:52  Vehicle  GRY 2012 SUBA HB Reg: PC VT MAGICMT  Operator  HATHEWAY, KELLEN P ® 275 GREEN PEAK ORCHARD S - E. DORSET, VT 05253  Race:  W Sex: M  Refer To Citation  TI7B5a870  Owner  HATHEWAY, KELLEN P @ 275 GREEN PEAK ORCHARD & - EF. DORSET, VT 05253  Race:  W Sex: M  19-13456  0142  Initiated -  SUSPICIOUS MOTOR VEHICLE  BUILDING CEECKED/ SECURED  Call Taker  PATROLMAN SCOTT SKORUPSKI  Lacation/Address  {WIA 255] WATER ST  unit  32  Arvd-01:;43:28  Clrd-01:44:02  Vehicle  GRY 2016 VOLV XCé60  Reg: PC MA 2470Z0  VIN: Y¥V449MRK7G2909271  owner  WELLS-BUNDTZEN, NICHOLAS © 30 SACKVILLE &T Apt. #1 - CHARLESTOWN, MA  02129-1923  Race:  U Sex: M  Narrative  M/V parked in the parking lot, unoccupied.  19-11457  0206  Initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  (WIA 1280] COLD SPRING RD  Unit  32  Arvd-02:07:36  Clrd-02;08:08  Vehicle  BLK 20316 FORD EXPLOR Reg: PC MA FH1I958 VIN:  IFMSK8GTIGGBS 8604  owner  CAPUANO, JAMES J @ 10 KENSINGTON RD - WORCESTER, MA 01602-1814  Race:  U Sex:  M  Narrative  M/V parked in the parking lot, unoccupied.  1219-11458  0208  Phone - NOISE COMPLAINT  SERVICES RENDERED  Call Taker:  MICHAEL STRI2Z2ZI  Location/Address:  HOXSEY sT  Unit:  31 
+For Date: 09/15/2013 - Sunday
+19-11454 0ps57 Phone - NOIBE COMPLAINT SERVICES RENDERED
+Call Taker: MICHAEL STR_ZZL
+Locat ien/Address: [WIA 142] WATER ST
+Joit: 31
+Disp-0::00:22 Enrt-01:00:43 Arvd-01:02:53 Clrd-01:07:52
+Unit: a5
+Nisn-0::00:12 Tnrt-01:50:38 Arvd-01:04:25 Clrd-01:87:00
+Jonit: 32
+Pigp-02:05:09 knrt-01:05:10 Arvd-01:06:00 Clrd-01:08:08
+Narrative:
+CP complaining cZ screaming and shouting coming from Casa
+dL,
+Narrative:
+Upon exiting for the night a large crowd of students were
+heing oud, woxe a resident in the apt complex next door.
+Students left area, presently quiet.
+19-111455 O058 Initiated - MOTOR VEHICLE BTOP CITATION - WARNING
+Cail 'lake:r: EATROLMAN SCOTT SEORUPSKT
+Location/Address: MAIN SW
+Unit: 32
+Arvd-00:53:39 OCirxd-0l:C4:bd
+Vehicle: GRY 20.2 SUBA ID PC VT MAGICMT
+KELLEN P Reg: ® 275 GREEN DEAK CRCHARD S - E. DORBET, VT 052h1
+Oparator: HATEEWAY, M
+Race: W Sex:
+Refer "'c Citaticn: T1785E70
+dwier: HATEEWAY, KLLEN DP @ 275 SREEN PBAK CRCHARD 8 - BE. NROXSET, VT 0h253
+Race: W Sex: M
+19-1145686 0142 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+Cz:l Taker: EATROIMAN SCOTT SKORUPSEI
+Location/Address: [WIN 258] WATER ST
+urit: iz
+Arvd-01:43:20 Clrd-01:44:01
+Vehicle: GRY 221a VOLV XCs0 Reg: PC MA 247JZ0 VIN: YV44IMRK7G2929271
+Cwney : WRLILS-RUNDTZEN, NTCHOLAS ® 30 SACKVILLE ST Apt. #1 - CHARLESTOWN, MA
+D2129-2923
+Race: L Sex: M
+M/V parked in the parking lot, unoccupied.
+19-11457 az20¢E Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+Call Taker: EFATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA -280] COLD SPRING RL
+Unit: 32
+Arvd-02:07:36 Clv-02:08:GH
+Vehicle: BLK 2016 FORD EXPLOR Keg: PO MA FH18558 VITN: 1FMSKROTIGERABS50L
+Owner : CARIANO, JAMES J @ 10 XFEN2TNGTON RD - WORCESTER, MA 01602-1B.4
+Race: U Bex: M
+Marrda:.ive:
+M/V varked in the parking lot, unoccupied.
+19-111458 0208 Phone - FOISE COMPLAINT SERVICES RENDERED
+Call Taker: MICHAZIL STRIZZI
+HOXSEY ST
+Location/Address: Unit: al

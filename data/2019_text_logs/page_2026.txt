@@ -1,1 +1,45 @@
-Narrative:  done  Narrative:  checked  Narrative:  11/06/2019 0046 Checked S83  1$-133900  o659  Initiated - BUZLDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROL TANTA HERNANDEZ  Location/Address:  FINE COBBLE RD  46  unit:  Arvd-09:90:18 Cird-09:01:11  Narrative:  NY HK2Z9859 - HAK2882  Narrative:  NY AGV5156  MA THAXS1  GA CHA1485  Narrative  empty  Narrative  empty  Narrative  11/05/2019 2340  Checked $3 No cars  Narrative  Checked Area.  Narrative  Checked Area.  49-213901  0945  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  HOPPER RD  Unit  36  Arvd-09:46:06  Clrd-09:51:36  Narrative  Checked  Narrative  Checked Area.  19-13902  1612  Initiated ~ BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  [WIA 225] COLD SPRING RD  Unit:  36  Arvd-10:12:26  Clrd-10:14:41  19~13904  1014  Phone -» SUSPICIOUS ACTIVITY  INVESTIGATED / REPORT  TAKEN  Cali Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 630)  MAIN ST  Unit:  ADL  Arvd-10:27:27  Clrd-11:07:51  Disp-10:27:23 
+Narrarive:
+done
+Narrazive:
+ohacked
+Narrarive:
+12/08/2019 004Q Checked 83
+13-15900 0859 Initiated - BUILDING CHECK BUILDING CHECKED/SHCURED
+Cull Taker: PATROL TANIA HERNANDEZ
+Location/Address: PINE COBBLE RD
+vnit: as
+Axrvg-09:00:18 Cird-09:01:11
+Yarrazive:
+NY HX79359 - HAX2882
+Narrative:
+NY AIVS1HE
+MA 1HAXS]
+GA CHAJl485
+dazrazive:
+empty
+Narrative:
+Narra-iva:
+12/05/2019 234C Checked 52 No cars
+Naryazive:
+Crecxed Area.
+Harrakb ive:
+Chocxad Arca.
+19-139401 0o4s Initlated - BUILDING CHECK BUILDING CHECEED/SECURED
+Call Taker: PATROL TANIA HZRNAHNDEZ
+Location/Address: HOPPER RD
+Unit: i]
+Arvd-03:46:08 Clxd 09:51:36
+Karrative:
+Checked
+Narrative:
+Checked Area.
+19-13902 1012 Initisted - SUILDING CHECK BUIIDING CHECKED/SECURED
+Jall Teker: PATROL TANIA HERNANDEZ
+Lecacion/AGdreas: [WIA 225] COLD SPRING RD
+nic: 36
+Arvd-10:12:26 Clrd 10:14:41
+19-13904 1014 Phone - SUSPICIOUH ACTIVITY INVERTIGATED / REPORT
+TAKEN all taker: LIEJTREANT MICHAEL J ZIEMBA JT
+Location/Address: [WTA 630] MAIN ST
+Unit: ADll
+Disp-10:27:23 Arvd-10:27:27 Clrd-11:07:51

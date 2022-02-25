@@ -1,1 +1,53 @@
-Unit:  37K  Aryd-10:44:05  Clrd-11:55:46  Narrative:  Lock down drill  19-13497  1112  $11 - $+1-1 ABANDONED CALL  UNABLE TO LOCATE  Call Taker  PATROL KALVIN DZITEDZIAK  Location/Address  WHITE OAKS RD  Unit  36  Disp-11:15:09  Envt-11:15:25  Arvd-11:17:00  Clrd-11:21:48  Narrative  Abandonded 911 call. Unable to make contact upon call back  {3 attempts). Mapping system shows caller to be in the area  of  1143- Spoke with  who stated she did not call  and is unaware how 911 was activated.  claimes she was  out of town at the time of the 911 call and is just  returning home now.  1221- Emergency line activation and hang up from  phone number. Upon call back  again states she did not  call and believes her phone may have been hacked.  19+13498  41128  Initiated + BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HOPPER RD  Unit  39  Arvd-11:28:49  Cird-11:30:19  Narrative  checked  19+134599  11238  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  [WIA 225] COLD SPRING RD  Unit:  30  Arvd-11:38;25  Clyrd-11:39:43  19-13500  1253  Initiated ~ MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker  CHIEF KYLE J JOHNSON  MAIN ST  Location/Address  Unit  33  Arvd-12:53:12  Clrd-13:00:02  Vehicle  RED 2005 FORD SE FOCUS Reg: PC MA 8BCY40 VIN:  1FAHP34N45W254083  Operator  FACHINI, MATTHEW DAVID @ 332 E MAIN ST - N ADAMS, MA 01247-4410  Race:  U Sex: M  Refer To Citation  T2085092  Owner  FACHINI, MATTHEW DAVID @ 332 E MAIN ST - N ADAMS, MA 01247-4410  Race: U 5ex:  hi  19-13502  1329  Walk-In - ASSAULT  INVESTIGATED / REPORT  TAKEN  Call Taker  PATROL KALVIN DZIEDZTAK  Location/Address  [WIA 225] COLD SPRING RD  Unit  37K  Disp-13:29:00  Arvd-13:29:50  Clrd-14:28:14  Narrative  Party at station regarding assault that occured at Mt.  Greylock  Refer To Incident:  19-274-0OF  1215-13503  1411  Initiated - BUILDING CHECK  BUTLDING CHECKED/SECURED 
+Un>z: ITK
+Harrative: Arvd-20:44:05 Clrd-1).-55:46
+Lock down drill
+19-13497 1112 911 - 9.]1-3 ABANDONED CALL UNABLE TO LOCATE
+Call Taker: MATROL KALVIN DEZELCZCAK
+Losasion/Addressy: RHITE QARKE RD
+Unil: ae
+Disp 11:15:09 Enrt-11:15:25 Arvd-11:17:00 Clré-11:21:44
+Narrat-ve:
+Abzndor-ded 211 call. Unakle to wake contact upon call hack
+i3 attempza).    Mapplrg system Bhows caller 7T¢ be in the area
+ox
+1143- Epoke with who stated she dié not fall
+und iy unaware how 311 was aclivuted.   claimes soe was
+cul of Lown ab Lhe Lime co zhe 911 cu.l sad is just
+relurning home how,
+1221 ZEmerysncy line activation and hang up trom
+phone rurkter. Upon call bzck Ji] 2cain states she did not
+eazl ard kalleves her phone way have been hacked,
+15-13498 1128 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taxe:: SEIGEANT 8COTT E MOGOWAN
+mncation/Adidress: HOPPER RD
+nit: 30
+Arvd-11:28:49 Clrd-11:34:19
+Narrztive:
+checked
+19-134599 1138 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca.l Taker: SERGEAN- SCOTT Z MCGOWAN
+Locat-on/Addreys: [WIA 2251 COLD SFR-ONG 3D
+Tnit: 30
+Arevye-11:38:25 Clrd-11:29:43
+1989-13500 1253 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Czll “akar: C:ZIEF KYTE J JOHNSON
+Locaticn/Address: MALIN S7
+init: 33
+Arvd-12:53:12 Clrd-13:80:02
+verjicle: RsD 2005 FORL SE FOCUS Req: PC MA BTRCY43 VIN: 1FAIPI4N4SH254083
+Cparator: FACHTNTI, MATTIIESH DAVID 332 5 MATIN 5T - HN ADAME, MA 01247-4410
+Rane: 1 Sax: M
+afer To Citatior:
+Owner: FACHZRI, MATTILIW DAVID 3 332 E MAIN ST - N ADAMS, MA 01247-4410
+Race: J Sax: M
+19-13502 1329 Yalk-In - ASSAULT INVESTIGATED / REPORT
+TAKEN
+(all Takar: PATROL XALVIN DEIGDZIAK
+Tocztion/Adéreasa: [WIR 225. CGLD SPAING RD
+Uniz: 27K
+Ligp-13:25:00 Arvd-.3:29, 5C Ny Clrd-14:28:14
+narrative:
+ac station recariding asszult thakt ozcoured at Mt.
+Greylocz Party
+Refer To Incident: 19-574007
+12-13503 1411 Initiated - BUILDING CEECK BUILDING CHECKED/SECURED

@@ -1,1 +1,56 @@
-Unit  38  Arvd-21:31:18  Clird-21:38:25  Vehicie  GRY 2013 FORD SE FUSION Reg: PC MA 3FK996 VIN: 32FAGPOK98DR130248  Operator  JORDAN, DYLAN MATTHEW @ 37 ALGER ST - ADAMS, MA 01220  Race:  W Sex: M  Refer To Citation  T1L785553  Owner  JORDAN, DYLAN MATTHEW @ 37 ALGER ST - ADAMS, MA 01220  Race:  W Sex: M  2341  SERVICES RENDERED  19-8946  Phone - DISABLED M V  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  GREEN RIVER RD  Unit:  35  Disp-23:42:35  Enrt-23:42:54 Arvd-23:51:36  Clyrd-07/18/2019 @  00:06:11  Vehicle:  GRY 2004 SAA ST 95 Reg: PC MA 4HE812 VIN: YS3ED59A7430147984  Towed:  For: DISABLED By: RONS AUTO REPAIR To: RONS TOWING  Owner:  BLAIR, JENNIFER E @ 20 MILL ST - N ADAMS, MA 01247-2249  Race:  W Sex: F  Narrative:  Calling party states there is a black car parked by side of  Northbound Lane which was very hard to see. May possibly be  disabled.  Narrative:  Vehicle is unoccupied and is parked on side of the roadway  in the grass. Checked area around the vehicle, unable to  locate anyone. Dispatch to attempt contact with registered  owner.  Cones deployed for better visibility.  Narrative:  Vehicle owner contacted station. She explained she had  notified AAA for a tow but that they never showed up. Ron's  contacted and removed vehicle from highway due to dangerous  location.  For Date:  07/18/2019  a  Thursday  19-8943  0356  Initiated - PARKING CHECK  SERVICES RENDERED  PATROL CRAIG A EICHHAMMER  Call Taker:  Location/Address:  [NTA 390] SIMONDS RD  Unit:  31  Arvd-03:56:16  Clrd-03:57:20  0836  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  19-8944  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  HANCOCK RD  Unit:  a5  Arvd-08:36:35  Clrd-08:46:44  SNIABTAP1KY316988  Vehicle  BLK 2019 NISS 4D Reg: PC VA URX3773 VIN:  Operator  BURDICK,  BARBARA L # PO BOX 604 - STEPHENTOWN, NY 12168  Race:  W Sex: F  Refer To Citation  TL785330  Owner  HERTZ VEHICLES LLC @ 44074 MERCURE CIR - STERLING, VA 202662014  19-8946  0848  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Cali Taker  PATROL TANIA HERNANDEZ  MAIN ST  Location/Address  Unit  36  Arvd-08:48:29  Clrdg-09:02:58  Vehicle  BLU 2015 BMW U XS  PC MA 6Y¥X236  VIN:  SUXKROCSOFOR52746  Reg:  Operator  MEHTA, HASTINKUMAR N @ 213 MAIN ST - WILLIAMSTOWN, MA 01267 
+Unit: CE: Arvd-21:31:18 Lird-21:38:25
+Voelrigle: GRY 2013 FORD SE PUSLION Reg: PC MA 3PX99¢ VIN: IFA620K38DR130248
+Cperator: CcORDAN, DYLAN MATTHEW @ 37 ALGER 5T - ADAME, MA 01220
+Race: W Sex: M
+Refar To ClLatiomu: I.785553
+Oownox: wORDAN, DYLAN MATTHEW @ 37 ALGHR ST - ADAMS, Mh 01220
+Rave: W Sex: M
+19-8540 2341 Phone - DISABLED M V SERVICEE RENDERED
+call Taker: SERGEANT PAUL OD THOMPSCN
+Location/Address: GREEN RIVER RD
+Unit: a3
+Disp-23:42:35 Enrt-23:42:54 Arvd-23:51:36 Clrd-07/18/2012 2
+00:06:11
+Vehilcele: GRY 2004 SRA 55 YE Req: PC MA 4ZESL2 VIN: Y33ENS9ATAI0 ATEA
+Towad: For: DISABLED By: RONS AUTO REPAIR To: RONS TOWING
+Owner: BLAIR, JENNIFER E @ 20 MILL ST - N ADAMS, MA 01247-2249
+Race: @ Sex: F
+Karracive:
+Call-ng party ctates there is a hlack car parked by side of
+NorLhbound Zane which was very hard tc see. May possibly ha
+disablud.
+Harrative:
+Vehicle is unoccupied and is parked on side of the roadway
+in the grars. Checked area around the vehicle, unable to
+locate anyone. Dispatch to attempt contact with registered
+oWler.
+Cones deployed for better visibiitity.
+Narrative:
+Vehicle owner contacted station. She explained she had
+notified AAR for a tow buc that they never showed up. Ron's
+contacted and removed vehicle from highway due Lo dangerous
+location.
+For Date: 07/18/2019 - Thureday
+19-8943 0356 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL. CRATG A WICSHAMMER
+Location/Address: fWLA 390] SIMONDS RD
+Unit: 31
+Arvi-02:56:10 C-oxd-03:57:Z0
+15-8944 0836 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Call Taker: PATROL DAVID JEKNINGS, T
+Lecazion/nddress: HANZOCK RD
+Unit: as
+Arvd-0B:36:35 Clrd-08:46:44
+vehicle: BLX 2015 NISS AD Reg: PC VA URX3779 VIN: 3N1ADTAP1KY316986
+Oporaktor: BURDTCK, BARBARA L PO BOX 04 - STEPHENTOWN, NY 12168
+Race: # Bex: F
+Refer To Citation: TL785330
+Owner: HERTZ VEHICLES LLC # 44074 MERCURE CIR - STERLING, VA 20:6620]14
+Initiated MOTOR VEHICLE ETOP CITATION - WARNING
+19-8946 0848 -
+PATROL TANIA HRRNAMNDEZ
+Call Taker: MAIN a7
+Locution/Addroess: Unit: 1:
+Arvd-09:46:29 Clxd-03:02:08
+Vehicles: BLU 2013 BMW U X5 Rou: DPC MA 6YX236 VIN: S5UXXKROCSIFOKS2746
+Operator: MEHTA, EASTINKUMAR N @ 213 MALIN ST - WILLIAMSTOWN, MA 01267

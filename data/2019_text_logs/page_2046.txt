@@ -1,1 +1,54 @@
-19-14008  1339  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 225] COLD SPRING RD  Unit:  34  Arvd-13:40:12  Clrd-13:47:01  15-14009  1420  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cali Taker  PATROL ANTHONY M DUPRAT  Location/Address  LINDLEY TER  Unit  34  Arvd-14:21:21  Clrd-14:22:25  Narrative  checked  Narrative  Checked 0208  19-14010  1426  Radio - B.O.L.0.  PATROL ADVISED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  MAIN ST  Unit  30  BDisp-14:27:52  Clrd-14:28:20  Unit  34  Disp-14:27:52  Clrd-14:28:07  Unit  37K  Disp-14:27:52  Clrd-14:28:17  Vehicle  BLK 2002 GMC SIERRA Req:  PC MA 802YFF VIN:  2GTERLIVE21180257  Owner  ZELAZO, ANTHONY @ 76 ORCHARD ST - ADAMS, MA 01220-2327  Race: W Sex: M  Narrative  Vehicle spun tires and reved engine while passing NA  officer  19-14011  1427  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  COLD SPRING RD  Unit  34  Arvd-14:27:52  Clra-14:27:52  Unit  34  Arvd-14:28:13  Cird-14:35:00  Disp-14:28:07  Vehicle  BLU 2003  TOYT PRIUS  Reg: PC MA 286ERS8 VIN: JTDKB20U997819479  Operator  GRIFFIN,  DUSTIN H @ 2 OLD FARM WAY - WILLIAMSTOWN, MA 01267-9506  W  Race:  Sex: M  Refer To Citation  T2085195  Owner  GRIFFIN,  DUSTIN H @ 2 OLD FARM WAY - WILLIAMSTOWN, MA 01267-9500  Race:  W  Sex; M  13-14012  2432  Phone -  ALARM  - BURGLAR  ALARM FALSE  Call Taker  PATROL KALVIN DZLTEDZIAK  Location/Address  {WIA 220] MAIN sT  unit  34  Clrd-14:42:56  Disp-14:35:09 Enrt-14:35:29 Arvd-14;40:05  Narrative  Burglar Alarm Atvitation. Zone entry/exit  Narrative  Employees working unaware why alarm keeps setting off.  VEHICLE OPENED  19-14013  1436  Phone - MOTOR VEHICLE LOCK OUT 
+1595-14008 1339 Iritiated - BUILDING CHECK BUILDING CHECKED/SRCURRN
+Cal. Taxer: ZATROL ANTHONY M DUPbPRaAL
+Location/Address: “WIA 22b] COLL SPRING RD
+Jinir: 34
+Arvd-13:40:22 Clrd-13:47:01
+15-14009 1420 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call TaAxer: “ATROL ANTHONY M LUPRAT
+Lozation/addraess: —INDLEY TER
+Jnit: 34
+Arwid-14:21:21 Clrd-14:22:25
+Narrativa:
+checked
+Narrul ivi:
+Checked 2208
+12-14010 1426 Radic - B.0.L.D. PATROL. ADVISED
+Call Teker: ZATROL KALWIN DEIEDZIAK
+Location/Address: MATE 5T
+Jit: 30
+Bisp-1:27: 5z Clrd-14:22:20
+nit: 31
+Uisp-_4:27: Clrd-14:25:07
+Jr-ik: ITK
+Clrd-14:28:17
+Vehicle: Disp :27:52 PC MA BO2YMF VIN: 2G2EXKI3VB21180257
+BLK 2202 GHC SIERRA Rug: 01220-232Y
+Durer: ZELAZO, ANIIIONY # 7¢ CRCHARD ST - ADAMS, MA
+Ruve: W Sex: M
+Narrative:
+Yehicle spun tires und reved engine witile passing Ka
+cificer
+15-14011 L427 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taxer: PATROL AKTHONY M TUPRAT
+Losation/Address: COnLN S9RTHNG RD
+Jrnik: 34
+Arvd-14:27:52 Clrd-14:27:52
+Jit: 34
+Digp-_4:28:07 Arvd-14:28:13 Clrd-14:35:00
+Vehicle: BLJ 2209 TOY™ PRTIIA Reg: PC MA 2806FRE VIN: JTOKB20U227812479
+Opard.or: CRLIFF_N, DUSMN H @ 2 OTD FARM WAY - WILLIAMSTOWN, MA Cl267-9500
+Hace: W Hex: M
+Reloer To Ciktaticen: "AHR BS
+Over: GRZTF-N, DUSTIN II @ 2 QLD FARM WAY HITLIAMSTOWN. Ma Cl2z7-9:00
+Race: W Sex: M
+15-14012 1432 Phone - ALARM - BURGLAR ALARM FALEE
+Cail Taker: BATRONL KEATWVTE NATREDEIAK
+mouvation/Address: fATh 220] MATN RT
+Unit: 34
+bigp- 4:35:05 Envh-14:35:29 Arvd-14:40:05 Clrd 14:42:5¢
+Nerral ive:
+Burglar Alstm Atvitation. Zone entry/exit
+Narzatlive:
+working unaware why alarm keeps setting off.
+Employees
+1959-14013 t43e Phone - MOTOR VEHICLE LOCK OUT VEHICLE OPENED

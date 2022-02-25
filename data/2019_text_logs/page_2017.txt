@@ -1,1 +1,46 @@
-Narrative  checked  Narrative  checked  Narrative  Checked  Narrative  Checked Area.  19-13842  0846  Initiated ~ BUILDING CHECK  BUELDING CHECKED/SECURED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  HARWOOD ST  Location/Address:  Unit:  37K  Arvd-09:46:54  Clrd-08:48:26  Narrative:  Checked  19-13843  0847  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PINE COBBLE RD  Unit:  36  Arvd-08:48:22 Clrd-08:48:51  Narrative:  no vehicles  Narrative:  Empty  Narrative:  empty  Narrative:  Checked:  Lot Empty  Narrative:  Checked Area.  Narrative:  Checked Area.  BUILDING CHECKED/ SECURED  19-13844  G852  Initiated - BUILDING CHECK  LIEUTENANT MICHAEL J 2TEMBA Jr  Call Taker:  Location/Address:  STRATTON RD  Unit:  37K  Clrd-08:54:38  Arvd-08:52:58  Narrative:  Checked  19-13845  o905  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  LIEUTENANT MICHAEL J ZLEMBA Jr  Call Taker  Location/Address  {WIA 1832]  NORTH HOOSAC RD  Unit  27K  Cird-09:06:50  Arvd-09:05:53  Narrative  Checked 
+Narrative:
+checked
+Narrztive:
+cheched
+Harratlve:
+Checked
+Narrative:
+Checked Avax.
+19-13842 D846 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: LIBUTENANT MICHART, J ZL1EMBA Jv
+Location/Address: HARWOOD ST
+Tinlk: 37K
+Arvd-c8:45:54 Clrd-08:48:26
+Narrative:
+Chacked
+19-130843 0847 Initiated - BUILDING CHECK BUILDING CHECKXED/SECURED
+Call Taker: PATROL 'I'ANIM HRRNAKDEZ
+Location/Address: PINE COBBLE RD
+Unit: 36
+Arvd-08:45:22 Cl>d-08:40:31
+Narrative:
+no vehicles
+Narprd.ive:
+Enpty
+Narrative:
+emply
+Narrative:
+Checked: Lot EmpLy
+Narrative:
+Checked A-ca.
+Narrative:
+Checked Area.
+0852 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+1959-13844
+Cal. Tzker: SIRUTENAN" MICHAEL J ZTEMRBA Jr
+Location/Address: STRATTON RD
+Unit: 7K
+Arvd-08:52:58 Clrd-08:54:38
+Narrative:
+Chacked
+19-13845 a905 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call 'l'aker: LIEUTEEANT MICHAEL J Z1EMBA JT
+Loculion/Addrase: [WIA 1632] KCRTH HOCSAC RD
+Unit: ITK
+Arvd-09:04:83 Olrxd-09:06:E0
+Karrative: Checked

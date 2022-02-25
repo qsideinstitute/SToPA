@@ -1,1 +1,51 @@
-1939-10483  0857  Initiated - BUILDING CHECK  BUTLDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  COLD SPRING RD  Location/Address  Unit  30  Arvd-06:57:56 Clrd-08:58:21  Narrative  checked  Narrative  Checked  Narrative  Checked 0316  15-10484  O91  Initiated - BUTLDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  HOPPER RD  Unit:  30  Arvd-09:114:57  Cird-09:14:18  Vehicle  GRY 2009 SUBA SW IMPREZA Reg: FC VI EPHMGR VIN: JF1GH63669G804503  Operator  CUMMINGS, DIANA L @ 1763 S STREAM RD - BENNINGTON, VT 05201  Race:  W Sex: F  Owner  CUMMINGS, DIANA L @ 1763 5 STREAM RD - BENNINGTON, VT 95201  Race: W Sex:  F  Narrative  Employee at location.  Narrative  checked  Narrative:  Checked 0330  1595-10486  1044  Phone ~- WELL BEING CHECK  UNFOUNDED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  COLE AVE  Unit;  30  Enrt-10:46:53  Arvd-10:50:14  Cird-10:56:04  Disp-10:45:54  Unit :  36  Disp-10:45:54  Bnre-10:47:319  Arvd-16:52:28  Clrd-10:55:56  Narrative:  CP reports a black male carrying a beer bottle seems  intoxicated and is worried for his well being.  Narrative:  Spoke with  ho sated he was going to be  walking to North Adams.  Ce  did not appear to be  intoxicated.  19-10487  4235  Walk-In - TRAFFIC COMPLAINT  LOG ENTRY REQUEST  Call Taker:  ALL EQUIPMENT POLICE DEPARTMENT  SAND SPRINGS RD  Location/Address:  Narrative:  Motorists reports parking for a tag sale has blocked the  roadway.  Officer Jennings advises all parking is in the WE  lane with good line of sight. Property owner will call if  cones & signs are needed to maintain one lane.  19-10491  1318  Phone - DISTURBANCE  LOG ENTRY REQUEST 
+1595-10483 0857 Initiated - BUILDING CHECK BUILDING CHECKED/SECUREL
+Cal’ Taker: SERGEANT STOIT E MTGOWAN
+Locaticn/Address: COLD SPRING RD
+Unit: 30
+Arvd-08:57:58 Clrd-08:58:21
+Narrativo:
+checked
+Narrzzlkive:
+Checked
+Narrative:
+Checked 0310
+15-10484 2511 Initiated - BUILDING CHECK BUILDING CHECERD/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HOPPZR RD
+Uniti: 2
+Arvd-09:11:57 Clxd-09:14:18
+Vehicle: GRY 2009 SUBA SW IMPREZA Reg: PC VIF SFHMER VIN: JF13HGI66SG804503
+Odoerator: COMMINGS, LUIANA L 3 -763 8 STREAM RD - DENNINGSTOH, VT 05201
+Rage: W Sox: FY
+CWIEY : CUMMINGS, DIANA L § 1763 5 STREAM RD - VT C520.
+Raco: Ww BSszx: F BENNINGTON,
+Narrative:
+at location.
+Employee
+Narrat_ve:
+chackad
+Narrative:
+Checked 0330
+1585-10486 1044 Phone - WELL BBEIRG CHECK UNFOUNDED
+Call Taker: PATROL LAVID JENN-NGS, D
+Tomation/hdéress: VOLE AVE
+Unit: 33
+D:ap-10:45:54 Enrt-10:46:53 Arvé-10:50:14 Clrd-10:56:04
+Unit: 36
+Disp-10:45:54 Bnrt-10:47:19 Arwd-10:52:28 Clrd-10:55:56
+Narrative:
+C> reports a black male carrying a becy hoLile szems
+intoxicate and is werried for his well bu_ng.
+Narrative:
+Spoke with wiio sated he was going to be
+walking to North Adams. ¢id mot appear ha ba
+intoxicated.
+19-100487 1135 Walk-In - TRAFFIC COMPLAINT LOG ENTRY REQUS8T
+Call Taker: ALL EQUTPMENT PCLICE DZPARTHMENT
+Lecalion/Addresy: SAND SPRINGS RD
+Narrative:
+Motorists reports parking for a tag sale has blocked the
+roadway. Officer Jennings advises ail parking is In tae WB
+lane with good line of sight. Property owner wll call i:z
+cong: k signs are needed to maintain cne lane.
+1989-10491 1318 Phone - DISTURBANCE LOG ENTRY REQUEST

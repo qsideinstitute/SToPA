@@ -1,1 +1,51 @@
-19-6773  1036  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  PETERSBURG RD  Location/Address  Unit  36  Arvd-10:36:30 Clrd-10:38:24  Narrative  done  Narrative  Checked 0229  19-6775  1050  Phone - BREAKING & ENTRY  SERVICES RENDERED  : Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  LINDLEY TER  Narrative:  CP advising his vehicle ha been gone through. CP does not  see anything that was valuable that had been taken. He was  advised to call back if he finds something that of value to  call back. Vehicle was unlocked.  19-6774  1100  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker:  PATROL DAVID JENNINGS, D  Location/Address  COLD SPRING RD  Unit  25  Arvd-11:01:10  Clrd-11:01:54  Narrative  checked  Narrative  Checked  19-6776  1100  Phone - BREAKING & ENTRY  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  MAY ST  Narrative:  CP reporting her car was gone through last night. She  advises about $40.00 of change was taken from car.  Vehicle was unlocked.  19-6777  1106  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  COLD SPRING RD  Unit  35  Arvd-11:07:09 Clrd~-11:07:33  Narrative  checked  Narrative  Checked  19-6824  1200  Phone -  JUVENILE OFFENSES  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 225] COLD SPRING RD  Narrative:  VP reports incident in bathroom resulting in an  inappropriate photo and a broken phone. Report from VP to 
+19-6773 1036 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: PETERSBURG RD
+Unit: 36
+Arvd-10:36:30 Clrd-10:38:24
+Narrative:
+done
+
+Narrative:
+Checked 0229
+19-6775 1050 Phone - BREAKING ENTRY SERVICES RENDERED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: LINDLEY TER
+Narrative:
+CP advising his vehicle ha been through. CP does not
+anything that was valuable that gone had been taken. He was
+advised sce to call back if he finds that of value to
+Vehicle unlocked. something
+call back. was
+19-6774 1100 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: COLD SPRING RD
+Unit: 3as5
+Arvd-11:01:10 Clrd-11:01:54
+Narrative:
+checked
+Narrative:
+Checked
+19-6776 1100 Phone - BREAKING ENTRY SERVICES RENDERED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: MAY ST
+Narrative:
+her last She
+CP reporting car was gone through night.
+advises about $40.00 of change was taken from car.
+Vehicle was unlocked.
+19-6777 1106 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: COLD SPRING RD
+Unit: 35
+Arvd-1i:07:09 Clrd-11:07:33
+Narrative:
+checked
+Narrative:
+Checked
+19-6824 1200 Phone - JUVENILE OFFENSES SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 225] COLD SPRING RD
+Narrative:
+VP reports incident in bathroom resulting in an
+inappropriate photo and a broken phone. Report from VP to

@@ -1,1 +1,55 @@
-Location/Address  (WIA 361] PARK ST  Unit  35  Disp-18:05:01  Enrt-18:05:14 Arvd-18:12:45  Clird-18:20:08  Vehicle  S5J6RM3H46GL027713  GRY 2016 HOND Reg: PC FL GCBN50O VIN:  Owner  ORE, LINA D @ 11408 SW 110TH LN - MIAMI,  FL 33176-0000  Race:  U Sex:  F  Narrative  Thompson lot for a broken car window.  Refer To Incident:  19-278 -OF  19-13563  1824  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 190]  MAIN ST  Unit  32  Arvd-18:25:20  Clrd-18:25:26  Narrative  done  Narrative  10/30/2019 0254 Checked $3  19-13564  1949  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL KEVIN P GARNER  Location/Address  [WIA 249] NORTH ST  Unit  34  Cird-19:50:36  Arvd-19:50:17  Narrative  done  Narrative  10/30/2019 0258 Checked 53  i9-13568  2313  Phone - SUSPICIOUS ACTIVITY  INVESTIGATED / REPORT  TAREN  Call Taker  MICHAEL STRIZZI  Location/Addresa  [WIA 165] ADAMS RD  Unit  32  Disp-23:13:13  Envt-23:13:33  Arvd-23:18:06  Clrd-23:53:20  Unit  34  Disp-23:13:193  Enrt-23:13:36  Arvd-23:18:25  Clird-23:45:34  Unit  36  Arvd-23:18:58  Clrd-23:53:26  Disp-23:13:55  Enrt-23:13:56  Vehicle  GRY 2019 SUBA  ST IMPREZ Reg:  PC MA 1JVP95  VIN:  4653GTAAGEK3S 743679  Towed  For: HAZARD By: RONS AUTO REPAIR To: RONS TOWING  Operator  FORWARD,  NICHOLAS STEVEN @ 38 HIGH ST - NORTH ADAMS, MA 01247-3803  Race: U  Sex: M  owner  FORWARD,  NICHOLAS STEVEN @ 38 HIGH ST - NORTH ADAMS, MA 01247-3803  Race: U  Sex: M  Narrative  CP transferred from berkshire control. Party states his  friend is trying to QAR and is sitting in a Grey  2019 subaru impreza. CP Stated that he is bleeding.  2319 Officers requesting ambulance. Severe bleeding in and  out of consciousness.  2323 32 requesting ambulance to speed it up.  2328 Per officer request Rons notified and enroute.  2339 Multiple phone calls from Washing County N¥ Police and  NY State Police asking if we are out with a {  }  advised that party was transported to BMCS.  2342 Rons on scene.  19-242-PR 
+tocation/nddresa: [H_-A 361] PARX ST
+Unit: 35
+Lisp-18:05:02 Enz 18:05:14 Arvd 18:12:45 Clrd-18:22: 08
+Vehicle: GRY 201¢ BOND Reg: TC FL GCBNZQ VIN: 5JGRMIH4GGLO277:3
+Owier : CRZ, LINA D @ 12.408 SW Z10TI LK - MIRMI, FL 33176-3000
+Reece: UU Sex: TF
+Narrative.
+Thompgen lor Tor a broxzen car wincow.
+FeTer To Incident: 15-27E-CF
+19-13563 1824 Initiated - BUILDING CHECK BUTLDING CHE CKXED/ SRCURED
+Cz_1l Taker: PATROL, SHAN MN WILLIAM
+Local —on/addresy: [AIA 152] MAIN ST
+tnit: 32
+Arvéd-18:25:2C Cird-18:25: 29
+Harrazive:
+done
+Harrazive:
+13/32/2C19 0254 Checked S3
+19-13564 1549 Initiated - BUILDING CHECK BUILDING CHKCERD/SECURRD
+Call <akar: PATROL KEVIN PP GARNER
+Locaticn/Address: [WIA 24391 NORIH 8Y
+nil: 34
+Arve-1Y:50:1Y Clrd-19:50: 3g
+Harrazive:
+HarraTive:
+12/33/72019 0253 Chacked S3
+19-135668 2313 Phoae - SUSPICIOUS ACTIVITY INVESTIGATED / REPORT
+TAKEN
+Call wakor: M_CHAEY, STRIZEZ
+Location/Address: [WIi 165] ADAMS RD
+Unit: 12
+Digp.22:13:19 Enrc-23:13:33 Arvd-23:18:08 Clrd-23:53:20
+Unit: 34
+Digp- 22:13:19 Enrt-23:13:38 Arvd-23:18:25 Clrd-23:45:34
+Unis: 23
+Digp-23:12:55 Fnr:-23:13:6f Arvd-23:16:58 (Clxd-25:53:26
+Veiicle: (NY 2019 SUBA 8T IMFREZ Reg: PC MA LIVPIG VN: 48950TAAGEK3743679
+Towed: Foz: HAZARD ROMS ALID REPAIR To: RONE TOW_NG
+TORHARD, HNICIIOLAS By: STEVEN @ 38 HIGH S51 - KOxlH AlAMS, MA v124°7-3603
+Cperator: Race: J Sex: M
+OWnexr: NICIOLAS STEVEN 32 HIGH ST KIRTH ADAMS, MA $1247-38093
+Racs: FORWARD, J Sex: M
+Xarrative:
+OF transierred Zrom pezkshire control. states his
+triend is tryiuyg +o and Party is sitting in a Grey
+Z01¢ subaru CP Slaled that he is blsedirg.
+231¢ Jfficers impreza. ambulicce. Savers bletding in and
+cf requesting
+out 2323 32 coneC-.ousness. ambulance tO
+requesting officer Rons notified speed -T and up. enrsate.
+7338 733¢ Per request calls from NY Fo-icu and
+5-ate Mu_tiple Pclice phone it Wash:ng out with Counzy (I
+KY advised that asking we are te SMCS, u
+2342 Rons party was transported
+19-24+2-PR on scene.

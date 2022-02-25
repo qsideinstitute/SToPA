@@ -1,1 +1,48 @@
-Arva-09:16:36  Clrd-09:17:09  Narrative:  Checked  Narrative:  Checked Area.  19-1688  0932  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHABL J ZIEMBA Jr  Location/Address:  {WIA 225] COLD. SPRING RD  Unit:  37K  Arvd-09:32:46 Clrd-10:08:23  19-1690  1008  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-10:09:00  Clrd-10:09:20  Narrative  Checked  Narrative  Checked  19-1691  1020  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-10:20:36  Clird-10:20:58  Narrative  Checked  Narrative  Checked  19-1692  1021  Initiated -~- PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK ST  Unit  36  Arvd-10:21:50 Clrd-10:28:04  Narrative  2 violations  19-1693  1029  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  SPRING ST  Unit:  36  Arvd-10:29:44  Cird-10:35:24  Narrative:  4 violations  19-1694  1038  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  {WIA 333] CHURCH ST  Unit  36  Arvd-10:38:56  Clrd~10:40:10  Narrative 
+Narrative: Arvd-09:16:36 Clrd-09:17:09
+Checked
+Narrative:
+Checked Area.
+19-1688 0932 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 225] COLD SPRING RD
+Unit: 37K
+Arvd-09:32:46 Clr4a-10:08:23
+19-1690 1008 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-10:09:00 Clrd-10:09:20
+Narrative:
+Checked
+Narrative:
+Checked
+19-1691 1020 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-10:20:36 Clrd-10:20:58
+Narrative:
+Checked
+Narrative:
+Checked
+19-1692 1021 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: PARK ST
+Unit: 36
+Arvd-10:21:50 Clrd-10:28:04
+Narrative:
+2 violations
+19-1693 1029 Initiated - PARKING CHECK
+Call Taker: PATROI, TANIA HERNANDEZ SERVICES RENDERED
+Location/Address: SPRING ST
+Unit: 36
+Arvd-10:29:44
+Narrative: Clrd-10:35:24
+4 violations
+19-1694 1038 Initiated
+- BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker:
+Location/Address: PATROL TANIA HERNANDEZ
+Unit: [WIA 333] CHURCH ST
+36
+Narrative: Arvd-10:38:56 Clrd-10:40:10

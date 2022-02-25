@@ -1,1 +1,47 @@
-Checked  Narrative:  Checked Area.  19-12140  0811  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  COLD SPRING RD  Unit:  35  Arvd-08:12:07  Cird-08:13:04  Narrative:  Checked  Narrative:  Checked Area.  BUILDING CHECKED/SECURED  19-12141  0904  Initiated - BUILDING CHECK  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  36  Arvd-09:04:48  Clrd-09:05:43  Narrative  Checked  Narrative  done  Narrative  Checked 2344  Narrative  Checked 0346  0508  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  i9-12142  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  NORTH ST  Unit  36  Arvd-09:08:43  Clrd-09:09:35  Narrative  done  Narrative  Checked 0109  19~-12143  o910  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  GREEN RIVER RD  Unit  35  Arvd-09:10:1i6  Clrd-09:18:13  Vehicle  GRN 2014 CHEV SE CRUZE Reg: PC MA 7262R3  VIN:  1G1 PB5SG2E7330438  Operator  HARMATZ, DEBORA A @ $4 ROUTE Apt.  #7 - NEW ASHFORD, MA 01237-9768  Race: U Sex: F  T2085061  Refer To Citation  Owner  HARMATZ, DEBORA A @ 94 ROUTE Apt.  #7? - NEW ASHFORD, MA 01237-9768  Race:  U0 Sex: F  19-12145  os11  Phone - ASSIST OTHER AGENCY - DPW  TAKEN/REFERRED TO OTHER  AGENCY 
+Checked
+Narrative:
+Chacked Arez.
+19-121140 0a1l Initiated - BUILDING CHECK BUILDING CHECEED/SECURED
+Call Taker: PATROL BRAD SACCO
+Lecaclon/Acdrezsa: CCLD SPRING RD
+init: 35
+Arvd-28:12:07 Clrd-08:13:34
+Narrative:
+Checkad
+Karrative:
+Checked Area.
+19-312141 0504 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL 'TAN1A HERNANDEZ
+Location/Address: [WIZ 1632] KORTH HOOSAC RD
+Unit: 36
+Arvd-0u:04:8 (Cr3-09:35:43
+Marrative:
+Cheried
+Harrat ivi:
+Jdonc
+Narrative:
+Cneckaed 2344
+Narravive:
+Checked 0346
+19-121432 0940e Injitiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca.l Taker: PATROL TAMIA HERKANDILEZ
+Local ion/Addresa: NORTH ST
+Unik: 36
+Arvd-09:08:43 Clrd 09:09:35
+Narrative:
+done
+Narrative:
+Checked 109
+19-123143 0910 Iritiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taxar: PATROL BRAD SAUCO
+Leoation/Address: GREZN RIVER RD
+Tit: as
+Arv3i-09:20::6 Clrd-02:18:13
+Vehicle: GRN 2014 CHEV SE (CRUZE Reg: PC MA 726ZR3 VIN: 1G1PBLSG2E7330438
+Operator: HARMATZ, DEBORA A ¢ ©4 ROUTE Apt. #7 - NEW ASHFORD, MA 81237-9768
+Rape: UU Sox: ©
+Refer To Cization: T20E5051
+Cwner: EARMATZ, L2EORA A © 94 ROUIE Apt. #7 - KEW ASHFOHD, Mh 01237-9768
+Race: © Hex: F
+19-121145 @811 Phone - ASSIST OTHER AGENCY - DPW TAKEN/REFERRED TO OTEER
+AGENCY

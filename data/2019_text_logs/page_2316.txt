@@ -1,1 +1,45 @@
-checked  Narrative:  Checked  19-15732  0823  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  LONGVIEW TER  Unit:  34  Arvd-08:23:44  Clrd-08:35:25  Narrative:  checked  19-15740  0838  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT PAUL D THOMPSON  Lacation/Address:  SOUTHWORTH ST  unit:  38  Arvd-08:39:34  Clrd-08:39:36  Narrative:  12/21/2019 0839 Checked S3  Narrative:  checked  Narrative;  done  29-15741  0839  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH ST  Unit  34  Arvd-08:39:52  Clrd-08:40:23  Narrative  checked  Narrative  done  19-15742  0654  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  D  Call Taker  PATROL DAVID JENNINGS,  Location/Address  COLD SPRING RD  Unit  a4  Arvd-08:54:09  Cird-08:56:27  Narrative  checked  Narrative  Checked  19-15743  6855  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  PETERSBURG RD  Unit  34  Arvd-09:00:00  Clrd-09:01:32  Narrative  checked 
+checked
+Narrative:
+Checked
+19-157538 0823 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Tuker: PATROL DAVID JENNINGS, D
+Locazion/Acddress: LONMGYVIEW TER
+Unit: 34
+Arvd-08:23:44 Clrd-08:35:25
+Narrat.ve:
+checked
+19-157740 ¢83s Initiated - BUILDING CHECK BUILDING CHRECKED/SECURED
+call Taker: SERCEANT PAUL D THOMPSON
+Lecazion/AGdress: BOUTIKCORTE. 3T
+Unit: 38
+Arvd-0R:35:34 Clrd-08:39:36
+Narrative:
+12/21/2029 0839 Checked $3
+Narrative:
+checked
+harrabive:
+done
+19-157411 0839 Initiated - BUILDING CHECK BUILDING CHECKID/SECURED
+Call Taker: SATROL DAVIL JENNINZS, D
+Location/Address: NORTH ST
+Unit: 34
+Arvd-03:32:52 Clrd-08:40:23
+Narrative:
+checked
+Warrative:
+dane
+19-157432 0854 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAV_D CENNINGS, LC
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-03:54:03 Clrd-08:56:27
+Narrakive:
+checked
+Narracive:
+Checked
+15-15743 08849 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JEMNNINUS, Lb
+PETERSSURA RD
+Tocation/Address:
+Cnirzc: 3a Arvé-05:00:03 CIrd-09:31:22
+Narracive: checked

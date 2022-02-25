@@ -1,1 +1,47 @@
-Narrative:  PA KPG8236  VT HD&S235  NY HVT3386  CT @122FV  MA 920765 - IRC925  All ok  Narrative:  1RC925 keys in center console and MV unlocked.  Keys  yemoved/doors locked and note left.  Narrative:  {2) cars, no damage  Narrative:  DONE  Narrative:  Checked 2350  PA KPG&236  NY HVT3386  Narrative:  Checked 0249  Narrative:  Checked 0350  Narrative:  Checked 0619  19-10665  O725  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  [WIA 3832] NORTH HOOSAC RD  Unit  3G  Arvd-07:26:12  Clrd-07:26:31  Narrative  Checked  Narrative  done  Narrative  DONE  Narrative  Checked 2345  Narrative  Checked 0344  19-106656  0733  Initiated - TRAFPIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  LUCE RD  Unit  30  Arvd-07:33:38  Clrd-07:54:51  Narrative  checked  19-10667  O755  tnitiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+Narrative:
+PA KDPGE236
+Vo HDS2135
+NY HVT3i86
+oT B12ZFV
+MA SZW765 - 1RC925
+All ok
+Narrative:
+1RC925 xeys in center fonsole oid MV unlocked. Keys
+removed/doore locked anc nole left,
+Narrative:
+(2) cars, no damage
+Narrative:
+DCHE
+Narrative:
+Checked 2350
+Ph KF38236
+HY HVT3I38E
+Narxative:
+Checked (249
+NarraLive:
+Checked 0350
+Narrazive:
+Checked 0619
+15-10665 0725 Initiated - BUILDING CHECK BUILDING CHECKED/SRECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Zocation/Address: [WTA 1832] NORTH HI2SAC RD
+Uniz: kIH
+Arvd-37:2:12 Clrd-57:26:31
+Nzrrative:
+Checked
+Narratzve:
+dene
+Narrative:
+CONE
+Narrative:
+Cheched 2345
+Narravive:
+Checked 0344
+19-106686 0733 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Locati on/Address: LUCE RD
+Unit: id
+Arvd-07:33:38 Clrd-07:54:51
+Narrative:
+chaczed
+19-106867 0755 Initiated - BUILDING CHECK BUILDING CHECKED/RRCURED

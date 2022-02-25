@@ -1,1 +1,55 @@
-19-12222  O7O7  $11 - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  NEW ASHFORD RD  Unit  30  Disp-07:08:23  Enre-07:08:43  Clrd-07:11:40  Unit  30  Arvd-07:12:46  Clrd-07:48:16  Disp-07:12:43  Unit  35  Enrt-07:13:27  Arvd-O7:17:21  Clrd-07:48:03  Disp-07:13:21  Vehicle  GRY 2011  TOYT PRIUS Reg: PC MA 222HF1  VIN  JTDOKN3DUXBO317280  Operator  BARRETT,  LIZA M @ 2013 HANCOCK RD - HANCOCK,  MA 01237-0000  Race: W  Sex: F  Refer To Citation  T1401175  LIZA M @ 2013 HANCOCK RD -  WA 91237-0000  Owner  BARRETT,  HANCOCK,  Race:  W  Sex: F  Vehicle  WHI 2014  VIN: JPLGJAC6 7EHO07477  SUBA SE IMPREZ Reg: PC MA 487¥S2  Operator  JOLIN, TIMOTHY MATTHEW @ 24 WATSON ST - NORTH ADAMS, MA 01247  Race:  W  Sex:  M  Owner  JOLIN,  TIMOTHY MATTHEW @ 24 WATSON ST - NORTH ADAMS, MA Q1247  Race:  W  Sex:  M  Narrative  Report 2 car MVA @ 5 Corners intersection. No injuries.  Vehicles on the side of road.  O712 Ron's requested for both vehicles to he removed from  scene.  Refer To Accident:  19-222-AC  19-12223  0804  initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL BRAD SACCO  Location/Address  COLE AVE  Unit  35  04  Clrd-08:27:35  Arvd-08  30  unit  38  Arvd-15  og  57  Clrd-15:17:28  Disp-215:01:38  Unit  38  Arvd-15  17  45  Clrd-15:23:30  Disp-15:17:36  49-22224  0804  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  SERGEANT SCOTT E MCGOWAN  Call Taker:  Location/Addresgs:  SOUTHWORTH ST  Unit:  30  Arvd-08  06  41  Clrd-68:31:08  19+12225  0842  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  PINE COBBLE RD  Unit:  35  Arvd-08  42  18  Clrad-68:43:54  Narrative:  VA,  AP5055  Narrative:  VA  APSO5SS  Narrative:  VA  VEH3033 AP5S055  SVW667 STP132 8ML314  NY  HSK1i182  Narrative:  checked 
+19-122322 c707 911 - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TARKENM
+Czell Taker: DISPATCHFR WILLZAM ¢ JENNINGS JR
+Local len/Address: NEW ASHFORD RD
+nit: 3C
+isp-07:08:23 Enre-07:08:43 Clrd-C7:12:40
+Imitc: 30
+Digp-07:12:43 Arvd-07:12:46 Clrd-07:43:16
+Unit: 35
+Disp-07:13:23 Enrt-07:23:27 Arvd-07:17:21 Clrd-37:48:03
+Yeh:cle: GRY 2011 TOYT PRIUS gu: PC MA 322HF1 VIN: JIDEN2DUXZ20317280
+Orerazer: BARRETT, LIZA M @ 2013 IIANCOCK RC - HANCOCK, MA 01:37-C000
+Race: W Sex: F
+Refor Teo Citaticen: T1401175
+Ovmer: BARRETT, LIZA M @ 2013 HANIOCK RD - HANCOCK, MA 01237-0000
+Race: H Sex: F
+Vehicle: WHI 2014 SUBA SE IMPREZ Rew: PC MA 4B8782 VIN: JFLGJAC67EH007477
+Operator: JOLIN, T KOTHY MATTHEK @® 24 WATSCH ST - NORTH ADAMS, MA 01z24Y
+Race: W Sex: H
+owner: JOLIN, TIMOTHY MATTHER @ 24 WATSON ST - NORTH ADAMS, MA 01247
+Race: W Bex: M
+Narrative:
+Report 2 car NVA @ 5 Corners intersection. Mo injuries.
+Vehicles cn the side ¢ road.
+0712 Ron's requested for koth vehicles to be >enovec “rom
+gcena.
+Kafer To Accident: 18-322-AC
+19-122213 a604 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Zall Takex: PATROL BRAD SACCO
+Locazion/Acd ass: CCLE AVE
+Un-k: a5
+Arvd-un:04:30 Clrd-08:27:35
+Unic: 38
+Disp-15:01:38 Arvd-15:00:57 Clrd 15:17:28
+13H Y 38
+Disp-15:17:36 Arvd-15:17:45 Clrd 15:23:30
+19-312224 DEO4 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+Call Takor: BERGEANT SCOTT F MCGOWAN
+Location/Addregs: SOUTHWORYH ET
+Uniti: 30
+Arvd-08:06:41 Clyd-08:31:08
+19.12225 0842 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+tall Takar: PATROL BRAD SECCC
+Iocarion/Adcress: PINE COBBLE ED
+Unic: as
+Arvd-08:42:18 Clrd-08:43:54
+Narracive:
+VA AP5055
+Marrazive:
+VA: AZS5055
+Narrazive:
+VA VEH3033 AP5355
+MA SVK657 STP132 BML314
+NY H3X]1:A2
+Harralkive: checked

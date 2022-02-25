@@ -1,1 +1,51 @@
-Race:  W Sex: F  Refer To Citation:  T1785698  Owner:  ALTON, HILARY ALTON @ 1065 MASS AVE - N ADAMS, MA 01247-2234  Race: W Sex: F  19-6042  0926  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  LONGVIEW TER  Unit:  35  Arvd-09:26:16  Clrd-09:26:20  19-6043  0926  Initiated - MOTOR VEHICLE STOP  CITATION  - CIVIL  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  BRIDGES RD  Unit:  34  Arvd-09:26:37  Clrd-09:34:03  Vehicle:  BLU 2003 JEEP LIBERT Reg: PC MA SVN797 VIN:  1J4GL48K03W619132  Operator:  OLVER, BOBBI J @ 576 MAIN ST - WILLIAMSTOWN, MA 01267  Race:  W Sex: F  Refer To Citation:  T1785394  Owner:  OLVER, BOBBI J @ 216 MAIN ST - ADAMS, MA 01220-1306  Race:  U Sex: F  19-6044  0928  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  FRENIER AVE  Unit  35  Arvd-09:29:16  Clrd-09:29:22  Narrative  checked  "Narrative  done  Narrative  Checked  19-6045  0930  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  HARWOOD ST  Location/Address  Unit  35  Arvd-09:30:44  Clrd-09:30:55  . Narrative  checked  Narrative  done  Narrative  Checked  19-6046  0935  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  PARK ST  Unit:  35  Arvd~-09:35:14  Clrd-09:38:03  19-6047  0938  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  SPRING ST  Unit:  34 
+Refer To Citation: Race: W Sex: F
+T1785698
+Owner: ALTON, HILARY ALTON @ 1065 MASS AVE - N ADAMS, MA 01247-2234
+Race: W Sex: F
+19-6042 0926 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL BRAD SACCO
+Location/Address: LONGVTEN TER
+Unit: 35
+Arvd-09:26:16 Clrd-09:26:20
+19-6043 0926 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: BRIDGES RD
+Unit: 34
+Arvd-09:26:37 Clrd-09:34:03
+Vehicle: BLU 2003 JEEP LIBERT Reg: PC MA 5VN797 VIN: 1J4GL48K03W619132
+Operator: OLVER, BOBBI J @ 576 MAIN ST - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+Refer To Citation: T1785394
+Owner: OLVER, BOBBI J @ 216 MAIN ST - ADAMS, MA 01220-1306
+Race: U Sex: F
+19-6044 0928 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/Address: FRENIER AVE
+Unit: 35
+Arvd-09:29:16 Clrd-(9:29:22
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+Checked
+19-6045 0930 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/Address: HARWOOD ST
+Unit: 35
+Arvd-09:30:44 Clrd-09:30:55
+Narrative:
+checked
+Narrative:
+done
+Narracive:
+Checked
+19-6046 0935 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL BRAD SACCO
+Location/Address: PARK ST
+Unit: 35
+Arvd-09:35:14 Clrd-09:38:03
+19-6047 0938 Initiated PARKING CHECK
+Call Taker: PATROL DAVID - SERVICES RENDERED
+Location/Address: SPRING ST JENNINGS, D
+Unit: 34

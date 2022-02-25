@@ -1,1 +1,54 @@
-Race: W Sex: M  Narrative:  Maroon Subaru Forrester.  15-14095  1800  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker:  PATROL JOBRN ¢ MCCONNELL JR  COLE AVE  Location/Address:  Unit :  28  Arvd-18:00:48  Clyd-14:12:09  Vehicle:  BRO 1997 MERC SH TRACER Reg: PC MA 88AW63  VIN: IMELML3P3VW635569  Operator:  ALLEN, AMBER PAIGE @ 21 1/2 HOOSAC ST - ADAMS, MA 01220  Race: W Sex: F  Refer To Citation:  T2085227  Owner:  PERRY, HELEN FRANCES @ 70 LINCOLN ST - N ADAMS, MA 01247-2401  Race: U Sex: F  19-14101  1822  Phone - PARKING COMPLAINT  NO ACTION REQUIRED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  SPRING ST  Unit:  36  Disp-18:45:53 Enrt-18:46:11 Arvd-18:46:13  Cird-18:53:45  Vehicle:  GRY 2015  HYUN SE ELANTR Reg: PC MA 4KF732  VIN: SNPDR4ARSFHS89117  Owner:  SCHWALM,  AUDRA § @ 418 CHURCH ST - NORTH ADAMS,  MA 01247-4123  Race;  U  Sex: F  Vehicle:  BLK 2015  LEXS Es 350 Reg: PC CT 417FPV VIN: JTHBK1GG8F2207954  Owner  HAGEMAN,  ALVIN &  116 GREENS FARMS RD  - WESTPORT  Race:  U  Sex: M  Narrative  Reports a Black Lexis parked in such a manner that she is  unable to get her car out.  Narrative  11/09/2019 1852 - Vehicle parked close and at an odd angle.  RP is able to get into her vehicle and move it. Voicemail  left on Cell Phone/  29+24103  20390  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL KEVIN FP GARNER  Location/Address:  SOUTHWORTH ST  Unit:  34  Arvd-20:31:15 Clrd-20:31:27  Narrative:  done  19-14104  2105  Initiated - SUSPICIOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  (WIA 99] SIMONDS RD  Unit  38  Arvd-21:05:50  Cird-21:05:56  Vehicle  WHI 2015 JEEP U GCH Reg: PC VT HMKS64  VIN: 1C4RUFAG3FC660074  Owner  DUPUIS, PAYTON J @ 21 CASH PL FO BOX 44 - POWNAL, VT 05260  Race:  Wo Sex: F  Narrative:  Parked unoccupied.  19-24105  2129  Znitiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  MAIN ST  Unit:  38  aArvd-21:29:14  Cird-21:38:06 
+Narzalkive: Ruvce: W Sex: M
+Maroon Subzru Forrester.
+15-14095 1800 Initiated - MOTOR VEHICLE 3TOP CITATION - CIVIL
+Cail Taker: PATROL JOAN J MCCONNELL JR
+Lacation/Address: COLE AVE
+Unit: ct]
+Axyvd-18:00:48 Clrd -8:12:092
+Vohicle: BRO :987 MERC ST TRACER Rog: PC MA BSANG3 VIN: 1IMELML3PIVW63SSES
+Operalor: ALLEN, AMBER PAGE #® 21 1/2 HOOSAC ST - ADAMS, MA 01220
+Ructe: W Sex: F
+Reter To Citation: TZ085227
+Owiler: PERRY, HELEN FRANCES E 70 LINCOLN ST - N ADAMS, HMA 01247-2401
+Race: U Sex: F
+19-141011 1821 Phone - PARKING COMPLAINT KO ACTION REQUIRED
+Call Taker: DISPATFER LAURIE TUEER
+Location/Address: SPRING ST
+Unit: 35
+Disp-18:45:53 Enri-18:46:11 Arvd-18:46:13 Clird-18:53:45
+Venicle: GRY 2015 HYUN SE ELANTR Reg: PC MA ARF732 VIN: SNETFEAARSFHS589117
+owner: SCHWA"M, AUDRA  @« 418 CHURCH 8ST - NOxTH ADAMS, MA 01247-4122
+Race: U Sax: F
+Vanicle: BLX 2015 LEXS Es 350 xey: PC CT 417FIV VIN: JTHEX10GBP:z207254
+owner: IIAGEMAN, ALVIN @ ll6 GREENS FARMS RD WESTFORT
+Race: UU Sex: M
+Narrative:
+Reporcs a Black Lexis parxed in such a manner that she is
+unable tc get ner car out.
+Rarvative:
+11/08/2019 1852 - Vehicle parked close and at an odd angla.
+RP is able to get into her vehicle and nove it. Volcemail
+left ¢n Cell pPhone/
+19-314103 2030 Initiated - BUILDING CRECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL KEVIN P GARNER
+Location/Address: SOUTHNWORTII ST
+Unit: 3d
+Arvd-20:31:15 Clrd-20:31:27
+Narrative:
+done
+19-141104 2105 Initiated - SUSPICIOUS MOTOR VEHICLE LOG ENTRY REQUEST
+Call Taker: BATROL JCHMN J MCCORNELL JR
+Locarion/Addreas: [WIA 992] SIMONDS RD
+Unit: 3B
+Arvd-21:03:50 Clrc-21:05:586
+WHI 2015 JEEP U GCH PC VT HMK964 VIN: 1C4RJFACIFC660074
+vVehicie: Cuner: PAYIOK J @ 21 Reg: CASH PL PO BOX 44 - POWNAL, VT 05260
+DUFUIS, Race: W Sex: TF
+Narrative:
+Parked
+unoccupied.
+Initiated CITATION CIVIL
+19-14105 2129 - MOTOR VEHICLE STOP -
+Call Taxer: PATROL JOHN J MOCONNSLL JR
+Loczation/Address: MAIN ST
+Tnitk: 38 Arvd-21:29:24 Clrd-21:38:06

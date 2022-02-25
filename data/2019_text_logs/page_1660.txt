@@ -1,1 +1,50 @@
-Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address  [WIA 1280] COLD SPRING RD  Unit  32  Arvd-02:23:52 Clrd-02:24:52  Vehicle  BLK 2010 YAMA MC 999  VIN: JYARN23E0AAQ07856  Req: MC NY $7TXK50  Operator  DEGREGORIO, VANESSA R @ 64 N CHUCKLEBERRY - STEPHENTOWN, NY 12168  Race: W Sex: F  Owner;  DEGREGORIO, VANESSA R @ 64 N CHUCKLEBERRY - STEPHENTOWN, NY 12168  Race:  W Sex: F  Narrative:  Motorcycle, operator located parked in the parking of the  Taconic Restaurant. Operator was taking a rest, will he  moving on shortly.  1$-11759  0339  Initiated - PUBLIC SERVICE EVENT  SERVICES RENDERED  PATROL CRAIG A EICHHAMMER  Call Taker:  Location/Address:  SPRING ST MUNICIPAL LOT  Unit:  31  Arvd-03:40:25  Clrd-03:45:52  Narrative:  10 cones, 3 barricades and 2 signs deployed for market.  Warrative:  items picked up  19-11760  0401  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  iWIlA 390] SIMONDS RD  Unit:  31  Arvd-04:01:47 Clrd-04:02:07  19-11764  O751  initiated ~- BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  [WIA 1832) WORTH HOOSAC RD  Unit:  36  Clrd-07:52:22  Arvd-07:51:51  Narrative:  done  Narrative:  done  Narrative:  checked  Narrative:  done  Narrative:  09/21/2013 2013 Checked 83  Narrative:  09/22/2019 0105 Checked 53  Narrative:  09/22/2019 0552  Checked 53  19-11765  0756  Initiated - BUTLDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  PINE COBBLE RD 
+Call Taker: PATROILMAN SCOTT SKORUPSKIY
+Locaticn/Address: WIA 1780: CCLD SPRING KD
+Jit: 32
+Arvd-02:23:52 Clrd-02:24:52
+Vehicle: BLK 20.0 YAMA MC 995 Reg: MC NY S7TXSC VIN: JYARN23IE0AACO7B5G
+Operator: DEGREGORIO, VANESSA R @ 64 N CHUCKLEBERRY - STEPHENTOWN, NY 12168
+Race: W Hex: F
+Juwmer DEGREGORIO, VANESSA R @ 64 KN CHUCKLEBERXY - STEFHENTOWN, NY 12148
+Race: W Sex: F
+Narrat-ve:
+Motoraoycle, ooerator located parked in Lhe purking of tho
+Taconle Restaurant. Operator was taking a rest, will be
+moving on shortly.
+19-111758 0339 Iniviated - PUBLIC SERVICE EVENT SERVICES RENDERED
+Cal_ Taker: PATRCL CRAIG A EICHEAMMER
+Locat:on/Address: EFRING ET MUNICCZPAL LCT
+Unit: a1
+Arvd-03:40:25 Qird-03:45:52
+Narrative:
+10 cones, 3 buarricuades and 2 signs deployed for market.
+Narrative:
+‘wems plcked up
+0401 Initiated PARKING CHECK SERVICES RENDERED
+19-117660 - BICHHAMMER
+Call Taker: PATROL CRAXG A
+Location/Address: [WIA 390] SIMONDS RD
+Unit: ai Arvd-04:01:47 Clrd-94:02:07
+19-11764 0751 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Local ion/Address: [WIA 1R2:] NORTH HCDSAC RD
+Unit: 3G
+Arvd 07:51:51 Clxd-07r:52:22
+Narrative:
+done
+Karraktive:
+done
+Narrative:
+orocked
+Narrative:
+done
+Narrative:
+p2/21/2C19 2013 Checked 53
+Narrazive:
+09/22/2019 0-05 Checked 33
+Narrative:
+09/22/2019 0552 Checxed S3
+0756 Initiated - BUYLDING CHECK BUILDING CHECKED/SECURED
+19-111765
+Call Taker: SERGEANT SCOTT EB MUGOWAN
+Location/Address: PINE COBBLE RL

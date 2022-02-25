@@ -1,1 +1,57 @@
-For Date: 01/04/2019  ~  Friday  19-131  0013  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  WATER ST  Unit  32  Arvd-00:13:54 Clrd-00:20:16  Vehicle  WHI 2013 TOYT 4D Reg: PC VT HKM828 VIN: 2T1BU4EE2DC114845  Operator  GIBBS, MICHAEL A @ 110 GAGE ST - BENNINGTON, VT 05201  Race:  W Sex: M  Refer To Citation  T1400536  Owner  GIBBS, MICHAEL A @ 110 GAGE ST - BENNINGTON, VT 05201  Race: W Sex: M  19-132  0051  911 - 9-1-1 HANG UP CALL  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZTEDZIAK  Location/Address:  (WIA 61] MAIN ST  Narrative:  Upon answering 911 call dispatch was placed on hold. 911  mapping system placed call location at 880 Main St, Williams  College Hopkins Hall. Dispatch contacted Williams College  Security who stated they received a emergency call from 53  Hoxsey St, Williams College Milham House, and have sent  security officers to investigate.  Minutes later Williams College Security informed dispatch  that security officers checked out location of emergency  call. False Alarm, All clear at this time.  19-134  0513  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  (WIA 249] NORTH ST  Unit:  32  Arvd-05  13  22  Clrd-05:13:28  19-135  0655  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Locat ion/Address :  [WIA 225] COLD SPRING RD  Unit:  37K  Arvd-06  55  393  Clrd-07:33:12  19-136  0737  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  GALE RD  Unit:  37K  Arvd-07  38  10  Cird-08:05:50  Unit:  31  11  39  Disp-15:10:39 Enrt-15:10:45 Arvd-15  Clrd-15:23;42  19~137  0815  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  {WIA 333] CHURCH ST  Unit:  37K  Arvd~-08  15  32  Cird-08:36:52  19-138  0820  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLE AVE  Unit  30  Arvd-08  20  29  Clrd-08:33:29  |  Unit  38  Disp-15:07:52 Enrt-15:07:57 Arvd-15  12  56  Clrd~-15:25:05  19-140  0904  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+For Date: 01/04/2019 - Friday
+19-131 0013 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: WATER ST
+Unit: 32
+Arvd-00:13:53 Clrd-00:20:16
+Vehicle: WHI 2013 TOYT 4D Reg: PC VT HKM828 VIN: 2T1BU4EE2DC114845
+Operator: GIBBS, MICHAEL A @ 110 GAGE ST - BENNINGTON, VT 05201
+Race: W Sex: M
+Refer To Citation: T1400526
+Owner: GIBBS, MICHAEL A @ 110 GAGE ST - BENNINGTON, VT 05201
+Race: W Sex: M
+19-132 0051 911 - 9-1-1 HANG UP CALL SERVICES RENDERED
+Call Taker: PATROL KALVIN DZiEDZIAK
+Location/Address: [WIA 61] MAIN ST
+Narrative:
+Upon answering 911 call dispatch was placed on hold. 911
+mapping system placed call location at 880 Main St, Williams
+College Hopkins Hall. Dispatch contacted Williams College
+Security who stated they received a call from 53
+Hoxsey St, Williams Milham emergency and have
+security officers to College House, sent
+Minutes later Williams investigate. informed
+that officers College Security dispatch
+call. security False All checked out location of emergency
+Alarm, clear at this time.
+19-134
+0513 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA 249] NORTH ST
+unit: 32
+Arvd-05:13:22 Clrd-05:13:28
+195-135 0655 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 225] COLD SPRING RD
+Unit: 37K
+Arvd-06:55:39 Clrd-07:33:.2
+19-136 0737 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: GALE RD
+Unit: 37K
+Arvd-07:38:10 Clrd-08:05:50
+Unit: 31
+Disp-15:10:39 Enrt-15:10:45 Arvd-15:11:39 Clrd-15:23:41
+19-137 0815 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEI]: J ZIEMBA Jr
+Location/Address: (WIA 333] CHURCH ST
+Unit: 37K
+Arvd-08:15:32 Clrd-08:36:52
+19-138 0820 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLE AVE
+Unit: 30
+Arvd-08:20:29 Clrd-08:33:29
+Unit: 38
+Disp-15:07:52 Enrt-15:07:57 Arvd-15:12:56 Clrd-15:25:05
+19-140 0904 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

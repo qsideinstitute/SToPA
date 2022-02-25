@@ -1,1 +1,55 @@
-19-6909.  2153  Phone - TRAFFIC COMPLAINT  NO ACTION REQUIRED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  MAIN ST  Unit:  31  Disp-21:55:30 Enrt~-21:55:52 Arvd-21:55:59  Cird~21:57:05  Unit:  34  Disp-21:55:40 Enrt-21:55:55 Arvd-21:56:27 Clrd-21:57:01  Narrative:  Dark colored Ford Explorer driving at a high rate of speed  on rte 2 heading west. No plate or further description.  Narrative:  NAPD called back to cancell officers. The vehicle pulled  into a parking lot prior to reaching the Wmstn line.  For Date: 06/02/2019 - Sunday  0001  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  19-6911 |  PATROL ANTHONY M DUPRAT  Call Taker  Location/Address  COLD SPRING RD  Unit  35  Arvd-00:01:23  Clrd-00:08:48  Vehicle  GRY 2008 LEXS RX400H Reg: PC MA 2CD359 VIN: JTJHW31U882051649  Operator  MENN, RHIANNON M @ 47 ELECTRIC AVE - SOMERVILLE, MA 02144-1603  Race:  W Sex: F  Refer To Citation  T1785212  Owner  MENN, SLAVA J @ 11 GRANVILLE RD -  CAMBRIDGE, MA 02138-6806  Race: U Sex:  M  19-6912  0027  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL ANTHONY M DUPRAT  COLD SPRING RD  Location/Address  Unit  35  Arvd-00:27:02  Cird-00:36:09  Vehicle  BLU 2019 HYUN SAN Reg: PC NJ B78LEH VIN: 5NMS23ADXKHO90816  Operator  CROTTY, PETER @ 15585 N GIL BALCOME ~- SURPRISE, AZ 85374  Race:  W Sex: M  T1785213  Refer To Citation  Owner  HERTZ VEHICLES LLC @ 900 DOREMUS AVE - PORT NEWARK, NJ 07114  19-6913  0028  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  NORTH HOOSAC RD  Location/Address  unit  34  Arvd-00:28:08 Clrd-00:36:27  Vehicle  BLK 2016 CHRY SE 200 Reg: PC MA 8TMD70 VIN: 1C3CCCAB4GN127485  Operator  HARRIS, DANIEL JAMES @ 762 HAMPDEN ST - HOLYOKE, MA 01040-3301  Race:  B Sex: M  Refer To Citation  11785431  Owner  DIEFENDORF ,  DARLENE APRIL @ 23 MOHAWK FOREST BLVD - N ADAMS, MA  01247-0000  Race: U Sex: F  19-6915  0110  Phone - MOTOR VEHICLE LOCK OUT  SERVICES RENDERED  Call Taker  SERGEANT PAUL D THOMPSON  Location/Address  SPRING ST  Unit  35  Disp~01:12:02 Enrt-01:12:08 Arvd-01:12:13  Clrd-01:43:54  Unit  32 
+19-6909 2153 Phone - TRAFFIC COMPLAINT NO ACTION REQUIRED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: MAIN ST
+Unit: 31
+Disp-21:55:30 Enrt-21:55:52 Arvd-21:55:59 Clrd-21:57:05
+Unit: 34
+Disp-21:55:40 Enrt-21:55:55 Arvd-21:56:27 Clrd-21:57:01
+Narrative:
+Dark colored Ford Explorer driving at a high rate of spced
+on rte 2 heading west. No plate or further description.
+Narrative:
+NAPD called back to canceli officers. The vehicle pulled
+into a parking lot prior to reaching the Wmstn line.
+For Date: 06/02/2019 - Sunday
+19-6911 0001 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: COLD SPRING RD
+Unit: 35
+Arvd-00:01:23 Clrd-00:08:48
+Vehicle: GRY 2008 LEXS RX400H PC MA 2CD359 VIN: JTJHW31U882051649
+MENN, RHIANNON M @ 47 Reg: ELECTRIC AVE - MA 02144-1603
+Operator: Race: W Sex: F SOMERVILLE,
+Refer Citation:
+To T1785212
+Owner: MENN, SLAVA J @ 11 GRANVILLE RD - CAMBRIDGE, MA (2138-6806
+Race: U Sex: M
+19-6912 0027 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: COLD SPRING RD
+Unit: 35
+Arvd-00:27:02 Clxd-00:36:09
+vehicle: BLU 2019 HYUN SAN Reg: PC NJ B78LEH VIN: S5NMS23ADXKHO090816
+Operator: CROTTY, PETER @ 15585 N GIL BALCOME - SURPRISE, AZ 85374
+Race: W Sex: M
+Refer To Citation: T1785213
+Owner : HERTZ VEHICLES LLC @ 90C DOREMUS AVE - PORT NEWARK, NJ 07114
+19-6913 0028 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: NORTH HOOSAC RD
+Unit: 34
+Arvd-00:28:08 Clrd-00:36:27
+Vehicle: BLK 2016 CERY SE 200 Reg: PC MA 8TMD70 VIN: 1C3CCCAB4GN127485
+Operator: HARRIS, DANIEL JAMES @ 762 HAMPDEN ST - HOLYOKE, MA 01040-3301
+Race: B Sex: M
+Refer 'I'o Citarion: T1785431
+Owner: DIEFENDORF, DARLENE APRIL @ 23 MOHAWK FOREST BLVD - N ADAMS, MA
+01247-0000
+Race: U Sex: F
+19-6915 0110 Phone - MOTOR VERICLE LOCK OUT SERVICES RENDERED
+Call Taker: SERGEANT PAUL D THOMPSON
+Location/Address: SPRING ST
+Unit: 35
+Disp-01:12:02 Enrt-01:12:08 Arvd-01:12:13 Clrd-01:43:54
+Unit: 32

@@ -1,1 +1,53 @@
-Arvd-10:30:38  Clrd-10:32;01  Narrative:  done  Narrative:  done  19-10265  1218  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  LUCE RD  Unit  36  Arvd-11:19:68  Clrd-11:47:04  Unit  38  Disp-18:02:25  Arvd-18:02:33  Clrd-18:09:43  19-10266  1308  SLL + SUSPICXOUS ACTIVITY  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  [WIA 548] SIMONDS RD  Unit:  36  Disp-13:16:08  EBnrt-13:10:41  Arvd-13:12:31  Clrd-13:20:37  Unit:  32  Disp-13:13:06 Enrt-13:13:06  Arvd-13:14:19  Clrd-13:14:25  Narrative:  Kids skateboarding in pool in rear of the business. Asked by  management to leave without results.  Narrative:  Biack Nissan MA tag, 2 males about 20 years old no shirt and  shorts. RP reports asked them to leave they did after they  saw him on phone. RP request log log only at this time,  19-10267  1334  511 - 9-1-1 HANG UP CALL  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  {WIA 61)  MAIN ST  Narrative:  Hang up call from Williams Campus. Called security and they  are attempting to identify phone. Campus safety was able to  locate phone but found ne one around.  19-10268  1349  Initiated - PARKING CHECK  SERVICES RENDERED  Cail Taker  PATROL SHUAN N WILLIAM  Location/Address  SOUTH ST  Unit  32  Arvd-13:51:22  Clrd-13:51:29  Narrative  Vehicles parked all along South St. for function at Clark  Art  5 violations - Hydrant, Blocked driveways.  19-10269  1352  Phone - ASSIST OTHER AGENCY - POLICE  SERVICES RENDERED  Call Taker  SERGEANT PAUL D THOMPSON  Location/Address  (WIA 455] MAIN ST  Unit  32  Disp-13:54:54  Enrt-13:55:61  Arvd-13:55:12  Clyrd-13:59:10  Narrative  Lee PD recovered an ID helonging to a  Request we send someone to attemp to locate.  Narrative  08/18/2019 1358 - Message relayed to ID owner.  Will cail  Lee PD.  Lost last week at Lee Outlet stores. 
+Nerrative: Arvd-10:20:36 Clrd-10:32:01
+done
+Narrative:
+dore
+18-10265 1i18 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cail Taker: PATROL TAN_A HERNANDEZ
+Locazion/hiddress: LICE D
+Lnit: is
+Arvd-11:19:08 Clrd-11:47:04
+unit: ae
+Disp-18:02:25 ArvG-18:02:33 Clrc-18:09:43
+19-1526686 1308 811 - SUSFICIOUS ACTIVITY SERVICES RENDERED
+Call Taker: SZRGEANT' PAUL 1» THOMPSCN
+Location/Address: [WIA S48] SIMONDS RD
+inwe: 36
+Disp-13:10:08 Brrt-13:10:41 Arvd-13:12:31 Clrd-13:20:37
+tinit: 32
+Disp-13:13:06 Enrt-33:13:06 Arvd-13:14:19 Clrd-13:11:25
+Narrative:
+Kids skateboarding in pocl in rear of the business. Asked by
+management to leave without rasultc.
+Harratiwre:
+Black Nissan MA 2 males akout 20 51d shirt
+shorts. RP tag, asked them years no and
+him reports RP to leave thuy ¢id after they
+saw on pheme. request log log only at this time.
+19-102487 1334 211 - 9-1-1 HANG UP CALL SERVICES RENDERED
+Call “aker: SERGEANT PAUL D THOMPSON
+Lecation/Address: [WIA 61] MAIN ST
+Karralive:
+Hune up call from Williams Campus. Called security and they
+are attempting to identify phone. Campus safety was able to
+iecczte phone but found no one around.
+19-110268 1349 Initiated - PARKING CHECK EERVICES REWDERED
+Cal: ‘Taker: PATRQL SHUAN N WILLIAM
+Location/Address: 5CUTH 87
+Jit: 32
+Arvd-13:51:22 Clrd-13:51:29
+Narrotbive:
+Velicles parked all along Scuth St. for function at Clark
+Art.
+h viociat:ons - Hydrant, Blocked driveways.
+19-10269 1352 Phone - ASBEIST OTHER AGENCY - POLICE SERVICES RENDERED
+sall Taksr: SFRGEANL PAUL D TEZOMPSON
+Locatior/Address: [WIA 455] MAIR S1
+Unit: 32
+Nigp-13:34:54 Enrt-13:55:01 Arvd-13:55:12 Clrd-13:59:10
+Narrative:
+Tee PD recovered an IC 2eloaying to a
+Request wo send someone Lu attemp to locate.
+Narrative:
+08/7 .8/2019 1356 - relayed to ID owner. Willi call
+22 PD, Lost last Message week ab Lee Outlet stores.

@@ -1,1 +1,49 @@
-19-13575  0810  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  36  Arvd-08:10:43  Clrd-08:13:13  Narrative  Checked  Narrative  Checked  5-4  L7:16  Narrative  Checked  5-4  20:44  Narrative  done  19-13576  oe15  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  SOUTHWORTH ST  Unit  36  Arvd-08:16:20  Clr@-08:38:35  Unit  36  Arvd-13:360:04  Clyrd-13:43:24  Disp-13:29:50  Narrative  Drive through parking lot  19-13577  0824  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  CHIEF KYLE  J JOHNSON  Location/Address:  COLE AVE  unit:  33  Arvd-08:25:14  Clrd-08:37:35  19-13578  0840  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  HALL ST  Unit  36  Arvd-08:40:50  Clrd-08:42:30  Narrative  MA 3FP136 in driveway  Narrative  Checked  Narrative  Checked §&-4  17:28  Narrative  Checked  Narrative  done  19-13579  0844  Initiated ~- BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PINE COBBLE RD  36  Unit  Arvd-08:45:16  Cird-08:45:46  Narrative 
+15-13575 0810 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ce-l Taker: PATROL TANIA HNEXNANOEZ
+—acation/Address: [ATA 1832] NORTE HOOSAC RD
+Unit: 3g
+Arvd-08 10:43 TT rd-0R:13:12
+Narrsrive:
+Sheoked
+Narrarive:
+Checked B-4 i7:16
+Narrazive:
+necked 5-4 20:44
+Harrazlive:
+done
+19-1358768 0815 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Czll “akar: PATROL TANIA HERNANDEZ
+Localtlen/Address: SOULIEWOXTH 81
+Tnil.:
+Clr3d-08:138:
+Tnic: 3
+2.30:04 Coxrd-i3:43:24
+Harrazive: DrLup-13:29:30
+Drive lot
+through parking
+19-135777 0B24 Initiated - TRAFFIC CONFROL SERVICES RENDERED
+Cz11 “akor: CoEEF KYLE Jd JOBENSON
+Loval len/addéress: o0LE AVH
+Unik: 33
+Arva-0n :2h:14 Clrd-08:37:25
+19-13578 oB40 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNAKDEZ
+Locaticn/Address: IIALL ST
+Unizc: ic
+Arvd 03 1:40:50 Clz4-08:42:20
+Yarrative:
+MA 2FF136 in driveway
+Narrative:
+Crecxed
+Yarrative:
+Cheoxed 5-4 17:28
+Xarrative:
+Checked
+Xarrative:
+cone
+19-235783 0814 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+all Taker: FATRCT, TARNTA HERNAKLEZ
+Local ior /AGdresn: RTNR CORBLE RD
+Unio: ih
+Clrd-08:45:46
+Earrative:

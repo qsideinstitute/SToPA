@@ -1,1 +1,50 @@
-PETERSBURG RD  Lecation/Address  Unit  37K  Arvd-08:47:03  Cird-08:48:46  Narrative  Checked  Narrative  Checked 0206  19-15880  0852  tnitiated ~ BUILDING CEECK  BUILDING CHECKED/ SECURED  LIEUTENANT MICHAEL J ZIEMBA Jr  Call Taker  Location/Address  HAWTHORNE RD  Unit  37K  Arvd-08:53:03  Clrd-08:53:16  Narrative  Checked  Narrative  Checked Area.  19-15881  1033  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  PATROL TANIA HERNANDEZ  Call Taker  Location/Address  LONGVIEW TER  Unit  36  Arvd-10:33:47  Clrd-10:36:12  Unit  36  Arvd-10:37:58  Cird-10:40;05  Disp-16:37:49  Unit  36  Arvd-10:40:47  Clrd-10:44:29  Disp-10:40:45  1535-15882  1035  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Addresa  STRATTON RD  Unie  36  Brvd-10:36:12  Cird-10:37:38  Narrative  Saceo checked building at 16:11  Narrative  Checked Area.  BUILDING CHECKED/ SECURED  19-15883  L039  Initiated - BUILDING CHECK  PATROL TANIA HERNANDEZ  Call Taker  Location/Address  LONGVIEW TER  Unit  36  Arvd-10:40:05  Clrd-10:40:31  Narrative  Checked  Narrative  Checked Area.  i9-15885  1518  Phone - 9-1-1 ABANDONED CALL  NO ACTION REQUIRED  Call Taker  DISPATCHER LAURIE TUPER  Location/Addressa  KEEP HILL RD  Unit  31  Disp-15:18:00  Enrk-15:18:20 Arvd-15:25:21  Cird-15:25:55  Unit  34 
+Location/Addrogs: PETERSSURG RD
+Unit: 37K Arvd-08:47:03 Cird-SB:48:
+46
+Karrative:
+Checked
+Warrazive:
+Checked 0206
+15-158810 0852 Initiated - BUILDING CHECK BUILDING CHECKXED/SECURED
+Cail Taksar: LIEUTENANT MFCHAEL J ZISMBA Jr
+Location/Address: HAWTHORNE RD
+Unit: 3TX
+Arvd-08:53:33 Clra-08:53:1¢6
+Narrative:
+Checked
+NarralLive:
+Checked Area.
+15-15881 1033 Initistad - TRAFFIC CONTROL SERVICES RENDERED
+Jall Tuker: BATROI TANTA HERNAHEEZ
+Location/Address: LONCVi2WN TS
+nit: 36
+Arvd-10: 147 Clrd-10:36:12
+Unit: 36
+Disp-18:37:49 Arva-10: Cird-10:40:05
+unit: 38
+Drn-10:40:45 Arvd-10:4 :47 Clrd-Z0:44:29
+19-15882 1035 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cail Taker: PATHOL "MANIA HERNANDEZ
+Location/Address: STRATTON RD
+Imik: 26
+Arva-10: a6: Clrd-10:37:38
+Narrative:
+Succo checked building at 26:11
+Narrative:
+Checked Area.
+19-158383 1035 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA FERNANDEZ
+LocaTion/Aid-ess: LONGVIEW THR
+unik: 36
+Arvd-10:40:05 Clxd-10:40:31
+Narrative:
+Chackad
+Marracive:
+Checked Area.
+Phone - 9-1-1 ABANDONED CALL MO ACTION REQUIRED
+i9-15885 1518
+DISPATCHER LAURIE TUZER
+Cell Taker: HTLL RD
+Locaticn/Address: SEP
+onil: 2 Enrk-15:18:20 Arvé-15:25:21 Clrd-15:25:55
+unit: Disp-15:108:0C 34

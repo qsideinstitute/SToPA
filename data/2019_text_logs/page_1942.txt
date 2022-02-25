@@ -1,1 +1,49 @@
-19-13400  0915  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  COLD SPRING RD  Unit:  35  Arvd-09:15:29  Clrd-09:18:46  Vehicle:  GRY 2016 TOYT PK Reg: TK VF 270A496 VIN: STFSZ5AN7GK041994  Operator:  ROSE, JOHN @ 101 BUSH DR - POWNAL, VI 05261  Race: U0 Sex: M  Owner:  ROSE, JOHN @ 101 BUSH DR - POWNAL,  VT 05261  Race: U Sex: M  Narrative:  Checked VT TK 270A496 parked,  spoke to owner of vehicle who  states he is allowed to be on premises.  Narrative:  Checked Area.  19-13401  0923  Phone - ANIMAL CONTROL  UNABLE TO LOCATE  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  [WIA 1054] SLOAN RD  unit  35  Disp-09:24:50  Enrt-09:25:31  Arvd-09:29:33  Clrd-09:38:12  Narrative  In the area of location. Possible rabid raccoon walking in  circles in the road.  19-13402  6953  Initiated + BUILDING CHECK  BULLDING CERCEKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  HOPPER RD  Unit:  35  Arvd-09:53:46  Clrd-09:57:00  Narrative:  Landscaping crew at residence  Narrative:  checked  Narrative:  Checked Area.  19-13403  1005  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  KEBP HILL RD  Location/Address:  unit:  35  Arvd-10:05:58  Clrd-10:06:42  Narrative:  Checked Area.  19-13404  1031  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  SPRING S&T  Unit  aS  Arvd-10:12:04 Clrd-10:23:07  Narrative  2 Violations 
+19-113400 0915 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+wall ‘"aker: PATROL ANTHONY MN DUISRAT
+Locatior/Adéresa: COLD SPRING RD
+Uniz: 35
+Arvd-09:15:25 Clrd-09:18:46
+Vehicle: GRY 2016 TOYT PK Reg: TK VT 270R496 VIN: STFSZ5AN7RX041594
+Cperator: ROSE, JOHN 101 BUSH DR - POWNAIL, VT 0S26EL
+Race: U Sex: M
+Owner: x0SZ, JOHN @ 101 BUSH DR - POWNAL, Vi' 052)
+Hace: U Scx: M
+Narrativo:
+Checked VI' TK 2702495 parked, spoke Lo owner of vehicle who
+states ho is allowed tc Le off premises.
+Narrative:
+Chacked Area.
+15-13401 0923 Phones - ANIMAL CONTROL UNABLE TO LOCATE
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Locaz-lon/Address: [WIx 1054) SLOAN RD
+unit: a5
+Eart-29:25:31 ArvA-09:23:33 Clré-092:38:12
+Disp-C9:24:50
+Narrative:
+In the area of location. Possible rabicé raccoon willxing in
+circles xn toe road.
+19-134402 0953 Initiated - BUILDING CIECK BUILDING CHECKED/SECURED
+Cal: Taxexr: PATROL ANTHONY M DUPRAT
+wocation/Address: HOPPEX RD
+tiv Fl A a5
+Arvd-09:53:46 Clrd-09:57:00
+Narrative:
+Landscaping crew al residence.
+Narzative:
+checked
+Narrative:
+Checked Areas.
+19-134403 1005 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+Call Tukor: PATROL ANTHONY M DUPRAT
+Local ion/Address: KEEP HIL:IL RD
+Unik: as
+Arvé 10:05:58 C.Lxd 10:06:42
+Narrazive:
+Thanked Areas.
+19-13404 1011 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL ANTIIONY M DUFRAT
+Location/Addregs: SPRING ST
+Unic: 33
+Arvd-14:12:84 Clxd-10:23:97
+Narrative:
+2 Violations

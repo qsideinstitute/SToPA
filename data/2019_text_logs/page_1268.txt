@@ -1,1 +1,50 @@
-Unit  37K  Arvd-09:59:25  Clird-09:59;55  Narrative  checked  Narrative  Checked  S-4  16:16  Narrative  Checked  $-4  19:45  Narrative  Checked  0007  Narrative  31 Checked, 0354  19-9368  1007  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J 2IEMBA Jr  Location/Address:  SCHOOL ST  unit  37K  Arvd-10:07:27  Clrd-10:07:36  Narrative  checked  Narrative  Checked 5-4  Narrative  Checked §-4  19-9369  10098  initiated ~ BUELDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROLMAN MICHAEL J ALTEMBA Jr  Location/Address  MAIN ST  unit  37K  Arvd-10:09:05  Clird-10:09:14  Narrative  Checked door open on east side of building 5-4  Narrative  31 checked 0147  19-9370  1011  Initiated - BUILDING CHECK  BULLDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  LONGVIEW TER  Unit:  37K  Arvd-10:11:32  Clrd-16:11:38  19-3371  1412  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROLMAN MICHAEL J ZITEMBA Jr  Location/Address  LUCE  RD  Unit  37K  Arvd-10:12:406  Clird-10:22:51  Unit  35  Disp-16:24:32  Enrt-16:24:40  Arvd-16:26:07  Clyd-16:45:58  19-9372  1027  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA dr  Location/Address:  PINE COBBLE RD  Unit:  37K 
+nil: 37
+Arwil-09:59:25 Clré-09:59:55
+Murrazive:
+okpoikad
+Karrative:
+Checzed 35-4 "5:16
+Narrative:
+Checked 4 19:45
+Narrative:
+Clizoked 0007
+Nurralive:
+31 Checked, <3hd
+19-93a8 1007 Iritiated - PAREING CHECK SERVICES RENDERED
+Cal. lTaxex: SATROLMAN MICEAREL J Z2IEMGA Jr
+Location/Address: ST00L ST
+Init: 37K
+Brvad-10:27:27 Clxd-10:07:386
+Nar+ztiva:
+checked
+Narrazive:
+heckead 5-4
+Narrazive:
+Tmanxed 3-4
+15-9369 1008 Initiated - BUILDING CHECK BULLDING CHECKED/SECURED
+Call Taker: PATRCLMAN MICIIREL J ZIEMBA Jr
+Logation/aGd- cas: MATIN ST
+nic: 37K
+Arvd-10:02:05 Cird-"0:09:14
+Marrative:
+Checked door cpen or east side cZ bullding 5-4
+Narrative:
+31 checked 2147
+15-9370 1011 Initiated - BUILDING CHECK BUILLLING CHECZEL/SECURED
+Cell Taker: PATROLMAN MICIHARL .. ZTEMBA J»
+Loca Lion/aldraesy: LOKGVIEY TER
+Tndil: 37X
+AvyaA-L0:11:32
+Clrd-15:11:38
+19-9371 1012 Initiated - TRAFFIC CONTROL
+“all Taker: SERVICES RENDERED
+Lecazion/aAdéress: TICE RD
+nin: 27F
+Arvd-18:12:40
+Unis: Clrd-10:22:51
+25
+Mep-16:24: 32 Enr--1:24:20 Arvd-16:26:07 Clrd 6:45:56
+15-9372 1927 Initialed - BUILDING CHECK BUILDING CHECKED/SHCURED
+Cal”
+—_ocation/Addiress: Frkev: ATOILMAN 2IN2 COBELE MLIOHARL J ZIEM3a Sr
+Toit: ITE RD

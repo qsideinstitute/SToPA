@@ -1,1 +1,54 @@
-Call Taker  PATROL KALVIN DZIEDZTAK  MAIN ST  Location/Address  Unit  35  Arvd-15:59:39 Clird-16:06:19  Vehicle  BLU 2012 HOND SE ACCORD Reg: PC MA 38HH92 VIN:  LHGCP2F31CA096632  Operator  TURBS, EMILY ANN @ 55 HALL ST - NORTH ADAMS, MA 01247  Race:  W  Sex: F  Refer To Citation  T2085748  Owner  TUBBS, EMILY ANN @ 55 HALL ST - NORTH ADAMS, MA 01247  Race:  U Sex: F  19-13873  1642  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker:  PATROL KALVIN DZITEDZIAK  Location/Address  MAIN ST  Unit  35  Arvd-16:43:01  Clrd-17:16:42  Vehicle  BLK 2014 TOYT SIENNA Req: PC MA 7LES9O  VIN: STOKK3DC6E8511905  Operator  JONES, CHRISTOPHER C @ 40 LONGVIEW TER - WILLIAMSTOWN, MA 01267-9000  Race:  W Sex: M  Refer To Citation  T2085749  Owner  AMANDA JONES INC @ 40 LONGVIEW TER - WILLIAMSTOWN, MA 01267-0000  Narrative  Attempted to renew online, unsuceasful. Advised operator of  proper procedure for renewing roadside  {mass.gov, renew  vehile}.  Venile registered to operators wife, who was contacted by  operator and attempted to renew at home.  Owners first attempt was unsuccessful due to incorrect  website. Seond attempt unseccussful due te inability to find  listed regisrtation. During MVS vehicle pulled into parking  let of their bank (Adams Community Bank). Owner/opp will  advise their ank and Vehicle will remain in parking lot  until tomorrow  19-13874  1644  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SOUTHWORTH ST  Unit  32  Arvd-16:44:50  Clrd-16:44:57  Narrative  Checked Area.  19-13876  1648  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 406] SCHOOL ST  Unit  32  Arvd-16:49:;14  Cird-16:49:41  Narrative  No viclations  19-13877  17i2  Ynitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 190] MAIN ST  Unit  32  Arvd-17:12:58  Clrd-17:13:04  Narrative  Checked Area. 
+Call Taker: PATRO.. KALV_N DZIEDZIAR
+Location/Address: MAIN ST
+Lnit: a5
+Arvd-18:59:39 Civd-16:06:19
+Vehicle: BLU 2012 HOKD SE ACCORD Req: 2C MA 38HH?2 VIN: ZHGCP2ril1Cadiseci2
+Operator: TUBRS, EMILY ANN @ 55 BEALL ST - NORTH ADAME, MA 01247
+Race: § Sex: F
+Refer To Citaznion: T2085748
+Owner: TUBRBE, EMILY ANN @ 55 ALL ST - NORTH ADAMS, MR 02247
+Race: J Bex: F
+15-13873 1642 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taksr: PATROL XALVIN DZIEDZIAK
+Location/Address: MAIN BT
+Uniti: 35
+Arvd-15:3:01 Clx3-17:16:42
+Vahicle: BLK 2014 TOYT SIENNA xuuy: PC MA 7LES90 VIN: STDKK3DCEESS5119054
+Operator: JONES, CHRISTOPHER C @ 40 LONGVIEK TER WILLIAMSTOWN, MA (01267-0000
+Race: W Sex: M
+Refer To Citation: 12085749
+Owner: AMANDA JONES INC @ 40 LONGVIEW TER - WILLIAMSTOWN, MA 01287-0900
+Narracive:
+Attempted tc renew con.ine, unsucessful. Advised operator oi
+vroper procedure for renswing roadside (mass.gov, rstew
+vehile).
+Vehile to wife, who contacted by
+registered and operators to at home. was
+operator attempted renew
+owners first attempt was unsuccessful due to incorrsct
+website. Second attempt wngeccussful due Zo inability to find
+listed regisrtation. During MVS vehicla pulied inte parking
+lot of their book (Adams Cemmunity Bank). Owner/opp will
+advise their ank and Vehicle wili remain in parking lct
+until tomorrow
+19-136874 1544 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAK NHN WILLIAM
+Tocation/Adcrass: SOUTHWORTH ST
+unir: 32
+Arvd-16:44:50 Clxd-16:44:57
+Narrative:
+Checied
+Area.
+19-113876 lc48 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Iocation/Address: [WIA 4C6] SCHOOL ST
+Unis: 32
+Arvd-16:42:14 Clrd-16:49:41
+NYaryative:
+Wo viclations
+19-i3877 1712 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Adcreus: [WIA 150) MALIN ST
+Uni: 2
+Arvd-_7:12:59 Clrd-17:13:04
+Xarrative: (therked Area.

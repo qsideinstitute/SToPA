@@ -1,1 +1,51 @@
-VA AP5055  PA KRY3202  Narrative  Checked 22341  VA AP5O055  PA KRY3202  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked 0324  Narrative  Checked Area  Narrative  Checked 0618  19+12520  a7z2  Initiated - TRAFFIC CONTROL  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  ATVd-07:22:37  C1lrd-07:37:48  Unit  39  Arvd-14:18:26  Clrd-14:40:57  Disp-14:17:18  Narrative  checked  19-12511  O734  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Cali Taker  PATROL ANTHONY M DUPRAT  Location/Address  MAIN 8ST  Unit  35  Arvd-07:34:30  Clrd-07:42:13  Vehicle  BLE 2010 LINC ST NAVIGAR Reg: PC MA 72LT49 VIN:  SLMIJ2752AR701688  Operator  BARRY, LYNN M @ 110 RAYMOND DR - DALTON, MA 01226-1033  Race:  W Sex: F  Refer To Citation  T2085286  Owner  BARRY, LYNN M @ 110 RAYMOND DR - DALTON,  MA 01226-1033  Race:  W Sex: F  19-12512  O741  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT & MCGOWAN  Location/Address  GALE RD  Unit  30  Arvd-07:42  a2  Clred-07:57:28  Unit  38  Arvd-15:00  54  Clrd-15:18:24  Disp-14:55:08  19-12513  o&14  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLE AVE  Unit  30  Arvd-08:15  16  Clrd-08:34:05  Unit  31  Disp-15:03:13  Enrt-15:08:15  Arvd-15:09  37  Clrd-15:22:19  1219-12514  0835  Initiated - TRAFFIC CONTROL  SERVICES RENDERED 
+VA APB0SS5
+PA KxY3202
+Xarrative:
+Crenked 2241
+nn RPROAaS
+Bh REY320:
+xarrative:
+Checked Aron.
+Karrative:
+Chacked Area.
+Narrative:
+Charkald 0324
+Narrative:
+Chockod Aros.
+Narrat-_vec:
+Choeckad Cals
+19-125110 0722 Initiated - TRAFFIC CONTROL BUILDING CHECKED/SECURED
+Cali Teaxer: SERGEANT SCOTT E MCAOWAN
+Location/Address: COLD SPRTNG RD
+nit: 30
+Arvd-07:22:37 Clrd-27:17:48
+Unilk: 3b
+Cizp-14:17:13 Arvd-14:18:26
+Nar-gative:
+ciecked
+19-1251 0734 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call “akar: PATROL. ANTHONY M TRIPRAT
+Tocatrien/adcress: MATH ST
+init: an
+hrvd-07r:134:30 Cl>xa-07:42:13
+Vericle: TK 2000 TYNC ST NAVIGA Reg: EC ML 72L148 VIN: SLMJJ2I:2AKJ01648
+Cperator: BARRY, LYNK H @ 110 RAYMOND DR - DALYCN, MA 0_228-1033
+ace: W Sex: F
+Kzfer Tp Citation: T20682288
+owner: SARRY, LYNN M @ 120 RAYMOND DR - DALTON, MA 1226-1033
+Jace: § Sex:
+1989-12512 0741 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+“ull Taker: SERGEANT ECOTT E MCGOWAN
+Lecasloun/Acdresy: GALE RD
+Uait: 30
+Arrd-07: 42: Clrd-07:57:28
+it
+Aryd-15:¢ Clrd-lo:16:24
+19-12513 0814 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+al. Tear: SERGEANT SCOTT RB MOGOWAN
+Lozation/address: COLE AVE
+nit. ao
+Arvd-0a: 16 Trd-L8:34:05
+nit: Kh |
+Disp-15:03:13 FEnvt-15:08:15 Arvid-lh: 09: Slrd--h122:19
+15-12514 nN815 “nitiated - TRAFFIC CONTROL SERVICES RENDERED

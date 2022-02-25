@@ -1,1 +1,55 @@
-19-12829  1758  Initiated - BUILDING CHECK  BULLDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  MAIN 5T  Unit  31  Arvd-17:58:17 Clrd-18:01:35  Narrative  Owner on scene.  Narrative  Checked 0201  19-12830  1935  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAXEN  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  [WIA $95] COLD SPRING RD  Unit  31  Clrd-19:58:17  Disp-19:40;:40 Emrt-19:41:05 Arvd-19:45:34  Vehicle  BLE 2015  VOLK CO EOS Reg: PC MA 765XT'2 VIN: WVWRWEAHGFV003166  Operator  SCHUMER,  LARRY SCOTT @ 139 MORTON ST - NEWTON, MA 02459-1530  Race;  Ww  Sex:  M  Owner  SCHUMER,  LARRY SCOTT @ 139 MORTON ST - NEWTON, MA 02459-1536  Race:  W  Sex: M  Narrative  Reports he struck a deer with his Volkawagon EOS (Dark  Brown)on Rte 7 just before Rte 2. Proceeded to pub lct,  unsure if deer is still alive.  Narrative  Deer deceased and is across the road from mile marker 49.5  {988 Cold Spring Rd} Mess Highway notified.  Refer To Accident:  19-133-AC  19-12833  2044  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER LAURIE TUPER  Logation/Address  SIMONDS RD  Unit  38  Disp-20:44:00 Enrt-20:47:30  Arvd-20:47:32  Clrd-21:14:30  Vehicle  BRO 2016 TOYT SIENNA Reg: PC MA 1597MN VIN:  STDIK3DC2G65138392  Operator  RUPPRECHT, CHRISTINE M @ 27 MYERS AVE - N ADAMS, MA 01247-2305  Race:  W Sex: F  Owner  RUPPRECHT, CHRISTINE M @ 27 MYERS AVE - N ADAMS, MA 01247-2305  Race;  W Sex: F  Narrative  Deer vs MV.  Mass Hwy notified.  Refer To Accident:  19-134-AC  19-12834  2216  Initiated - MOTOR VEHICLE STOP  CITATICN  - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  SAND SPRINGS RD  Unit  38  Arvd-22:16:02  Clrd-22:25:06  Vehicle  BLE 2003 HOND PILOT Reg:  PC MA  6BC535  VIN: 2HEYF18633H599337  Operator  JUDSON, OLIVIA M @ 2 RICCA FARM RD - BILLERICA, MA 01821-0006  Race:  W  Sex:  F  Refer To Citation  T2084988  Owner  JUDSON, JOHN STEVENS @ 2 RICCA FARM RDB - NORTH BILLERICA, MA 01962-  2846  Race:  U Sex:  M 
+19-112829 1758 Initiated - BUILDING CHECK BUILDING CHECEED/SECURED
+call Taker: SERGEANT DAVID BR LEMIEUX
+Loos Llon/Add ess: MAIN S57
+Dnsos 31
+Arvd-17:56:17 Clrd-18:01:35
+Narrative:
+Owner on scene.
+Narrative:
+Chackad 0201
+15-12830 1935 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAIEN
+Call Tzxer: DISPATCHER LAURIXZ TJPER
+Location/Address: WIA 25) COLD SPRING RD
+Toit: 31
+Cisp-29:40:43 Erri-19:41:05 Arvd-19:45:34 Clrd-13:58:17
+Vehicle: BLK 2015 VOLK CO EQS Reg: PC MA 78LXTZ2 VIN: WWWRWBAHSTVOL3166
+operactcr: SCZUMER, LARRY SCOTT "39 MCRTON ST - NEWTON, MA $2455-1L30
+Rzce W Sex: M
+Jamar: STEDMER, LARRY SCOT @ 239 MORTON #1 - MEWTON, MA T2452 1530
+Reece: W Sex: M
+Rarrztive:
+Reporzo he struck a decr with his Volikawagen EQS (Dark
+Browm)cn Rte 7 just belcre Rie 2, Proceeded to pub lot,
+unsure ff deer is skil. alive.
+Narrative:
+Deer decezged and is the voad from mils warker
+Ccld across notified. <9.5
+(588 Zpring Rd) Mees Highway
+Refer To Accident: 19-133-AC
+19-128323 2044 Phone - MOTOR VEEICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+all “taker: DISPATCHER CAURIE TUPER
+Tocatior Adress: STMONDS RD
+Unis: 38
+Disp-20:44:00 Enrc--20:467:30 Arvd-28:47:32 Clrd-21:14:30
+Valicle: BRD 2026 TOYI E1ENMNA Reg: PC MA 1597MN  VIN: STINKINCIAGELISE3I9L
+Cpsrator: AUPPIECHL', CHELISU _ME M # 29Y MYERS AVE - N ARAMS, [MA 1247-2305
+ace: KN Hex:
+Ownex : ZUPPRECHYT, CHRISTINE M @ 27 MYBRE AVE - N ADAMS, MA 01247-2305
+Race: BW Bex: F
+Harrative:
+Leer vio MV,
+Mase Hwy notified.
+Refar Th Aaoa-dent: 19-134-AC
+19-12834 2216 Initiated - MOTOR VEHICLE S5TOP CITATION - WARNING
+Cal_ Taxer: ZATROL JOHN J MOCCNMELL JR
+Location/Address: SAND EER._NGS RD
+Toit ig
+Arvd-22:26:02 Clrd-i2:25:08
+Vehicle: BLK 2002 HONDO PILOT Rog: DPC MA 6BUb3L  VIN: ZHEYM_BBABHBYO3ZY
+UEeraccy: JILWEON, OLIVIA ME 2 RICOA PARM RU - BLLLER Ch, MA 01821-03000
+Rare: W Sax: F
+Sefer To Citation: T20R/A98E
+owner: JIDBON, JOHN STIVENE 2 RICCA BRM RD - NORTH BILLERICA, MA Cl86z2-
+Raca: U Sax: HM

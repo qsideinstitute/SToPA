@@ -1,1 +1,49 @@
-Location/aAddress:  [WIA 380] MAIN ST  Narrative:  Reports loosing his brown trifold wallet, with ID and  eredit/debit cards,  in the vicinity of Cumberland Farms.  19-12785  2609  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  WOODLAWN DR  Unit:  a8  Disp-20:10:12  Enrt-20:10:48  Arvd-20:15:41  Clrd-20:19:09  Narrative:  Honda Accord.  19-12786  2026  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  WOODLAWN DR  Unit  38  Arvd-20:26:57 Clrd-20:27:03  Narrative  Checked 0215  =  For Date:  16/14/2019  Monday  19-12791  0352  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EBICHHAMMER  Location/Address:  {WIA 390] SIMONDS RD  Unit:  31  Arvd-03:52:34  Clrd-03:52:44  19-12792  o740  initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  [WIA 1632] NORTH HOOSAC RD  Location/Address  Unit  36  Arvd-07:41:11  Cird-07:41:40  Narrative  Checked  Narrative  Checked  Narrative  Checked $§-4  19:07  Narrative  Checked 2336  Narrative  Checked 0341  49-12793  O745  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  PINE COBBLE RD  Unit  30  Arvd-07:46:27  Clrd-07:46:50  Narrative  PA: KRY3202  MA: 7KS521 
+Location/Address: [WIA 330] MAIN ST
+MNMarrative:
+Reports louvsing his brown trifoid wallet, with ID anc
+credit/debit cards, in the v-ocinity of Cunberland Farms.
+19-12785 2009 Fhona - MOTOR VEHICLE LOCK OUT VESICLE OPENED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: WOODLAWN DR
+nic: ig
+Jigp-20:10:12 Enrt-20:10:48 Arvd-20:15:4) Clvd-20:19:39
+Narrative:
+Yonda Accord.
+15-12786 2026 Initiated - BUILDING CHECK BUILDING CHECKED/BRCURED
+Call Taksar: PATROT, JCHN J MCCONNELL JR
+Loculion/Addéross: WOQLIAAN DR
+Uni: 38
+Arvd-20:26:57 CQird-20:27:03
+Narrative:
+Checked 02h
+10/14/2019
+For Date: - Monday
+SERVICES RENDERED
+1989-12791 0352 Initiated - PARKING CHECK
+Cail Taker: PATROL (CRAIG A EBICHIAMMSER
+Localkicn/Address: [#T2 390] SIMCHNDS RD
+nit: al
+Arvd-03:52:34 Clrd-23:52:44
+19-122792 0740 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGERHT SCOTT E MOGOWAN
+oocation/Address: [WZA 1822] RORTH HOOBAT RL
+unit: 30
+Arvd-07:41:11 Clrd-07:42:40
+Warrative:
+Checked
+Narrative:
+Chackead
+Narrative:
+Checked S 4 19:07
+Narrative:
+Checked 2313é6
+Hazrrative:
+Checked C341
+158-12733 0745 Injitiated - BUILDING CEECK BUILDING CHECKED/SECURED
+all Taker: SERGEANT SCOTT E KCGOWAXN
+Lecation/Addrers: »INZ CCBBLE RO
+Uait: 30
+Arvd-07:46:27 Clré-07:46:50
+Narrat_vo:
+KRY5202
+MA: PR: THKS521

@@ -1,1 +1,50 @@
-checked  Narrative:  Checked Area.  19-3844  1053  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd~-10:54:20  Clird-10:54:36  Narrative  checked  Narrative  Checked Area.  19-3845  1056  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  (WIA 225] COLD SPRING RD  Unit  30  Arvd-10:56:49 Clrd-10:58:04  Narrative  Lanesborough PD also at location.  19-3846  1107  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  PARK ST  Location/Address:  Unit:  37K  Arvd-11:07:54 Clrd-11:11:02  19-3847  1110  Initiated ~- PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  SPRING ST  Unit:  37K  Arvd-11:11:41 Clird-11:14:50  19-3849  1218  Phone - BURN PERMIT  LOG ENTRY REQUEST  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Narrative:  773 Simonds Rd  1793 Cold Spring Rd  1059North Hoosac Rd  19~3850  1221  Phone - PARKING COMPLAINT  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  [WIA 107] MAIN ST  Unit:  30  Disp-12:43:07  Arvd~12:46:18  Clrd-12:48:04  Narrative:  Hotel Contruction workers are parking in the chopsticks lot  and taking up spaces so there is no room for customers,  Party has not attempted to speak with the construction crew  because he is working.  Narrative:  Spoke with an employee who will have the vehicles moved.  19-3851  1302  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker:  DISPATCHER CHRISTINE LEMOINE 
+checked
+Narrative:
+Checked Area.
+19-3844 1053 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-10:54:20 Clrd-10:54:36
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-3845 1056 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: [WIA 225] COLD SPRING RD
+unit: 30
+Arvd-10:56:49 Clrd-10:58:04
+Narrative:
+Lanesborough PD also at location.
+19-3846 1107 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: PARK ST
+Unit: 37K
+Arvd-11:07:54 Clrd-11:11:02
+19-3847 1110 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: SPRING ST
+Unit: 37K
+Arvd-11:11:41 Clrd-11:14:50
+19-3849 1218 Phone - BURN PERMIT LOG ENTRY REQUEST
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Narrative:
+773 Simonds Rd
+1793 Cold Spring Rd
+1059North Hoosac Rd
+19-3850 1221 Phone - PARKING COMPLAINT SERVICES RENDERED
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: [WIA 107] MAIN ST
+Unit: 30
+Disp-12:43:07 Arvd-12:46:18 Clrd-12:48:04
+Narrative:
+Hotel Contruction workers are parking in the chopsticks lot
+and taking so there is no room for customers.
+has not up attempted spaces to speak with the construction crew
+because Party he is working.
+Narrative:
+with who will have the vehicles moved.
+Spoke an employee
+19-3851 1302 Phone MOTOR VEHICLE LOCK OUT VEHICLE OPENED
+Call Taker: DISPATCHER - CHRISTINE LEMOINE

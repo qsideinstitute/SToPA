@@ -1,1 +1,51 @@
-Call Taker  PATROL TANIA HERNANDEZ  Location/Address  ELM ST  Unit  36  Arvd-07:44:02  Clird-07:44:48  Narrative  checked  Narrative  done  Narrative  11/15/2019 0027 Checked S83  19-14294  0744  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Lecation/Address  GALE RD  Unit  34  Arvd-07:46:19  Clyrd-07:58:39  Unit  38  Enrt-15:02:12 Arvd-15:05:32  Clrd-15:17:32  Disp-15:00:13  19-14295  O744  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANITA HERNANDEZ  HARWOOD ST  Location/Address:  Unit:  36  Arvd-07:48:51  Clrd-07:49;:52  Narrative:  checked  Narrative:  Checked 0144  19-14296  0753  Initiated - MOTOR VEHICLE STOF  CITATION  - WARNING  Call Taker  PATROL TANIA HERNANDEZ  Location/Addresa  MAIN 5ST  Unit  36  Arvd-07:53:24  Cird-06;08:56  Vehicle  BLK 2016 SUBA SE WRX  Reg: FC MA @CV757 VIN: JF1LVAIN66G6824933  Ma  Operator  COUPE-GREENLEAF, FRANCIS GARRISON @ 28 FREDERICK ST ~- NORTH ADAMS,  O1L247-2413  Race:  W Sex: M  Refer To Citation  T20852i1  Owner  COUPE-GREENLEAF, FRANCIS GARRISON @ 2&8 FREDERICK ST - NORTH ADAMS, MA  O1247-2419  Race:  W Sex: M  Narrative  Tinted checked it read 48, advised to get it done ASAP.  19-14297  ogi4  Initiated - TRAFFIC CONTROL  SERVECES RENDERED  PATROL TANIA HERNANDEZ  Call Taker  Location/Address  COLE AVE  unit  36  Arvd-08:14:29  Clr@-08:28:41  Narrative  1 violation  19+14298  0318  Initiated - ASSIST OTHER AGENCY - POLICE  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address;:  SIMONDS RD 
+Cz.l Taker: PATROL TANIA HERNANDEZ
+tovalbion/Address: ELM ST
+nit: af
+Clrd-C7:44:48
+Narvrrazive:
+checked
+Narrazive:
+dona
+Muzracive:
+12/15/2019 0027 Checked S53
+19-143294 0744 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+Call Taker: PATEQL ANTHONY M DUZRAT
+Localicn/Address: GALE RD
+Unit: 24
+Arvd 07:46:19 Clxd-07:58:39
+Uniz: 23
+Digp-15:00:13 Enrt-13:02:12 Arvd-1b:05:32 Olrd-15:27:32
+19-242958 0748 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL: TAWNTA HERNAKDEZ
+Tocation/Add—ass RARWOOD 3T
+Unis: EL]
+Rrvd-n7:48:51 C1-d-07:49:52
+Xarrative:
+chockeod
+Xarrative:
+Checkad 0144
+19-14296 0753 Infriated - MOTOR VEHICLE STOF CITATION - WARNING
+call Taker: PATRCL TANIA ITRNAMDEZ
+Toession/Addresa: MATN 8°
+Unit: 36
+Arvd-07: E324 Clre-08:08:5/
+Vehicie: SLK 20l6 SLBs SE WHY Reg: PC MA 8CV757 VIN: JETVAINGEGRR24933
+Joerator: COUPs-CGREENLEMAY, FERNCIS CARRISON (@ 2B FREDEXRICK ST - NORTH ADAMS, MA
+OLiLY-2L149
+Raoe: WF Sex: M
+Refer To C.zat-on: T20852311
+bo 1 LLT LLAH COUPE CRPESNLEAN, FRPANCLS CARRISUON @ 28 YREDEXICK 81 - NORLUH ADANY, MA
+012L7-2479
+Race: W Sex: MW
+Nzrrative:
+Tin-ed checked it read 48, advised to get it dore ASAP.
+19-14297 i814 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cal. Tawe: PATROL TANIA HERKANDEZ
+Looation/Address: COLT AVE
+Jit: is
+Arvd-08:14:29 Clrd-08:28:41
+Narrativs:
+1 visvaticon
+15.14298 0818 Initiated - ASSIST OTHER AGENCY - POLICE SERVICES REMDERED
+Call Taker: SATROL AKTHOY M LUPRAT
+Location/Address: BTMONDS ED

@@ -1,1 +1,48 @@
-Narrative:  30-9 parked doing online with owner  19-9037  0953  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J @ZEMBA Jr  Location/Address:  SCHOOL 8T  Unit:  37K  ArvG-09:53:23  Clyrd-09:53:34  Narrative:  checked  Narrative:  Checked S-4  17:21  15-9038  1001  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  MAIN ST  Location/Address:  Unit:  37K  Arvd-10:02:17  Clrd-10:03:14  Narrative:  Checked 8-4 door on east side of buiding still partially  open  17:26  Narrative:  done  19-9039  1026  InitLated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  35  Arvd-10:26:59 Clrd-10:28:66  Narrative  checked  Narrative  Checked  5-4  15:59  Narrative  Checked  $-4  19:42  Narrative  dene  Narrative  done  19-9049  1035  Initiated - BUELDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  LONGVIEW TER  Location/Address:  Unit:  35.  Arvd-310:35:406  Clrd-10:37:17  19-9042  1100  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  COLD SPRING RD  Unit;  35  Arvd-11:00:51  Clrd-11:01:27  Narrative: 
+Narrative:
+20-9 parked doing online with owner
+19-9037 D953 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taxex: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: SCHOOL 38T
+Unit: 37K
+Arvd-09:53:23 Cli-09:53:34
+Nzrrative:
+checked
+Narrative:
+Checked 5-4 17:21
+15-9038 10401 Initiated - AVILDING CEECK BUILDING CHECKED/SECURED
+Cal: Taxer: PRTRIOLMAN MICEAEL J ZIEMER JY
+Local lon/Address: MAIN 3T
+Init: 37K
+Arvd-10:02:17 Clxd-1G:03:14
+Narrative:
+Checked 8-4 door on east side of buiding still partially
+open °.7:26
+Narrative:
+done
+15-5039 1026 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+Call Taxe:x: FATIOL BRAD SACCO
+Location/Address: (WIA 28321 NORTH HOOBAC RD
+Unit: as
+Arvd-10:26:59 Clrd-10:28:08
+Narralbive:
+checked
+Narrative:
+Checked 8-4 15:59
+Narrative:
+Checked S-4 19:42
+Narrativa:
+dora
+Narraziva:
+done
+19-9049 1035 Initiated - BUILDING CHECK BUILDING CAECKED/SECURED
+Call Taker: PATROL BRAL SACCO
+TER
+Locztion/Aaddresy: Unit: LONGVIEW
+35 Arvd-10:35:40 Llvd-10:27:17
+1100 Initiated BUILDING CHECK BUILDING CHECKED/SECURED
+18-9041 -
+“aksr: PATROL. mRAD SALCC
+Lecazion/Adéress: gall COLL SPRTNG RD
+Unit: 3s
+Arvd-1_:00: ut Clrd-11:01:27
+Narrative:

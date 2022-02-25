@@ -1,1 +1,52 @@
-Vehicle  BLU 2016 SUBA FOREST Reg: PC MA 6JR525 VIN: UF2SJAFCKXGH406572  Operator  RHIE, MAX SCHUTZMAN @ 263 SAND SPRINGS RD - WILLIAMSTOWN, MA 01267-  2271  Race: U Sex: M  Refer To Citation  T1785839  owner  SCHUTZMAN, JULTE R @ 263 SAND SPRINGS RD ~ WILLIAMSTOWN, MA 01267-  2271  Race:  W Sex: F  Narrative  Cp reports hearing a loud crash.  second call RP did not want to give her information reports  neighbors son crashed into his house.  Narrative  Ron's notified.  Narrative  Ron's on scene.  Refer To Summons:  19-104-AR  Juvenile Arrest  Age:  17  Charges:  JUNIOR OPERATOR OP 12:30-5 AM W/O PARENT  NEGLIGENT OPERATION OF MOTOR VEHICLE  SPEEDING RATE OF SPEED EXCEEDING POSTED LIMIT  Refer To Accident:  19-107-AC  15-10847  0342  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Addreas:  [WIA 390] SZMONDS RD  Unit:  31  Arvd-03:42:48  Clrd-03:43:60  19-10848  O744  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  PINE  COBBLE RD  Unit  30  Arvd-07:44:22  Cird-07:44:29  Narrative  N¥: HVT3386  Narrative  NY: HVP3386  Narrative  Checked §-4  16:50  Narrative  Checked §-4  19:57  Narrative  Checked 2334  NY HVT3386  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked 0322  Narrative  Checked Area 
+Vehic. a: BLU 201< SUBA FOREST Rag: PC MA 6JRIZ2L  VIN: CF2SCATCHGIIL0:572
+Jnerator: RHTRE, MAY BTEUTZMAN @ 263 SAKD SPRINGS RD - WILLIAMSTOAK, MA (01Z67-
+2271
+xacz2: U Bex: M
+Refer To wation: irl: EE
+Owner: SCHIITZMAN, GTR.TR R @ 2632 SAND SPRINGS RD - WILLIAMSTOWN, MA 01267-
+Z2272
+Rage: W S2x: I
+Narrative:
+Cp reports hearing a loud crash.
+second call RP did not want to give her information reports
+neighbors son crashed into his houee.
+Narretiva:
+Ron's notified.
+Narxrarnive:
+Ron's on scene.
+Refer Te Suwnons: 19-_04-AR
+Jureznile Axreet
+Age 17
+Chargzas: SUNLIOR OP<RATOR OP 12:30-3 AM W/O FARINT
+NECL.GENY? QDPERATION OF MOTCR VEHICLE
+SPEEDING RATE CF SFEED EXCEEDING POSTRD LIMIW
+Refer Te Accident: 19-107-AC
+15-10847 0342 Initiated «- PARKING CHECK SERVICES RENDERED
+Call Taker: PATRCL CRATG A EZCHHAMMER
+Local ion/Address: [WIA 395] SIMONDE RD
+Unit: 31
+Arvd-3:42:48 Clrd-03:42:00
+19-10848 0744 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tazer: SFRGSANT STOTT E MIUCNAN
+Locaticn/Address: P1NE COBELE RD
+Jemit: 30
+Arvd-07:44:22 Clrd-07:44:29
+Narrative:
+NY: HVI'Z386
+Narxrazive:
+NY : HVT2386
+Karralive:
+onoecked 5-4 16:50
+Narrative:
+Chookod 5-4 19:57
+Nurrallive:
+Checxed 2324
+NY HYT3386
+Narrative:
+Checksad Area.
+Nerxralive:
+Checkuad Area.
+Narrative:
+Checked 0322
+Narrative:
+Chenket Area.

@@ -1,1 +1,53 @@
-Race: U Sex: U  Vehicle:  GRN 2014 GMC SAVANA Reg: PC MA 7292GF VIN:  1GJ272FG1E1113610  LLIAMS COLLEGE, PRESIDENT AND TRUSTEES OF WI @ 880 MAIN ST -  Operator:  WILLIAMSTOWN ,  MA 01267-2600  Race: U Sex: U  Owner:  PRESIDENT AND TRUSTEES OF WILLIAMS COLLEGE @ 880 MAIN ST -  WILLIAMSTOWN, MA 01267-2600  Race: U Sex: U  Narrative:  6 vehicles all ok  Narrative:  New vehicle added ail ok  Narrative:  Checked $§-4  16:50  Narrative:  done...  19-9224  0846  Phone - FOUND/ LOST PROPERTY  LOG ENTRY REQUEST  Call Taker:  MICHAEL STRI2ZZ3  Location/Address:  [WIA 390] SITMONDS RD  Narrative:  CP states that her husband lost a white and black tree  States that it must have  elimining communications helmet.  fallen out of the truck when he left Harrison Ave this  morning. Party drove south past the PD and followed Rt. 7  until the New Ashford line.  Advised to call Lanesborough as  well.  19-9225  og01  Phone - PROPERTY DAMAGE  INVESTIGATED / REPORT  TAKEN  Call Taker:  MICHAEL STRIZ2I  Location/Address:  (WIA 472] FOREST RD  Unit:  36  Enrt-09:21:44 Arvd-09:26:19  Cird-09:38:12  Disp-09:09:13  Narrative:  CP states that she noticed a horizontal slice in her screen  door on her deck.  CP states she does not know if someone  was trying to break in or if it could have been an animal.  She stated that there is nothing missing and no way anyone  could have getten in the house without breaking the glass  door.  Refer To Incident:  19-178-OF  19-3226  0939  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cail Taker  PATROL TANIA HERNANDEZ  Location/Address  BULKLEY ST  Unit  36  Arvd-09:39:;34  Clrd-09:40:56  Narrative  Checked §-4  17:04  Narrative  done  19-9227  0942  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PARK ST  Unit:  a6 
+Vehicle: Race: U Bex: U LGJSV4APGLEZ112610
+GRN 20Z4 GMC SAVANA Rey: PC MA 7294GF VIN:
+Operator: LLIAMS COLLEGE, PRESIDENT AND TRUSTERES OF WI @ 880 MAIN ST -
+WITLINMSTOWN, MA 01257-2600
+Race: 17 3ex: U
+Dwner: PRESIDSNT AND TRUSTERS OF WILLIAMS COLLEGE 5 880 MAIN ST -
+WILLIAMSTOWN, MA 01257-2600
+Race: U Sox: U
+Narrative:
+g vehicles al” ok
+Marrative:
+Kew vehicle acded al_ ok
+Narrative:
+Checked 5-4 16:50
+Karrative:
+done. . .
+15-5224 D84s Phone - FOUND/ LOST PROPERTY LOG ENTRY REQUEST
+Call Taker: MICHAEL STXIZZX
+Location/Address: [WIA 320] SIMOKDS RD
+Narrative:
+(7? states that her husband lost a white and blacx Lree
+climining communications helmet. States that it must have
+fallen cut of the truck when he left Harrison Ave this
+morning. Party drove south past the PD and followed Rt. 7
+until the New Ashford iine. Advised ro call Laneshorough as
+well,
+18-9225 0501 Phone - PROPBRTYY DAMAGE INVESTIGATED / REPORT
+TAKEN
+Call Taker: MICHAEL STRIZZI
+Location/Address: [WIA 472! FOREST 3D
+nic: 6
+THiep-08:09:153 Enrt-59:21:44 Arvd-59:26:19 Clra-00:36:12
+Narrative:
+CF states thaz s2e noticed a horizontal slice in her screen
+door on her deck. CP states ste does net know if someone
+was trying to break in or if it could have been an animal.
+She stated that there iz nothing missing and no way anvone
+could have getten in the house without breaking the glass
+door.
+Refer To “ncident: 19-.78-0F
+15-8326 D93s Initiated - BUILDING CHECK BOILDING CHECKED/SECURED
+Call Taker: PATROL TANKIA HERNANDEZ
+Tacation/Address: BULKLEY ST
+ait: 36
+Arvd-09:39:34 Clrd-05:43:55
+Narrative:
+Checked 85-4 17:04
+Narrative:
+done
+15-5227 0842 Initiated - PARKING CEZECK SERVICES RENDERED
+Call Taker: PATROL TANLS HERNANDZ
+Location/Address: PARK ST
+Unit: 36

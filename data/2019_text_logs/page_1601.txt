@@ -1,1 +1,48 @@
-Call Taker  PATROL CRAIG A EICHHAMMER  Location/Address  SPRING ST MUNICIPAL LOT  Unit  31  Arvd-03:10:16  Clra-03:17:35  Narrative  10 cones, 3 barricades and 2 signs deployed for market.s  Narrative  Cones and barricades retrieved  19-211398  0349  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  (WIA 390] SIMONDS RD  Unit:  a4  Arvd-03:49:32  Clyrd-03:49:44  19-21401  0847  Phone -  ANIMAL CONTROL  UNABLE TO LOCATE  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  ARNOLD ST  Unit  37K  Disp-08:57:39 Enrt-08:58:06  Clrd-09:13:51  Narrative  CP reports she can hear a dog barking down in the woods  where the green river and hoosic river meet, possibly on the  North Hoosac Rd side of the river. Dog has been barking for  two days.  Narrative  Checked all described areas. Nothing noted.  1898-11402  0915  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address  PINE COBBLE  RD  Unit  30  Arvd-09:15:57  Clrd-09:16:15  Narrative  MA  LV40427 - T66312  cT:  SATMI6  Narrative  VT HCE7S97,  MA 4258P1,  MA 656MT4,  MA 121DY8 Vehicles checked  Narrative  Checked S-4  16:41  Narrative  checked  Narrative  31 Checked no cars.  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked 6501  19-11463  0919  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+Call Taker: PATROL Cxildd A KiCHHAMER
+—ocation/Addrecs: SPRING 87 HMUNLCIPAL LOT
+mtx: 2]
+Arvd-03:10:11 Clrd-03:17:35
+Narrative:
+i0 conea, 3 barricades and Z signs deployed tor market.s
+Nurratove:
+Cones and barr’cades retyicved.
+15-1138 0349 Initiated - PARKING CHECK SERVICES RENDERED
+Ca’ l Taker: FATKROL CRAZE 4 LITHAVIMER
+Location/Address: [W-A 390: SIMOEDS XD
+tnilk : 31
+Brvd-03:49:32 Clré-03:49:44
+19-311401 0847 Fhone - ANIMAL CONTROL UNABLE TO LOCATE
+call Taker: PATROL, ANTHONY HM DUPRAT
+Losatioz/EdcéresE: ASNOLN 8ST
+Unit: 27K
+Disp-08:37:59 KEnrt-o8:56:06 Clrd-05:13:51
+Narrative:
+C2 reports sh can iar a dog barkirg down in The woods
+where ths river acd hoosic river
+Kerth Hoosac green Rd side of the river. meet, has besn possibly on Lhe
+Two duys. Dog barking [or
+Norrative:
+Checked all described areas. Nothing aolkad.
+19-114902 091s Initiated - BUILDING CHECE BUILDING CHECKED/SECURED
+all Taker: SERGEANT sCUIT BE MCGOWAN
+Lecazion/address: PTKFR COBBLE RD
+init: 3c
+Arvd-05:15:57 Clrd-05:16:15
+Karrative:
+Ma: LV4A0e27 - TSe3l2
+CT: 6ATMJG
+Narrative:
+VT LICE797, MA 4205BPl, MA 656MTA, MA 12:DYE Vehigles checked
+Narrative:
+Checked 8-4 16:41
+Narralkiva:
+checked
+Harrative:
+3. Checked no cars.
+Rarrative:
+Checxed Area.
+Narrative:
+Checked hrea,
+Nerrat-ve.
+Checked 0501
+19-1i1403 03195 Initiated - BUILDING CHECK BUILDIRG CHICKED/SECURED

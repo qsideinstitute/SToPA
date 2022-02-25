@@ -1,1 +1,46 @@
-checked  19-10132  O08  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  BULKLEY ST  Unit  37K  Arvd-09:08:32 Clrd-09:08:43  Narrative  Checked  Narrative  Checked 0054  4149-10133  0518  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  NORTHWEST HILL RDB  Unit  37K  Arvd-09:18:40  Clrd-09:20:16  Narrative  Checked 2 vehicles in driveway  MA 845M68 and MA 41V537  Narrative  Checked  29-10134  1013  Phone - DISTURBANCE  LOG ENTRY REQUEST  Call Taker:  PATROL DAVID JENNINGS, BD  Location/Address:  [WIA 151]  COLD SPRING RD  Narrative:  Resident vs. resident. David hit Rene,  Rene then hit David.  No injuries. Both dementia patients.  19+10135  16018  initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  LUCE RD  Unit:  30  Arvd-10:19:18  Clrd-10:41:49  Narrative:  Checked  19-10136  1019  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  PINE COBBLE RD  Unit  37K  Arvd-10:20:2G Clrd-10:21:47  Narrative  MA PC 65N130,  CT PC AF86777,  NY PC HAS6S  Narrative  MA PC S$31KD4,  NY PC HAS&B.  Narrative  checked  Narrative  checked  Narrative 
+checkad
+19-310132 0s08 Initiated - BUILDING CHECK BUILDING CHECRED/SECURED
+Call Taker: LIEUTENANT MICHAR]. J ZIEMBA Jr
+Locat :on/Addrces: DULKLEY ST
+Unik: 37K
+Arvd-09:08:32 Clrd-09:06:43
+Nurrative:
+Checked
+Rarrative:
+Checked 0054
+19-10133 0918 Initiated - BUILDING CHECK BUILDING CHECKED /BECURED
+Cull Tyker: LIBUTENANT MICZAEL J Z-EMBA Jr
+Loecurion/Address: NORTHWEST ZILL RD
+tnit: 37K
+Arvd-09:18:40 Clxd-09:20:16
+Narrative:
+Checked 2 wvehicles iz driveway MA 848M6B und MA 41VsS37
+Karrative:
+recked
+19-10134 1013 Phone - DISTURBANCE LOG ENTRY REQUEST
+Call Taker: PATROL DAVILC JENNINGS, D
+Loacalion/Address: [WIA 151] COLD SPRING RD
+Narrative:
+resident vs. vagident. David hit Rere, Eene hen hit David.
+No injuries. Both dementia patients.
+19.10135 1018 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cal Taker: BERGEANT SUUIM" BE MOGOWAN
+Location/Address: LUsE ro
+fit: 30
+Arvd-10:29:18 QCl>»d-10:41:49
+Harranive:
+Checked
+19-10136 1019 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: LIEUTENANT MICIIAEL J ZIEMOA Jr
+Local lon/Addreys PINE COBBLE RD
+Uniz: 37K
+Arvd-10:20:20 Clrd-15:21:47
+Narrative:
+Ma BC 6SN13C, IT FC AFBSTTT, NY FC IIARSSH
+Nexrakb>ve:
+FA PC 931KD4, IY PC HASGD.
+Narrative:
+checked
+Narrative:
+checked
+Narracive:

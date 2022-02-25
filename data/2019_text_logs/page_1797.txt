@@ -1,1 +1,51 @@
-Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  (WEA 225] COLD SPRING RD  Unit  34  Arvd-14:06:51  Clird-14:06:55  Narrative  Checked  19-12571  1415  Initiated - BUETLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  HOPPER RD  Location/Address  Unit  34  Arvd-14:16:05  Clrd-14:159:05  Narrative  checked  Narrative  done  29-12572  1440  Phone - SOLICITING  LOG ENTRY REQUEST  Call Taker  DISPATCHER CHRISTINE LEMOINE  MAIN ST  Location/Address  [WIA 2359]  Vehicle  GRN 2005 JEEP Grand Cherokee Lar/col/fr Reg: PC CT AP53133  VIN:  104GR48K55C6 28458  owner  SMITH, MARGO @ 28 NORTHFIELD RD - ENFIELD  Race: U Sex: F  Narrative  A party was harrassing customers and staff for money 2 days  in a row. Advised to call if they are there for a third day  so it can be addressed in person.  19-12573  1446  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  WOODLAWN DR  Unit  34  Arvd-14:47:31  Clyrd-14:49:59  Narrative  Checked  Narrative  16/10/2019 0147 Checked S3  19-12575  1510  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SPRING ST  Unit  32  Arvd-15:10:26  Clrd-15:15:44  Narrative  10/09/2019 1510 - Start  10/09/2019 1700 - 1 violation  Phone -  ANNOYING PHONE CALLS  19-12577  1528  LOG ENTRY REQUEST  Call Taker:  PATROL KALVIN DZIEDZIAK  [WIA 2100] HENDERSON RD  Location/Address:  Narrative:  cP reports scam call stating her grandson is in trouble and  in need of bail money. CP hung up and did not give any  information to caller.  Number called from: 216-458-5869 
+Coll Tukor: PATROL ANTHONY M DFIZPRAT
+Locabicn/Aldress: (WIA 225] COLD STRING RD
+Tull: 34
+Azve-14:06:51 Lord-14:-26:55
+Harrazive:
+Smenzed
+19-12571 L415 Initlated - BUILDING CHECK BUILDING CHECKED/SECURED
+Czll “‘aker: PATROL ANTHONY M DUSRAT
+Locaticn/adéross: HOLDRR RE
+Unik: 14
+Arvié-14:16:08 Clrd-14:19:05
+Harraz-ive:
+ohanxzed
+Narrative:
+dons
+i9-.12572 1440 Phone - SOLICITING LOG ENTRY REQUEST
+Call “'aker: DISEAICHER CHR-OSTINE LEMOINE
+Local ion /Address: [WIA 2359] MAIN ST
+Val:icle: GRN 2075 JEEP Grand Cherokee Lar/col/fx Rog: DC CT APS3733 VIN:
+_JAGRASXBECEZ8L0E
+Owner: SKIT:I, MARGO @ 28 NCRTHFIELD RC - ENFIELD
+U ZJex: F
+Xarrative: Raga:
+A partv was harrzaszsing customers and stair for money 2 days
+“n a row. Advised to cal: if they are there Zo> a third day
+zo it zan ba addvessed in pavson.
+19-312573 1446 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+all taker: prclwOl ANUHCONY MO OOWERAT
+Locztion/Addracs: WCILLAKEN DR
+nic: 3L
+Arvd-14:47:11 Clré-14:249:59
+Xarrative:
+Checked
+tarrative:
+10/10/2019 9147 Checxed 83
+15-12578 1510 Initiated « PARKING CHECK HERVICES HRENDKRED
+Call Taker: PATROL EIUAN KN WILLIAM
+Leeazlon/Addrees: SPR_NG 87
+Unit: 32
+Arvid-15:-0:26 Cclrd 12:15:44
+Narrat-veae:
+10/09/2029 510 - SLa>t
+10/08/2029 2700 - 1 vio_ation
+19-122577 1528 Phone - ANNOYING PHONE CALLE LOG ENIRY REQUEST
+ZJall ‘iaker: PATRON. KATVTN DATEDZTAK
+Win 2105] HRETERSCN RC
+Lega-ioa/addrens:
+Narrat-ve: call her is in trouble and
+CP in nead renorts of bail scam stating CF crandson and did not give
+infermaticon to caller. woney. hung up any
+Hunkber called from: 216-456-5850

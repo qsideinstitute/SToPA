@@ -1,1 +1,52 @@
-Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  HANCOCK RE  Unit  35  Disp-10:08:45  Clrd-10:11:04  Unit  36  Disp-10:09:01  Enrt-10:09:27  Clrd-10:13:31  Unit  33  Disp-10:11:20  Enrt-10:11:21  Arvd-10:15:02  Clrd-10:20:36  Narrative  Berkshire County took a 911 call, sounds like lawn mowing  could not confirm, 413-822-3912  Narrative  Pocket dial while weed-whacking  19-11048  1015  Initiated - BUILDING CHECK  BULLDING CHECKED/SECURED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  EWIA 225]  COLD SPRING RD  Unit:  37K  Arvd-10:15:34  Clird-10:15:52  19-13049  19019  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  SPRING ST  Unit:  35  Arvd-10:20:01  Cird-10:23:17  1$-11050  1022  Phone -  ANIMAL CONTROL  CITATION « CIVIL  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  [WIA 2230]  STONEY LEDGE RD  Unit  35  Disp-10;23:25  Enxt-10:24:02 Arvd-10:28:22 Clrd-11:03:10  Vehicle  Operator  HENDERSON, CAROLYN A @ 249 ADAMS RD - WILLIAMSTOWN,  MA 01267  Race:  W Sex:  F  Refer To Citation  OO 726  Narrative  Beagle with tags that are unreadable, does not belong to  anyone in the area.  Narrative  Dog identified as one from Clover Hill.  19-11051  1024  Initiated - BUTLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  HOPPER RD  Unit  36  Arvd-10:25:02 Clrd-10:29:53  Narrative  Checked  5-4  21:47  Narrative  Checked  19-11052  1641  initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROL TANTA HERNANDEZ  Location/Address:  [WIA 333] CHURCH ST  Unit:  36  Arvd-10:41:26  Clrd-10:43:00 
+Call Taxer: DISPATCHER (HRTSTTHE TEMOINS
+Locul lon/Address: HANCOCK RD
+Unit: an
+Nisp-10:08:45 Clvd-10:21:04
+Unit: 36
+Llap 20:09:01 Enrt-10:09:27 CT d-10:.3:30
+Enil: 33
+Cisp-20:11:20 Enrt-10:11:71 Arvd-10:ib:02 Cl-d-10:20:20
+Huxzrazive:
+Berkshire County rook a 9il i ., socnds like lawn owowluy
+could non confi-m, AL3-8z2-!
+rarrative:
+Poche dial while weed-whacking
+19-110489 10:5 Initiated - BUILDING CHECK BULITL.DING CHECEED/EERCURED
+Call Taker: LICUTENAKT MICHREL J ZIEMSA Jr
+—ooation/Acdrese: fWIA 225] COLD SPRING RD
+Un. i7K
+Arvd-10:15:34 (Clrd-1G:15:52
+19-1049 1319 Initiated - PARKING CHECK SERVICES RENDERED
+Cal” Taker: PALROL JAVID JENKINGS, D
+Location/Address: EFR1KE ST
+ifeit: 35
+Arvd-i0:22:01 2ird-_0:23:17
+19-110590
+i022 Phone - ANIMAL CONTROL CITATION - CIVIL
+Call Taxer: DISPATCHER CHRISTINT T.EMOTAR
+Locaticn/Address: WIA 2230. STOWRY TADGRE RD
+nit: an
+Digp-10:23:25 “nrt-10:24:02 Arvd-10:28:22 Clrd-11:23:12
+Vehicles:
+Operagsr: HENDERSON, CAROLYN A 245 ADAME RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+Fefer To Citaziosn: g0326
+Narrazive:
+Beagle with tags that are unreadable, docz not long Lo
+anyone ir the area.
+Narrative:
+Dog identified as ene from Jiover Hill.
+14-11051 1024 Initiated - BUILDING CHECK BOTLDING CHECRED/SECURED
+Call Taker: PAIROL ANIA LSEHYANDEY
+Loocation/add-esg: HOEPHEE RY
+Uniy: 36
+Arvd 10:25:02 Clrd-10:29:53
+Narrative:
+Chooked B- 21:47
+Nerrative:
+Chackad
+19-111052 1041 Initiated - BUILDING CHEZK BUILDING CHECKRD/SECURED
+La_.1l Taker: TATROL TANTIA HERNANDEZ
+Location/Address: ‘WlA 233] CEURCH ST
+mit: 36
+Arvd-10:41:26 Clwd-10:43:00

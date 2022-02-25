@@ -1,1 +1,52 @@
-[WIA 390] SIMONDS RD  Location/Address:  Unit:  38  Disp-16:31:606  Arvd-16:34:19  Clrd-16:53:45  Narrative:  Requests to speak to officer regarding rules and regquiations  of a restraining order due to harassment from an ex-  boyfriend.  Officer advised her of her options.  19-15956  1736  Initiated - PARKING CHECK  NO ACTION REQUIRED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SCHOOL ST  Unit:  38  Arva-17:36:46  Clrda-127:36:50  Initiated - BUILDING CHECK  19-15957  1753  BUILDING CHECKED /SECURED  Call Taker:  PATROL KEVIN P GARNER  Location/Address ;  SOUTHWORTH ST  Unit :  34  Clrd-17:54:46  Arva-17:54:37  Narrative:  done  Narrative:  Checked 0043  19-15958  1834  Walk-In ~ MOTOR VEHICLE ACCIDENT  CITATION - WARNING  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WEA 390] SIMONDS RD  Unit:  34  Disp-18:37:22  Enrt~18:37:29 Arvd-18:37:31  Clrd-18:07:22  GRY 2008  Vehicle:  STRN U VUE Reg: PC N¥ HUU6653 VIN: 3GSDL43N388522315  Operator:  CHARRON,  PETER R @ 89 SANFORD ST - GLENS FALLS, NY 12801  Race:  W  Sex: M  Refer To Citation:  T2085620  Owner:  CHARRON,  PETER R @ 89 SANFORD ST - GLENS FALLS, N¥ 12801  Race:  W Sex: M  Narrative:  Party ran into station stating he hit a curb, has a flat and  doesn't know what to do. When asked if he had a spare, he  just ran back out.  Narrative:  Ron notified  te assist in  Per Officer,  {and in route}  changing the tire.  Refer To Accident:  19-173-AC  19-15960  1939  Initiated - BUTLDING CHECK  BUILDING CHECKED/SECURED  PATROL KEVIN PF GARNER  Call Taker  Locat ion/Address  (WIA 249] NORTH ST  Unit  34  Arvd-19:39:28  Clrd-13:39:32  Narrative  done  Narrative  Checked 0037 
+T.ocat ion/Address: WIA 390] SIMONDS RD
+nit: 38
+Cisp- "6:51:00 Arvd-16:34:19 Clxd-16:53:45
+Narrative:
+Requests to speak to cfficar regarding rules and reculaticne
+of a restraining order due to harassment from an ex-
+boyfrieng.
+Ci[icer advised her of her options.
+12-1555¢6 1736 Initiated - PARKING CHECK NO ACTION REQUIRED
+Call Taker: PATROL (JOHN 7 MCOONMNELL JR
+Loca ion/Address: SCHOOL, ST
+Unit: 38
+Arvd-:7:36:46 Clrd-17:36:50
+1989-15957 1753 Initiated - BUILDING CHECE BUILDING CHECKED/SECURED
+call Taker: PATROL KEVIN P GARKER
+ST
+Location/Address: SOUTHWORTII
+Unit: 34 Cird-17:54:46
+Arva@-17:54:37
+Narrative:
+done
+Narrative:
+Checked 0543
+19-155858 1834 Walk-In - MOTOR VEHICLE ACCIDENT CITATION - WARNING
+Call Taker: DISPATCIIER LAURIE TUPER
+Tocstion/adéress: [WIA 380) SIMOKDS RD
+Unt: 34
+Disp-18:37:21 Enrt-1:37:29 Arvd-18:37:31 Clrd-19:07:22
+Veiicio: GRY 2008 STRN U VUE Reg: >C KY HUUGS53 VIN: 3GSDLA3N38S522315
+Operator: CHARRON, PRTER R ® 89 SENFORD ST - GLENS FALLS, NY 12801
+dace: W Sex: M
+Ruler To Citakion: Z2085670
+: PETER R @ BS SANFCRD BE1l' - GLENS FALLS, NY 13801
+Owner CHARRON, W Bex: M
+nece:
+Narrative:
+Party ran into station stating he hat a curb, has a flalL and
+doesn't know what ro do. When asked ii he had a spare, he
+just ran back out.
+Karrative:
+Per O“ficer, Ron notified (and in roule) to assist in
+changing the tire.
+Refor Yo Accident: 19-173:-AC
+15-15960 1839 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL XEVIN FP GARNER
+location/Adéress: [WIA 249] NORTH ST
+Iinic: *
+rvd-19:39:28 Clrd-19:39:32
+Narrative:
+done
+Narrative:
+Checked 0037

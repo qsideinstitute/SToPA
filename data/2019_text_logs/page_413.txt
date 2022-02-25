@@ -1,1 +1,49 @@
-Checked Area.  19-2856  o851  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Locat ion/Address  HILL PROVINCE RD  Unit  37K  Arvd-08:52:01  Clrd-08:52:12  Narrative  Checked 5-4  18:04  Narrative  Checked Area.  19-2857  0852  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HARWOOD ST  Unit  30  Arvd-08:52:14 Clrd-08:52:28  Narrative  checked  Narrative  Checked Area.  19-2858  0855  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  PARK ST  Location/Address:  Unit:  34  Arvd-08:55:21 Cird-08:57:39  19-2859  0857  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  LONGVIEW TER  Unit  30  Arvd-08:57:18  Clrd-08:57:55  Narrative  checked  Narrative  Checked Area  19-2860  0917  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  NORTHWEST HILL RD  Unit  37K  Arvd~09:17:34 Clird-09:21:11  Vehicle  Reg: TK VT 347A738  Narrative  Housekeeper on scene. Reports homeowner back Saturday a.m.  19-2862  0941  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  PETERSBURG RD  Unit:  37K  Arvd-09:41:27  Clrd-09:41:50 
+Checked Area.
+
+19-2856 0851 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HILL PROVINCE RD
+Unit: 37K
+Arvd-08:52:01 Clrd-08:52:12
+Narrative:
+Checked 5-4 18:04
+Narrative:
+Checked Area.
+19-2857 0852 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HARWOOD ST
+Unit: 30
+Arvd-08:52:14 Clrd-08:52:28
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-2858 0855 Initiated - PARKING CHECK
+Call Taker: PATROIl. DAVID SERVICES RENDERED
+Location/Address: PARK ST JENNINGS, D
+Unit:
+34
+Arvd-08:55:21 Clrd-08:57:39
+19-2859 0857 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: LONGVIEW TER
+Unit: 30
+Arvd-08:57:18 Clrd-08:57:55
+Narrative:
+checked
+
+Narrative:
+Checked Area.
+19-2860 0917 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: NORTHWEST HILL RD
+Unit: 37K
+Arvd-09:17:34 Clrd-09:21:11
+Vehicle: Reg: TK VT 347A738
+Narrative:
+Housekeeper on scene. Reports homeowner back Saturday a.m.
+19-2862 0941 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: PETERSBURG RD
+Unit: 37K
+Arvd-09:41:27 Clrd-09:41:50

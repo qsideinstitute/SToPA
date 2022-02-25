@@ -1,1 +1,54 @@
-Location/Address  [WIA 1774] PARK ST  Unit  32  Enrt-15;:16:44  Arvd-15:18:54  Clrd-15:29:13  Diesp-15:16:27  Vehicle  BLK 2008 BMW SE 750I Reg: PC MA 562PC3 VIN: WEAHL83548DT12033  Operator  BOWDEN, MARGO R @ 123 PARK ST - WILLIAMSTOWN, MA 01267-2116  Race;  W  sex: F  Owner  BOWDEN, WILLIAM P GR @ 123 PARK ST - WILLIAMSTOWN, MA 01267-2116  Race:  uU Sex: M  Narrative  Requests officer look for Black BMW (MA PC 562PC3} that was  involved in hit and run at splash park in NA. Was a female  operating it. If found, gather info on operator and have her  contact NAFD.  Narrative  09/27/2019 1528 - Info gathered, forwarded to Off.  Wisnowski.  Party will meet up with Officer Wisnowski on  Moriday.  49-12056  1520  Initiated ~ PARKING CEECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:21:03  Clrd-15:31:37  19-12057  1548  Initiated -  ASSIST OTHER AGENCY: MGRSD  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 225] COLD SPRING RD  Unit:  37K  Arvd-15:56:29  Clrd-16:57:30  Narrative:  Presentation for driver's ed class.  19-12058  1602  Phone - TRAFFIC COMPLAINT  PATROL ADVISED  Call Taker:  DISPATCHER  LAURIE TUPER  Location/Address:  SYNDICATE RD  Narrative:  Reports, every day, contractors heading home are travelling  at a high rate of speed aroud the corner. Happening between  1530 and 1600 hrs. on a reqular basis. Concerned someone is  going to get hurt.  19-12059  1659  $11 -  9-1-1 GVERFLOW NORTH ADAMS  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  DISPATCHER LAURIE TUPER  Narrative:  NAPS aware and dispatched already to medical call.  19+12061  1722  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  WATER ST  Location/Address  Unit  38  Arvd-17:22:52  Clrd-17:30:56  Vehicle  RED 2019 NISS Versa S Reg: PC CT AUT4323 VIN:  3NLCN7APSKLS 79677  Operator  MICHALOPOULOS, STYLIANOS G @ 64 WATERMAN ST Apt.  #2E - PROVIDENCE, RI  02912  Race:  W Sex: M  Refer To Citation  T2085145  Owner  EAN HOLDINGS LLC @  19-12062  1818  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+Lovucion/Addrass: [WIA 1774] 2aArRX 9°
+nrc: 32
+Jign-15:16:27 PBnra-i15:16:164 Arvd-15:16:54 Cl:d 15:29:.3
+Vehic_e: 50K 2008 BMW SE 730 Reg: PC MA 563PC3  VIN: WBAIILB2I548DT12035
+dJoerator: SCWDEN, MARGO R ® 133 PARY ST - WILLIAMSTOWN, MA 01267-2116
+ace: W Sex: TF
+Cumer: SCWOEN, WILLIAM P JR @ 123 PARK 3T - WILIYAMSTCWN, MA N1267-21.85
+Zuce: UT Sex: M
+Narrul:ive:
+Regquesks oZficer look Zor Black BMW (MA PO Ge2PC3) that was
+lnvolved in rit and run at splash pak in KA. Wag 2 female
+operating it. If found, gather info om cperator and have hex
+cantact NAPD.
+Narrative:
+DY/27/2029 528 - Ifo gathersw, torwarded to OfE.
+Wisnowskz., Party will meet up with Officer Wisnowsil on
+Munday,
+195-12056 1520 Initiated - PARKING CEECK EBRVICES RENDERED
+Cal Taker: FATROL JOHN J MCCONKELL JER
+—ocat-oon/Address: SFXING ST
+hit: 38
+Arvd-15:21:03 Clrd-_4:231:37
+13-12057 1548 Initiated - ASSIST OTHER AGENCY: MCRSD SERVICES RENDERED
+Czil Taker: LIZUCENANL MICHAEL J ZZEMBA Jr
+locaticn/iddress: [WLA 225] COLD EPR-NT xD
+nit: 375
+Axvwg-1E:56:25 Jlrd-1a:57:30
+Yarrazive:
+Presentation for driver's ed clzass.
+19-120548 15902 Fhoae - TRAFFIC COMPLAINT PATROL ADVISED
+Call Taker: DISPATCHER TAURIE TUPER
+Location/Address: SYNDICATE RD
+Narrative:
+Reports, every day, contractors heading home are travelling
+at high rate of opeed aroud the corner. Hapgening bebween
+535L and 160U hrs. of a regslar basid. Concerned someone is
+geizg to get hurt.
+19-12Q59 1550 911 - 9-1-1 OVERFLOW NORTH ADAMS TAKEN/REFERRED TO OTHER
+AGENCY
+Cal: Taxe:: DISPAYCHER LALRTR® TIIPRR
+Hsrrative:
+NARS aware and dispatched alzeadyv zo nedical cull.
+19-120481 17223 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+2-1 'l'aker: Pa Ral JOHN J MCCONNELL JR
+—acalk lon/faddross: WAS'FR ST
+Unit: 36
+Arvd-17:22:52 Clrd-z7:30:54
+Vehicle: RED 2015 NISS Versa § Reco: PC CT AU74323 VIN: IN1CHTAERBKL.E72677
+QOpuraktor: MICHA OPCULOS, SIYLIANOS G © G64 WATERMAN ST Apt. #2E - PROVIDINCE, RZ
+-2912
+Bacoe: WH Sex: M
+Refer T'c Citarion: I'208h145
+owner: EAN HACLDINGS LLC ww
+19-312062 1818 Initiated - BUTLDING CHECK BUILDIKG CHECXED/SECURED

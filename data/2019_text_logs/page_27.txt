@@ -1,1 +1,45 @@
-19-186  0831  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  “Call Taker  PATROL DAVID JENNINGS, D  Location/Address  {WIA 1832] NORTH HOOSAC RD  Unit  34  Arvd~-08:32:04  Cird-08:32:54  Narrative  checked  Narrative  Checked S-4  19:26  Narrative  Checked S-4  21:42  Narrative  Checked 2338  Narrative  Checked 0303  19-187  0834  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  NORTH HOOSAC RD  Unit:  34  Arvd-08 :34:35  Clird-08:35:24  Narrative:  Checked S-4  19:22  Narrative:  Checked 6315  19-188  0842  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  LONGVIEW TER  Unit  34  Arvd-08 :42:33  Clrd-08:42:48  Narrative  checked  Narrative  Checked Area.  19-189  0845  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  FRENIER AVE  Unit:  34  Arvd-08:45:23  Clrd-08:45:35  Narrative:  checked  Narrative:  Checked Area.  19-190  0845  Initiated ~- BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D 
+19-186 0831 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 34
+Arvd-08:32:04 Clrd-08:32:54
+Narrative:
+checked
+Narrative:
+Checked S-4 19:26
+Narrative:
+Checked S-4 21:42
+Narrative:
+Checked 2338
+Narrative:
+Checked
+0303
+19-187 0834 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NORTH HOOSAC RD
+Unit: 34
+Arvd-08:34:35 Clrd-08:35:24
+Narrative:
+Checked S-4 19:22
+Narrative:
+Checked 0315
+19-188 0842 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: LONGVIEW TER
+Unit: 31
+Narrative: Arvd-08:42:33 Clrd-08:42:48
+checked
+Narrative:
+Checked Area.
+19-189 0845 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: FRENIER AVE
+Unit: 34
+Arvd-08:45:23 Clrd-08:45:35
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-190 0845 Initiated - BUILDING CHECK BUILDING
+CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D

@@ -1,1 +1,52 @@
-Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  34  Arvd-08:49:40  Clrd-08:56:48  Narrative  Checked  Narrative  checked  Narrative  checked  Narrative  10/10/2019 0113 Checked 583  Narrative  10/10/2019 0451 Checked 83  2329-12558  0851  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HARWOOD ST  Unit  30  Arvd-08:51:40  Clrd-08:51:54  Narrative  checked  Narrative  done  19-12559  og56  Phone ~- ANIMAL CONTROL  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  BEOOK ED  Unit  34  Enrt-09:58:37 Axyvd-10:04:30  Clrd-10:16:19  Disp-09:58:10  Unit  33  Arvd-10:02:57  Clrd-11:53:40  Unit  34  Disp-10:32:41 Enrt-10:32:46 Arvd-10:38:15  Clrd-11:39:49  Narrative  Party reports he saw a big deer on Brook Rd that allowed him  to stop and pet it, then fell down. Seems to be acting sick  or injured, and is in the middle of the road. More toward  the Henderson side.  Narrative  1010: SEEM from Mass Wildlife contacted & will be  enroute to view. ETA 1100.  1015 QM on scene. Observed deer and then dispatched for  testing.  19-12561  1015  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  SPRING ST  Unit  34  Arvd-10:20;24  CLrd-10:30:14  Narrative  3 violations  1126  Phone -  ANIMAL CONTROL  19-12562  SERVICES RENDERED 
+Cul Taker: PATRDL ANTHOKY M CUPRAT
+Location/Address: [ZA 1832] NORTF HODSAT RD
+Tnit: 31
+Arvd 08:49:40 Clrd-78:50:48
+Narrative:
+Shecled.
+NareeoLive:
+vnacked
+Narrazive:
+aneoxead
+Narrazive:
+13/18/2019 Ull3 Checked 53
+MNarraTive:
+13/18/2919 0451 Checked 53
+19-125658 0851 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location /Adérese: HARWCOD ST
+nin: 20
+Arvd-08:51:40 Cl+d-08:5):34
+Xarrative:
+checked
+Karrative:
+cone
+19-125359 0556 Phone - ANIMAL CONTROL TAREN/REFERRED TO OTHER
+AGENCY
+fall Taker: DISPATCHER CHRISTINE LEMOINE
+Lezation/Address: SROOX RDC
+unit: 3¢
+Diap 09:58:10 Earl-C9:58:37 Arvd-iu:04:20 Clrd-13:1e:19
+Tail: 33
+Arvd-10:02:87 Clrd-17:53:40
+Joit: 14
+Digp-_0:32:4_ Brrt-10:32:45 Arvad-10:38:.5 Clyd-1_:39:49
+Narrative:
+Farcy repcrte he saw a big desr sn Brook 2d tha: allowed nim
+to stop and pelt it, Lher: [ell down. Seems Lo be acting sick
+cr injured, and ic in the niddle of the road. More roward
+the Hendocrson side.
+Harrulive:
+10.0: From Mass Wildlife contacted will bc
+enrcule Lo view. ETA 1.00.
+10.5 cn gesae, Obgorved decr aod tien dispatched for
+Lezliy.
+15-12561 1019 —nitiated - PARKING CHECK SERVICES RENDERED
+Cz:l Taker: PATROL ANITIIONY M DUFRAT
+nocat-oon/address: SPRIKG ET
+Cnit: 34
+Aryil- 10:20:24 U-rd i0:30:14
+Harravive:
+violatiozs
+3
+19-125¢2 112 Phore - ANIMAL CONTROL SERVICES RENDERED

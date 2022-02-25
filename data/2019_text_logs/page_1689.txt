@@ -1,1 +1,52 @@
-Unit:  30  Arvd-07:14:00  Cird-07:34:22  Unit:  35  Disp-14:15:11  Arvd-14:15:18  Clrd-14:35:15  19-11936  0737  Initiated - BULTLDING CHECK  BUILDING CHECKED /SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd-07:37:06  Clrd-07:37:13  Narrative  checked  Narrative:  Checked Area.  15-11937  O741  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address :  GALE RD  Unit :  30  Arvd-07:42:06  Clrd-08:00:12  Unit:  35  Disp-14;51:18  Arvd-14:52:41  Clrd-15:12:08  0804  SERVICES RENDERED  19+-12934  Other - FUBLIC RECORDS REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-99-AC. Emailed.  19-115940  0816  Phone - ASSIST OTHER AGENCY  - FIRE  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 165] ADAMS RD  Narrative:  Testing fire system, Will call back when testing is  complete.  19+11942  0818  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J 2IEMBA Jr  Location/Address:  [WIA 333] CHURCH ST  Unit:  34  Arvd-08:18:49  Clrd-08:37:01  unit:  35  Disp-13:30:26  Arvd-13:30:37  Clyrd-13:44:10  SERVICES RENDERED  19-11943  Oa21  Initiated -  TRAFFIC CONTROL  Call Taker:  SERGEANT SCOTT E MCGOWAN  COLE AVE  Location/Address:  Unit:  30  Arvd-08:21:18  Clyrd-08:35:65  19-11944  o845  Other -  LARCENY  INVESTIGATED / REPORT  TAKEN  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  (WIA 295} LAB CAMPUS DR  Narrative:  Stolen article report faxed from WCSS. 6 Topolino mini  blue in color.  stirrers,  Refer To Incident:  19-233-OF  19-1L1946  asoe  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+Unit: 30 Arvd-07:14:00 LJird-07:34:22
+Unit: 25
+Disp-14:15:11 Arvé-14:15:18 Tord-14:35:15
+19-1193¢ 0737 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: “0_> SPRING RD
+nit: 3
+Aryd.07:37:06 Cird-07:3'7:13
+Xarracive:
+arecxed
+HarralLive:
+Checked Arca.
+19-11937 0741 Initieted - TRAFFIC CONTROL SERVICER RENDERED
+Csl11 Taker: SERGEANT SCOTT E MOGCWALN
+Location/Address: GALE RD
+Unit: ad
+Arvd-07:42:06 Clrd-28:04:12
+Unit: a5
+Disp-11:51:18 Byvd-14:51:41 Clrd-15:12:08
+19-.11934 0804 Other - PUBLIC RECORDS REQURST SERVICES RENDERED
+Cal Taker: CHIEF KYLE + JOHNSON
+Rarzralive:
+1L9-99-AC. Emalled.
+Requesting
+SERVICES RENDERED
+1585-11940 081o Phona - ASSIST OTHER AGENCY - FIRE
+Cazl Taker: PATROL ANTHONY M LUPRAT
+—ocation/Address: [#7A 165] ADAMS RD
+Narrative:
+Testing fire system, Will call back when testing is
+completa,
+18-11942 oBls Initiated - TRAFFIC CONTROL EERVICES RENDERED
+Cull Taker: LIEUTENANT MICHAZ. J ZAIRMBA Jr
+Location/Address: [AZAR 333] CHJIRCH ST
+Unik: 34
+Arvd-08:18:49 Clrd-08:37:01
+Init: 35
+Ligp-.3:30:2¢ Arvd-13:30:37 Clrd-13:44:10
+19-115943 0821 Initiated - TRAFFIC CONTROL EERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLE AVE
+Unit: 30
+Arvd-08:21:28 Clrd-08:35:05
+19-119544 0845 Other - LARCENY INVESTIGATED / REPORT
+TAKEN
+Call Taker: EATROL ANTHONY M DUPRAT
+Tocation/Address: (WIA 257 LAR CAMPUS DR
+Narrative:
+Stolen artic_e repor: faxed from WCSS. 6 Topolino mini
+stir-ers, blue in colcr.
+Refar To Inclident: 19-223-07F
+19-115946 asoe Initiated - BUILDING CHECK BUTLDING CHECKED/SECURED

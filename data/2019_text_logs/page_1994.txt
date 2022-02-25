@@ -1,1 +1,49 @@
-Checked 5-4  20:36  Narrative:  Checked 0144  19-13659  0937  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Addregs  FALL ST  Unit  30  Arvd-09:37:13  Clrd-03:40:36  Narrative  checked  Narrative  Checked 5-4  20:24  Narrative  Checked 0112  19-13700  0954  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  LIEUTENANT MICHAEL J Z2IEMBA Jr  Call Taker:  Location/Address:  [WIA 333]  CHURCH ST  Unit:  37K  Arvd-09:54:52 Clrd-09:56:55  2$-13701  1004  911 -  ALARM  - BURGLAR  ALARM FALSE  Call Taker:  PATROL ANTHONY M DUPRAT  COLD SPRING RD  Location/Address:  [WIA 671]  Unit:  30  Disp-10:07:40 Enrt-10:07:57 Arvd-10:15:56  Clyrd-10:17:18  Narrative:  Barn entry alarm.  Narrative:  Building secure, unknown reason for activation.  $11 + ASSIST OTHER AGENCY  =  OTLLITY  SERVICES RENDERED  19-13702  1009  Call Taker  PATROL ANTHONY M DUPRAT  WOODCOCK RP  Location/Address  Unit  30  Disp-10:18:36  Bnrt-10:18:45 Arvd-10:19:21  Clird-11:30:02  Unit  35  Disp-21:13:43  Enrt-11:13:44  Arvd-11:23:07  Clrd-11:23:11  Narrative  CP reports a utility pole broken in half on Weodcock Rd;  unknown if wires are down.  Narrative  National Grid Notified.  Narrative  Tree across entire road in between house #44 and Harmon Pond  Road, along with pole. National Grid on scene. Two "road  closed" barricades deployed.  Narrative  Road fully open. Si has barricades.  1419-13703  1917  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+Checkad 8-4 20:36
+Harrat-ve:
+Checkec C144
+15-13659 09837 Iritintad - BUILDING COICK BUILDING CHECKED/SECGRED
+Talr Taker: SFRGFANT SCOTT BE MC3OWAN
+Lezasion/Addrees: HALL ST
+Unik: 30
+Arvd-09:27:13 Clrd-03:40:36
+Narrat-ve:
+chackec
+Harrat-ve:
+Checkes 5-4 20:24
+Narrative:
+Chocked 2112
+i9-13700 0354 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tzker: alEUTENANL MICHAED,, ¢ ZIEMBA J
+Leoacion/Acdress: (WIA 2333] CHURCH ST
+Uailb: ITK
+Arvd-09:54:82 Clrd-05:56:55
+FALSE
+15-13701 1004 911 - ALARM - BURGLAR ALARM
+call Taker: ZATROL ANTHONY M DUPRAT
+Lecation/Address: WTA 71] COLD SPRING RD
+Unit: 0
+THigp-"0:07:40 Eaxrt-10:07:57 Ayvd-10:15: 56 Clrd-15:17:18
+Harrat-ve:
+Bam entry alarm.
+Narrative:
+Duzldong secure, unxuown reason Zor accivation.
+12-13702 1009 5i1 - ABSIST OTHER AGENCY - UTILITY SERVICES REMDERED
+Cal. Tuker: TATROL ANTHONY M DUPRAY
+Location/Address: WOODCOCK RD
+Urit: 30
+Lisp-i0:108:25 Eryt-10:-8:45 Arvd-10:19:21 Clrd-21:33:02
+Jmit: 35
+Cisp-1l1:13:43 Enxl 11:23:44 Arvd-11:23:07 Clrd-:1:23:11
+Narrative:
+CP reports a utility pole broken xn half on Woodcock «xd:
+un<nown it wires are down.
+Narrative:
+Natiomal Grid Notitied.
+Navrvabiva:
+Tree across entire road in ketweas. house #44 wid Clasmon Pond
+Road, along with pole. National Grid on scene. Two "road
+closac" barricades dep-oyed.
+Nayvrative:
+Road fully S1 has barricades.
+open.
+19-13703 1017 Initiated - BUILDING CHECK BUXLDING CHECKED/SECURED

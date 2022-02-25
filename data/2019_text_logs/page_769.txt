@@ -1,1 +1,55 @@
-Car parked in lot, nobody around  19-5149  0044  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  Location/Address  MAIN ST  Unit  34  Arvd-00:44:32 Clrd-00:48:22  Vehicle  PC MA 82NM30  ONG 2013 JEEP VN WRANGL Reg  VIN: iIC4AJWAG3DL500092  Operator  MEAD, CAYMAN H @ 41 MASON ST  - WILLIAMSTOWN, MA 01267-2219  Race: W Sex: M  Refer To Citation  T1401228  Owner  MEAD, CAYMAN H @ 41 MASON ST - WILLIAMSTOWN, MA 01267-2219  Race: U Sex: M  19-5150  0100  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  [WIA 2092] CHURCH ST  Unit:  32  Disp-01:03:34 Enrt-01:04:09  Arvd-01:06:38 Clrd-01:29:47  Unit:  34  Disp-01:03:48 Enrt-01:04:31  Arvd-01:10:40  Clrd-61:30:22  Vehicle:  WHI 2013 BUIC SE VERANO Reg: PC MA 934GX2  VIN: 1G4PS5SK6D4174668  Owner:  RICHARDSON, RUTH M @ 140 CHURCH ST Apt. #210 - WILLIAMSTOWN, MA  01267-2453  Race: W Sex: F  Narrative:  Caller states there is a white vehicle parked across from  the entrance door that has the lights on and is running.  States vehicle has been there for sometime now. Unknown if  occupied.  Narrative:  Unable to raise subject by phone. When inside, knocked on  door, still no response. Used key to enter apartment,  subject was sleeping. Advised her car was running, officers  —  turned car off, returned her keys to her.  1  19-5152  0203  Initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  {WIA 199] COLD SPRING RD  Unit  32  Arvd-02:04:33  Clird-02:05:06  Vehicle  RED 2003 DODG RAMTRU Reg: PC MA 6DF623 VIN: 1D7HU18N135291863  Owner  LANE, DARIN R @ 42 TILDA HILL RD - FLORIDA, MA 01247-9641  Race:  U Sex: M  Narrative  M/V parked in the parking lot, unoccupied.  19-5154  0344  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  (WIA 249} NORTH ST  Unit:  32  Arvd-03:45:10  Clrd-03:45:14  19-5155  0718  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Cail Taker  PATROL TANIA HERNANDEZ  Location/Address  COLD SPRING RD  Unit  36  Arvd-07:18:56  Clrd-07:40:46  Unit  37K  Disp-14:18:00 Enrt-14:18:15  Arvd-14:18:42  Clrd-14:34:41 
+Car parked in lot, nobody around
+19-5149 0044 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: MAIN ST
+Unit: 34
+Arvd-00:44:32 Clrd-00:48:22
+Vehicle: ONG 2013 JEEP VN WRANGL Reg: PC MA 82NM30 VIN: 1C4AJWAG3DL500092
+Operator: MEAD, CAYMAN H @ 41 MASON ST - WILLIAMSTOWN, MA 01267-2219
+Race: W Sex: M
+Refer To Citation: T1401228
+Owmer: MEAD, CAYMAN H @ 41 MASON ST - WILLIAMSTOWN, MA 01267-2219
+Race: U Sex: M
+19-5150 0100 Phone - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call Taker: SERGEANT PAUL D THOMPSON
+Location/Address: [WIA 2092] CHURCH ST
+Unit: 32
+Disp-01:03:34 Enrt-01:04:09 Arvd-01:06:38 Clrd-01:29:47
+Unit: 34
+Disp-01:03:48 Enrt-01:04:31 Arvd-01:10:40 Clrd-01:30:22
+Vehicle: WHI 2013 BUIC SE VERANO Reg: PC MA 934GX2 VIN: 1G4PS5SK6D4174668
+Ovner: RICHARDSON, RUTH M @ 140 CHURCH ST Apt. #210 - WILLIAMSTOWN, MA
+01267-2453
+Race: W Sex: F
+Narrative:
+Caller states there is a white vehicle parked across from
+the entrance door that has the lights on and is running.
+States vehicle has been there for sometime now. Unknown if
+occupled.
+Narrative:
+Unable to raise subject by phone. When inside, knocked on
+door, still no response. Used key to enter apartment,
+subject was sleeping. Advised her car was running, officers
+turned car off, returned her keys to her.
+19-5152 0203 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA 199] COLD SPRING RD
+Unit: a2
+Arvd-02:04:33 Clrd-02:05:06
+Vehicle: RED 2003 DODG RAMTRU Reg: PC MA 6DF623 VIN: 1D7HU18N135291863
+Owner: LANE, DARIN R @ 42 TILDA HILL RD - FLORIDA, MA 01247-9641
+Race: U Sex: M
+Narrative:
+M/V parked in the parking lot, unoccupied.
+19-5154 0344 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA 249] NORTH ST
+Unit: 32
+Arvd-03:45:10 Clrd-03:45:14
+19-5155 0718 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: COLD SPRING RD
+Unit: 36
+Arvd-07:18:56 Clrd-07:40:46
+Unit: 37K
+Disp-14:18:00 Enrt-14:18:15 Arvd-14:18:42 Clrd-14:34:41

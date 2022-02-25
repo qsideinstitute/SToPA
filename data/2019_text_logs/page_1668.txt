@@ -1,1 +1,53 @@
-WwW Sex: M  Race:  19-211809  2140  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KEVIN P GARNER  Location/Address  NEW ASHFORD RD  Unit  34  Arvd-21:40:18  Clrd-21:44:57  Vehicle  GRN 2007 MERC MARINE Reg: PC MA 153PP9 VIN: 4M2¥U91137K708530  POIROT, TREVOR A @ 17 CLIFFORD LN - ADAMS, MA 01220  Operator  Race:  W Sex: M  Refer To Citation  T1785315  Owner  POIROT, GABRIELLE LEIGH @ 227 MAIN ST - DALTON, MA 01226-2658  Race: U Sex: F  <  For Date:  09/22/2019  Sunday  19-113811  0118  Phone - NOISE COMPLAINT  PEACE RESTORED  Call Taker:  MICHAEL STRIZZI  Location/Address:  HOXSEY ST  Unit:  a1  Disp-01:19:43  Enrt-01:20:18 Arvd-01:23:10  Clrd-01:35:54  34  Unit:  Disp-01:19:43  Enrt-91:20:34 Axrvd-01:23:47  Clrd-01:37:10  Unit:  38  Disp-01:19:43  Enrt-01:20:29 Arvd-01:24:59  Clrd-01:33:44  Narrative:  much noise  CP states there is College students making too  down the street.  She also believes they may be in the  construction site.  Narrative:  General loud music and large crowds in street. Music shut  off at two residences. All people moved on their way. Peace  restored.  SERVICES RENDERED  19-11612  0353  Initiated - PARKING CHECK  Call Taker:  PATROL CRAIG A EITCHHAMMER  Location/Address:  {WIA 390} SIMONDS RD  Unit:  31  Arvd-03:54:01  Clrd-03:54:16  19-23813  0753  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  [WEA 1832] NORTH HOOSAC RD  Unit  30  Arvd-07:54:28  Clrd-07:55:52  Narrative  Checked  Narrative  checked  Narrative  done  Narrative  done  19-11814  o759  tnitdated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN 
+Race: W Sex: M
+CITATION - WARNING
+19-118039 2140 Initisted - MOTOR YEMICLE STOP
+call Takex: PATROL KEVIN P GARNER
+Location/Address: NEW ASHFORD RD
+Lnitc: 34
+Arvd-21:40:18 Clrd-21:44:57
+Vehicle: GRMN 2007 MERC MARINE Reg: BC MA 153PP9 VIN: 4M2YU911l37KJOB520
+Operator: POIROT, TREVOR A  _7 CLIFFORD LN - ADANS, MA 0:220
+Race: W Sex: A
+iefer Tc Citation: T1785315
+Own.axr : POIROT, GABRIELLE LEIGH @ 227 MAIN ST - DALTON, MA 01226-1558
+Race: U Eewx: F
+For Date: 09/22/2019 Sunday
+18-11811 0118 phone - MOISE COMPLAINT PEACE RESTORED
+Call Taker: MICHARL STRIZZI
+sazion/Address: RCXSEY ST
+unit: 31
+DiRpp-02:19:43 Enrz-01:20:18 Arvd-01:23:10 Cl>d-01:35:
+Unic: 34
+Disp-01:19:43 Enrt-01:20:34 Arvd-01:23:47 Clx>3-01:37:.0
+Unit: 38
+isp-01:19:43 Enrt-01:20:29 Arvd-0l: ird 01:33:
+Karrative:
+CP statea there is College studerts making tco much noige
+down the street. She also believes they may De in the
+construction site.
+Narrative:
+General loud music and large crowds in streek. Music shut
+off at two residences. All people moved on their way. Peace
+restored.
+18-11812 0353 Initiated - PARKING CEECK SERVICES RENDERED
+Call Taker: BATROL ORALG A RTCHHAMMER
+Location/Address: WIA 390] SIMONDS RD
+Trnic: 31
+Arva-03:54:01 Clrd-03:54:16
+0753 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+19-131813
+Cal: Taker: SERGEANT SCOTT FE MCGOWRN
+lecation/Addreas: [WIA 1832] NORTH HOOSAC RD
+Unik: 30
+Arvd-07:54:28 Clrd-07:55:52
+Narrative:
+Checked
+Karrative:
+chexzed
+Narralblive:
+done
+Narracive:
+done
+0755 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+19-118614
+Cal Taker: SERGEANT SCOTT E MOGOWAN

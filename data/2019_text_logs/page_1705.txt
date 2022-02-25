@@ -1,1 +1,50 @@
-Narrative:  Interior garage motion.  Narrative:  Property manager om scene stated he set the alarm off, the  garage door was open and he tried knocking on the door then  opened it and set the alarm off. Building checked and garage  deor secured.  19-12042  1043  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  [WIA 225] COLD SPRING RD  Unit:  36  Arvd-10:43:30  Cird-10:46:03  49-12043  1049  tnitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  COLD SPRING RD  Unit:  36  Arvd-10:49:46  Cird-10:50:36  Narrative:  checked  Narrative:  Checked 0353  19-12044  14113  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  [WIA 333] CHURCH ST  unit  36  Arvd-11:14:13  Clrd-113:14:51  Narrative  Checked  19-12054  1205  Fhone ~ TRAFFIC COMPLAINT  SERVICES RENDERED  Cali Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  COLE AVE  Narrative:  Town manager received multiple  complaints via phone call  about the construction on Cole  Ave  NO ACTION REQUIRED  19-12045  1225  $12 - 9-1-1 HANG UP CALL  Call Taker:  LIEUTENANT MICHAEL 7 ZIEMBA  Jr  Location/Address:  {WIA 163] ADAMS RD  Narrative:  Hang up call from Williamstown  Medical, Upon call back they  stated no services are needed.  Dispatch advised them if  someone accidentally call's to  stay on the line.  VEHICLE OPENED  1219-12048  1351  Phone - MOTOR VEHICLE LOCK OUT  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 19832] NORTH HOOSAC RD  Unit  36  Arvd-13:55:44 Clrd-14:01:60  Disp-13;53:19 Enrt-13:53:52  Vehicle  BRO 2003 HOND SE CIVIC Reg: PC MA 675VCi VIN: 2HGES26723H530794  Operator  ROONEY, KAYLA K @ 1231 NORTH HOOSAC RD Apt. #206 - WILLIAMSTOWN, MA  01267-2330 
+Narrative: motion.
+Interior carage
+Narrazive:
+Property manager on scene stated he set the aiarm off, the
+garage dcor was open and he tried knocking on the door then
+opened it and set the alarm off. Building checked and garage
+door secured.
+15-12042 1043 Initiated - BUILDING CHECE BUILDING CHECKED/SECURED
+Call Taker: PATROL. TANIA HERNANDEZ
+Localicn/Address: [WIA 2235] COLD SPRING RD
+Unit: 38
+Arvd-10:43:30 Clrd-10:46:03
+15-12043 1049 Inltiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cail Taker: PATROL TANIA HERKANDEZ
+Locatlon/Address: COLD SPRING RD
+Unit: 36
+Arvd-10:44:46 Clrd-10:50:36
+Narrative:
+checked
+Narrativa:
+Chacked 0353
+19-120e4 1113 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call taxexr: ERTROL TANIA HERKANDZZ
+Tocation/address: IlWZA 333] CIIORCH ST
+JTmik: 36
+Arvd-11:34:13 Clrd-1i:14:51
+Narrative:
+Checked
+15-12054 12056 Phone - TRAFFIC COMFLAINT SERVICES RENDERED
+Cali Texer: FATROL ANTHONY M DUPRAT
+Localkion/Address: COLE AVE
+Narrative:
+Town mandger reccived multiple complaints via phones call
+about the couslLruction on Cole Ave.
+19-122045 1225 $11 - 9-1-1 HANG UF CALL NO ACTION REQUIRED
+Call Tzakezr: LIEUTENANT MICHAEL [5 J - ZIEMBA JX
+Lecation/Address: (WIR 163] ADAMS RD
+Narrative:
+Hang call fron Williamstown Medical, Upon ca’l back they
+stared up no serviccs are needed, Digpatch advised them if
+accidentally ¢a’l's to stay on the Jine.
+someone
+19-12048 13251 Phone - MOTOR VEHICLE IOCK CUT VEHICLE OPENED
+Call Taker: PATROL ANTHONY M DUPRAT
+Locazlon/Addresas: iWIA 1332) NOTH HCOSMAC SD
+Unit: 36
+Enrt-:3:53:52 Arvd-13:55:44 Clrd-14:01:00
+Vehicle: Disp-13:53:19 BRO 2003 HOND SE CIVIC PC MA 675VC1 VIN: 2HGES26723HZ10734
+KAYLA K @ 1231 NORTH Xeg: HOOSA( RD Apt. #206 - WILLIAMSTOWN, MA
+01267-2330 Oparator: ROONEY,

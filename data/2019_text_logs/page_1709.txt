@@ -1,1 +1,57 @@
-Race:  W  Sex: F  19-12068  20021  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL DAVID JENNINGS, BD  Location/Address:  MAIN ST  unit:  35  Arvd-20:01:55  Cird-20:10:11  Vehicle  BRO 2011 TOYT TK TACOMA Reg: TK VT 315A558  VIN: STFUX4ENSBAOO5102  LAUZON, DAVID J @ 800 COUNTY RD - BENNINGTON, VT 05201  Operator  Race:  W Sex: M  Refer To Citation  TL786035  Owner  LAUZON, DAVID J @ 800 COUNTY RD - BENNINGTON, VT 05201  Race: W  Sex:  BM  19-12069  26016  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL DAVID JENNINGS, BD  Location/Address:  MAIN ST  Unie:  35  Arvd-20:16:11  Clrd-20:26:45  Vehicle:  WHI 2014 HOND Accord Sport  Reg: PC CT 1820CL VIN: 1HGCR2F5XEA048447  Operator:  STOCK, LAUREN E @ 48 HOLY FAMILY RD Apt. #418 - HOLYOKE, MA 01040-  2771  Race:  W Sex: F  Refer To Citation:  Ti786036  Owner:  STOCK AND DAUGHTERS LAND SCAPING INC @ 137 BAYBERRY LN - ROCKY HILL,  CT 06067  19-12070  2032  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  NORTH ST  Unit:  38  Arvd-20:32:13  Cird-20:41:07  VIN:  12VETS2HX95109963  Vehicle:  BLK 2009 FORD CO MUSTAN Reg: PC MA 8RW246  Operator:  MACKIE, COLIN RICHARDSON @ 204 YOKUM POND RD - BECKET, MA 01223-5720  Race:  W  Sex: M  Refer To Citation:  T2085146  Owner:  MACKIE, KEITH R @ 204 YOKUM POND RD - BECKET,  MA 01223-9720  Race:  U Sex: M  2036  $11 - SUSPICIOUS ACTIVITY  SERVICES RENDERED  19-12072  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  COLE AVE  Unit  35  Disp-20:38:32  Enrt-20:39:02 Arvd-20:41:51  Cird-20:59:35  Narrative  Reports she is alone with a friend and little sister.  Someone keeps agressively banging on the door. When she goes  to check it out, no one is there. Has happened 5 times in  the past 15 minutes.  Narrative  Found $ kids running up Mt. Williams Dr. Parent called and  ratrieved kids.  19-12072  2042  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  [WIA 249] NORTH ST  Unit  38  Arvd-20:42:26  Clrd-20:42:51  Narrative  09/28/2019 0036 Checked 53 
+Race: HW Sex: F
+19-12068 2001 Injtiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taxer: EATROL DAVID JENNINGS, D
+rocation/Address: MAIN 2T
+units 5
+Arvd-20:01:35 Clrd-20:10:11
+Vehicle: BRO 2011 TOYT TK TACOMA Reg: TK VT 31Sh858 VIN: STFUKAENSBXOLS10Z
+Operalos: SAJEZON, DAVID J @ 800 COUNTY RL - BENNINGTON, VT 05201
+Race: W Hex: M
+Refar To Jitaticn: T1I86035
+Janer: LAUZOK, DAVID J @ 020 COUNTY RD - 3ENWN_NG.ON, VT 05201
+Race: W Sex: M
+19-12069 2016 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cal. Taxer: FATROT. DAVTD JENNINGE,
+Lozation/Addrcss: MAIN ET
+Usiile 35
+Rrvd-20:1R:21 Clrd-20:26:45
+vehicle: WH] 2014 HCND Accord Sport Rey: PC CT 1820C1L. VIN: JIHOGCR2FSXEA0Z8447
+Operalor: STOCK, LAUREN E @ 48 HOLY FAMILY RD Apt. #418 - HOLYOKE, MA 01540-
+277
+Bace: W Sex: F
+Refar To C.tak-on: Ti7862
+Owitex: STOCK AND DAUCHT®RY LAND SOAPING INC @ L37 BAYBERRY HN - ROCKY HINIL,
+oT 06067
+19-129070 2032 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cal. Taxe:r: PATROL. JOHN J MCCCNMZELL JR
+Logation/Address: NORTH 8T
+Jit EY)
+Arvd-20:32:19 Clrd-20:41:07
+vehicle: BLK 2009 FORD CO MUSTAN Reg: PC MA BRW246 VIN: 1ZVHTS2HX95109963
+Operalox: MACKI®, COLIN RICHARDSON © 204 YOKIIM PONT: RD - BECKET, MA 31223-9720
+Rage: W Hox: M
+Refer To Jitation: I2085.456
+Owrnor: EAOKIE, XREITY P @ 254 YOIIM S0NO RD - SECKET, MA 01225-9720
+Race: U Sex: M
+15-12071 2036 511 - BUSPICIOUS ACTIVITY SRRVICESE RENDERED
+Call Takcr: DISPATCHER LAURIE TUPER
+Location/Address: COLE AVE
+Init: 35
+Ligp-20:38:32 Enxt-20:39:02 Arvd-20:41:51 Clrd-Z0:53:35
+Narrative:
+she is alone with a friend and little zister.
+Reports Someone keeps agreasively banging on the door. When she goes
+to check it cut, no one is there. Has happened 5 times in
+the 15 minutes.
+past
+Narrative:
+Found B kids Mt. Williams Li. Fareat zalled and
+ratrieved kids. running vp
+2042 Initiated - BUILDING CHECK BUILDIRG CHECKED/SECURED
+19-120672
+Call Taker: PATROL JOHN J MCCONKELT, JR
+wocation/Address: [WiA 242] ROKTH 81
+Unit: 3B
+Arvd-20:42:26 Clrd-20:42:51
+Narrative:
+09/28/2019 0036 Checked S3

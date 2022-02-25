@@ -1,1 +1,53 @@
-Narrative:  Checked Area.  19-11408  0534  Initiated - BUILDING CHECK  BUZLDING CHECKED/SECURED  Call Taker  LIEQVTENANT MICHAEL J ZIEMBA Jr  Location/Address  MAIN ST  Unit  37K  Arvd-09:394:25  Clrd-09:35:09  Narrative  Usual east facing door propped slightly ajar.  Narrative  Checked...door still propped.  Narrative  Checked, east side door open as it is every night. 0151  19-11403  O945  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker:  CHIEF KYLE J JOHNSON  GREEN RIVER RD  Location/Address:  Unit:  33  Arvd-09:45:03  Clrd-09:52:31  Vehicle:  GRY 2006 TOYT SE CAMRY Reg: PC MA 3288622  VIN:  4TLBE32K560137403  Operator:  PHILLIPS, MARK A SR @ 35 BRIGGS AVE - PITTSFIELD, MA 01201-3336  Race: W Sex: M  Refer To Citation:  T1785849  Owner:  PHILLIPS, MICHELLE A @ 35 BRIGGS AVE - PITTSFIELD, MA 01201-3336  Rate:  W Sex:  F  19-11419  1014  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  MAIN ST  Unit  35  Arvd-10:14:47  Clrd-10;29;42  Vehicle  GRN 2006 SAA SE $2 Reg: PC MA 2WS5268  VIN: JF4GG61646G050246  Operator  HYNES, BENJAMIN GORDON @ 13 HALL ST - WILLIAMSTOWN, MA 01267-2509  Race:  W Sex: M  Refer To Citation:  T1786020  Owner:  HYNES, BENJAMIN GORDON @ 13 HALL ST ~- WILLIAMSTOWN, MA 01267-2509  Race: W Sex: M  19-13411  1047  Phone - 8.6.1.9.  UNABLE TO LOCATE  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  SIMONDS RD  Unit  30  Disp-10:49:36  Arvd-10:49:48  Clrd-10:54:01  Unit  35  Disp-10:49:36  Arvd-10:49:52  Cird-11:03:05  Vehicle  BRO 1996 OLDS SE CUTLAS Reg: PC MA SYY¥777 VIN: 1G3AJ55M4T6416810  Owner  CONLEY, TRACY J @ 214 WASHINGTON ST - NORWELL, MA 02061-1724  Race:  U Sex: F  Narrative  BOLO from VSP MA 9YY777 unable to maintain lane.  last seen  traveling on US-7 Pownal.  19-11412  4108  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  PARK ST  Unit:  35  Arvd-11:08:47 Clrd-11:09:33 
+Narrative:
+Checkad Zrea.
+19-114408 0534 Initiated - BOTLDING CHECK BUILDING CMECKED/SECURED
+Call Taker: LIBUTENANT MICEAEL J ZIEMBA Jr
+Local ion/Address: MAIN ST
+Unit: ATK
+Arvd-09:34:25 Clrd-09:35:09
+Narraziva:
+Usual east facing door propped slightly ajax.
+Narracive:
+Checked. . .door still propped.
+Checked, east side door open as -t 1s every nigh:z. I151
+18-11409 0945 Initiated - MOTOR VEAICLE STOP CITATION - CIVIL
+Call Taker: CIHZEF KYLE J JOHNSON
+Lecation/address: SREEN RIVER RD
+Unit: 33
+Arvd-09:45:53 Clré-09:52:31
+Vehicle: UkY 2006 TOYT SE CAMRY Heg: PC MA 238BCGL2 VIN: 4T1BL32K56U137405
+PHILLIPS, MARK A SR § 35 3RIGGS AVE - PITTSFIELD, MA 01201-3336
+Cpecrator: Raca: W Sex: M
+Refar To Citation:
+T1785849
+Owner: PHILLIES, NMICELLE A @ 35 RRIGGS AVE - PTTTIFIRELD, MA 01201-3358
+Race: W Sex: ©
+19-114140 1014 Iniclated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATPOL BRAD SACCD
+Location/Address: MAIN ST
+Unit: 33
+Arvd-15:14:47 Clxd-12:29:42
+vahicla: @xN 200e SAA SE 52 Req: 2C MA 2WRB2G3 VIN: JF4GG61646G050246
+Operator: HYNES, BENJAMIN GCRDONM # 13 HALL ST - WILLIAMSTOWN, MA 01257-2509
+Race: W Sex: M
+Refer To Citation: T1786020
+Cwnar: HYNES, BENJAMIN GORDON @ 13 HALL ST - WILLIAMSTOWN, MA 01287-2509
+Race: W Sex: HM
+1959-11411 1047 Phone - B.OLL.O, UNABLE TO LOCATE
+Cal: Taker: PATROL AMTHOKY M CUPRPRAT
+Location/Address: SIMONDS RD
+Unit: 30
+Disp-10:49:26 Arvd-10:42:48 Clrd-:10:54:01
+Unit: a5
+NMep-10:19:136 Arvd-10:42:52 Jird-11:03:06
+Vehicla: BRO C956 OI0R 9E CIFoAaY Reg: PC MA 2YYT7TT VIN: 1G3AJS5MATO415B10
+DWRY: CONLITY, TRACY © @ 214 WASHINGTON 5ST - NORWELL, MA 02051-1724
+Race: U Sex: F
+Narrative:
+BOLO from VSP MA 9YY777 unable to maintain lane. last seen
+raveling on IU5-7 Pownal.
+19-131412 t108 Initiated - PARKING CHECK SERVICES RENDERED
+Cazl Takxex: BATROL BRAD SACCC
+Location/Address: VARK 87
+Unik:
+35 Arvd-11:08:47 Q1x»d-311:09:33

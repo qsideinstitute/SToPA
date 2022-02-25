@@ -1,1 +1,55 @@
-19-4677  1610  Phone - LARCENY  LOG ENTRY REQUEST  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  SIMONDS RD  Narrative:  Reports two packages taken from her mailbox. Thief took them  to old Price Chopper/Friendiy's lot, opened them and took  PlantSkydd (valuéd at $36.00) leaving the childrens crayons  in the box. Some person found the boxes and returned them to  caller. She has notified USPS and will be notifying Amazon.  Requests log note.  19-4678  1627  Initiated - MOTOR VEHICLE STOP  CITATION ~ WARNING  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  MAIN ST  Unit  36  Arvd-16:28:45 Clrd-16:37:35  Vehicle  RED 2008 FORD EXPLOR Reg: PC MA 7XT618  VIN: 1LFMEU74E68UA54864  Operator  DELMOLINO, IAN J @ 112 MAIN ST - CHESHIRE, MA 01225-9624  Race: W Sex: M  Refer To Citation  T1401092  Owner  DELMOLINO, IAN J @ 112 MAIN ST - CHESHIRE, MA 01225-9624  Race:  U Sex: M  19-4680  1743  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SCHOOL ST  Unit  31  Arvd-17:45:05  Clrd-17:46:31  Narrative  Checked S-4  19-4681  1749  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  {WIA 190] MAIN sT  Unit  3a  Arvd-17:50:53  Cird-217:51:19  Narrative  Checked Area.  19-4682  1758  initiated - PUBLIC SERVICE  SERVICES RENDERED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  NORTH HOOSAC RD  Unit  31  Arvd-18:00:10  Clrd-18:29:31  Unit  36  Disp-18:05:45  Enrt-18:05:45  Arvd-18:08:58  Clrd-18:29:41  Narrative  Neighbor house sitting and locked her keys inside home. Used  jamb spreader on front door. No damage.  19-4684  1836  Phone - TRAFFIC COMPLAINT  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  {WIA 221] POTTER RD  Unit  36  Disp-18:40:53  Enrt-18:41:24 Arvd-18:52:42 Clrd-19:06:01  Unit  31  Disp-18:51:01  Enrt-18:51:01 Arv@-18:58:43  Cird-19:05:05  Vehicle  WHI 2003 FORD DP F350  Reg: CO NY 13057MM VIN: 1FDXF47F63EA37006  Operator  BLAIR, SEAN @ 178 POTIC CREEK RD - EARLTON, NY 12058  Sex: M 
+19-4677 1610 Phone - LARCENY LOG ENTRY REQUEST
+Call Takex: DISPATCHER LAURIE TUPER
+Location/Address: SIMONDS RD
+Narrative:
+Reports two packages taken from ner mailbox. Thief took them
+to old Price Chopper/Friendly's lot, opened them and took
+PlantSkydd (valued at $36.00) leaving the childrens crayons
+in the box. Some person found the boxes and returned them to
+caller. she has notified USPS and will be notifying Amazon.
+Requests log note.
+19-4678 1627 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL TANI1A HERNANDEZ
+Location/Address: MAIN ST
+Unit: 36
+Arvd-16:28:45 Clrd-16:37:35
+Vehicle: RED 2008 FORD EXPIOR Reg: PC MA 7X1'618 VIN: 1FMEU74E68UA44864
+Operator: DELMOLINO, IAN J @ 112 MAIN ST - CHESHIRE, MA 01225-9624
+Race: W Sex: M
+Refer To Citation: 1401092
+owner: DELMOLINO, IAN J ® 112 MAIN ST - CHESHIRE, MA 01225-9624
+Race: U Sex: M
+19-4680 1743 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SCHOOL ST
+Unit: 31
+Arvd-17:45:05 Clrd-17:46:31
+Narracive:
+Checked S-4
+19-4681 1749 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: [WIA 1950] MAIN ST
+Unit: 31
+Arvd-17:50:53 Clrd-17:51:19
+Narrative:
+Checked Area.
+19-4682 1758 Initiated - PUBLIC SERVICE SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: NORTH HOOSAC RD
+Unit: 31
+Arvd-18:00:10 Clrd-18:29:31
+Unit: 36
+Disp-18:05:45 Enrt-18:05:45 Arvd-18:08:58 Clrd-18:29:41
+Narrative:
+Neighbor house silting and locked her keys inside home. Used
+jamb spreader on front door. No damage.
+19-4684 1836 Phone - TRAFFIC COMPLAINT SERVICES
+Call Taker: DISPATCHER LAURIE TUPER RENDERED
+Location/Address: [WIA 221] POTTER RD
+Unit: 36
+Disp-18:40:53 Enrt-18:41:24 Arvd-18:52:42 Clrd-19:06:91
+Unit: 31
+Disp-18:51:01 Enrt-18:51:01 Arvd-18:58:43
+Vehicle: WHI 2003 FORD DP F350 Reg: CO NY 13057MM Clrd-19:05:05
+Operator: BLAIR, SEAN @ 178 POTIC CREEK RD - VIN: NY 1FDXF47F63EA37006
+Sex: M EARLTON, 12058

@@ -1,1 +1,46 @@
-30/05/2619 2313 Checked §3  Narrative  Checked Area.  Narrative  Checked Area.  Narrative  Checked Area.  Narrative  10/06/2019 0518 Checked 33  19-12390  o906  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  WOODLAWN DR  Unit:  35  Arvd-09:06:46 Cird-09:06:57  Narrative:  CHECKED  Narrative:  Checked Area.  19-12392  O12  Initiated - BUITLDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  HARWOOD ST  Unit  35  Arvd-09:;12:41  Clrd-09:13:11  Narrative  checked  Narrative  done  Narrative  Checked Area.  19-12393  0518  Initiated - BULLDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  STRATTON RD  Unit:  35  Arvd-09:18:12  Clrd-09:19:35  Narrative:  checked  Narrative:  Checked Area.  19-12394  0923  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  MAIN ST  Location/Address  Unit  35  Arvd-09:24:07  Clyrdg-09:25:55  Narrative  checked 
+10/05/2012 23i3 Checked S3
+Narrative:
+Checked Area.
+Narrative:
+Checked Arew.
+Karrative:
+Chacxed Lhrea.
+rarrative:
+10/66/2919 05.8 Checked 33
+19-123390 090s Initiated - BUILDING CHECK BUILDING CHRECKED/SECURED
+Call ‘Taker: PATROL SRAD SACCC
+Tocaticn/Address: WOODLAWK CR
+Unit: 35
+Arvi-09-06:46 Clivd-09:06:57
+Narrative:
+CHFCKED
+Narralivo:
+Checked Area.
+CHECK BUILDING CHRCKED/SECURED
+15-12392 0812 Initiated - BUILDING
+‘ali Texer: PATROL BIAD SACO
+Locabion/Address: HARKOOLD ST
+Jit: 35
+Arvd-09:24:41 Clrd-05:12:11
+Narrative:
+checked
+Narrat:ve:
+done
+Narrat:-vea:
+Checked Are.
+1595-12393 asis Initiated - BUILDING CHECK BUILDING CHECEED/SXECURED
+call Taker: PAI'RCL BRAD SACCO
+Locazion/Addreas: STRATION RL
+Unik: 35
+Arvd-09:18:12 Clrd-09:19:35
+Marrative:
+checked
+Xarrative:
+Checked Area.
+19-1x2394 0923 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+all Taker: PATROL BRAD SACCO
+Location/Address: MAIN ST
+Unit: 25
+Arvd-03:24:07 Clrd-09:25:55
+Narrative:
+checked

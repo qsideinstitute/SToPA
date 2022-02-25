@@ -1,1 +1,55 @@
-19-1058  1458  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker;  PATROL SHUAN N WILLIAM  Location/Address:  {WIA 333] CHURCH ST  Unit;  32  Arvd-14:58:52 Clrd-15:17:00  19-1060  1515  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker  DISPATCHER LAURIE TUPER  FORT HOOSAC PL  Location/Address  Unit  38  Disp~15:19:09 Enrt~-15:19:43  Arvd-15:23:03  Clrd~15:29:56  Vehicle  WHI 2005 CHEV SILVER Reg: PC MA 71GN45 VIN: 1GCEC14X652296039  Owner  VINTON, ROBERT E @ 94 GORDON RD ~- BRAINTREE,  MA 02184-4414  Race: U Sex: M  Narrative  Chevy silverado.  19-1059  1518  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SPRING ST  Unit:  32  Arvd-15:18:53 Cird-15:25:06  Narrative;  01/25/2019 1518 - Start  01/25/2019 1700 - 4 violations  19-1062  1530  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  PARK ST  Unit:  38  Arvd-15:32:10 Clrd-15:39:11  19-1063  1538  Phone ~- MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Cail Taker  DISPATCHER LAURIE TUPER  Location/Address  [WIA 225] COLD SPRING RD  Unit  32  Disp-15:41:07 Enrt-15:41:37  Arvd-15:46:18 Clrd-16:14:26  Vehicle  GRY 2005 FORD LGTCON Reg: PC MA 5VX477  VIN:  LFTPX14515FB52766  Operator  DIGENNARO, LOGAN BRUCE @ 522 W SHAFT RD - NORTH ADAMS, MA 01247  Race: W Sex: M  Refer To Citation  T1400596  Owner  NOVAK, LINDA ANN @ 522 W SHAFT RD Apt. #22 - N ADAMS, MA 01247-2969  Race: U Sex: F  Narrative  Reports receiving a call from Vice Principal of HS stating  there was a miner MVC in the lot, no injuries.  1549 hrs. Per officer request, Ron's notified and in route.  Refer To Accident:  i19-i17-AC  19-1065  1707  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  {WIA 406] SCHOOL ST  Unit  32  Arv@-17;08:57 Clrd-17:10:415  Narrative  01/25/2019 1708 - no violations  19-1066  1719  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker:  PATROL JOHN J MCCONNELL JR 
+19-1058 1458 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 333) CHURCH ST
+Unit: 32
+Arvd-14:58:52 Clrd-15:17:00
+19-1060 1515 Phone - MOTOR VEHICLE LOCK OUT VEHICLE OPENED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: FORT HOQSAC PL
+Unit: 38
+Disp-15:19:09 Enrt-15:19:43 Arvd-15:23:03 Clrd-15:29:56
+Vehicle: WHI 2005 CHEV SILVER Reg: PC MA 71GN45 VIN: 1GCEC14X652296039
+owner: VINTON, ROBERT E @ 94 GORDON RD - BRAINTREE, MA 02184-4414
+Race: U Sex: M
+Narrative:
+Chevy silverado.
+19-1059 1518 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SPRING ST
+Unit: 32
+Arvd-15:18:53 Clrd-15:25:06
+Narrative:
+01/25/2019 1518 - Start
+01/25/2019 1700 - 4 violations
+19-1062 1530 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: PARK ST
+unit: 38
+Arvd-15:32:10 Clrd-15:39:11
+19-1063 1538 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 225] COLD SPRING RD
+Unit: 32
+Disp-15:41:07 Enrt-15:41:37 Arvd-15:46:18 Clrd-16:14:26
+Vehicle: GRY 2005 FORD LGTCON PC MA 5VX477 VIN: 1FTPX14515FB52766
+DIGENNARO, LOGAN BRUCE Reg: ® 522 W SHAFT RD - NORTH MA 01247
+Operator: Race: W Sex: M ADAMS,
+Refer Citation: T1400596
+To
+Owner: NOVAK, LINDA ANN @ 522 W SHAFT RD Apt. #22 - N ADAMS, MA 01247-2969
+Race: U Sex: F
+Narrative:
+Reports receiving a call from Vice Principal of HS stating
+there was a miner MVC in the lot, no injuries.
+1549 hrs. Per officer reguest, Ron's notified and in route.
+Refer To Accident: 19-17-AC
+19-1065 1707 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 406] SCHOOL ST
+Unit: 32
+Arvd-17:08:57 Clrd-17:10:15
+Narrative:
+01/25/2019 1708 - no violations
+19-1066 1719 Initiated - MOTOR VEHICLE STOP CITATION CIVIL
+Call Taker: PATROL JOHN J MCCONNELL JR -

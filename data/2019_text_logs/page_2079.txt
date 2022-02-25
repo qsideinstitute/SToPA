@@ -1,1 +1,48 @@
-Checked 5-4  19:12  Narrative:  checked  Narrative:  Checked 0150  19-14191  o810  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  call Taker  PATROL TANIA HERNANDEZ  Location/Address  PINE COBBLE RD  Unit  36  Arvd-08:10:32 Clrd-08:10:55  Narrative  no vehicles  Narrative  No vehicles  Narrative  Checked  s-4  empty  17:24  Narrative  Checked  s-4  empty  19:16  Narrative:  no vehicles  2347  Checked,  Narrative:  Checked,  no vehicles  0334  19-14292  o8l4  tnitiated  + TRAFFIC CONTROL  SERVICES RENDERED  Cali Taker  PATROL TANIA HERNANDEZ  Location/Address  COLE AVE  Unit  36  Arvd-08:14:16  Clrd-06:36;00  Unit  31  Enrt-15:01:44  Arvd-15:03:393  Clrd-15:07:12  Disp-14:59:20  Unit  31  Disp-157:16:19  Arvd-15:17:10  Clra-15:21:30  Narrative  In  school parking lot  19-14195  0835  $11 - $-1-1 WRONG NUMBER  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Narrative:  CP accidently dialed 9-1-1. CP stated shes walking her dog  and it pulled her accidently hitting her phone and it dialed  8-1-1.  Initiated ~ BUILDING CHECK  BULLDING CHECKED/SECURED  19-141594  0840  Call Taker  PATROL TANTA HERNANDEZ  Locat.ion/Address  STRATTON ED  Unit  36  Arvd-08:40:49  Clrd-08:41:56  Narrative  checked  BUILDING CHECKED/ SECURED  19-14196  0847  Initiated - BUILDING CHECK 
+Checked 8-4
+Karrative:
+checxed
+Narrative:
+Checxed 0150
+19-1419¢ 0B10 Initiated - BUILDING CHECE BUILDING CEECKED/SECURED
+Call Taker: PATROL ANTA HERNANDEZ
+Locakicn/address: PZNE COBRLE RD
+Unit: 3E
+Arvd-08:10:32 Clrd-08:10:55
+Narrative:
+no vehicles
+Narrative:
+No veniicles
+Narrative:
+Checked 5-4 empty 17:24
+Narrative:
+Checked #-4 enpty 15:16
+Marrative:
+Checked, no vehiclea. 2347
+Nerxative:
+Checkad, nn vehicles. 0334
+19-143102 nBl14 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cal: Taker: PATROL TANIA HERNANDEZ
+Lcecation/Address: COLE AVE
+Tait: 36
+Arvd-08:14:16 Clxd-DE:3G:00
+Unit: 31
+Divp-14:59:20 Eart-_5:0.:44 Arvd-15:23:39 (Clrxd-15:07:12
+Unit: 31
+Disp-15:16:19 Arvd-15:17:10 Clré-15:21:30
+Narrative:
+schocl parking lot
+19-141395 083s 911 - 5-1-1 WRONG NUMBER SERVICES RENDERED
+Zall Taker: DISPATCHER WILLIAM C JENNINGE JR
+Narrative:
+CP accidently dialed 9-1-1. CP stated shes walking her deg
+and it pulled her accidently hitting her phcne and it dialed
+2-1-1.
+0840 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+19-141534
+Call Taker: PATROL TANIA I[ERNANDEZ
+LocaLbion/Addrese: STRATTON ED
+Unit: 36
+Arvd-03:40:49 Clrd-08:41:56
+Yarrative:
+creszed
+19-141968 0847 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

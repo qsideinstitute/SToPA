@@ -1,1 +1,56 @@
-19-1234)  2152  Initiated - BUILDING CHECK  BULLDING CHECKED/ SECURED  Call Taker  PATROL KEVIN P GARNER  Location/Address  NORTH &T  Unit  34  Arvd-21:52:49  Clyd-21:52:57  Narrative  done  Narrative  Checked 0019  19-12342  2208  Walk-In -  MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  MAIN ST  Unit  32  Disp-22:08:07  Enrt-22:08:14 Arvd-22:08:19  Clrd-22:25:29  Vehicle  BLU 2016 SUBA IMPREZ  Reg: PC MA 62NEB07  VIN: JFLGPAY67GH201792  Operator  BOLTON, CHRISTOPHER A @ 84 SUMMER ST - WILLIAMSTOWN, MA 01267-2252  Race:  W Sex: M  owner  BOLTON, CHRISTOPHER A @ 8&4 SUMMER ST ~ WILLIAMSTOWN, MA O0L267-2252  Race:  W Sex: M  Vehicle  GRY 2006 SUBA SW IMPREZA Reg: PC NH 4248143 VIN: JF1GG67666G814960  Operator  KINGSBURY-EVANS, PAULA R @ 483 OLD STREET RD - PETERBOROUGH, NH 03458  Race:  W Sex: F  Owner  KINGSBURY, JANICE DOROTHY @ 483 OLD STREET RD - PETERBOROUGH, NH  03458  Race:  W Sex: F  Narrative  RP into station reporting he was involved in a MVA at  location.  RP advises that he and the other female driver did exchange  information. But he wanted to report it because he thinks  damage maybe over a Thousand dollars.  Ofc William did call other operator of involved.  Refer To Accident:  19-125-AC  19-12343  2221  Tnitiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  Location/Address  NEW ASHFORD RD  Unit  34  AYvd-22:21:53  Clrd-22:26;26  Vehicle  YEL 2013 TOYT SE CAMRY Reg: PC MA 865XE6  VIN: #TLBDIPK4DU089948  Operator  KELLY, ANDREW W @ 509 PECKS RD - PITTSFIELD, MA 01201  Race:  W Sex: M  Refer To Citation  T2985126  Owner  KELLY, ANDREW WILLIAM @ 509 PECKS RD - PITTSFIELD, MA 01201-1339  Race:  U Sex: M  For Date:  10/04/2019  =  Friday  19-12345  0145  gil -  ALARM  - BURGLAR  ALARM FALSE  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  {WIA 255]  WATER ST  Unit:  al  Disp-01:46:43  Bnyvt-01:47:00 Arvd-01:48:49 Clird-01:54:22  Unit:  35  Disp-01:46:43  Enre-01:47:03  Arvd-01:47:22  Clrd-01:54:27  Narrative:  zone 1 Entry/Exit Alarm 
+19-123421 2152 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+C211 Tukzr: PATROL KELVIN P GARMER
+Locabicen/Adoress: NORTH ST
+Unit: 24
+C.xd-21:52:87
+Xarrative:
+done
+Xarrative:
+Checked 0019
+19-122342 2208 Wazx-In - MOTOR VERICLE ACCIBENT INVEETIGATED / REFORT
+TAKER
+tall Taker: ITSPATCHEK WILLLAM C JENNINGS JR
+Incstion/hed-asnm: MAIN gv
+Unit: 32
+Digp-22:04:07 Enrt 22:09:24 Arvd-22:02:19 Clrg-22:25:29
+vehiciea: 3iU 2016 SUBA IMPREZ Reyg: PC MA 62KB07 VIN: JFGPAYGT7GH201792
+dmerrtor: BCLTON, CERISVCPZER A § 84 SUMMER ST - WILLIAMSTOWN, MAL 01267-2252
+Rage: W Sex: M
+Cwozr: BOLTON, CIRISTCE.TE A 84 SUMMER ST - WILLIAMSTOWN, MA 01267-2252
+Eazce: W Zax: M
+vehicle: GRY 2306 SUBA SW IMPREZA Reg: PC NH 4248143 VIN: JrlGE67E660814950
+Cpexatoxr: XINGS3URY-EVAKS, FAILA R § 483 OIN A8TRRET RN - PETEREOROUSH, Ni 032L8
+Race: W Sex: F
+Jwrer: XINGS3SURY, JANTCR NORCTEY @ 483 CLD STREET RO - PEVERBOKRCUGH, BH
+0245¢E
+Race: W Sex: F
+Narrative
+RP into stélion se —nvo.ved in MYA at
+locut.-on. reposl.oig war a
+udvises
+RP information. that he he and wanted the cther temzie it driver did exchange
+But to report because he thinks
+danage maybe over a Thousard dollars.
+Ofc William did ca’l ovher cperator of inwclved.
+Refer To Accident: 15-125-AT
+19-12343 2221 Initlated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIK P GARNER
+Locuklou/Address: NEW ASHFCRD RD
+Tnit: 54
+Tvd-22:21:53 CJ rd-22:26:20
+vehicle: Y32. 2013 TOYT s8E CRMRY Reg: PC MA BESXES VIN: 4TIBDFEK4DU029548
+Cparator: KELLY, ANDREW W § Z09 PECKS RD - PITTSFIELD, MA 0-201
+Race: W Sex: M
+Rafer To Citatiss: TZ085126
+Owner: KI_.LY, ANDREW WILLIAM @ 5TC0D PICKS RD - PITTSCIELD, MA 0l1Z01--339
+Rave: U Sex: M
+For Date: 10/04/2019 - Friday
+19-112345 0145 911 - ALARM - BURGLAR ALARM FALSE
+Cull Tuker: SERGZEARNT PAUL D TRCUPECHN
+Locuiion/AGdrasy: [WIA 255] WATER ST
+un-—.: 31
+2180-02 :46:43 Enrt-21:47:00 Arvd-51:48:49 Clrd 01:54:22
+UniL: 35
+Dlsy 02:45:43 EnrlL 21:47:02 Arvd 81:47:22 Clrd 01:54:27
+Narrative:
+Zcne 1 Entry/Exit Ala

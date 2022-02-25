@@ -1,1 +1,52 @@
-Arvd-22:00:22  Clrd-22:03:09  Narrative:  Checked 0048  19-10167  2213  $11 -  WELL BEING CHECK  SERVICES RENDERED  Call Taker  SERGEANT PAUL D THOMPSON  Location/Address  [WIA 1090] CHURCH ST  Unit  38  Disp-22:14:30 Enrt-22:15:07  Cird-22:17:04  Unit  35  Disp-22:14:48  Enrt-22:17:45 Arvd-22:21:19  Clyrdg-22:27:36  Unit  38  Arvd-22:17:36  Clyrd-22:27:42  Disp-22:17:32  Narrative  Unable to raise party at location  Narrative  Party was sleeping on arrival. States he is fine and not  requiring ant assistance,  49-10169  aa5i  Other - POUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  [WIA 249} NORTH ST  Narrative:  Found a dirty wallet at the old Police Station location.  Property 19-162-PR Placed in temp holding.  For Date:  08/16/2019  -  Friday  1$-10170  01306  Initiated - BUILDING CHECK  SERVICES RENDERED  Cail Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  (WIA 910] TACONIC TRL  Unit:  35  Arvd-01:31:069  Clrd-01:31:13  Narrative:  Checked  1419-10171  0402  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHKAMMER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  31  Arvd-04:03:11  Clrd-04:03:33  18-10L72  0439  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker  SERGEANT PAUL D THOMPSON  Location/Addresa  (WIA 222]  MAIN 8ST  Unit  31  Disp-04:40:59  Enrt-04:42:50 Arvd-04:45:58  Clrd-05:15:37  Unit  35  Arvd-04:46:48  Disp-04:40:59  Enrt-04:42:47  Clrd-05:15:53  Narrative  CP states that she awoke and heard woman outside in vicinity  of her residence yelling for help. Party was headed east on  Main St.  Narrative  Female party standing on side walk upon arrival. Party  stated she walked from Hall st, North Adams. Party was all  ever the place with her reasoning for being out,  it was  clear party had dementia. She told officers three different  names. Ofc. Duprat Spoke with NAPD to see if they had an in 
+Narrative: Arvd-22:05:22 lrd-z22:
+Checkad 0048
+19-10167 2213 811 - WELL BEING CHECK EERVICEE RENDERED
+Ca_l Taker: SERGEANT PAUL Db THOMPSON
+Locstion/Address: "WIA 17190] CHURCH S57
+Unik: ag
+Digp-22:14:30 Enrt-22:15:07 Cird-22:17:04
+Unit: 35
+Digp-22:14:480 Enrt-22:17:45 Arvd-22:21:19 Clxd-22:27:36
+Unit: 38
+Disp-22:17:32 Arvd-22:17:38 Clxd-22:27:12
+Narrative:
+Unakle to raise party at location
+Narracive:
+Party was sleeping on arrival. States he ig fine and not
+reguirinc ant ass-stasce,
+19-20169 R4A5L Other - FPOUND/ LOST PROPERTY SERVICES RENDERED
+Call Taker: SERGEANT PAUL D THOMPSON
+Location/Address: [WIA 249: NORTE ST
+Karrazive:
+Found a cirty wallet ar the old Police Station locaticnm.
+Property 19-162-PR Placed in temp holding.
+For Date: 08/16/2019 - Friday
+19-10170 0130 Initiated - BUILDING CHECK SERVICES RENDERED
+Call Taker: PATROL ENTHCHY HM OUPRAT
+wocation/address: [WIA 210] TACONIC TRL
+Unit: 3s
+Arvd-01:31:99 Clrd-01:31:19
+Marrative:
+Checxed
+19-100171 0402 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL. CRATG A FICHRAMMER
+Location/Address: [WIA 390] STMONDS RD
+unit: 31
+Arvd-04:03:11 Clrd-04:03:33
+19-101172 0439 Phons - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Cal? Taker: SRERERANT PAIN, I THOMPSON
+Location/Address: (WIA 222] MAZN 8T
+Jait: 3
+Disp-04:40:59 Enrt-04:42:50 Arvd-64:45:58 Clrd-35:13:37
+Tait: 35
+Disn-04:40:59 EBEnrt-04:42:47 Arvd-04:46:48 Clrd-05:15:53
+Harrative:
+CP states that she awoke ar] heard woman outside in vicinity
+¢? her residence velling for help. Parcy was headed east on
+Main St.
+Narrative:
+Femala side walk arrival.
+started purcy she walked standing [rom on Hal: st, Rorth upon Adame. Party was all
+cver tho with her reasoning for being out, Party it was
+clear place had dementia. She told officers three different
+nznes., party Ofc. Duprat Spoke with NAPD to see if they had an in

@@ -1,1 +1,51 @@
-Unit:  31  Disp-19:10:26 Emrt-19:11:23 Arvd-19:15:42 Clrd~-19:48:15  Unit:  32  Disp-19:16:43  Enrt-19:16:55 Arvd-19:23:51 Clrd-19:43:12  Vehicle  BLK 2018 TESL SE MODEL3  Reg: PC MA EV325S VIN:  5YJ3E1EB8IF178384  Owner  HOLMGREN,  ERIC P @ 228 MAIN ST Apt.  #17 - WILLIAMSTOWN, MA 01267-2641  Race: W Sex:  M  Narrative  Reports receiving a call from MM. fe could not  make out what the party was saying due to poor cell service.  Attempted to call number back and it goes directly to voice  mail.  Narrative  Received a second call from a [RRM (unknown phone  number) reporting there was a vehicle with a couple of blown  out tires in same vicinity mentioned above.  Narrative  At S4 request, Ron notified and in route.  1943 hrs. Per S4, Ron cancelled. Owner had a special wrecker  coming for the Tesla.  Mass DPW notified of pothole situation and location.  19-2352  2031  Phone - DISABLED M V  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  GREEN RIVER RD  Narrative:  Reports hitting a large pot hole. Now has a flat tire. Does  not need assistance, has already contacted AAA. But wants to  make the Department aware.  Mass DPW notified of situation and location.  19-2354  2039  Phone - PARKING CHECK  LOG ENTRY REQUEST  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  JOHN ST  Narrative:  Reports there will be a light blue Accent with ME plates  parked in front of her home tonight.  19-2355  2136  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  (WIA 190] MAIN ST  Unit  31  Arvd-21:36:32  Cird-21:36:53  Narrative  Checked 0050  19-2357  2231  Phone - DISTURBANCE  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  MAIN ST  Location/Address  Unit  31  Disp-22:31:00 Enrt-22:31:42  Arvd-22:35:04  Clyrd-22:45:17  Narrative  Reports someone playing a guitar loudly.  Narrative  All quiet upon arrival. Party advised about the complaint. 
+
+Unit: 31
+Disp-19:10:26 Enrt-19:11:23 Arvd-19:15:42 Clrd-19:48:15
+Unit: 32
+Disp-19:16:43 Enrt-19:16:55 Arvd-19:23:51 Clrd-19:43:12
+Vehicle: BLK 2016 TESL SE MODEL3 Reg: PC MA EV3258 VIN: SYJ3E1EB8JF178384
+Owner: HOLMGREN, ERIC P @ 228 MAIN ST Apt. #17 - WILLIAMSTOWN, MA 01267-2641
+Race: W Sex: M
+Narrative:
+make Reports receiving what the a call from due . He could cell not
+out call party number was back saying and it to poor service. voice
+Attempted mail. to goes directly to
+Narrative:
+Received second call from [JJ (unknown
+number) reporting a there was a a vehicle with a couple phone of blown
+out tires in same vicinity mentioned above.
+Narrative:
+At S4 request, Ron notified and in route.
+1943 hrs. Per S4, Ron cancelled. Owner had a special wrecker
+coming for the Tesla.
+Mass DPW notified of pothole situation and location.
+19-2352 2031 Phone - DISABLED M V SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: GREEN RIVER RD
+Narrative:
+Reports hitting a large pot hole. Now has a flat tirc. Does
+not need assistance, has already contacted AAA. But wants to
+make the Department aware.
+Mass DPW notified of situation and location.
+19-2354 2039 Phone - PARKING CHECK LOG ENTRY REQUEST
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: JOHN ST
+Narrative:
+Reports there will be a light blue Accent with ME plates
+parked in front of her home tonight.
+19-2355 2136 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: [WIA 190] MAIN ST
+Unit: 31
+Arvd-21:36:32 Clrd-21:36:53
+Narrative:
+Checked 0050
+19-2357 2231 Phone - DISTURBANCE SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: Unit: MAIN ST
+31 Enrt-22:31:42 Arvd-22:35:04 Clrd-22:45:17
+Narrative: Disp-22:31:00
+Reports someone playing a guitar
+loudly.
+Narrative:
+All quiet upon arrival. Party advised about the complaint.

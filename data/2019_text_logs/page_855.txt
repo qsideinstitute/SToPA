@@ -1,1 +1,48 @@
-Owner:  WASHBURN, JUSTIN C @ 44 LINDEN ST - WILLIAMSTOWN, MA 01267-2512  Race: U Sex:  M  19-5692  0944  Initiated ~ PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK ST  Unit  36  Arvd-09:44:39  Clird-09:48:14  Narrative  1 violation  19-5693  0946  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  SPRING ST  Unit  35  Arvd-09:46:42  Clrd-09:49:41  Narrative  1 violation  19-5694  0952  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  COLD SPRING RD  Unit  36  Arvd-09:52:34  Clird-09:53:21  Narrative  checked  Narrative  done  Narrative  Checked  19-5695  0956  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  COLD SPRING RD  Unit:  36  Arvd-09:56:20  Clrd-09:58:22  Narrative:  checked  Narrative:  done  Narrative:  Checked  19-5696  0959  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  {WIA 225] COLD SPRING RD  Unit  36  Arvd-10:00:07 Cird-10:04:15  Narrative  checked  19-5698  1014  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Cali Taker:  PATROL TANIA HERNANDEZ  Location/Address:  GREEN RIVER RD 
+Owner: WASHBURN, JUSTIN C @ 44 LINDEN ST - WILLIAMSTOWN, MA 01267-2512
+Race: U Sex: M
+19-5692 0944 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: PARK ST
+Unit: 36
+Arvd-09:44:39 Clrd-09:48:14
+Narrative:
+1 violation
+19-5693 0946 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SPRING ST
+Unit: 35
+Arvd-09:46:42 Clrd-09:49:41
+Narrative:
+1 violation
+19-5694 0952 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: COLD SPRING RD
+Unit: 36
+Arvd-09:52:34 Clrd-09:53:21
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+Checked
+19-5695 0956 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: COLD SPRING RD
+Unit: 36
+Arvd-09:56:20 Clrd-09:58:22
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+Checked
+19-5696 0959 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA 225] COLD SPRING RD
+Unit: 36
+Arvd-10:00:07 Clrd-10:04:15
+Narrative:
+checked
+19-5698 1014 Initiated - MOTOR VEEICLE STOP CITATION CIVIL
+Call Taker: PATROL TANIA HERNANDEZ -
+Location/Address: GREEN RIVER RD

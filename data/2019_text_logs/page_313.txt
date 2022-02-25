@@ -1,1 +1,55 @@
-19-2194  1516  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  PARK ST  Unit:  34  Arvd-15:17:24 Clrd-15:27:24  Narrative:  (4) violations  19-2197  1534  911 - 9-1-1 WRONG NUMBER  NO ACTION REQUIRED  Call Taker:  PATROL KALVIN DZIEDZIAK  Narrative:  Calback x2, unable to connect. Number not in service  19-2198  1556  Walk-In ~ PARKING COMPLAINT  SERVICES RENDERED  PATROL KALVIN DZIEDZIAK  Call Taker:  Location/Address:  SPRING ST  Narrative:  Party at station requesting assistance with boiler repair  tomorrow (02/19/2019). RP is requesting 3 parking spots, in  the area of Tony's Sombrero/ Greylock Gallery, be reserved  for his deliver truck.  P3 to be advised  19-2199  1748  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KEVIN P GARNER  MAIN ST  Location/Address  Unit  34  Arvd~-1i7:49:08  Clrd-17:49:15  Narrative  all quiet  Narrative  02/20/2019 0138 Checked S83  19-2203  1830  911 ~ VIOLATION R O  ARREST (S}  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  {WIA 262] MAIN ST  Unit:  34  Disp-18:43:32  Arvd-18:30:44  Clrd-18:47:15  Unit:  38  Arva-18:30:44  Clird-18:47:15  Disp~18:43:32  Unit:  34  Disp-18:30:00  Arvd~-18:30:08  Clrd-21:25:29  Location Change:  (WIA 262] MAIN ST [Modified: 02/19/2019 1928}  Unit  38  Disp-18:30:00  Arvd-18:30:08  Clrd-20:53:18  Unit  38  Disp-08:20:00  Arvd-08:21:53  Clrd-02/20/2019 @  08:48:48  Location Change  [NOT] NBDC [Modified: 02/20/2019 0828}  Narrative  Party at station to speak with officer regarding restraining  order violation.  1928-  Officers en route  1937- One in custody. Transporting unit: Unit 38  Starting Mileage-37,054.2  1940- Unit 38 at station  Ending Mileage-37,055.3  1941- In booking room. 
+19-2194 1516 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: PARK ST
+Unit: 34
+Arvd-15:17:24 Clrd-15:27:24
+Narrative:
+(4) violations
+19-2197 1534 911 - 9-1-1 WRONG NUMBER NO ACTION REQUIRED
+Call Taker: PATROL KALVIN DZIEDZIAX
+Narrative:
+Calback x2, unable to connect. Number not in service
+19-2198 1556 Walk-In - PARKING COMPLAINT SERVICES RENDERED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: SPRING ST
+Narrative:
+Party at station requesting assistance with boiler repair
+tomorrow (02/19/2019). RP is requesting 3 parking spots, in
+the area of Tony's Sombrero/ Greylock Gallery, be reserved
+for his deliver truck.
+P3 to be advised
+19-2199 1748 Initiated - BUILDING CRECK BUILDING CHECKED/SECURED
+Call Taker: P
+PATROL KEVIN GARNER
+Location/Address: MAIN ST
+Unit: 34
+Arvd-17:49:08 Clrd-17:49:15
+Narrative:
+all quiet
+Narrative:
+02/20/2019 0138 Checked S3
+19-2203 1830 911 - VIOLATION R O ARREST (S)
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: [WIA 262] MAIN ST
+Unit: a4
+Disp-18:43:32 Arvd-18:30:44 Clrd-18:47:15
+Unit: 38
+Disp-18:43:32 Arvd-18:30:44 Clrd-18:47:15
+Unit: 34
+Disp-18:30:00 Arvd-18:30:08 Clrd-21:25:29
+Location Change: [WIA 262] MAIN ST [Modified: 02/19/2019 1928]
+Unit: 3B
+Disp-18:30:00 Arvd-18:30:08 Clrd-20:53:18
+Unit: 38
+Disp-08:20:00 Arvd-08:21:53 Clrd-02/20/2019 @
+08:48:48
+Location Change: [NOT] NBDC [Modified: 02/20/2019 0828)
+Narrative:
+Party at station to speak with officer regarding restraining
+order violation.
+1928- Officers en route
+1937- One in custody. Transporting unit: Unit 38
+Starting Mileage-37,054.2
+1940- Unit 38 at station
+Ending Mileage-37,055.3
+1941- In booking room.

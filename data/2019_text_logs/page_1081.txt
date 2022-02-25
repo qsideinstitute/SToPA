@@ -1,1 +1,51 @@
-Arvd-15:29:05  Clrd-15:45:07  Narrative:  Received Abuse Prevention Order via Fax  1541- Party located by 32  Narrative:  06/28/2019 1544 - Served in hand  19-8155  1513  initiated - PARKING CHECK  SERVICES RENDERED  Cail Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  ai  Arvd-15:15:25  Clrd-15:18:36  19-8354  1644  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SPRING ST  Unit  32  Arvd-15:14:44  Clyrd-15:26:10  Narrative  06/28/2019 1514 - Start  06/28/2019 1700 - 3 violations  19-8156  1654  initiated - BULTLDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  SIMONDS RD  Location/Address  Unit  31  Arvd-16:51:07  Cird-16:56:54  Narrative  Checked Area.  19-8157  1657  anitiated - PARKING CHECK  SERVICES RENDERED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SCHOOL 8ST  Unit  31  Arvd-16:57:43  Clrd-16:59:03  Narrative  checked  Narrative  Checked  19-8158  1659  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SOUTHWORTH ST  Unit  31  Arvd-16:59:59  Cird-17:03:51  Narrative  Checked Area.  19-8260  17239  Phone - TRAFFIC COMPLAINT  UNABLE TO LOCATE  Call Taker:  PATROL KALVIN D&ITEDZIAK  Location/Address:  GREEN RIVER RD  Unit;  32  Disp-17:32:06  Enrt-17:32:27 Arvd-17:35:53  Clrd-17:48:50  Vehicle:  RED 2014 TOYT TACOMA Reg: PC MA 8NF642 VIN: STFUX4EN2EX026400  Owner:  BURDICK, WILLIAM R ITI @ 26 TEMPLE ST - NORTH ADAMS, MA 01247-2365  Race:  a  Sex: M  Narrative: 
+Arve-16:29:05 Clrd-15:45:07
+Narrative:
+Received Abuse Prevention Jrder via Fax
+154.- Party Zocated by 22
+Narrative:
+06/28/2013 1344 - Served in hand
+19-8155 1513 Initiated - PARKING CHRCK BERVICES RENDERED
+Cal. Texer: EERGEANT DAVID R LEM1BUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:15:25 Clrd-15:18:36
+19-8154 1534 Initiated - FARKING CHECK SERVICES RENDERED
+Cal. Taker: PATROL SHUAN N WILLIAM
+Lacation/Address: SPRING AT
+Jit: 32
+Arvd-15:14:44 C-xrd-15:26:.0
+Nerrative:
+06/28/2019 1514 - start
+06/28/2019 1700 3 violations
+19-8B1546 16540 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: ASTMONDR RD
+Unit: 31
+Arvd-16:51:07 Clrd-16:56:54
+Narrative:
+Checkad Area.
+19-8157 1657 Initiated - PARKING CHECK SERVICES RENDERED
+(Cal: Taker: SERGEANT DAVID R LEMIZUX
+Lacation/Address: SCHOOL ST
+nit: 31
+Arvd-16:57:43 LCird-16:59:03
+Narrative:
+checksc
+Narrative:
+Checked
+15-8158 1659 Initiated - BUILDING CHECK BUILDING CHECKED/SKCURED
+Call Taker: SERGEANT DAVID BR LEMISUX
+Location/Address: SEQUTHWACORT:E ST
+Unit: al
+Arvd-16:59:59 ird-17:03:51
+Narrative:
+Checked Arez.
+19-8160 1729 Phone - TRAFFIC COMPLAINT UNABLE TO LOCATE
+Cal. [zkex: PATx0L KALVIN DZIELZIAR
+Location/Address: (:REEN RTVER RD
+Unit: 32
+Enrt-17:32:27 Arvd-17:35:53 Cord-17:48:0
+Vehicle: Digp-17:32:06 RED 2014 “0YT ''ACOMA PC MA 8NF642 VIN: STPIX4EN2EX026400
+WILLIAM X I1- Rec: 2 26 TEMPLF 87 - NORTH ADARME, MA 21247-23345
+cvmer: BURDICE, Racw: WW Sex: M
+Narrative:

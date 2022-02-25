@@ -1,1 +1,52 @@
-Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  NORTH HOOSAC RD  Narrative:  Reports receiving a call regarding a white pick up, with VT  plates and loaded with wood, driving erratically. Crossing  the lanes and driving at a high rate of speed.  For Date:  10/22/2019  ~  Tuesday  19-13182  6633  Initiated - BUELDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL CRAIG A BRICHHAMMER  Location/Address  SOUTHWORTH ST  Unit  a1  Arwd-00:33:14  Clrd-00:33:41  Narrative  Checked 0033  19-13284  0353  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL CRAIG A EICHHAMMER  Location/Address  [WIA 190] MAIN ST  Unit  31  Arvd-01:53:27  Clrd-01:53:54  Narrative  Checked 0153  19-13186  g401  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  {WIA 390] SIMONDS RD  Unit:  ad  Arvd-04:01  a3  Clrd-04:;02:05  19-13187  0716  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  COLD SPRING RD  Unit  35  Arvd-07:19  14  Clrd-07;47:01  Unit  33  Enrt-i4:12:29  Arvd-14:17  13  Clrd-14:23:23  Disp-14:11:21  Unit:  33  Arvd-14:30  8  Clrd-14:44;38  Disp-14:29:50  19-13186  O744  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDES  Location/Address:  GALE RD  36  unit;  Arvd-07:44  56  Clrd-08:05:13  29-13189  0a07  Initiated - MOTOR VEHICLE STOP  CEPATION - CIVIL  Call Taker  PATROL ANTHONY M DUPRAT  MAIN ST  Location/Address  Unit  35  Arvd-08:07:46  Clrd-08:17:50  Vehicle  GRY 2013 TOYT 4RUNNE Reg: PC MA 1XP782 VIN: JTEBUSJR?7D5131227  Operator  CELLANA, ARLEN J @ 25 BEACON ST - N ADAMS,  MA 01247-2702  Race:  W Sex: M  Refer To Citation  T2085181  Owner  CELLANA, ARLEN J @ 25 BEACON ST - N ADAMS, MA 01247-2702  Race:  W Sex: M  49-13190  0307  Initiated -  MOTOR VEHICLE STOP  CITATION - WARNING 
+Call Taxer: DISPATCHER LAURTE TIJPER
+Location/Address: NOR'LH HOOSAT RD
+Nerrative:
+Reports receiving a call regarding a white pick up, with VI
+platas and ioaded with weod, driving erratically. Crossing
+the lanes and driving a: a high rate of speed.
+For Date: 10/22/2019 - Tuesday
+18-13182 GD33 Initiated - BUILDING CRECK BUILDING CHECKED/SECURED
+Cal. Taker: DATROL TRAIG A BLICHHAMMER
+Location/Address: SOUTHRCRTH ST
+Unit: 31
+Arvd-dp: 23: 4 Clrd-05:32:41
+Nzrrative:
+Checkad 0033
+19-13184 0153 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: Taker: DATROL CRAIGS A RCHHAMMER
+Location/Address: [WiA 130] MALIN ST
+Unit: 31
+Arvd-01:53:27 Clrd-0_:53:54
+Narrative:
+Checked 0153
+12-131386 04nl Initiated - PARKING CHECK SERVICEE RENDERED
+Call Taker: PATROL CRAIG A E-_CHHANMES
+Location/Address: [NIA 3290] SIMONDS RD
+Unit: 31
+Arvd-24:02:53 Clrd-04:02:05
+19-131447 0716 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL ANTHONY M DURxAT
+Location/Address: COLD STRING RD
+Unit: 35
+Arvd-07:15:14 Clvra-07:47:01
+Unit: 33
+Disp-14:11:21 Enrt-24:12:25 Arvd-14:17:13 Clrd-14:23:23
+Unit: 33
+Disp-24:29:50 Arvd-16:20:08 Clred-14:44:38
+19-131886 0744 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Lecation/Addrass: GALE RD
+tinic 36
+Arvd-41:44:56 ClrG-08:05:13
+19-13189 08067 Initiated - MOTOR VEHICLE ETCP CETATION - CIVIL
+Call Taker: PATROL ANTIOTY M DUPRAT
+Location/Midress: MAIN ST
+Unit: 35
+Arvd-08:07:46 Clrd-02:17:50
+Vehicle: GRY 2013 TOYT 4RUNNE Reg: PC MA 1XP782 VIN: JTEBUSJR7D5121227
+erator: CELLANA, ARLEK J @ 25 BEACON ST - N ADAMS, MA 014¢7-2702
+race: W Sex: N
+Refer To Ciration: 2085181
+Owner: CELLANA, ARLEN J @ 25 BEACON ST - N ADAMS, MA 01247-2702
+Xace: KF Sex: NM
+19-131950 0807 Initinted - MOTOR VEHICLE SIOP CITATION - WARNIKG

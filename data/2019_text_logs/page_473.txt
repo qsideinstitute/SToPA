@@ -1,1 +1,57 @@
-Narrative:  Checked  19-3249  1414  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  HARWOOD ST  Unit  37K  Arvd-14:14:28 Clrd-14:14:36  Narrative  checked  Narrative  Checked  19-3251  1422  Phone - ROAD CONDITIONS  SERVICES RENDERED  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  NORTHWEST HILL RD  Unit  37K  Clrd-14:50:31  Disp-14:23:47 Enrt-14:24:06 Arvd-14:32:03  Vehicle  BLK 2010 VOLV 4D S40 Reg: PC NY FTK7472 VIN: YV1382MSXA2486829  Owner  DANIEL, ANNE M @ 21 LWR BYRDCLIFFE RD - WOODSTOCK, NY 12498  Race: U Sex: F  Narrative  RP is stuck in the mud in the travel lane.  DPW advised. They state they just left the area and cannot  do anything else to improve road conditions.  1426 Rons requested/responding.  Narrative  Highway currently back dragging gravel on the roadway. Stuck  vehicle is a small front wheel drive sedan, not from the  area.  19~3253  1431  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address  {WIA 620] HANCOCK RD  Unit  34  Disp-14:31:45 Enrt-14:31:50  Arvd-14:37:17  Clrd-15:21:16  Vehicle  GRY 2012 NISS FRONTI Reg: PC MA 2239TA VIN: IN6ADOCWXCC481500  Operator  SCHNESKI, LOUIS WILLIAM @ 671 HANCOCK RD - WILLIAMSTOWN, MA 01267-  3013  Race: W Sex: M  Owner  SCHNESKI, LOUIS WILLIAM @ 671 HANCOCK RD - WILLIAMSTOWN, MA 01267-  3013  Race:  U Sex: M  Vehicle  WHI 2017 FORD SE FOCUS Reg:  PC MA 2EW281 VIN: 1FADP3F23HL311445  Towed  For: ACCIDENT By: RONS AUTO REPAIR To: RONS TOWING  Operator  REED, WILLIAM M @ 129 LIBERTY ST Apt. #1R - NORTH ADAMS, MA 01247  Race:  W Sex: M  Refer To Citation  T1400500  Owner  REED, CHRISTINE A @ 129 LIBERTY ST - NORTH ADAMS, MA 01247  Race:  W Sex: F  Narrative  Sheriff Dispatch reporting 2 car; no injury.  Narrative  Ron's Requested/respohding  Narrative  RJ's Taxi requested and notified. WPD to ff Liberty. 30  minute ETA. 
+Narrative:
+Checked
+19-3249 1414 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HARWCOD ST
+Unit: 37K
+Arvd-14:14:28 Clrd-14:14:36
+Narrative:
+checked
+Narrative:
+Checked
+19-3251 1422 Phone - ROAD CONDITIONS SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOINSON
+Localion/Address: NORTHWEST HILL RD
+Unit: 37K
+Disp-14:23:47 Enrt-14:24:06 Arvd-14:32:03 Clrd-14:50:31
+Venicle: BLK 2010 VOLV 4D S40 Reg: PC NY FTX7472 VIN: YV1382MSXA2486829
+Owner: DANTEL, ANNE M @ 21 LWR BYRDCLIFFE RD - WOODSTOCK, NY 12498
+Race: U Sex: F
+Narrative:
+RP is stuck in the mud in the travel lane.
+DPW advised. They state they just left the area and cannot
+do anything else to improve road conditions.
+1426 Rons requested/responding.
+Narrative:
+Highway currently back dragging gravel on the roadway. Stuck
+vehicle is a small front wheel drive sedan, not from the
+arca.
+19-3253 1431 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 620] HANCOCK RD
+Unit: 34
+Disp-14:31:45 Enrt-14:31:50 Arvd-14:37:17 Clrd-15:21:16
+Vehicle: GRY 2012 NISS FRONTT Reg: PC MA 2239TA VIN: 1N6ADOCWXC(481500
+Operator: SCHNESKI, LOUIS WILLIAM @ 671 HANCOCK RD - WILLIAMSTOWN, MA 01267-
+3013
+Race: W Sex: M
+Owner: SCHNESKI, LOUIS WILLIAM @ 671 IIANCOCK RD - WILLIAMSTOWN, MA 01267-
+3013
+Race: U Sex: M
+Vehicle: WHI 2017 FORD SE FOCUS Reg: PC MA 2EW281 VIN: 1FADP3F23HI311445
+Towed: For: ACCIDENT By: RONS AUTO REPAIR To: RONS TOWING
+Operator: REED, WILLIAM M @ 129 LIBERTY ST Apt. #1R - NORTH ADAMS, MA 01247
+Race: W Scx: M
+Refer To Citation: T14C0500
+Owner: REED, CHRISTINE A @ 129 LIBERTY ST
+Race: W Sex: F - NORTH ADAMS, MA 01247
+Narrative:
+Sheriff
+Dispatch reporting 2 car no injury.
+Narrative:
+Ron's
+Requested/responding
+Narrative:
+RJ's Taxi
+minute ETA. requested and notified. WPD to [JJ Liberty. 30

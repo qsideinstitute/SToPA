@@ -1,1 +1,49 @@
-Narrative:  Checked 5§-4  17:30  Narrative:  Checked Area.  19-4381  1143  Phone - NOISE COMPLAINT  SERVICES  RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  NORTH HOOSAC RD  Narrative:  CP reports neighbors dog barking for over an hour owner  contacted and is in route to let animal in.  19-4382  1219  Phone - BURN PERMIT  LOG ENTRY REQUEST  Call Taker:  PATROL DAVID JENNINGS, D  Narrative:  19-4383  1222  Phone ~- ASSIST OTHER AGENCY:  MGRSD  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  {WIA 225] COLD SPRING RD  Narrative:  calling requesting a well being check on a  hasn't been in school since Friday.  Refer To Incident:  i9-85-OF  19-4384  1314  911 - THREATS/HARASSMENT  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  NORTH HOOSAC RD  Narrative:  CP reporting ex husband is harassing her electronically. In  speaking with CP there is no threats or harassment and was  advised of her options.  19-4385  1419  Walk-In - ASSIST OTHER AGENCY - POLICE  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  (WIA 330] MAIN ST  Narrative  CP reporting an ex-employee that was fired in early February  for stealing, is not answering phone calls in attempts to  have the party return the stores key. NAPD advised and will  call back with there findings.  Narrative  NAPD checked residence, negative contact  19-4386  1425  Other - TRESPASS  LOG ENTRY REQUEST  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  MAIN ST  Narrative:  Trespass letter received from Mountain One prohibiting Ms.  Thomas from entering property. Order was served by  Bennington County Sheriff. 
+Narrative:
+Checked S-4 17:30
+Narrative:
+Checked Area.
+19-4381 1143 Phone - NOISE COMPLAINT SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NORTH HOOSAC RD
+Narrative:
+CP reports neighbors dog barking for over an hour owner
+contacted and is in route to let animal in.
+19-4382 1219 Phone - BURN PERMIT LOG ENTRY REQUEST
+Call Taker: PATROL DAVID JENNINGS, D
+Narrative:
+
+19-4383 1222 Phone - ASSIST OTHER AGENCY: MGRSD TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 225] COLD SPRING RD
+Narrative:
+calling requesting a well being check on a [JN
+my hasn't been in school since Friday.
+Refer To Incident: 19-85-0OF
+19-4384 1314 911 - THREATS/HARASSMENT SERVICES RENDERED
+Call ‘Taker: PATROL DAVID JENNINGS, D
+Location/Address: NORTH HOOSAC RD
+Narrative:
+CP husband is her
+reporting with ex is harassing electronicaily. In
+speaking CP there no threats or harassment and was
+advised of her options.
+19-4385 1419 Walk-In - ASBBIST OTHER AGENCY - POLICE TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 330] MAIN ST
+Narrative:
+CP reporting an ex-employce that was fired in early February
+for stealing, is not answering phone calls in attempts to
+have the party return the stores key. NAPD advised and will
+call back with there findings.
+Narrative:
+NAPD checked residence, negative contact.
+
+19-4386 1425 Other - TRESPASS LOG ENTRY REQUEST
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: MAIN ST
+Narrative:
+Trespass letter received from Mountain One prohibiting Ms.
+Thomas from entering Order served
+Bennington County Sheriff. property. was by

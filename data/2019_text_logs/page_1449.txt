@@ -1,1 +1,55 @@
-Vehicle:  BLU 2017 HYUN SE ELANTR Reg: PC MA 366TM4  VIN: SNPDS4LF2HH021884  Owner:  KLEINER, MARILYN R @ 17 ROSE TER - PITTSFIELD, MA 01201-1933  Race:  U Sex: F  Narrative:  Stopped for revoked license status, Operator not owner.  29-10505  1933  Phone - FOREST WARDEN DISPATCH  SERVICES RENDERED  Call Taker;  MICHARL STRIZZI  Location/Address:  [WIA 205] HAMEL AVE  Unit:  FWL  Disp-19:42:09  Enrt-19:42:15 Arvd-19:50:03  Clrd-20:08:24  Narrative:  CP states she is seeing a lot of smoke coming from the area  of the spruces.  Believes it may be an outdoor fire  somewhere right near the North Adams Line.  CP stated there  was smoke just like this last night around the same time.  1949 Forest Warden out at address.  Outdoor fire.  1958 Pine and painted boards were burning,  Fire is out.  19-10506  2026  $11 -  ANIMAL CONTROL  LOG ENTRY REQUEST  Call Taker:  MICHAEL STRIZ2ZI  Location/Address:  [WIA 2061] NORTHWEST HILL RD  Narrative:  CP originally called $11 but stated that it was not a life  threatening emergency and she advised she would call the  regular phone.  CP stated there is a huge pack of Coyotes  and she wanted to inform us because she had seen people  running on Northwest Hill Rd earlier this evening and just  want us to be aware that there is a big pack around,  CP  stated there is no need for patrols te come up but she just  wanted to inform us.  19-10507  2050  Initiated - MOTOR VEHICLE STOP  CITATION  + WARNING  Call Taker  PATROL KALVIN DZ IEDZIAK  Location/Address  MAIN ST  Unit  35  Arvd-20:50:44  Clird-21:00:07  Vehicle  BRO 2005 CHEV SE MALIBU Reg: PC MA LHY820  VIN:  1G1iZTS48S5F198173  Operator  QUINONES, ALANZA R @ 300 BEAVER ST - N ADAMS, MA 01247-2840  Race:  W Sex: F  Refer To Citation  Tia7gé6é146  Owner  QUINONES, ANGELA L @ 30 PROSPECT ST Apt, #2 - N ADAMS, MA 01247-2748  Race:  W Sex: F  19-10508  2056  $11 -  ANNOYING PHONE CALLS  LOG ENTRY REQUEST  Call Taker:  MICHAEL STRIZZ1I  Location/Address:  CHURCH ST  Narrative:  CP states that she got scared because she woke up to a phone  call from someone stating that her ride will be there in 15  minutes and then they started asking her for money.  CP  immediately hung up the phone and called us.  Advised her  that it was probably a scam and te not give any information  to the people on the phone.  19-10509  2211  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Cali Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  MATIN sT  Unit:  3E  Arvd-22:11:55  Clyrd-22:24:55 
+Vehicles: Owes: BLU 201" HYJK SE ELANTR Req: PC BHA 366°W4 VIN: SKZDB4LF2SH021884
+XTE.NER, MARILYN R @ 17 ROSE TER - PT IUSXLILE, MA 0120.-1933
+Narzative: Race: U Sox: F
+Stopped for revoked license status, Operalor nct owner.
+19-106505 19358 Phone - FCORRESYT WARDEN DISPATCH SERVICES RENDERED
+Cull Taker: ATCHART, STRIZZL
+Locul lon/Address [WTA 205] HAMEL AVE
+Uniz: FR1
+1Ap-19:42:09 EBurb-12:42:15 Arvd-13:50:03 Clrd-27:08:22
+Narrative:
+Cr states she iy weeing a lot of smoke coming from Lhe area
+of the spruces. Believes it may be an ouldoor tire
+wemewhere right near the Worth Adams Lone. CP stated there
+was smoke just like thie last nighlL around the same tire.
+19492 Fores: Warden out at addreds. Duzdoor fire.
+1958 Pine and painted bourds were buraing. Fire is out.
+19-10506 2026 911 - ANIMAL CONTROL LOG ENTRY REQUEST
+“all Taker: MICHARD, STRIZZI
+Lovation/Adéress: [WIN 20611 NORTHWEST ZT'ILL RD
+Karrative:
+CP originally ca.led 911 but stated that it was not a life
+threcalening emergency anc she advised she would czil the
+regular phoie. CF stated there is a huge pack of Covotes
+and she wunced to inform us hecause she had seen pecple
+running on Nerthwest Hill RE earlier this evening and just
+wan. us to be aware thaw theres is a big puck around. CP
+sBluted there is no need for patrols to come up but she just
+wan-ed to inform us.
+19-10507 2058 Initiated - MOTOR VEHICLE STOP CITATION - WARMING
+Call —“aker: PATROL KALVIN DEIEDZIAT
+—ozation/Address: MATN S1
+Unis: an
+Arvd-20:50:44 Clrd-22:00:07
+Vehic e: SRO 2003 CHEV SR MALCRU Reg: PC MA 1HYE20 VIN: 1GiZTS5488LF19R.73
+Operator: QUINONES, ALANZA R @ 300 REAVER 8T - N ADAMS, MA Q127-2840
+Raco: W Sax: T
+efer Te Citation: T17E61446
+Owrer QUTRONZS, ANGELA L @ 59 FROSEECT §— Apt, #2 - MN ADAMS, MA 01247-2748
+Race: W Sax: F
+19-105508 2056 911 - ANNOYING PHONE CALLS I,0G ENTRY
+Call Taker: MICHAXI, STRIZZZ REQUEST
+Lezazion/AdSress: CHURCH ST
+Karrative:
+CP statis Liwul sie got scared because s-e woke Lo
+call from soncone stating that her ride will be up Lhere u phone
+nim:es and then they started asking her “or CD -n 15
+imvediztely hunn up the phore and called us, money. Advised her
+“hzr it wae probably u scam and to not give information
+rn “ha people on Lue phone. ary
+19-105089 2211 Initiated - MOTOR VEHICLE STOF
+CITATION - WARNING
+Call Taker: PATROL JXIK J MCCOKNELL JR
+Lecazion/hdcress: MATN ST
+nit: 3c)
+Arvd-22:11:55 Clrd-22:24:55

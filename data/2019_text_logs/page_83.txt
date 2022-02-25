@@ -1,1 +1,47 @@
-Cali Taker:  PATROL TANIA HERNANDEZ  Location/Address:  SPRING ST  Unit:  36  Arvd-09:58:44 Clird-10:08:11  Narrative:  3 violations  19-577  1014  Initiated ~- BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  STONEY LEDGE RD  Unit:  36  Arvd-10:14:18  Clrd-10:14:59  Narrative:  checked  Narrative:  Checked Area.  19-578  1017  initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  LONGVIEW TER  Unit:  36  Arvd-10:17:37 Clrd-10:18:04  Narrative:  checked  Narrative:  Checked Area.  19-579  1021  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  FRENIER AVE  Unit  36  Arvd-10:21:45  Clird-10:22:43  Narrative  checked  Narrative  Checked Area.  19-580  1023  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  HARWOOD ST  Unit  36  Arvd-10:23:09 Clrd-10:23:56  Narrative  checked  Narrative  Checked Area  19-581  1047  Phone ~ MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  LATHAM ST  Unit:  37K  Disp-10:48:22 Enrt-10:48:31 Arvd-10:51:57 Clrd-11:00:06 
+Location/Address: Call Taker: PATROL SPRING TANIA ST HERNANDEZ
+Unit: 36
+Arvd-09:58:44 Clrd-10:08:11
+Narrative:
+3 violations
+19-577 1014 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: STONEY LEDGE RD
+Unit: 36
+Arvd-10:14:18 Clrd-10:14:59
+Narrative:
+checked
+Narrative:
+Checked Area.
+
+19-578 1017 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca.l Taker: PATROL TANIA HERNANDEZ
+Location/Address: LONGVIEW TER
+Unit: 36
+Arvd-10:17:37 Clrd-10:18:04
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-579 1021 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: FRENIER AVE
+Unit: 36
+Arvd-10:21:45 Clrd-10:22:43
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-580 1023 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: HARWOOD ST
+Unit: 36
+Arvd-10:23:09 Clrd-10:23:56
+Narrative:
+checked
+Narrative:
+Checked Area.
+TAKEN 19-581 1047 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: LATHAM ST
+Unit: 37K
+Disp-10:48:22 Enrt-10:48:31 Arvd-10:51:57 Clrd-11:00:06

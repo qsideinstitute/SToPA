@@ -1,1 +1,53 @@
-Narrative:  checked  Narrative:  Checked 9245  18-8456  0803  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Lecation/Address  BERLIN RD  Unit  a5  Arvd-99:03:12  Clrd-09:10:58  Narrative  Empty  Narrative  Checked 0258  19-8457  0910  Phone - FOUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker  MICHAEL STRIZ2I  Location/Address  [WIA 910) TACONTC TRL  Unit  a5  Disp-09:13:30 Emrt-09:13:50 Arvd-09;:14:13 Clrd-09:16:51  Narrative  CP states she found shoes and a phone.  Lost connection has  bad service.  35 retrieved a cell phone and a pair of shoes,  19-122-PR (Cell Phone}  19-123-PR {Maroon Adidas Sneakers)  19-8458  0925  Initiated - DISABLED M V  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  MAIN ST  Unit  36  Arvd-09:26:17  Clrd-09:29:47  Vehicle  BLK 2011 NISS JUKE Req:  PC MA 113FJ0 VIN: JNSAFSMVXBTO23006  Operator  CZARNECKI, ANNETTE MARIE @ 40 ELM ST - WILLIAMSTOWN,  MA 01267-2508  Race: W Sex: F  Owner  CZARNECKI,  ANNETTE MARTE @ 40 ELM ST - WILLIAMSTOWN, MA 01267-2508  Race:  W Sex: F  Narrative  Flat tire,  she pulled into Linear Park waiting for son,  she  states she is all set.  19-8459  O93]  Initiated - TRAFFIC COMPLAINT  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  HANCOCK RD  Unit  35  Arvd-09:34:45  Clrd-09:37:36  Vehicle  BLK 2017 KIA SOUL Req: PC MA 2VB545  VIN: KNDIP3SA54H7453472  Operator  SCHADLER, HENRY @ 85 EAGLE ST Apt.  #401 - NORTH ADAMS, MA 01247  Race:  W Sex: M  Owner  SCHADLER, HENRY @ 85 EAGLE ST Apt.  #401 - NORTH ADAMS, MA 01247  Race:  W Sex: M  Narrative  Vehicle was renewed on 6/1/19. Due to registry error vehicle  comes back expi. Owner has current registration with the MA  Tag of 2BV545 instead of 2V8545. Vin on both registrations  Match. Party advised to go to RMV on Monday to get a correct  registration. 
+Noarzativa:
+checked
+Narrative:
+Checked 0245
+15-8458 0903 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+Call Taker: DATRQI. DAVID JENKINGS, DO
+Lovation/Address: BERL-N 2D
+Unit: ar
+Arvd-99:03:12 Clré-909:14:58
+Harrative:
+Empty
+Harvative:
+rocked 025M
+15-8457 0510 Phone - FOUND/ LOST PROPERTY SERVICES RENDERED
+Call Taker: MICEAEL STRIZZI
+Locasion/idéress: [WIA 910] TACONIC HL
+Unit: 25
+Digp-0©:13:30 Enrt-09:13:50 Arvc-09:14:13 Clrd-09:16:51
+Rarrative:
+>? grates she found shoes and a phone, TULost connaction has
+had service.
+35 retrieved a c2°] pone and a pair of shoes.
+15-:22-FR (Ce: Phone)
+19-:23-PR (Maroon Adidas Bneakers)
+19-8458 0925 Initiated - DISARLED M V SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: MAIN ST
+Unik: 36
+Arvd-09:26:17 Cird-09:29:47
+Vehicle: BLK 2C11 NISS JUKE Reg: PC MA 1:3FJ0 VIN: JNSAFSMVXDTC23006
+CZARNECKY, ANNETTE MARIE ® 42 ELM ST - WILLIAMSTOWN, MA 1267-2508
+Operator: Race: W Bex: I
+ner: CZARNECKI, ANKETTEZ MARYE @ 40 ELM 97 - WILLIAMSTOWN, MA SI2E7-2508
+Race: W Sex: F
+Narrative:
+Flan tire, she pulled into Linear Park waiting for son, she
+states she 18 all set.
+19-8459 0931 Initiated « TRAFFIC COMPLAINT SERVICES RENDERED
+Cazl Taker: PATROL DAVID JENKINGE, D
+locaticn/Address: HANCOCK RD
+Unit: 35
+Arvd-09:34:45 Clrd-09:37:36
+Vehicle: BLX Z01l7 KIA S4UL, Reg: 2C MA ZvBb4ab VIN: KNDJP3IASIETA33472
+Operalor: SCHADLKS, HENRY @ BS BAGLE ST Apt. #401 - NORTH ADAME, Ma 51247
+Race: Ww Bex: M
+Owmer: SCHADIEx, HENRY @ 85 ERGLE ST Apt. #401 - NORTH ADAMS, Ma 01247
+Race: W Sax: M
+Naxracive:
+Vehicle was rerewed on 6/1/19. Due to registry error vehicle
+comes back expi. Owner has current registration with the MA
+lag of 2Bvs45 instcad of 2vBL45. Vin on both registrations
+matok., Par.y advised Lo to RMV cn Monday Lo get a correct
+regietraticon. go

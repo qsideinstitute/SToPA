@@ -1,1 +1,53 @@
-Call Taker  DISPATCHER LAURIE TUPER  Location/Addreéss  BRIDGES RD  Unit  32  Disp-17:19:46  Arvd-17:19:49 Clrd-17:43:04  Unit  31  Disp-17:19:54 Enrt-17:22:21 Arvd-17:25:49  Clrd-17:42:16  Vehicle  GRN 2000 OLDS SH INTRIG Reg: PC MA 5TS175  VIN: 1G3WX52H7YF115838  Operator  BEVERAGGI, SAMANTHA MARIE @ 19 SECOND ST - ADAMS, MA 01220-1907  Race:  W Sex: F  Refer To Citation  T1400585  Owner  RHINEMILLER, DAVID B @ 20 COUNTRY CLUB AVE - ADAMS, MA 01220-1639  Race: U Sex: M  Vehicle  Operator  MILLER, AVERY DAVID @ 945 JENKS RD - CHESHIRE, MA 01225  Race:  W Sex: M  Refer To Citation  00557  Narrative:  MV Stopped.  1743 hrs. Transporting Juv to station: Mileage 19625  1747 hrs. Arrival at WPD:  19626.9  1815 hrs.  Juv. released to mother.  Refer To Incident:  19-3-OF  19-74  1804  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  ‘Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SIMONDS RD  Unit  31  Arvd-18:07:07  Clrd-18:12:19  Narrative  done  Narrative  01/03/2019 0116 Checked §3  19-75  1905  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  Location/Address  COLD SPRING RD  Unit  34  Arvd-19:05:12  Clrd-19:09:59  Vehicle  BLK 2014 BMW 4D Reg: PC VI HDE873  Operator  CROWLEY, AUSTIN J @ 132 RT67E - SHAFTSBURY, VT 05262  Race: W Sex: F  Refer To Citation  T1400636  Owner  CROWLEY, AUSTIN J @ 132 RT67E - SHAFTSBURY, VT 05262  19-77  1935  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  [WIA 190] MAIN ST  Unit  32  Arvd-19:36:33 Clrd-19:38:14  Narrative  No activity  Narrative  checked  Narrative  01/03/2019 0057 Checked $3  19-76  1936  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING 
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: BRICGES RD
+Unit: 32
+Disp-17:19:46 Arvd-17:19:49 Clrd-17:43:04
+Unit: 31
+Disp-17:19:54 Enrt-17:22:21 Arvd-17:25:49 Clrd-17:42:16
+Vehicle: GRN 2000 OLDS SE INTRIG Reg: PC MA STS175 VIN: 1G3WX52H7YF115838
+Operator: BEVERAGGI, SAMANTHA MARIE @ 19 SECOND ST - ADAMS, MA 01220-1907
+Race: W Sex: F
+Refer To Citation: T1409585
+Owner: RHINEMILLER, DAVID B @ 20 COUNTRY CLUB AVE - ADAMS, MA 01220-1639
+Race: U Sex: M
+Vehicle:
+Operator: MILLER, AVERY DAVID @ 945 JENKS RD - CHESHIRE, MA 01225
+Race: W Sex: M
+Refer To Citation: 003557
+Narrative:
+MV Stopped.
+1743 hrs. Transporting Juv to station: Mileage 19625
+1747 hrs. Arrival at WPD: 19626.9
+1815 hrs. Juv. released to mother.
+Refer To Incident: 19-3-OF
+19-74 1804 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMONDS RD
+Unit: 31
+Arvd-18:07:07 Clrd-18:12:19
+Narrative:
+done
+Narrative:
+01/03/2019 0116 Checked S3
+19-75 1905 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Local:ion/Address: COLD SPRING RD
+Unit: 34
+Arvd-19:05:12 Clrd-19:09:59
+Vehicle: BLK 2014 BMW 4D Reg: PC VT IIDE873
+Operator: CROWLEY, AUSTIN J @ 132 RT67E - SHAFTSBURY, VT 05262
+Race: W Sex: F
+Refer To Citation: T1400636
+Owner: CROWLEY, AUSTIN J @ 132 RT67E - SHAFTSBURY, VT 05262
+19-77 1935 Initiated - BUILDING CHECK BUILDING CRHECKED/SECURED
+Call Taker: SERGEANT DAVID R L.EMIEUX
+Location/Address: [WIA 190] MAIN ST
+Unit: 31
+Arvd-19:36:33 Clrd-19:38:14
+Narrative:
+No activity
+Narrative:
+checked
+Narrative:
+01/03/2019 0057 Checked S3
+19-76 1936 Initiated - MOTOR VERICLE STOP CITATION - WARNING

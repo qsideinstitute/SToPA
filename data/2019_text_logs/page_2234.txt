@@ -1,1 +1,49 @@
-Call Taker  LIEUTENANT MICHART J ZIEMBA dr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-10:05:23  Clrd-10:05:29  Narrative  Checked Area.  Narrative  Checked Area.  19-15164  L053  initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  HARWOOB ST  Unit  37K  Arvd-10:54:00  Clrd-10:54:12  Narrative  Checked Area,  Narrative  Checked Area.  15-15165  1054  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  LIBUTENANT MICHAEL J ZIEMBA Jr  Location/Address  FRENIER AVE  Unit  37K  Arvd-10:54;25  Clrd-10:54:32  Narrative  Checked Area.  Narrative  Checked Area.  19+15166  1055  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  LIBUTENANT MICHAEL J ZIEMBA Jr  Location/Address  LONGVIEW TER  Unit  37K  Arvd-10:55:47  Cird-10:59:22  Unit  37K  Disp-10:59:57  Arvd-11:00  03  Clrd-11:01:49  Narrative  Checked Area.  49-15167  1059  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIEUTENANT MICHAEL J Z2IEMBA Jr  STRATTON RD  Location/Address  Unit  37K  Arvd-10:59:22 Clird-10:59:28  Narrative  Checked Area.  Narrative  Checked Area,  19-15169  1309  Initiated - PUBLIC SERVICE  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  WALDEN sT  Unit:  37K  Arvd-13:09:31  Clrd-13:09:51 
+Lecarion/Rodress: wall Takex: “IBUTENANT MICHAEL J ZIEMBA Jr
+Unit: COLD SPRING RD
+ITE
+Arvd-_0:0z2:23 Clrd-10:05:29
+Narrative:
+Checked Axroz.
+Marrakt-_vo:
+Checked Area,
+15-15164 1053 Initiated - BUILDIKG CHECK BUILDING CHECKED/SECURED
+Cal. Taxer: LIZUTENARNT M™CHAST. J ZTEMBM Jr
+—ocation/Address: HARKHOCD BT
+Jnit: 37
+Arvd-10:54:00 Clrd-12:54:12
+Narrative:
+CRogacd Arca,
+Narzative:
+Chenxed Arca.
+19-151465 1054 Initimted - BUILDING CHECK BUYLDING CHECKED/SECURED
+Call Taker: LIEJTENANT MICTEAEL J ZIFEMBA Jr
+Location/Address: FRENIER AVE
+nis: 37K
+S:54:285 Opd-iQ:54:32
+Karracive:
+Checked Arva.
+KRarrative:
+Checkad Arez.
+19-151686 1055 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: LISUTINANT MICHAEL JO ZIEMBA J»
+Location/Address: LOKGVIEW TER
+U-it: 37X
+Arvi-10: sh:47 (Clré-106:59:22
+Mit A aT
+Disp-10:59:57 Arvd-11: C0:03 Clrc-11:01:49
+Narrative:
+Txacked Area.
+19-151667 1059 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+Cail Taker: LIRTTENANT MTCSARL J 2TEMBA Or
+Location/address: STRATTON RD
+Tniz: 37K
+Arvd-10:69:27 Cird-10:99:24
+Harrazive:
+Chacksd Area.
+darrative:
+Choched Arod.
+19-151488 1309 Initiated - PUBLIC SERVICE SERVICEE RENDERED
+Call 'l'akex: —IELTENAN" MICHAEL J Z2IEMBA Jr
+Twearion/Acdrane: WiLDEN 8'1'
+Unit: 37K
+3:09:31 Clxd-13:09:51

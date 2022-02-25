@@ -1,1 +1,57 @@
-Disp-06:21:37  Arvd-06:21:  47 Clird-06:27:45  Vehicie  RED 2009  HYUN SANTFE Reg: PC MA 441EB8  VIN: S5NMSG73D59H275954  Operator  BRAZEAU,  DIANNE R @ 170 CENTRAL SHAFT RD  ~ FLORIDA, MA 01247-9655  Race: U  Sex: F  Owner  BRAZEAU,  DIANNE R @ 170 CENTRAL SHAFT RD  - FLORIDA, MA 01247-9655  Race: U  Sex: F  Narrative  M/V lockout  by the loading dock.  19-7023  0636  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  COLD SPRING RD  Unit  33  Arvd-06:36:43  Clrd-06:43:54  Vehicle  GRY 2013 HOND FIT Reg: PC MA 79VN48  VIN: JHMGE8H38DC005219  Operator  GRAY, ELIZABETH J @ 19 MCCAULEY LN - WILLIAMSTOWN, MA 01267-2756  Race: W Sex: F  Refer To Citation  T1785742  Owner  GRAY, BLIZABETH J @ 19 MCCAULEY LN - WILLIAMSTOWN, MA 01267-2756  Race: U Sex: F  19-7024  0714  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd-07  15:09  Clrd-07:37:50  Unit  35  Disp-14:25:30  Arvd-14  25:48  Clrd-14:37:49  19-7025  0741  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  GALE RD  Unit  30  Arva-07  41:41  Clrd-07:59:17  Unit  35  Disp~-14:39:16  Arvd-14  40:08  Clrd-15:14:42  19-7026  0820  initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLE AVE  Unit:  30  Arvd-08  20:24  Clrd-08:36:30  Unit:  38  Arvd-15  09:34  Clrd-15:23:39  Disp-15:04:12 Enrt-15:07:33  19-7027  0834  Phone -  ANIMAL CONTROL  LOG ENTRY REQUEST  Call Taker:  MICHAEL STRIZZIi  Location:  SPRUCES  Narrative:  CP states that she lost her 8 month old black cat at the  Spruces.  States that the cat has a collar and is micro  chipped.  19-7028  0845  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  MAIN ST  Unit  37K  Arvd-08:45:13  Clyrd-08:46:00  Narrative  checked  Narrative 
+Vehicle: RED Disp-06:21:37 2009 HYUN Arvd-06:21:47 Clrd-06:27:45
+SANTFE Reg: PC MA 441E38 VIN: SNMSG73D59H275954
+Operator: BRAZEAU, DIANNE R @ 170 CENTRAL SHAFT RD - FLORIDA, MA 01247-9655
+Race: U Sex: F
+Owner: BRAZEAU, DIANNE R @ 170 CENTRAL SHAFT RD - FLORIDA, MA 01247-9655
+Race: U Sex: F
+Narrative:
+M/V lockout by the loading dock.
+19-7023 0636 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: COLD SPRING RD
+Unit: 33
+Arvd-06:36:43 Clrd-06:43:54
+Vehicle: GRY 2013 HOND FIT Reg: PC MA 79VN48 VIN: JHMGE8H38DC005219
+Operator: GRAY, ELIZABETH J @ 19 MCCAULEY LN - WILLIAMSTOWN, MA 01267-2756
+Race: W Sex: F
+Refer To Citation: T1785742
+Owner: GRAY, ELIZABETH J @ 19 MCCAULEY LN - WILLIAMSTOWN, MA 01267-2756
+Race: U Sex: F
+19-7024 0714 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-07: 15 :09 Clrd-07:37:50
+Unit: 35
+Disp-14:25:30 Arvd-14: :48 Clrd-34:37:49
+19-7025 0741 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: GALE RD
+Unit: 30
+Arvd-07: 41: Clrd-07:59:17
+Unit: 35
+Disp-14:39:16 Arvd-14 40 :08 Clrd-15:14:42
+19-7026 0820 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLE AVE
+unit: 30
+Arvd-08 1:20: 24 Clrd-08:36:30
+Unit: 38
+Disp-15:04:12 Enrt-15:07:33 Arvd-15 :09: 34 Clrd-15:23:39
+19-7027 0834 Phone - ANIMAL CONTROL LOG ENTRY REQUEST
+Call Taker: MICHAEL STRIZZI
+Location: SPRUCES
+Narrative:
+CP states that she lost her 8 month old black cat at the
+Spruces. States that the cat has collar and is micro
+a
+chipped.
+19-7028 0845 Initiated
+- BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN
+Location/Address: MAIN MICHAEL J ZIEMBA Jr
+Unit: ST
+37K
+Narrative: Arvd-08:45:13 Clrd-08:46:00
+checked
+Narrative:

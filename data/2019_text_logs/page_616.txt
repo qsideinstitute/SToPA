@@ -1,1 +1,54 @@
-Location/Address  {WIA 433] COBBLEVIEW RD  Narrative  RP in station in an effort to avoid a disturbance should  ex-girlfriend return to get her property  RP provided with  some options  19-4244  1220  Radio ~ B.0O.L.0  PATROL ADVISED  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  [WIA 249] NORTH ST  Unit  30  Disp~12:21:42  Clrd-12:50:08  Unit  34  Arvd-12:22:03  Clrd-12:33:56  Disp-12:21:42  Vehicle  GRY 2009 CHEV TRAVER Reg  PC MA 646KR5 VIN  1GNEV23D99S108868  Operator  PRATT, AMY MARIE @ 57 ELM ST -  ADAMS, MA 01220-2145  Race: W Sex: F  Owner  PRATT, AMY MARIE @ 57 ELM ST -  ADAMS, MA 01220-2145  Race: W  Sex: F  Narrative  BOLO 646KR5 for suicidal threats  Last observed in Adams  around 1120  1332 Adams request cancel previous BOLO party was located  19-4245  1224  Walk-In - BURN PERMIT  NO ACTION REQUIRED  Call Taker  CHIEF KYLE J JOHNSON  Narrative:  Henderson,  Stratton Rd  per | Cold sprang  ai  Bulkley,  Bogan.’  Hancock  Mason, (BBE oblonc ii]  Hancock  Began  Hancock,  of  Simonds  19-4246  1243  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  MAIN ST  Unit  34  Arvd-12  43:26  Clrd-12:51:05  Vehicle  BLU 2007 HOND CRV Reg: PC MA 4KV289  VIN: JHLRE48707C118143  Operator  KJELLEREN, DONALD F @ 350 PINE COBBLE  RD - WILLIAMSTOWN,  MA 01267  Race  W Sex: M  Refer To Citation  T1400886  Owner  KJELLEREN, DONALD F @ 350 PINE COBBLE RD - WILLIAMSTOWN,  MA 01267  Race: W Sex: M  19-4247  1340  911 - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker  CHIEF KYLE J JOHNSON  Narrative  Pocket dial on 911. Party is at Weston Field, watching  sporting event  No issues  19-4248  1348  911 -  ALARM  - BURGLAR  ALARM FALSE  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  [WIA 2259] SYNDICATE RD  Unit  34  Disp-13:48:33 Enrt~13:48:41 Arvd-13:50:22 Clrd-13:50:57  Narrative  Kitchen door & motion (x2)  1349 Alarm company canceling  19-4249  1424  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING 
+Location/Address: [WIA 433] COBBLEVIEW RD
+Narrative:
+RP in station in an effort to avoid a disturbance should
+ex-girlfriend return to get her property. RP provided with
+some options.
+19-4244 1220 Radio - B.0.L.O. PATROL ADVISED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 2491 NORTH ST
+Unit: 30
+Disp-12:21:42 Clrd-12:50:08
+Unit: 34
+Disp-12:21:42 Arvd-12:22:03 Clrd-12:33:56
+Vehicle: GRY 2009 CHEV TRAVER Reg: PC MA 646XR5 VIN: 1GNEV23D995108868
+Operator: PRATT, AMY MARIE @ 57 ELM ST - ADAMS, MA 01220-2145
+Race: W Sex: F
+owner: PRATT, AMY MARIE @ 57 ELM ST - ADAMS, MA 01220-2145
+Race: W Sex: F
+Narrative:
+BOLO 646KR5 for suicidal threats. Last observed in Adams
+around 1120.
+1332 Adams request cancel previous BOLO party was located.
+19-4245 1224 Walk-In - BURN PERMIT NO ACTION REQUIRED
+Call Taker: CHISF KYLE J JOENSON
+Narrative:
+Il ccld
+Spring, Henderson, Stratton Rd, Ji
+Bulkley, | | Eivd Eivd Hancock, Mason, Simonds. [Jj ooloncl
+Hancock, Hancock,
+
+19-4246 1243 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: MAIN ST
+Unit: 34
+Arvd-12:43:26 Clrd-12:51:05
+Vehicle: BLU 2007 EOND CRV Reg: PC MA 4KV289 VIN: JHLRE48707C118143
+Operator: KJELLEREN, DONALD F @ 350 PINE COBBI.E RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+Refer To Citation: T1400886
+Ovmer: KJELLEREN, DONALD F @ 350 PINE COBBLE RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+19-4247 1340 911 - 9-1-1 WRONG NUMBER LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Narrative:
+Pocket dial on 911. Party is at Weston Field, watching
+sporting event. No issues.
+19-4248 1348 911 - ALARM - BURGLAR ALARM FALSE
+Call Taker: CH1EF KYLE J JOHNSON
+Location/Address: [WIA 2259] SYNDICATE RD
+Unit: 32
+Disp-13:48:33 Enrt-13:48:41 Arvd-13:50:22 Clrd-13:50:57
+Narrative:
+Kitchen door i motion (x2).
+1349 Alarm company canceling
+19-4249 1424 Initiated - MOTOR VEHICLE STOP CITATION - WARNING

@@ -1,1 +1,50 @@
-Narrative:  checked  Narrative:  Checked 0149  19-2054  0853  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HILL PROVINCE RD  Unit  30  Arvd-08:54:00 Clrd-08:55:27  Narrative  checked  Narrative  Checked 0155  19-2055  0854  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  KEEP HILL RD  Location/Address  Unit  34  Arvd-08:55:05 Clrd-08:56:20  Narrative  Checked Area.  Narrative:  Checked Area.  19-2056  0908  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  NEW ASHFORD RD  Unit:  34  Arvd-09:08:19  Clrd-09:13:57  Vehicle:  WAI 2015 HOND CRV Reg: PC MA 335450 VIN: 5SJ6RM4H52FL059796  Operator:  MORRISSEY, HEATHER M @ 484 BARBOUR ST - NORTH ADAMS, MA 01247  Race:  W Sex: F  Refer To Citation:  T1400483  Owner:  MORRISSEY, RYAN R @ 484 BARBOUR ST - N ADAMS, MA 01247-3124  Race: W Sex:  M  19-2057  0939  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker:  PATROL DAVID JENNINGS,  D  Location/Address  COLD SPRING RD  Unit  34  Arvd-09:39:26 Clrd-09:40:43  Narrative  Checked Area,  Narrative  Checked Area.  19-2058  0942  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker:  PATROL DAVID JENNINGS, D  Location/Address:  COLD SPRING RD  Unit:  34  Arvd~-09:42:27  Clrd-09:43:06  Narrative: 
+Narrative:
+checked
+Narrative:
+Checked 0149
+19-2054 0853 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HILL PROVINCE RD
+Unit: 30
+Arvd-08:54:00 Clrd-08:55:27
+Narrative:
+checked
+Narrative:
+Checked 0155
+19-2055 0854 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: KEEP HILL RD
+Unit: 34
+Arvd-08:55:05 Clrd-08:56:20
+Narrative:
+Checked Area.
+Narrative:
+Checked Area.
+19-2056 0908 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NEW ASHFORD RD
+Unit: 34
+Arvad-09:08:19 Clrd-09:13:57
+Vehicle: WHI 2015 HOND CRV Reg: PC MA 335450 VIN: 5J6RM4H52FL059796
+Operator: MORRISSEY, HEATHER M @ 484 BARBOUR ST - NORTH ADAMS, MA 01247
+Race: W Sex: F
+Refer To Citation: T14C0483
+Owner: MORRISSEY, RYAN R @ 484 BARBOUR ST - N ADAMS, MA 01247-3124
+Race: W Sex: M
+19-2057 0939 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-09:39:26 Clrd-09:40:43
+Narrative:
+Checked Area.
+Narrative:
+Checked Area.
+19-2058 0942 Initiated BUILDING CHECK
+- BUILDING CHECKED/SECURED
+Call Taker:
+Location/Address: COLD PATROL DAVID JENNINGS, D
+Unit: SPRING RD
+34
+Narrative: Arvd-09:42:27 Clrd-09:43:06

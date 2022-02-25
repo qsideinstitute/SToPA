@@ -1,1 +1,47 @@
-19-5758  1130  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  FRENIER AVE  Unit  35  Arvd~11:31:03  Clrd-11:31:08  Narrative  Checked  Narrative  done  Narrative  Checked  49-5759  1132  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Add@ress  HARWOOD ST  Unit  35  Arvd-11:32:11 Clrd~11:32:14  Narrative  Checked  Narrative  done  Narrative  Checked  19-5760  1144  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  35  Arvd-11:45:01  Clird-11:45:12  Narrative  Checked  Narrative  Checked  8-4  18:14  me  Narrative  Checked  S-4  20:35  Narrative  Checked Area  Narrative  Checked Area  19-5761  1157  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  PETERSBURG RD  Unit  30  Arvd-11:57:22 Clrd-11:58:34  Narrative  Checked S-4  18:54  Narrative  Checked Area. 
+19-5758 1130 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/Address: FRENIER AVE
+Unit: 35
+Narrative: Arvd-11:31:03 Clrd-11:31:08
+Checked
+Narrative:
+done
+Narrative:
+Checked
+19-5759 1132 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/Address: HARWOOD ST
+Unit: 35
+Arvd-11:32:11
+Narrative: Clrd-11:32:14
+Checked
+Narrative:
+done
+Narrative:
+Checked
+19-5760 1144 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/Address: [WIA 1832] NORTII HOOSAC RD
+Unit: 35
+Arvd-11:45:01 Clrd-11:45:32
+Narrative:
+Checked
+Narrative:
+Checked S-4 18:14
+Narrative:
+Checked S-4 20:35
+Narrative:
+Checked Area.
+Narrative:
+Checked Area.
+19-5761 1157 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: PETERSBURG RD
+Unit: 30
+Arvd-11:57:22 Clrd-11:58:34
+Narrative:
+Checked S-4 18:54
+Narrative:
+Checked
+Area.

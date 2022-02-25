@@ -1,1 +1,48 @@
-Location/Address  PINE COBBLE RD  Unit  36  Arvd-09:19:54  Cird-09:21:29  Narrative  NC HBY6456  MA G134 - handicap  All ok  Narrative  NC HBY6456  MA 7MJ619,  2216VT  NY FBP?595  All ok.  Narrative  Checked 98-4  17:04  Narrative  no csrs  Narrative  ampty  Narrative  09/07/2019 GO17 Checked $3 No vehicles.  Narrative  No vehicles,  area checked.  19-11044  0930  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANTA HERNANDEZ  Location/Address  LONGVIEW TER  Unit  36  Arvd-09:30:57  Clrd-09:31:01  Narrative  Daughter home  19-11045  0940  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK ST  Unit  36  Arvd-09:41:26  Clrd-09:46:35  Narrative  2 violations  19-11046  O952  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PETERSBURG RD  Unit  346  Arvd-09:52:57  Clrd-09:55:43  Narrative  Checked §-4  17:35  Narrative  done  Narrative  Checked  19-11047  10067  Phone - 9-1-1 HANG UP CALL  NO ACTION REQUIRED 
+“ocation/Addrass: PINE COL3LE RD
+Uni_: 26
+Arvd-03:19:54 Clrd-05:21:29
+Narrative:
+KC “RYG456
+MA GL34 - handicap
+All ck
+Navrative:
+NU HBY456
+ME TMCGlER, 221CVT
+NY “BF750:
+All ok.
+Narrativa:
+Checked 8 4 17:24
+Na+razive:
+1o Cs5ra
+Karrative:
+erpty
+Nurrative:
+29/67/2319 0017 Checked 23 No vehizlies.
+Narrative:
+Ne vehicles, area coecked.
+15-11044 4930 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cail Tagex: FATROL TANIA HERNANDEZ
+Location/Address: —SJNGVIIW TEE
+Unik: 36
+Arvd-09:30:87 Clrd-09-31:-492
+Narra—ive:
+Daughiler hone
+19-11C45 0940 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL TAN1A ZERNAKLCEZ
+Lozation/nddrzsg: PARK SBT
+Tmiz: 3a
+Arvd 39:41:26 Clrd-923:4¢:35
+Narrative:
+2 v—olations
+15-11046 1952 Initiated - BUILDING CHECK BUILDING CHECKED/JECURED
+Ca.l Taker: ZRTRGT: TAN. A HERNANDEZ
+Location/Address: PRTRSRURG RL
+Init: E1
+Arvd-09:32:57 (Cl>xd-09:55:43
+Narraziwvo:
+Checked 85-4 17:35
+Ka-ral ive:
+dori
+Narrative:
+Checked
+19-11047 1007 Phone - 9-i-1 EANG UP CALL HO ACTION REQUIRED

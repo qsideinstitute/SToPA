@@ -1,1 +1,50 @@
-19-10652  1969  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SOUTHWORTE ST  Unit  3i  Arvd-19:16:05  Chird-19:13:13  Narrative  Checked 6108  4149-10653  1931  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  MAIN ST  Unit:  31  Arvd-19:32:07  Clrd-19:33:36  Narrative:  Checked 0305  19-10654  1937  Enitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  (WIA 249) NORTH ST  Unit  31  Arvd-19:37:17  Clrd-19:38:00  Narrative  Checked 60101  1959-10655  1947  Phone -  ALARM  -  OTHER  NO ACTION REQUIRED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  (WIA 380] MAIN ST  Unit  31  Disp-19:50:37 Enrt-19:52:33 Arvd-19:54:43  Clrd-19:54:48  Vehicle  VIN:  IGREVPEKD7FJ212288  GRY 2015 GMC ACADIA Reg: PC MA RS7080  Operator  KUHNER, NATALIA RJL @ 7 THOMPSON ST - ADAMS,  MA 01220-1431  Race:  U Sex:  F  Owner  KUHNER, NATALIA RJL @ 7 THOMPSON ST - ADAMS, MA 01220-1431  Race:  U0 Sex:  F  Narrative:  MCLA Police report panic alarm activated by staff member  natalia Kunher. MCLA report they have a app that is used by  students and staff that allows them to summon for help if  needed. App activated in town at above location. Vehiicle  and invloved party in call.  1954-  Per MCLA: False alarm  19-10656  L955  FInitiated - SUSPICIOUS MOTOR VEHICLE  SERVICES RENDERED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Addresa  (WIA 240]  COLE AVE  Unit  22  Arvd-20:03:50 Clrd-20:11:44  Narrative  4 wheeler in lot behind the building.  Narrative  Was being rode by Seth Labonte of 715 N.Hoosac Rd.  Advised  him that he could not ride the ATV due to his lic.  status  and the ATV nat being registered.  19-10657  2038  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+13-10652 1509 Initlated - BUILDING CHECK BUILDING CHECKED/BECURED
+Call Taker: SERGEANT DAVID R LEMIETIX
+Locat_on/Address: SOUTHWORTH ST
+Unit: 31
+Arvd-19:1C:05 Clrd-19:13:13
+Narrative:
+Checked 0.08
+19-106653 1931 Initiated - BUILDING CHECK BUILDING CHECKED/SECURRED
+Call Taker: SERUEANT DAVID R LTMIETX
+Lecation/hddress: MAIN ST
+Unit: 31
+Arvd-19:32:07 Clrac-12:33:36
+Narralive:
+Checxed 030Z
+1939-10654 1837 Initiated - BUILDING CHECK BUILDING CRECKED/SECURED
+Call Taker: SERGEANT DAVID k LEMIEUX
+Locat-on/Address: [WIL 248) NORTH ST
+Jnit: 31
+Arvd-19:37:17 CQlrd-19:38:08
+Narrative:
+Checked 0101
+19-108655 1947 Phone - ALARM - OTHER NO ACTION REQUIRED
+Call Taker: PATROZ, KATVIN DZISDZIAK
+Zocation/Address: [WIA 380] MALK ST
+Unit: 31
+Disp-19:50:37 Bnrt-:19:52:33 Arvd-15:54:42 (Clrd-15:54:48
+Vehicle: GRY 2015 GMT ACADIA Reg: PC MA RS7080 VIN: 1GXRVERD7RJ212288
+Operator: KUHNER, NATALIA RJIL @ 7 TIOMPSON ST - ANAMS, MA 01320-1431
+Race: J Scx: F
+Jnev, JUHNER, NATALIA RJL @ 7 THOMESOK 8T - ANAMS, MA 01220-1431
+Race: U Sex: F
+Harrative:
+MILA Polace report panic alarm activared by staff momber
+natalia Kunher. MCLA report they have a app that is uscd by
+students and staff that allows therm to summon for help it
+needed, App aclivakbad in zcwn at above locaton. Yeriicle
+ud invioved party in cal.
+1354- Per MCLA: False alarm
+19-190656 L855 Initiated - SUSPICIOUS MOTOR VEHICLE EERVICES RENDERED
+Call Taker: PATRGL JOHN J MCCOHIELL JR
+Location/Address: [WIA 240] TOLE AVE
+Jit: 32
+Arvd-20:23:50 Clrd 20:11:44
+Narrative:
+4 wheeler in lot behind the building.
+Narrative:
+Was being rode hy Seth Tahonte of 71: N.Zoosac Rd. Advoged
+him tzZat he could not ride the ATV due to his lic, ztakus
+and the ATV mot being registered.
+19-106587 2038 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

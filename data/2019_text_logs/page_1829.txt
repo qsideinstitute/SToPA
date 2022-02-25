@@ -1,1 +1,50 @@
-19-12746  0243  Phone  - NOISE COMPLAINT  SERVICES RENDERED  Call Taker:  MICHAEL STRIZ2ZI  Location/Address:  [WIA 1257] SOUTHWORTH ST  Unit;  32  Disp-02:48:17  Bnyt-02:48:50 Arvd-02:51:25  Clird-02:51:51  Unit:  35  Diap-02:48:17  Enrt-02:48:47 Arvd-02:49:40  Clyd-02:55:31  Narrative:  CP states noise is coming from the corner of Southworth and  Main,  CP stated it is the former Dewey house.  Narrative:  A group renting an air B&B out on the decking talking.  Parties will take it inside.  1219-12748  0905  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  NORTH ST  Unit  35  Arvd-09:05:56  Clrd-09:06:25  Narrative  Checked S-4  18:04  Narrative  Checked 0055  1939-12749  0905  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  [WIA 1832] NORTH HOOSAC RD  Gnit  20  Arvd-09:09:24  Clrd-09:09:46  Narrative  Checked  Narrative  checked  Narrative  Checked 5-4  21:50  Narrative  Checked 2338  Narrative  Checked 0348  19-12750  9913  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  PINE COBBLE RD  Unit  30  Arvd-09:14:56  Cird-09:15:11  Narrative  7SW1i96 -  5JK599 -  LH2K76  PA  KRY3202  RI  453500  HDS235  Narrative  MA  8196TR 5B4511 372459 1KKWAIL 227027 40D186 7XN277  NY  FLG6198 GVG5039 CWZ9907 EWNS646 RSOLKG 
+19-127486 Cail 0243 Phone - NOISE COMPLAINT SERVICES RENDERED
+Taker: MTCHAEL STRiZZL
+Location/Address: [WI 1257] SOUTHWORTH ST
+hit: 32
+Dipp-02:48:27 iEnrl 02:48:50 Axve-02:51:23 QIxd-02:51:5:
+Tnit: LE
+D gp 02:48:17 Enrt-02:48:47 Arvd-02:49:40 Clrd-02:55:21
+Eazprative:
+C? states ncise is coming from the corner of Scuthworth and
+Main, CP stated it is the former Dewey house.
+Karrative:
+A groun rentirg sn aly BEB out on the deck.ny Luiking.
+Parties will take it inside.
+19-122748 0905 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+al_ Taker: FATROL BRAD SACT0
+Location/Address: NORTH ST
+Taib: 35
+Arvd-09:05:36 Clrd-09:08:25
+Murrubtive:
+Checked 5-4 18:04
+Nar+ativa:
+Checked 0OU:hL
+19-12749 909 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SZRIZANT SCOTT E MCGOWAN
+Location/Adcress: [KIA 1E32. NKCRTH HOCSAC RD
+Unit: 20
+Arvd-04:09:24 CQl2d 09:09:46
+Karrative:
+Cheaked
+KHarrative:
+chackad
+Narrative:
+Checked .4 21:50
+Nerratfwe:
+Cheeckad 2332
+Narretivas.
+Chacked (548
+19-12750 8913 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call “akor: SZRIEANT SCOTT LE MCECOHRAN
+Location/Address: PINE COBBLE IRD
+Unil: 20
+Arvd-03:14:58 Clxd-09:159:2
+Narrallve:
+Ma: 75W198 - SJXEI9 - 1HZK7G
+PA: ERY3232
+RI: <523500
+VI: IIDG235
+Nurrab-vo:
+iy 81iwel's hBXhll 3T74459 1KEWALL 2270ZJ 4oD1b06 7XN277
+NY 2LOC61ER OVO5230 CHZL907 EWNC645 RET1EG

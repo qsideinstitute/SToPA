@@ -1,1 +1,47 @@
-Checked Area.  19-14906  0831  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEG  Location/Address  FRENIER AVE  Unit  36  Brvd-08:31:46  Clrd-08:32:35  Narrative  checked  Narrative  Checked Area.  4149-14907  0833  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  LONGVIEW TER  Unit  36  Arvd-08:33:52  Cird-08:44:50  Unit  36  Disp~-08:45:52  Arvd-08:45:59  Clrd-08:51:58  Narrative  checked, 26  15-14508  of44  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  STRATTON RD  Unit  36  Arvd-08:44:50  Clrd-08:45:38  Narrative  checked  Narrative  Checked Area.  19-24909  0847  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  NORTH ST  Location/Address:  Unit:  37K  Arvd-08:48:00  Clrd-08:48:27  Narrative:  Checked S$-4  16:55  Narrative:  done  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  29-145910  0852  Call Taker  LIEUTENANT MICHAEL J Z2IEMBA Jr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-08:52:59  Clrd-08:53:06  Narrative  Checked 8-4  17:00  Narrative  Checked Area. 
+Checked Area.
+19-145086 0831 Initiated - BUILDING CHECK BUILDING CHRECKED/SECIRED
+Czl]l Taker: PATROL TANIA HERNANDEZ
+Lacatien/Address: FRENIER AVE
+unit: 26
+Arvd-08:31:46 Clré-0B8:32:35
+Rarxative:
+anpaked
+Narrztive:
+Checked Area.
+19-143907 0833 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+Cal. TaXer: PATROY, TANIA HERIKANDZZ
+Lozation/Address: LOKGVIEN TER
+36
+Unit: Arvd-08:33:52 Cl>»d-08:44:50
+unit: 36
+Cisp-08B:42:52 Arvd-08:45:59 (lxd-0B:S51:58
+Narrative:
+checked, 26
+15-14508 ca44d Initiated - BUILDING CHECK BUILDING CHECXED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Local ion/Aédyrase: STRATTON RD
+Unit: 36
+Arvd-28:44:50 c.rd 08:45:33
+Karrative:
+checked
+Narrative:
+Checked Arca.
+CHECK BUILDING CHECKED/SECURED
+19-314909 084d7 Initiated - BUILDING
+Call Taker: LIEJTENANT MICTEAEL J Z1EMBA Jr
+Location/hddress: KORTH ST
+Init: 37MX
+Arvd-0R:/R:00 Clxd--8:43:27
+Narrazive:
+Chacked 5-4 26:85
+Harrazive:
+done
+19-145910 o8s2 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca-l Taker: TL, TEUTENANT MICHAEL J ZIEMBA Jr
+Location/Address: TOLD SPRING KD
+Unik: 17K
+Arvd-06:52:59 Clrd-08:53:06
+Narrative:
+Jhnucked S-4
+Narrative:
+vhecked Araa,

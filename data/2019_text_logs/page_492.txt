@@ -1,1 +1,49 @@
-Narrative:  Checked 0220  19-3374  0733  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  HAWTHORNE RD  Unit:  30  Arvd-07:33:35  Clrd-07:33:55  Narrative:  Checked  Narrative:  done  Narrative:  Checked  19-3375  0738  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT & MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd-07:38:10  Cird-07:38:49  Narrative  Checked  Narrative  Checked  19-3376  0808  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 333] CHURCH ST  Unit  32  Arvd-08:08:20  Clrd-08:57:22  Narrative  Checked.  19-3378  081i  Phone ~ ROAD CONDITIONS  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  OBLONG RD  Narrative:  GM «from DPW reports that while working on the road a  cable wire was knocked down. She requested and was provided  they numbers for Verizon and Time Warner (Spectrum) and will  contact them regarding Pole 3.  19-3377  0815  Initiated - TRAFFIC CONTROL  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLE AVE  Unit:  30  Arvd~-08:15:31  Clird-08:30:25  19-3379  0902  911 - ROAD CONDITIONS  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  OBLONG RD  Narrative: 
+Narrative:
+Checked 0220
+19-3374 0733 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HAWTHORNE RD
+Unit: 30
+Arvd-07:33:35 Clrd-07:33:55
+Narrative:
+Checked
+Narrative:
+done
+Narrative:
+Checked
+19-3375 0738 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-07:38:10 Clrd-07:38:49
+Narrative:
+Checked
+Narrative:
+Checked
+
+19-3376 0808 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 333] CHURCH ST
+Unit: 32
+Arvd-08:08:20 Clrd-08:57:22
+Narrative:
+Checked.
+19-3378 0811 Phone - ROAD CONDITIONS TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: OBLONG RD
+Narrative:
+Il from DPW reports that while working on the road a
+cable wire was knocked down. She requested and was provided
+they numbers for Verizon and Time Warner (Spectrum) and will
+contact them regarding Pole 3.
+19-3377 0815 Initiated - TRAFFIC CONTROL BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLE AVE
+Unit: 30
+Arvd-08:15:31 Clrd-08:30:25
+19-3379 0902 911 - ROAD CONDITIONS TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: OBLONG RD
+Narracive:

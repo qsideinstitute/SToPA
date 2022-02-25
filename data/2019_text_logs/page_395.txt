@@ -1,1 +1,49 @@
-19-2731  1035  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  HILL PROVINCE RD  Unit  31  Arvd-10:36:18 Clird-10:37:28  Narrative  done  Narrative:  Checked Area.  19-2732  1057  Walk-In - TRAFFIC CONTROL  PATROL ADVISED  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  SPRING ST  Vehicle  RED 2011 SUBA 4D LEGACY Reg: PC VI GTD611 VIN: 4S3BMBC63B3250925  Operator  PERKINS, JAMES @ 105 DEWEY ST - BENNINGTON, VT 05201  Race:  W Sex:  M  Owner  JAMES, MARY-LOU @ 105 DEWEY ST - BENNINGTON,  VT 05201  Race: W Sex: F  Narrative:  RP into station asking permission to park in front of the  Clip Shop from 7p-4a. Starting today. RP will be in building  doing some painting for approx. a week. 37-k gave RP  permission to.  19-2739  1107  Other -  LARCENY  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  {WIA 11] CHAPIN HALL DR  Narrative  Fax from WCS&S reporting a Larceny of a coat.  1425 WCS&S called reporting coat has been found.  Refer To Incident:  19-54-OF  19-2734  1114  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL, J ZILEMBA Jr  Location/Address  LONGVIEW TER  Unit  37K  Arvd-11:14:43  Clrd-11:14:50  Narrative  checked  Narrative  Checked  19-2735  1119  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  HARWOOD ST  Unit:  37K  Arvd-11:20:09  Cird-11:20:17  Narrative:  xhecked  Narrative:  Checked 
+
+19-2731 1035 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: HILL PROVINCE RD
+Unit: 31
+Arvd-10:36:18 Clrd-10:37:28
+Narrative:
+done
+Narrative:
+Checked Area.
+19-2732 1057 Walk-In - TRAFFIC CONTROL PATROL ADVISED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: SPRING ST
+Vehicle: RED 2011 SUBA 4D LEGACY Reg: PC VT GTD611 VIN: 4S3BMBC63B3250925
+Operator: PERKINS, JAMES @ 105 DEWEY ST - BENNINGTON, VT 05201
+Race: W Sex: M
+Quner: JAMES, MARY-LOU @ 105 DEWEY ST - BENNINGTON, VT 05201
+Race: W Sex: F
+Narrative:
+RP into station asking permission to park in front of the
+Clip Shop from 7p-4a. Starting today. RP will be in building
+doing some painting for approx. a week. 37-k gave RP
+permission to.
+19-2739 1107 Other
+TAKEN - LARCENY INVESTIGATED / REPORT
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: [WIA 111 CHAPIN HALL DR
+Narrative:
+Fax from WCSaS reporting a Larceny of a coat.
+1425 WCSaS called reporting coat has been found.
+Refer To Incident: 19-54-0OF
+19-2734 1114 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: LONGVIEW TER
+Unit: 37K
+Arvd-11:14:43 Clrd-11:14:50
+Narrative:
+checked
+Narrative:
+Checked
+19-2735 1119 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HARWOOD ST
+Unit: 37K
+Arvd-11:20:09 Clrd-11:20:17
+Narrative:
+xhecked
+Narrative:
+Checked

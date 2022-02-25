@@ -1,1 +1,53 @@
-Narrative:  Ron on scene. Car 34 transporting one to station to meet  taxi.  Narrative:  Arrived  Refer To Accident:  19-~42-AC  19-3254  1516  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  SPRING ST  Location/Address:  Unit:  32  Arvd@-15:16:38  Clrd-15:23:07  Narrative:  03/15/2019 1516 - Start  03/15/2019 1700 - 3 violations  19-3255  1519  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:21:27  Clrd-15:26:10  Narrative:  No  violations  19-3257  1539  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  MAIN ST  Unit:  32  Arvd-15:39:45  Clrd-15:44:38  Narrative:  03/15/2019 1543 -~ Assist with traffic to allow a large  groups of people to cross Main St onto Field Park for Global  Peace March.  19-3258  1606  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  MAIN ST  Unit:  32  Arvd-16:06:31 Clrd-16:12:20  Vehicle:  BLU 2015 HOND ODYSSE Reg: PC MA 841XG8 VIN: SFNRL5SH24FB093391  Operator:  KARAMPATSOS, JENNIFER R @ 67 FRENIER AVE - WILLIAMSTOWN, MA 01267  Race: W Sex: F  Refer To Citation:  Ti401023  Owner:  KARAMPATSOS, JENNIFER R @ 67 FRENIER AVE - WILLIAMSTOWN, MA 01267  Race: W Sex: F  19-3259  1704  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SIMONDS RD  Unit:  32  Arvd-17:06:09 Clrd-17:06:17  Narrative  Elec  contractors on scene.  Narrative  done  Narrative 
+Narrative:
+Ron on scene. Car 34 transporting one to station to meet
+taxi.
+Narrative:
+Arrived
+Refer To Accident: 19-42-AC
+19-3254 1516 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SPRING ST
+Unit: 32
+Arvd-15:16:38 Clrd-15:23:07
+Narrative:
+03/15/2019 1516 - Start
+03/15/2019 1700 - 3 violations
+19-3255 1519 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:21:27 Clrd-15:26:10
+Narrative:
+No violations
+19-3257 Initiated
+1539 - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: MAIN ST
+Unit: 32
+Arvd-15:39:45 Clrd-15:44:38
+Narrative:
+03/15/2019 1543 - Assist with traffic to allow a large
+groups of people to cross Main St onto Fleld Park for Global
+Peace March.
+19-3258 1606 Initiated - MOTOR VERICLE STOP CITATION - WARNING
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: MAIN ST
+Unit: 32
+Arvd-16:06:31 Clrd-16:12:20
+Vehicle: BLU 2015 HOND ODYSSE Reg: PC MA 841XG8 VIN: SFNRLSH24FB093391
+Operator: KARAMPATSOS, JENNIFER R @ 67 FRENIER AVE - WILLIAMSTOWN, MA 01267
+Race: W 8Sex: F
+Refer To Citation: T1401023
+Owner: KARAMPATSOS, JENNIFER R @ 67 FRENIER AVE - WILLIAMSTOWN, MA 01267
+Racc: W Sex: F
+19-3259 1704 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMONDS RD
+Unit: 31
+Arvd-17:06:09 Clrd-17:06:17
+Narrative:
+Elec. contractors on
+scene.
+Narrative:
+done
+Narrative:

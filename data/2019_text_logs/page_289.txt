@@ -1,1 +1,53 @@
-Location/Address  {WIA 2088] CHURCH ST  Unit  3d.  Disp-01:22:47  Enrt-01:23:28 Arvd-01:25:52 Clrd-01:34:05  Unit  32  Disp-01:22:47 Enrt~01:23:04 Arvd-01:24:58  Clrd-01:32:10  Narrative  CP reports she herd someone "assaulting" the building,  sounded like someone was trying to get in.  Narrative  Checked area outside no one around. Listened outside door of  207 all quiet. Did not make contact with RP. Unfounded.  19-2038  0146  Initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED  Call Taker  PATROL CRAIG A EICHHAMMER  Location/Address  [WIA 99] SIMONDS RD  Unit  31  Arvd-01:48:16  Cird-01:48:45  Vehicle  BLU 1989 GMC TK Reg: TK VT 3154964 VIN: 1GTGK24K4KE534057  Owner:  FLORIANI, DAVID A @ 57 RT 8 ~ SEARSBURG, VT 05353  Race:  W Sex: M  Narrative:  Vehicle parked in lot, apparently disabled. Vehicle has jack  underneath with missing rear drivers side tire. No one  around.  19-2039  0344  Initiated - PARKING CHECK  Call Taker:  PATROL CRAIG A EICHHAMMER  SERVICES RENDEEE  Location/Address:  (WIA 249] NORTH ST  Unit:  31  Arvd-03:44:39  Cird-03:45:11  19-2041  0702  Phone -  WELL BEING CHECK  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  [WIA 151] COLD SPRING RD  Narrative:  Staff member reports a patient has gone missing, however at  the time of time call, it appears that the patient is an  adult with full mental capacity and is not ordered to stay  at the facility.  RP to try cell and girlfriend's contact in  an effort to locate.  See also 19-2040.  0745 Spoke with RM from facility and she confirms  is capable of signing himself out.  Girlfriend i  was with him @ facility until 0100 this morning, and  she probably picked him up.  BPD advised  may  be together, maybe going to SVMC, and there is: ‘an active No  Contact RO on (RRR from  19-2042  0815  Other - PUBLIC RECORDS REQUEST  MAILED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-26-AC  19-2043  0822  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  FRENIER AVE  Unit:  30  Arvd-08:22:42 Clrd~-08:23:27 
+Location/Address: [WIA 2088] CHURCH ST
+Unit: 31
+Disp-01:22:47 Enrt-01:23:28 Arvd-01:25:52 Clrd-01:34:05
+Unit: 32
+Disp-01:22:47 Enrt-01:23:04 Arvd-01:24:58 Clrd-01:32:10
+Narrative:
+CP reports she herd someone "assaulting" the building,
+sounded like someone was trying to get in.
+Narrative:
+Checked area outside no one around. Listened outside door of
+207 all quiet. Did not make contact with RP. Unfounded.
+19-2038 0146 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+Call Taker: PATROL CRAIG A EICHHAMMER
+Location/Address: [WIA 99] SIMONDS RD
+Unit: 31
+Arvd-01:48:16 Clrd-01:48:45
+Vehicle: BLU 1989 GMC TK Reg: TK VT 315A964 VIN: 1GTGK24K4KE534057
+Owner: FLORIANI, DAVID A @ 57 RT 8 - SEARSBURG, VT 05353
+Race: W Sex: M
+Narrative:
+Vehicle parked in lot, apparently disabled. Vehicle has jack
+underneath with missing rear drivers side tire. No one
+around.
+19-2039 0344 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL CRAIG A EICHHAMMER
+Location/AGdress: [WIA 249) NORTH ST
+Unit: 31
+Arvd-03:44:39 Clrd-03:45:11
+19-2041 0702 Phone - WELL BEING CHECK LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 151] COLD SPRING RD
+Narrative:
+Staff member reports a patient has gone missing, however at
+the time of time call, it appears that Lhe patient is an
+adult with full mental capacity and is not ordered to stay
+at the facility. RP to try cell and girlfriend's contact in
+an effort to locate. See also 19-2040.
+0745 Spoke with | trom facility and she confirms
+is capable of signing himself out. Girlfriend JJJi
+was with him @ facility until 0100 this morning, and
+she probably picked him up. BPD advised EEE
+be together, maybe going to SVMC, and there is an active r-y No
+Contact RO on [J] from
+19-2042 0815 Other - PUBLIC RECORDS REQUEST MAILED
+Call Taker: CHIEF KYLE J JOIINSON
+Narrative:
+Requesting 19-26-AC
+19-2043 0822 Initiated - BUILDING CHECK BUILDING
+CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: FRENIER AVE
+Unit: 30
+Arvd-08:22:42 Clrd-08:23:27

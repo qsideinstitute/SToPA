@@ -1,1 +1,57 @@
-19-3200  1154  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-36-AC / emailed  19-3202  1230  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS, D  MAIN ST  Location/Address  Unit  34  Arvd~-12:30:59 Clrd-12:36:03  Vehicle  WHI 2006 FORD F150 Reg: PC MA 1RC415 VIN: 1IFTRK14W26NB08994  Operator  CARVALHO, JOHN F @ 765 SIMONDS RD - WILLIAMSTOWN, MA 01267  Race: W Sex: M  Refer To Citation  T1400498  Owner  SANTELLI, SHENNA I @ 765 SIMONDS RD - WILLIAMSTOWN, MA 01267  Race: W Sex: F  19-3203  1253  Phone - BURN PERMIT  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Narrative:  White Oaks Rd  Petersburg Rd  ountain View St  19-3205  1347  Phone - ASSIST OTHER AGENCY  - wes  LOG ENTRY REQUEST  Cali Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  {WIA 319} SOUTH ST  Narrative:  called stating that a party at JJ south st  (  ) reported a female party with scrubs and  bionde hair looking to rent a room and looking at the  residence around the sides. Party got very agitated and  stated she was staying at a iocal hotel and left. WCSS will  be having the CP in for a statement and will try to get  vehicle info. They will forward whatever information they  get once they have spoken with the CP.  2333- Vehicle reported as being an older model beige SUV.  19-3206  1519  Initiated ~- PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15;20:07  Clrd-15:28:38  19-3207  1520  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  PARK ST  Unit:  34  Arvd-15:21:54  Clrd-15:28:17  19-3208  1532  Phone - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  SUMMER ST  Unit:  34  Disp-15:34:04 Enrt-15:34:37 Arvd-15:39:23  Clrd-15:52:22  Unit:  38  Disp-15:38:03 Enrt-15:38:03 Arvd-15:41:16  Clrd-15:48:01  Narrative:  CP report's that a  is at his home dropping off a  snowmobile that he bought off of  MS doesn't want it back or left in his yard. 
+19-3200 1154 Other - PUBLIC RECORDS REQUEST SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Narrative:
+Requesting 15-36-AC / emailed
+19-3202 1230 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: MAIN ST
+Unit: 34
+Arvd-12:30:59 Clrd-12:36:03
+Vehicle: WHI 2006 FORD F150 Reg: PC MA 1RC415 VIN: 1FTRX14W26NB08994
+Operator: CARVALHO, JOHN F @ 765 SIMONDS RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+Refer To Citation: T1400498
+Owner: SANTELLI, SHENNA I @ 765 SIMONDS RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+19-3203 1253 Phone - BURN PERMIT SERVICES RENDERED
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Narrative:
+White Oaks Rd
+Petersburg Rd
+ountain View St
+19-3205 1347 Phone ASSIST OTHER AGENCY WCS LOG
+Call Taker: - - ENTRY REQUEST
+DISPATCHER CHRISTINE LEMOINE
+Location/Address: [WIA 319] SOUTH ST
+Narrative:
+called stating that a party at JJ] south st
+( ) reported a female party with scrubs and
+blonde hair looking to rent a room and looking at the
+residence around the sides. Party got very agitated and
+stated she was staying at a local hotel and left. WCSS will
+be having the CP in for a statement and will try to get
+vehicle info. They will forward whatever information they
+get once they have spoken with the CP.
+2333- Vehicle reported as being an older model beige SUV.
+19-3206 1519 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SPRING ST
+Unit: 38
+Arvd-15:20:07 Clrd-15:28:38
+19-3207 1520 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: PARK ST
+Unit: 34
+Arvd-15:21:54 Clrd-15:28:17
+19-3208 1532 Phone - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: SUMMER ST
+Unit: 34
+Disp-15:34:04 Enrt-15:34:37 Arvd-15:39:23 Clrd-15:52:22
+Unit: 38
+Disp-15:38:03 Enrt-15:38:03 Arvd-15:41:16 Clrd-15:48:01
+Narrative:
+CP report's that a ig at his home dropping off a
+snowmobile that he bought off of
+doesn't want it back or left in his yard.

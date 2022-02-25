@@ -1,1 +1,56 @@
-inc # 19-23-OF  Narrative:  Security called to report the bike was found and returned to  owner,  case closed.  Refer To Incident:  19-23-OF  19-606  2130  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  {WIA 190] MAIN ST  unit  31  Arvd-21:30:46 Clrd-21:31:05  Narrative  No activity  Narrative  01/15/2019 0024 Checked $3  19-607  2148  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker;  PATROL KEVIN P GARNER  Location/Address:  NEW ASHFORD RD  Unit:  34  Arvd-21:48:08 Cird-~21:51:40  Vehicle:  RED 1998  CHEV CO MONCAR Reg: PC MA 557WW5 VIN: 2GLWW12M9W9180410  Operator:  JOHNSON,  BRIGHIDA M @ 522 ROUTE Apt. #7 - NEW ASHFORD, MA 01237-0000  Race:  W  Sex: F  Refer To Citation:  T1400364  Owner:  JOHNSON,  BRIGHIDA M @ 522 ROUTE Apt. #7 - NEW ASHFORD, MA 01237-0000  Race: U  Sex: F  19-610  2252  Initiated - MOTOR VEHICLE STOP  CITATION ~ WARNING  Call Taker  PATROL KEVIN P GARNER  Location/Address  COLD SPRING RD  Unit  34  Arvd-22:59:47 Clrd-23:00:10  Vehicle  WHI 2006 STRN VUE Reg: PC MA 7XJ837 VIN: 5GZCZ634X6S842716  Operator  CHAMPNEY, JOSIAH MICHAEL @ 80 GEORGE AVE - N ADAMS, MA 01247-3016  Race: W Sex: M  Refer To Citation  T1400365  Owner  CHAMPNEY, JOSIAH MICHAEL @ 80 GEORGE AVE - N ADAMS, MA 01247-3016  Race:  W Sex: M  19-608  2253  911 - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 117] NORTHWEST HILL RD  Unit  34  Cird-22:59;47  Disp-22:57:54  Unit  32  Disp-22:59:46  Enxrt-22:59:49  Arvd-23:00:05  Clrd-23:11:30  Unit  34  Disp-23:00:40  Enrt-23:01:29  Arvd-23:04:33  Clrd-23:11:57  Unit  38  Disp-23:02:35  Enrt-23:02:36  Clrd-23:12:04  Narrative  CP reports loud gun shot in the  area of north west hill RD.  Narrative  At approx. 10:58p Off Garner witnessed a large firework go  off in the air over toward North St. Probably what the RP  heard. Officers checked the NW Hill area anyways.No other  explosions 
+Inc # 19-23-OF
+Narrative:
+Security called to report the bike was found and returned to
+owner, case closed.
+Refer To Incident: 19-23-0F
+19-606 2130 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: [WIA 190] MAIN ST
+Unit: 31
+Arvd-21:30:46 Clrd-21:31:05
+Narrative:
+No activity
+
+Narrative:
+01/15/2019 0024 Checked S3
+19-607 2148 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: NEW ASHFORD RD
+Unit: 34
+Arvd-21:48:08 Clrd-21:51:40
+Vehicle: RED 1998 CHEV CO MONCAR Reg: PC MA 557WW5 VIN: 2G1WW12M9W9180410
+Operator: JOHNSON, BRIGHIDA M @ 522 ROUTE Apt. #7 - NEW ASHFORD, MA 01237-0000
+Race: W Sex: F
+Refer To Citation: 11400364
+Owner: JOHNSON, BRIGHIDA M @ 522 ROUTE Apt. #7 - NEW ASHFORD, MA 01237-0000
+Race: U Sex: F
+19-610 2252 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-22:59:47 Clrd-23:00:10
+Vehicle: WHI 2006 STRN VUE Reg: PC MA 7XJ837 VIN: 5GZCZ634X6S842716
+Operator: CEAMPNEY, JOSIAH MICHAEL @ 80 GFORGE AVE - N ADAMS, MA 01247-3016
+Race: W Sex: M
+Refer To Citation: T1400365
+Owner: CHAMPNEY, JOSIAH MICHAEL @ 80 GEORGE AVE - N ADAMS, MA 01247-3016
+Race: W Sex: M
+19-608 2253 911 - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: (WIA 117) NORTHWEST HILL RD
+Unit: 34
+Disp-22:57:54 Clrd-22:59:47
+Unit: 32
+Disp-22:59:46 Enrt-22:59:49 Arvd-23:00:05 Clrd-23:11:30
+Unit: 34
+Disp-23:00:40 Enrt-23:01:29 Arvd-23:04:33 Clrd-23:11:57
+Unit: 38
+Disp-23:02:35 Enrt-23:02:36 Clrd-23:12:04
+Narrative:
+CP reports loud shot in the of north
+gun area west hill RD.
+Narrative:
+At Off Garner witnessed firework
+off approx. in the air 10:58p toward North St. a large go
+heard. Officers over checked the NW Hill Probably what the RP
+explosions area anyways.No other

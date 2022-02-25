@@ -1,1 +1,51 @@
-Call Taker  PATROL TANIA HERNANDEZ  Location/Address  HOPPER RD  Unit  36  Arvd-08:21:35  Cird-08:23:21  Narrative  Checked S-4  19:09  19-14686  0839  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA dr  Location/Address  HARWOOD ST  Unit  37K  Arvd-08:40:02  Cird-086:40:18  Narrative  checked  19-14687  1065  Fhone -  ANTMAL CONTROL  NO ACTION REQUIRED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address  COLE AVE  Unit  a4  Disp-10:37:13  Arvd-10:37:16  Clrd-10:38:36  Narrative  CP reports he has a large raccoon stuck in his dumpster at  , access to the driveway is between JJ and Ij  , it will be a dirt parking lot with a Seott Smith  Trucking dumpster.  Narrative  Gone upon arrival  19-14688  1045  Initiated + TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  LONGVIEW TER  Unit  37K  Arvd-10:45:26  Clrd-10:48:05  Unit  37K  Disp-10:48:56  Arvd-10:49:08  Clrd-10:50:23  Narrative  checked  19-14689  1047  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker  LIEUTENANT MICHAEL J 42TEMBA Jr  Location/Address  STRATTON RD  Unit  37K  Arvd-10:48:05  Cird-10:48:42  Narrative  checked  19-14693  1342  initiated - MOTOR VEHICLE stop  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  NORTH ST  Unit  34  ArVd-13:42:27  Cird-13:46:55  Vehicle  BLK 2016 TOYT STENNWA Reg: PC MA 8NF422  VIN:  STDIK3DCXGS137684  Operator  ZHENG,  CONGHUI @ 127 OAK HILL RD - PITTSFIELD,  MA  01201-1715  Race:  A Sex: F  Refer To Citation  T2085851  Owner  SHENG, CONGHUI @ 127 OAK HILL RD - PITTSFIELD, MA 01201-1715 
+fall Taker: FATROL: TANIA ZERYANDEZ
+Leeation/Addrees: IIOPPER RD
+Uailk: 36
+Arvid 08:21:35 Clrd-08:23:21
+Narrative:
+Checked 8-4 15:09
+19-14686 08as Inttiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca_l Takorx: L_EUTENANT MICIIAFL J ZIEZNMBA Jr
+Locaticn/Addreyss: IIARWOOD 2T
+Unit: 27K
+Revi 06:40:02 Clrd-08:42:18
+Narr-anive:
+checked
+19-146B7 1¢05 Phone - ANIMAL CONTROL NO ACTION REQUIRED
+Call Taker: PATROL ANTZONY M DUEBRAT
+Locztior/Adéraza: COLE AVE
+Unit: aL
+Disp-20:37:13 Arvd-20:37:16 Clxd-10:38:26
+Marrative:
+CP reports he has a larce raccoon stuck in his dumputer at
+, accens to the driveway is boiween Ji and Ji
+, it wily be a dirt parking lor with a Scolbl Smaic
+Trucking dumpster.
+Narrative:
+Goir upon arrival
+19-146868 1045 Initiated - TRATFIC CONTROL BERVICEE RENDERED
+Canl Taker: LIEUTENAKT MICHAEL J ZISMBA Jr
+Loval len/Address: LONGVIEW TER
+Cniz: 37K
+Arv@-17:45:2¢ Clrd--D:48:05
+Tn. 37K
+Nisn-1lC:48:58 Arvd-10:49:00 CJird-10:50:22
+Farrative:
+checked
+15-14835 1047 Initiated - BUILDING CHECK BUILDING CHECKED/SBECURED
+dall Taker: T.TEUTIENANT HICHAEL JY ZIEMEA JY
+Leranion/Addreas: STRATICN kL
+Uzit: IVR
+Arvd-10:48:05 Clrg-10:48:42
+Narrativa:
+checked
+19-144693 1342 Initiated - MOTOR VEHICLE ETOP CITATION - WARNING
+Ccz"] Taker: PALRCL SRAD BACCC
+Twcat- on/addrese: NORIH 3ST
+Lniz: 32
+rvd-13:42:27 21lrd-13:46:55
+Vanjcie: 3K 20:6 TOYT SIENEA Jey: PO FA ONF422 VIN: STOOKSDINGS1376E4
+Oparatox: ZHENG, CUONGHUI @ 127 OAK HILL RD - PITISFIELL, ME 01201-1715
+Haoo: A Sox: F
+Refer To Citation: T2035ES
+Owner: ZHENG, CONGHUL 2 “27 OAK EILL RD - PITTSTIELD, MA 01201-1716

@@ -1,1 +1,56 @@
-Narrative:  checked  19-1440¢4  1423  Initiated - MOTOR VEHICLE STOP  CITATION ~ WARNING  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  MAIN ST  Unit:  36  Arvd-14:23:24  Clird-14:33:40  Vehicle  WHI 1999 CHEV K1500  Reg:  PC MA 7L2520 VIN: 3GNFKISR54G256454  Operator  GREENLAW, JAMES E @ 740 GULF RD - NORTHFIELD, MA 01360-9692  Race: W Sex: M  Refer To Citation  T2085217  Owner  LEDUC, KIMBERLY MARIE @ 740 GULF RD - NORTHFIELD,  MA  01360-9692  Race:  W Sex:  F  19-14405  1451  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  BRIDGES RD  Unit  32  Arvd-14:51:50  Clrd-14:56:54  Vehicle  GRY 2019 JEEP GRCHER Reg: PC MA JVM777  VIN:  1C4RIFAG3KC595673  CGperator  PERO,  JAYCEE MARTE @ 51 FREDERICK ST - NORTH ADAMS, MA 01247  Race:  W Sex: F  Refer To Citation  T2085114  Owner  PERO, JAYCEE MARIE @ 51 FREDERICK ST - NORTH ADAMS, MA 91247  Race: H Sex: F  1$-14406  1500  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SPRING S&T  Unit  32  Arvd-15:00:59  Cird-15:08:51  Narrative  11/16/2019 1500 - Start  11/16/2019 1700 - 18 violations  £5-14407  1506  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:07:10  Clrd-15:10:36  19-14408  L709  Phone - B.O,L.0.  PATROL ADVISED  Call Taker  DISPATCHER LAURTE TUPER  Location  TOWN OF WILLIAMSTOWN  Unit  32  AQVG-17:17:39  Clrd-17:18:40  Disp-17:17:05  Vehicle  GRY 2007 MERC MOUNTA Reg: PC MA 3TA400  VIN: 4M2EU48847U318948  COMSTOCK,  ZACHARY A @ 55 JOHNSON ST - N ADAMS,  MA 01247-2851  Operator  Race: U Sex: M  Owner  ABUISIT, MARY ANN @ 55 JOHNSON ST - N ADAMS, MA 01247-2851  Race: U Sex: F  Narrative  Requests BOLO for MA PC 3TA400 (Gray Mountaineer), being  operated by  Tf seen,  stop,  held,  check  well being, and contact NAPD. Party has not been seen or  heard from since 0500 hrs. yesterday morning (11/15/19).  Narrative  NAPD called to cancell the BOLO. Subject has been located. 
+Narrative:
+checked
+19-14404 1423 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taxer: PATROL TANIA EERNAMDEZ
+Location/Address: MAIN ST
+Unit: 36
+Arvd-14:23:24 Clrd-14:33:40
+Vehicle: WHT 1399 CHEV K1500 Reg: PC MA 71L2S20 VIN: 3CNFK16R5XG256454
+Jpexstor: GRETNDAW, JAMRS B 0) 740 GULF RD - NORTHFIELD, 01360-9692
+Race: W Bex: M
+Refor To Citat.en: 12586217
+Owney : LEDUC, KIMBERLY MARIE @ 740 GULF RD - NORTEFIELD, MA 01350-9592
+Rage: WW Rex: 7
+1451 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+1595-14405
+Call Taker: 2ATROL SHUIAN N WILLIAM
+Location/Aduresy: BRIZGES RD
+Unik: 32
+Arvd-14:51:95 Clrd-14:56:34
+Vehicle: GRY 2019 JEEP GRCHER Rey: PC MA 3VM777 VIN: 1C4AXRJFAG3IKCS59573
+Cperatoxr: ERC, JAYCEE MARIE S1 FREDERICK ST - NORTH ADAME, MA 01247
+Race: W dex: F
+Bcfer To Citation: T2085114
+Owner: PERC, JAYCEE MARIE 5 3] FREDERICK ST - NORTH ADAME, MR 0:247
+Race: BW Rex: 7
+19-144046 1500 Initiated - PARRING CHECK SERVICES RENDERED
+Tall ‘iaker: 2ATROL SHJUAN N WIT IAM
+Local ioc /AdGroas: SPRING ST
+Unik: 32
+Arvd-15:00:55 Civ3i-15:38:F1
+Rarrative:
+11/16/2015 1530 - Start
+11/16/2019 1700 - 1B vio.ations
+BERVICES RENDERED
+19-144427 1506 Initiated - PARKING CHECK
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Addraas: “ARK 5T
+Unit: 3
+Arvd-15:07:10 Clxd-15:10:356
+19-144408 1709 Phone - B.0.L.O. PATROL ADVISED
+Call Taker: DISFATCHER LAJRIE TUPER
+Tocation: TOWN OF WILLIAMSTOWN
+Unik: 32
+Nismp-17:17:05 Arvd-17:17:33 Clrd-17:18:40
+Vaiiiclie: GRY 2007 MERC MCUNTA Reg: PC MA 3TA400 VIN: 4M2BU4E847UJ1B8L48
+Cperalor: COMSTOCK, AACHARY A @ 55 JCHNSON ST - N ADAMS, MA 01247-2851
+Race: U Sex: M
+Owner: ABUTST, MARY ANN ® 55 JOHKSOW ST - N ADAMS, MA 01247-2851
+Race: TT Sex: F
+Karrative:
+Requests BOLO for MA PC 3TR4900 (Gray Mountaineer), being
+oparated by   . It geen, eglop, Icld, check
+well being, ard contact NAPD. Party has not buen seen or
+hezrd from since 0500 hrs. yesterday morning (11/15/19).
+Narrative:
+KAPD valled to cancel. the ROL. Subject haz been locubad.

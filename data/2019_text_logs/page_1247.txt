@@ -1,1 +1,55 @@
-Disp-15:17:30 Emnrt-15:18:10  Arvd-15:19;:22  Clrd-15:37:23  Vehicle:  RED 1992 YAMA XJ7600  Reg: MC MA 263405 VIN: JYA4DUEO7NACO0807  Owner:  BOSTWICK, RICHARD W IIT @ 21 ADAMS ST - NORTH ADAMS, MA 01247  Race:  W Sex: M  Narrative:  CP reports somebody slashed the valve stems on his  motorcycle,  Refer To Incident:  19-179-OF  19-9246  1542  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-15:42:16  Clrd-15:55:04  Vehicle  BLK 1994 TOYT PICKUP Reg: PC MA 4EKC31 VIN: 4TARNO1P8R2Z166498  Operator  WETHERELL, EYLE JAMES @ 214 OLD STATE RD - BERKSHIRE,  MA 01224-9538  Race:  W Sex: M  Refer To Citation  TI786041  Owner  WETHERELL, KYLE JAMES @ 214 OLD STATE RD - BERKSHIRE,  MA 01224-9538  Race:  W Sex: M  19-9247  1604  Walk-in - TRAFFIC COMPLAINT  UNABLE TO LOCATE  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  GREEN RIVER RD  Vehicle  BLU 2013 TOYT RAV4  Reg: PC MA 1MRB44  VIN; JTMBFREV8DDO17918  Owner  PANTON, BRIAN F @ 17 TAFT ST Apt. #D - N ADAMS, MA 01247-3162  Race:  W Sex: M  Narrative  RP into station reporting a vehicle with a male operator was  following him really clese while he was riding his  motorcycle going south towards town on green River Rd  19-9259  1608  Phone - SUSPICIOUS ACTIVITY  UNABLE TO LOCATE  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  {WIA 139] COLE AVE  Unit  34  Disp-16:10:62  Bnrt-16:12:05 Arvd-16:16:12  Cird-16:21:47  Narrative  CP reporting that a male juvenile who has a GPS on himself  is showing that he is outside. Juvenile has a 0 curfew  order,  which means he can't be outside  Officers advised.  34 checked area.  19-9248  1612  initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-16:12:49  Cird-16:23:28  Vehicle  YER 2001  CHEVY SILVER Reg: PC MA 14G768 VIN: IGCHK29171E339010  DIBIASE,  GREG A @ 3 HIGH ST - NORTH ADAMS,  MA 01247  Operator  Race: W  Sex: M  Refer To Citation  Ti736042  MA 01247  Owner  DIBIASE,  GREG A @ 3 HIGH ST - NORTH ADAMS,  Race:  W  Sex: M  19-9249  1624  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL BRAD SACCO  Location/Addresa:  HANCOCK RD  Unit:  35  Arvd-16:24:54  Clyrd-16:35;26 
+Disn-15:17:30 Enrt-15:18:11 Arvd-15:18:22 Clrd-15:37:25
+VYehic e: ED 1922 YAMA XJ6C0 Reg: MC MA 233405 VIN: JYAADIIECTNACOCHBOT
+Cwner: SCSTWICK, RICHARD K III @ 2- ADAMS ET - NORTE ADAMS, MA 01247
+Martrative: ace: HW Sex: M
+CF reports somehody slashed the valve gtems om his
+metoreyele,
+Refer 1a Ineidenz: 29 iy-O
+13-9248 1542 Initiated - MOTDR VEHICLE S10P CITATION - WARNING
+Cal’ Tohor: MAT®0L CAVILC JENNINGS, 2
+Tocaloon/Address NGRTH HOQSAC RD
+Unit: JL
+Arvid-15:42:16 Clra-1E:55:04
+vehicle: BLE 1994 TOYT ZICKTIP Reg: PC MA AZKC3T VIN: [ATARNT1PERZ166158
+Operator: KETEZERZLL, KYLE JANMEZ @ 214 CLD STATE xD - RRRKSHIRE, Mh (0.224-9538
+Hace: W Sex: M
+<efer oo Jitation: Ti736041
+bp md ho KETZERZLL, KYLE JAMEZ @ 214 CLO STATE XD BERKSHIRE, MA (03224-9538
+Race: B® Eex: M
+19-9247 1604 Walk-In - TRAFFIC COMPLAINT UNABLE T0 LOCATE
+Cal ‘taxex: DISPATCHER WLILLIANM C JENNINGS JR
+Location/Address: CREZN RIVER RD
+vehicle: BLT 2C15 TCYT RAVE wee: PC HA 1MRE44 VIN: JTMBFREVBDDO1T91B
+OWar: FANTON, BRIAN F @ 17 TAFT ST AplL. #D © NH ADAMS, MA $1247-3162
+Race: W Sex: HW
+Harrative:
+RP into s:taticn reporting a vshicle with a male cperubor was
+following hom really clese while ke was ridiazg his
+ratoroye.e golng south Zowazds town on green River Rd
+19-9259 1608 Fhone - SUSPICIOUS ACTIVITY UNABLE TO LOCATE
+Cz.]l "aker: LTARZATCHRR WILILTAM OO JTENNIKNGS JR
+Locaticn/Address: (WI 139] COLF AVE
+Unik: 34
+Lisp-_6:_0:02 rt-16:12:056 Arve-l6:16:12 Clrd-ThR:27:47
+Harzalbiva:
+CP raporzing that « ma_e juvenile who has a CPE on himgelf
+is showing that he is outside. cuvenile fas a 0 curlew
+oréer, wkich means he can't De oubwmide.
+Officers advised.
+34 checked arcaa,
+19-9348 1612 anitiated - MOTOR VEEICLE STOP CITATION - CIVIL
+Call Takszr: PATRO, DAVIS JERNINGS, LU
+Location/Address: NORTE HOOSAC RD
+Unit: 24
+Arvd-15:12:45 ITIrd 16:23:28
+Vehlcle: YEL, 2002 CHEV SILVER PC MA 1ZG@768 VIN: "CGCHX23ZT71E359010
+SREG A @ 2 [IICGIH Reg: ST - NORTH ADRMS, Ma 51247
+(Operator: DIEIASE, Race: W Sex: M
+Rafar To» Citazion: TI7B6042
+Wh 31247
+Ownyizr: DIB1ASE, URSC A ® 3 HGH ST - NOITH ADAMS,
+Racw: W Sex: M
+19-9249 1524 Initiated - MOTOR VEHICLE ETOP CITATION - WARNING
+Call Takar: PATROL 3RAD SACCD
+Locunioa/Addr Lnit: oss: HANCOUK RD
+a3 Arvd-16:24:5) Clrd-16:35:26

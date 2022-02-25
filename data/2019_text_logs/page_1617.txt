@@ -1,1 +1,62 @@
-Location/Address  NORTH HOOSAC RD  Unit  38  Arvd-17:19:02  Clrd-20:49:38  Unit  32  Enrt-17:28:17  Arvd-17:30:39  Clrd-19:09:29  Disp-17:28;:00  Unit  35  Disp-17:43:11  Enrt-17:43:15  Arvd-17:45:55  Clrd-18:59:15  Unit  37K  Disp-08:15:45 Enrt-08:15:51  Arvd-08:27:00  Clrd-09/16/2019 @  08:46:18  Location Change  INOT]  HOLDEN ST [Modified: 09/16/2019 0813)  Vehicle  GRN 2004 MAZD HB RxB  Reg: PC VT HET120  VIN  UMIFEL73040119870  Towed  For: ARREST/CUSTODY By: RONS AUTO REPAIR To:  RONS TOWING  Operator  MORRIS, AARON M @ 691 DAISY LN - CLARKSBURG,  MA 01247  Race:  W Sex: M  Refer To Citation  T1785593  MA 61247  Owner  MORRIS, AARON M @ 691 DAISY LN - CLARKSBURG,  Race:  W  Sex: M  Narrative  1728  hrs  One in custody.  1729  hrs  Requests Ron for the vehicle {notified/in route)  L7AT  hrs  Car 38 in route to PD with male.  1747  hrs  Car 32 in route to PD with female (mileage 1267)  1749  hre  Car 32 arriving at PD (mileage 31268).  1837  hrs  Bail Commissioner notified,  1926  hrs  Female Prisioner was offered Dinner,  she refused  1934  hrs  Commissioner Sacco arrived.  i944  hrs  Male Prisoner released From Cell 1. With a court  date of Wed-.  3/18.  2000  hrs  Morse Watchman check complete.  2030  hrs  Female Prisoner out to make call for bail and  moved  from Cell 2 to  Cell 1.  2100  hrs  Morse  Watchman Check  complete  2130  hrs  Morse  Watchman Check  complete  2200  hrs  Morse  Watchman Check  complete  2230  hrs  Morse  Watchman Check  complete  2244  hrs  Prisoner requested and allowed to use her inhaler.  2256  hrs  Prisoner given water.  2300  hrs  Morse Watchman Check complete.  2330  Cell  Check  o00c  Cell  Check  o030  Cell  Check  0106  Ceil  Check  0136  Cell  Check  0200  Cell  Check  0230  Cell  Check  0300  Cell  Check  0330  Cell  Check  0400  Cell  Check  04390  Ceil  Check  0500  Cell  Check  0530  Cell  Check  0600  Cell  Check  0630  Cell  Check  Oo700-  Cell Check  O730-  Cell Check  os8og-  Celi Check  0815~- Unit 37K transporting female party to court.  Starting mileage- 50,603  0827-Ending Mileage- 50,609.9 
+Locaticn/fAddress: KORTH HOOSAC RD
+Unit: 3g
+Arvd-17:19:02 Clrd-20:42:38
+mit: 32
+Disp-17:28:00 3Inrt-17:28:17 Arvd-17:20:39 Clrd-19:09:29
+Unit: 35
+Disp-17:43:21 Enrt-17:43:15 Arvd-17:45:55 Clrd-18:53:15
+Unit: 37K
+Dige-08:15:45 Enrt-N8:"5:51 Arvd-08:27:00 Cird-09/16/20:9 @
+OdB:46:13
+Lceation
+Cha—ge: [NOT] HOLDEN ST ‘Modified: 09/16/23159 (0819)
+Vehicle: GRN 2004 MAZD HS BRX3 Reg: PC VI HET1i20 VIN: JMLIFE172001°58873
+Towed : For: ARREST/CUSTODY By: RONS AUIC REEAIR To: RONS TCWING
+Operaior: MORRIS, AARON M @ 651 DALSY LN - CLARKSBURG, MA 01247
+Raca: W Sex: M
+Rafer Ta Citation: TA7EGGE3
+Jwner: MCRRIS, ARRON M @ 21 DAISY LN - CLARKSSURG, MA 012487
+Race: W Sex: M
+Rarrative:
+1728 hrs. One in cuatocy.
+1729 hry. Reguests Ron for Lhe venicle (notified/in route).
+1747 hrs. Car 238 in route to PD with male.
+1747 hrs. Car 32 in route to PD with female (mileage 1267).
+1749 hres. Car 32 arriving at PD (mileage 31268).
+1837 hrs. Bail Commissioner notilied.
+19¢6 hrs. *emzlec Prigioner was cifered Dinrmer, she refused,
+1934 hrs. Commissioner Sacco arrived.
+1944 hrs. Kale PFriscner released From Cell 1. Hith a court
+dale of Wed. 92/18.
+2000 hrs. Morse Watchman check complolc.,
+2030 hrs. Temzaie Prisorer out zc make call for bail and
+moved Irom Cell 2 to Cell 1.
+2150 hrs. Morse Wanchman Creck complete.
+2130 hrs. Morse Watchman Check complete.
+2220 hrs. Morse Watchman Check complete.
+2230 hrs. Mcrse Watchman Check complete.
+4244 hres. Zrisoner requested and allowed to use her inhaler.
+2256 hrs. Prisoner given water.
+Wazchman Check
+2330 hrs. Morse complete.
+2330 Cell Check
+0030 Cell Check
+0030 Cell Check
+0130 Cell Check
+0130 Cell Chuck
+0250 Cell Check
+0230 Cel) Check
+0330 Cel. Check
+0330 Cel: Check
+0490 Cell Check
+0430 Cell Check
+0500 Cell Check
+0530 Cell Check
+0620 Celz Check
+0630 Cel. Check
+0700- Cell Check
+0730- Cell Check
+0800- Cell Check
+0815- Unit 37K transporting lemale parly Loc court.
+Starting mileage- 50,503
+0827-Ending Mileage- S0.EC9.9

@@ -1,1 +1,55 @@
-Unit  38  Disp-02:52:57  Arvd-02:53:16  Clird-03:30:14  Vehicie  VIN: JTDKEN3DU1A0116267  2010 TOYT 4D Reg: PC PA KCY2116  Towed  For: ACCIDENT By: RONS AUTO REPAIR To: PULLED BACK ON ROAD NOT TOWED  Operator  GABBARD,  MALLORY ALESSA @ 5031 MEAD DR - DOYLESTOWN, PA 18902  Race:  W  Sex:  F  Owner  GABBARD,  KURT @ 5031 MEAD DR - DOYLESTOWN, PA 18902  Race:  W  Sex: M  Narrative  0258 Ron's requested and in route.  Refer To Accident:  19-86-AC  19-9032  0453  Initiated ~ PUBLIC SERVICE  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Lodation/Address  SPRING ST MUNICIPAL LOT  Unit  38  Arvd-04:55:14  Clrd-04:55;24  Narrative  Barricades and cones deployed for farmers market.  Narrative  Picked up  19-9033  O507  Initiated ~- PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 390] SIMONDS RD  Unit:  38  Arvd-05:08:37  Clrd-05:08:52  Narrative:  4 violations  19-5034  0934  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PARK ST  Unit:  36  Arvd-09:34:38  Clrd-09:36:48  Narrative:  Tho  violations  19-9035  0936  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANTA HERNANDEZ  SPRING ST  Location/Address  Unit  36  Arvd-09:37:12  Clrd-69:42:13  Unit  36  Diasp-09:50:16  Arvd-09:50:22  Clrd-09:54:43  Narrative  ne  violations  19-9036  0941  Initiated - TRAFFIC COMPLAINT  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  SPRING ST  Unit  a6  Arvd-09:42:13  Clrd-09:50:07  Vehicle  BRO 2011 VOLK SE JETTA Req: PC MA 139PWS5  VIN:  SVWDZ7TAIOBRM3 74130  Operator  RUSSELL-MORRIS, JEAN CW @ 189 STRATTON RD Apt. #63 - WILLIAMSTOWN, MA  01267-2957  Race:  W Sex: F  Owner  RUSSELL-MORRIS, JEAN CW @ 189 STRATTON RD Apt.  #G3  - WILLIAMSTOWN, MA  01267-2957  Race:  U Sex: F 
+unit: 3B
+Cisp-02:52:57 Arvd-02:53:16 Clrd-03:59:14
+Vell—cle: 2010 TCYT <D Reg: PC PA KOY2:16 VIN: JTLRR3DJLIAQLIGE SY
+Towed : For: ACCIDENT By: RONS AUTO REPATR To: PULLED BACK UN RCAD NOT TOWED
+Operator: GASBARD, MALLORY ALTSSA 4 50131 MEAD Dx - DOYLESTOWN, DA 18302
+Raca: W Sex: F
+Owner: GABBARD, KURT « HOR" MBAL DR - DOYLESYCHW.L, 2A 28302
+Rice: W Sex: M
+Warra<ive:
+0258 Koz's requested cid in rouks.
+Rofor no accidenl: 1s 86 AC
+19-5032 0453 Initiated - PUBLIC SERVICE SERVICES RENDERED
+call raker: PATROL AMTHONY M DJ-RAT
+Logarion/address: SPRING ET MUNICIFAL LOT
+Uniz: 23
+Arvd- ed:bhE +114 Clrd-04:55:24
+Narrative:
+Savriczdes and cones depioyed for farmers market.
+Karratiwve:
+Pizxed up
+15-9033 o507 Initiated - PARKING CHECK SERVICES RENDERED
+Call Takex: PATROL ANTEONY HM DUPZAT
+—ocation/Address: [WIA 330. SIMOKDS RD
+Unit: 38
+Arvd- 0h :C8 :37 Clrd-05:08:51
+Narrative:
+< vinlatichns
+15-5034 059354 Initiated - PARKING CEECK SERVICES RENDERED
+Call Taker: EATROL 'I'ANLA HERKANDEZ
+Locaticn/Mddress: LARL E1
+Unit: ie
+Avani 09:34: Clrd-39:36:48
+Narrzzive:
+Io violawions
+19-9035 Q936 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL TANIA HESNANDEZ
+Locaziom/Address: SPRIKG 2T
+Unis: k].
+Arvd 112 Clxd- 09:42:13
+Uniz: 26
+Dipp-0¢:50:16 Arvd Clrd-09:54:43
+Karrative:
+violakzeons
+LC
+19-9036 0941 Initiated TRAFFIC COMPLAINT SERVICES RENDERED
+Call Taker: PATROL TENIA - HIRNANLEZ
+ocatlon/Address: SERZNG ST
+Uzit: 3b
+Arvd-09:42: Clrd-05:5C:
+Vehicle: BRO 2211 VOLK SE JETTA PC MA - 07
+Rec: 189 139PHS VTN: 3VADRTAJORM3IT74130
+Operator: RUSSEL.L.-MORRIS, JAN CH STRATTON RD ApT. $#G3 - WILLIAMS:-CWN,
+dwrner Race: W Hax: F
+: RUSSELL-MORRIS, JEAN CW # 289 ETRATION RD Apt. HES - W™1LTAMSTONN,
+Rage: U Bex: I

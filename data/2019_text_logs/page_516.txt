@@ -1,1 +1,49 @@
-19-3519  0847  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  COLD SPRING RD  Unit:  37K  Arvd-08:47:33  Clird-08:47:38  Narrative;  checked  Narrative:  Checked Area.  19-3520  0847  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  PATROL TANIA HERNANDEZ  Location/Address  LONGVIEW TER  Unit  36  Arvd-08:48:15 Clrd-08:48:52  Narrative  checked  Narrative  Checked Area.  19-3521  0854  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  {WIA 1832] NORTH HOOSAC RD  Unit:  37K  Arvd-08:55:16  Clrd-08:55:22  Narrative  checked  Narrative  Checked  8-4  17:03  Narrative  checked  Narrative  done  Narrative  done  19-3522  0857  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA dr  Location/Address:  NORTH HOOSAC RD  Unit:  37K  Arvd~-08:57:36  Clrd-08:57:44  Narrative:  Checked 5-4  16:47  Narrative:  dpne  19-3524  o9s1  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PARK ST  Unit:  36  Arva-09:52:11 Clrd-09:54:42 
+19-3519 0847 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-08:47:33 Clrd-08:47:38
+Narrative:
+checked
+
+Narrative:
+Checked Area.
+19-3520 0847 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: LONGVIEW TER
+Unit: 36
+Arvd-08:48:15 Clrd-08:48:52
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-3521 0854 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 37K
+Arvd-08:55:16 Clrd-08:55:22
+Narrative:
+checked
+Narrative:
+Checked S-4 17:03
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+done
+19-3522 0857 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: NORTH HOOSAC RD
+Unit: 37K
+Arvd-08:57:36 Clrd-08:57:44
+Narrative:
+Checked 58-4 16:47
+
+Narrative:
+dpne
+19-3524 0951 Initiated - PARKING CHECK SERVICES
+Call Taker: PATROL TANIA HERNANDEZ RENDERED
+Location/Address: PARK ST
+Unit: 36
+Arvd-09:52:11 Clrd-09:54:42

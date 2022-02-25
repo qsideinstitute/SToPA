@@ -1,1 +1,53 @@
-Race:  W Sex: F  Refer To Citation:  T2085805  Owner:  KING, SUSAN C @ 65 GEORGE AVE  - N ADAMS, MA 01247-3017  Race:  U Sex: F  19-15725  2344  Initiated - MOTOR VEHICLE sToPp  CRIMINAL COMPLAINT  Call Taker  SERGEANT PAUL D THOMPSON  Location/Address  SIMONDS RD  Unit  36  Arvd-23:44:00  Clrd-12/21/2019 @  00:34:05  gnit  31  Arvd-23:56:59  Clrd-12/21/2019 @  00:24:54  Vehicle  RED 2005 SUBA 4D LEGACY Reg: BC NY GVZ6681  VIN:  485ABL6 76954202672  Towed  For: ARREST/CUSTODY By: RONS AUTO REPAIR To: RONS TOWING  Operator  ELY, DONALD ¢ @ 7690 US RF 7 - POWNAL, VI 05261  Race:  W Sex: M  Refer To Citation  T2085834  owner  ELY, JOANN A @ 488 FOX HLW RD - HOOSICK FALLS, NY¥ 12090  Race:  W Sex:  F  Narrative  Apparent disabled m/v  Narrative  12/21/2019 0003 Ron's requested, contacted and enroute.  Refer To Summons:  19-158 -AR  summons  ELY, DONALD J  Address  7690 US RT 7  POWNAL, VT  Age  S7  Charges  TIRE TREAD DEPTH VIOLATION  LICENSE SUSPENDED, OP MV WITH, SUBSO.OFF  For Date:  12/21/2019  =  Saturday  19-15728  0402  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A HICHHAMMER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  31  Arvd-04:03:05  Cird-04:03:22  29-15731  O716  $11 ~ 9-1-1 TEST CALL  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  iWIA 390] STIMONDS RD  Narrative:  Test Call, completed as required.  19-15732  o8oL  Initiated + BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  [WIA 1832] NORTH HCOSAC RD  Location/Address  Unit  34  Arvd-08:01:43  Clrd-08:02:31  Narrative  checked  Narrative  checked  Narrative  checked 
+Race: W Sex: ml
+xefer To Jitatlon: T2Z2OREHO0
+wer: KING. SUSAM C 7 55 GZCRGE AVE - N ADAMS, MA 0:247-3077
+Race: IT Hex: F
+19-15725 2544 Initiated - MOTOR VEHICLE 8STOP CRIMINAL COMPLAINT
+Call Tsxer: SERGEANT 2AUL TT THOMPSON
+ocation/rddress: SIMONDS Hb
+Urit: 38
+Arvd-23:44:00 Clrc-12/21/2013
+90:54:05
+nit: 3
+Arvd-23:56:59 ClrE-12/21/201139 @
+00:24:54
+Veh'cle: RAD 2005 SURA 4D TRGACY PReg: PE NY GVPRRARL VTN: 4AR3ARLETRYS/2N2672
+Towed : Fnr: ARRIEST/CUSTOTY Ry: RONS AITO REPATR To: ROVE TIWING
+fIerator: BLY, LONALD J « 7693 US RT 7 - EOWNAL, Vi ObhZ261
+Race: W Bex: M
+Raer To Cilallomr: Tad B34
+Oownar: BLY. JOANN A © 488 FGXK HLW RD - HOOSICH FALLE, NY 12090
+Race: W 8Ss2x: F
+Narxoiive:
+disgabled nfy
+Bpparant
+Narrazivae:
+1272172919 0003 Ruii's contacked and enroulec.
+reyg.esled,
+Refer Tec Summons: 1:-158-AR
+Summens : ELY, DOKALD J
+hddress: 7690 U3 RT 7 PCWNAL, VT
+ACe: 57
+Charges: TIRE TRIAL DEPTH V-CLATION
+LICENSE SUSFENDIL, OF MV WITH, 5J38Q.0FF
+For Date: 12/21/2019 - Saturday
+1959-15728 0402 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATRCI, CRATE A EFCEHAMMER
+Tocatior/Rddresa: [AIA 330] STMONDS RD
+nit: 3l
+Arvd-04:03:08 Clrd-04:03:22
+15-315731 0716 811 - 9-1-1 TEST CALL BERVICES RENDERED
+Call Taker: DISPATCHER (CHRISTINE LEMO:NE
+Locatior/Addrsann: [WTA WBN] STHMOKTS RL
+Xarrative:
+‘esz Call, completed ac required,
+15-15732 osnl Iritiated - BUILDING CHECK BUILDING CHECEKED/SECURED
+“fall 1'akex: SATROL DAVIL JENNINGS, D
+Loca. ioa/Addreas TWIA “8321 NOWPH HOQSAC <b
+nll: 34
+Arvd-08:01:44 2lxd-08:02:31
+Harrakb_vsa:
+che eked
+Harraktrve:
+chechoed
+Marrat-"ra: checked

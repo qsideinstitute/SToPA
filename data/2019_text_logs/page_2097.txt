@@ -1,1 +1,49 @@
-OBLONG RD  Location/Address  Unit  34  Clyrd-03:27:23  Disp-09:04:56 Enrt-09:05:24 Arvd-09:22:04  Narrative  CP reporting a tree has been hanging on the wires for the  past few day's. CP been meaning to call but keeps forgetting  to do so,  Narrative  Dispatch to notify verizon,  smaller tree hanging on wires.  No wires down at this time, tree is between pole 55-54.  19-14305  0935  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 225] COLD SPRING RD  Unit:  34  Arvd-09:35:24  Clrd-09;38:28  19-14306  0949  Initiated - BUILDING CHECK  BULLDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  HOPPER RD  Unit  34  Arvd-09:49:28  Clrd-09:57:16  Narrative  checked  Narrative  Checked 0307  1219-14307  1903  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK ST  Unit  36  Arvd-10:03:306  Clrd-10:10:35  Narrative  2 tickets  19-24308  1006  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-2591-OF / emailed.  19-14309  1012  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  (WIA 333] CHURCH 5T  Unit:  36  Arvd-10:12:35  Clrd-10:15:39  19-14310  1016  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  SPRING ST  Unit  34  Arvwd-10:17:23  Clird-10:27:39  Narrative  1 violation  19-14311  1054  Phone - ANIMAL CONTROL  UNABLE TO LOCATE  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR 
+Location/Address: OBLCHG xD
+Lnit: 34
+Dipp-09:04:56 ZIZnrt-09:05:24 Arvé-09:22:N4 Jlrd-09:27:234
+Harraczive:
+CP reportirg a tree has been hanging cn “he wires for the
+past few day's. CP been meaniig te call but kseps forgetting
+to do so.
+Xarrative:
+Dippatch to notify werizon, smalles L-ee hunging on wires.
+No wires down at Lhis time, tree is between pole 35-34.
+19-142305 0935 Initiared - BUILDING CIECK BUILDING CHECKED/SECURED
+Call Taker: PATROL ANTEONY M DUERAT
+Locetior/Adcressa: [KIn 225] COLD SPRING RD
+Unic: 14
+Arvd-035:345:24 QClyd-gY:38:28
+19-14306 0549 Initiated - RUILDING CHECK BUILDING CHECEKED/SECURED
+Tall Taker: PATRCL ANTHONY BM JUPRAL
+Location/Addrecs: SOPEER RD
+Un-z: i4
+Arvd 29:45:28 C(Clxd-09:57:16
+Karrative:
+checked
+Narrative:
+Checked (0307
+19-114307 IC03 Initiated - PARKING CHECK SERVICRS RENDERED
+Call "T'aker: bhclhol, TANIA ZERNANDEZ
+Logur ion/Address: PARK 47
+Unit: 36
+Arvd--0:03:30 Clrc-19:10:35
+Narrative:
+2 ticke:s
+19-142308 10406 Other - PUBLIC RECORDS REQUEST SERVICES RENDERED
+Cal. Taker: CHIZT ZYLT J JOINSON
+Narrat.ve:
+Requesting 12-252-0F / emailed.
+19-14309 1012 Iritiatsd - BUILDING CHECK BUILDING CEECKED/SECURED
+Tal. TeRer: PATROL TANIA HERKAWDZZ
+Tozation/Address: WIA 233] CHURCH ST
+Jit: 36
+Arvd-10:22:30 (CIlrd-1C:15:39
+15-14310 10186 Initiated - PARKING CHECK SERVICES RENDERED
+Lali lTaxer: ZAVRQT, ANTHONY M TITRRAT
+sacation/hddress: SPRING 87
+Bink ErE ad
+Arvd-10:17:29 Clxd-10:27:39
+Narrative:
+1l vistation
+UNABLE TO TOCATE
+16-14311 Call Tukor: 1054 CISSATCHSR Phone - ANIMAL WILLIAM CONTROL © JERNINGH JR

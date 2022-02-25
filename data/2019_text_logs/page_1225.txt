@@ -1,1 +1,53 @@
-Location/Addresa:  COLD SPRING RD + TACONIC TRL  Unit:  31  Enrt-04:34:05  Arvd-04:39:13  Clrd-06;:45:45  Disp-04:33:45  Unit:  32  Disp-04:33:45  Arvd-04:38:09  Clrd-16:26:29  Unit:  34  Disp-07:04:21  Arvda-07:04:41  Clrd-15:59:06  Vehicle:  PLE 2014 OT TK T6é80 Reg: TL MO 88KR6C VIN  LXKYDP9KSEJ412060  Towed:  For: ACCIDENT By: DEANS AUTO Repair  Operator:  BRISTOL, KYRWIN @ 13101 BENNINGTON AVE - GRANDVIEW, MO 64030  Race;  B  Sex: M  Owner:  GLORY GEARS LLC @ 3217 S ARROWHEAD DR - INDEPENDENCE, MO 64057  Vehicle;  WHI 2007 OT Tl REF Reg: DL TX 4282228 VIN:  IGRAA06 2K 7N701006  Narrative:  TT unit Flipped over on its side. Driver not injured.  Car 4 Box truck carrying food.  Narrative:  Car 32-MSP notified Truck team responding via springfield.  0501 Deans notififed.  0709 Deans Towing on scene.  Narrative:  07/22/2019 0433 TT Unit rolled over on it's side. No  injuries.  Trailer- TK 4282278  Truck- MO §8KR6C  0436 32 advising that MSP Truck Team will be responding to  scene. Team coming from Springfield.  0439 WFD Car 4 advising that the truck is a box truck caring  food products.  0500 Deans notified for truck removal.  o709 Deans on scene.  Refer To Accident:  19-89-AC  19-5303  03909  initiated - BUILDING CHECK  BULLDING CHECKED/ SECURED  Call Taker  PATROL KALVIN DZITEDZIAK  Location/Address  OBLONG RD  unit  38  Arvd-08:10:11  Clrd-08:10:25  Narrative  Checked  Narrative  Checked  19-9104  O82]  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DAZITEDZIAK  COLD SPRING RD  Location/Address  Unit  38  Arvd-06:21:31  Clrd-08:21:56  Narrative  Checked  Narrative  Checked  Narrative  Checked Area  19-9105  0831  Initiated - BUILBING CHECK  BUILDING CHECKED/ SECURED 
+Location/Address: COLL SPRING RD + TACONTC TRL
+mit: 31
+Disp-04:33:45 Enrt-04:34:08 Arvd-04:39:13 Clrd-06:45:45
+nit: 32
+Disp-04:33:45 Arvd-04:38:09 Clrd-16:26:29
+nit: 34
+Lisp-0':04:2: Arvd-07:04:41 Clrd-15:59:06
+Vehicle: PLE 2014 OT TK TGB0 Reg: TL MO BAKREC VIN: 1XXYDP2X8EJ412060
+Towed : For: ACCIDENT By: DEANS AUTC Repair
+Operator: BRISTCL, XYRWIN ® 13101 BENNINGTON AVE - GRANDVIEW, HD #4030
+Race: B Sex: M
+whner: GLORY GRARS LI. @ 3217 8 ARROWHEAD) DR - TNNEEFRNDENCE, MO 64057
+vehicle: WHT 2007 OT TI REF Reg: DL TX 4282278 VIN: 1GRAADGZXTW701008
+Narrazive:
+T7 unit Flipped cver on its sids. Driver not iniured.
+Car 4 Hox truck carrying fcod,
+Narracive:
+Car 32-MSP nctified Truck team responding via springfield.
+03501 Deans nctififed.
+0709 Deans Towing on scele.
+Narrative:
+07/22/2019 0433 IT Unit relled over on it's slde. Ko
+injuries.
+Trailer- ''K 4292248
+Trugk- MO 88KRSC
+0436 32 advising Lhat MSP Truck Teun will be responi_ng o
+scene. Teum conine from Springfield.
+04392 WFD Car 4 advising thab Lhe Lruck is a box Lruds caring
+food products.
+5500 Deans notified ior trucx removal.
+2700 Leans cn gcene.
+Refer To Accident: 19-85-AC
+15-5103 Initiated - BUILDING CHECK BUILDING CHECKED/SRCURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: OBLONG RD
+mig: 38
+Arvd-08:10:11 Clré-08:153:25
+Harrative:
+Checked
+Narrative:
+Checked
+19-9104 0821 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Talkex: PATROL KALVIN DZiBDZTAK
+Location/Address: COLD SPRING RD
+Unit: 38
+Arvd-08:21:3), Clrd-08:21:55
+Narrative:
+Checked
+Narrative:
+Checked
+Nurrative:
+Checked Arca.
+19-9105 0831 Initiated - BUILDING CHECK BUILDING CHECKEP/SECURED

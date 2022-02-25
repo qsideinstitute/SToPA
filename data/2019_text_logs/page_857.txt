@@ -1,1 +1,56 @@
-Arvd-10:53:02  Clrd-10:58:51  Vehicle:  GRY 2012 TOYT YARIS Reg: PC MA 41XN23 VIN: JTDJTUD32CD506188  Operator:  COE, MARCELLE  S @ 20 FOUCHER AVE - NORTH ADAMS, MA 01247  Race: W Sex:  F  Refer To Citation:  71785383  Owner:  COE, MARCELLE S @ 20 FOUCHER AVE - NORTH ADAMS, MA 01247  Race: U Sex:  F  19-5706  1128  Walk-In - DISTURBANCE  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:;  (WIA 2149] WHITE OAKS RD  Unit  35  Arvd-11:30:26 Clrd-11:48:29  Disp-11:30:20  Location Change  {WIA 249] NORTH ST [Modified: 05/07/2019 1130]  Narrative  Having an issue with a neighbor.  Narrative  CP having issue with neighbor, refer to 19-5373. CP stating  neighbor at [J White Oaks is leaving trash all over the  property and is becoming a hazard and an issue. CP was  advised that all is civil and was advised how to proceed.  19-5708  1157  Initiated - TRAFFIC COMPLAINT  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  {WIA 333] CHURCH ST  Unit  36  Arvd~11:57:59  Clrd-11:59:35  Vehicle  GRY 2017 TOYT SIENNA Reg: PC MA 6PH974 VIN:  STDDZ3DC7HS1i55537  Operator  WHALEY, TYSON F @ 53 COLE AVE - WILLIAMSTOWN, MA 01267-2521  Race:  W Sex: M  Owner  WHALEY,  TYSON F @ 53 COLE AVE - WILLIAMSTOWN, MA 01267-2521  Race:  U Sex: M  Narrative  Parked in lot, unregistered. Owner called and message left  advising to get it done before driving..  19-5709  1159  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-5373 & 5706. Emailed & mailed  19-5716  1201  Phone - FOUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  (WIA 225] COLD SPRING RD  Unit:  32  Disp-12:02:23 Enmrt-12:02:40 Arvd-12:06:22 Clrd-12:15:51  Narrative:  Landscapers have found a safe in the woods with personal  contents inside.  19-5715  1337  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH HOOSAC RD  Unit  35  Arvd-13:37:04 Clrd-13:45:56  Vehicle  VIN; 1FADP3E26EL188477  GRY 2014 FORD SE FOCUS Reg: PC MA 17BK51  Operator  KANIA, MITCHELL J @ 287 LINDEN ST - PITTSFIELD, MA 01201  Race: W Sex: M  Refer To Citation  71785384  Owner  KANIA, MITCHELL J @ 287 LINDEN ST - PITTSFIELD, MA 01201-3946  Race: U Sex: M 
+Vehicle: Arvd-10:53:02 Clrd-10:58:51
+GRY 2012 TOYT YARIS Reg: PC MA 41XN23 VIN: JTDJTUD32CD506188
+Operator: COE, MARCELLE S8 @ 20 FOUCHER AVE - NORTH ADAMS, MA 01247
+Refer Race: W Sex: F
+To Citation: T1785383
+Owner: COE, MARCELLE S @ 20 FOUCHER AVE - NORTH ADAMS, MA 01247
+Race: U Sex: F
+19-5706 1128 Walk-In - DISTURBANCE SERVICES RENDERED
+Call Taker: CHiEF KYLE J JOHNSON
+Location/Address: [WIA 2149] WHITE OAKS RD
+Unit: 35
+Disp-11:30:20 Arvd-11:30:26 Clrd-11:48:29
+Location Change: [WIA 249] NORTH ST (Modified: 05/07/2019 1130]
+Narrative:
+Having an issue with a neighbor.
+Narrative:
+CP having issue with neighbor, refer to 19-5373. CP stating
+neighbor at BH White Oaks is leaving trash all over the
+property and is becoming a hazard and an issue. CP was
+advised that all is civil and was advised how to proceed.
+19-5708 1157 Initiated - TRAFFIC COMPLAINT SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: (WIA 333] CHURCH ST
+Unit: 36
+Arvd-11:57:59 Clrd-11:59:35
+Vehicle: GRY 2017 TOYT SIENNA Reg: PC MA 6PH974 VIN: STDDZ3DC7HS155537
+Operator: WHALEY, TYSON F @ 53 COLE AVE - WILLIAMSTOWN, MA 01267-2521
+Race: W Sex: M
+Owner: WHALEY, TYSON F @ 53 COLE AVE - WILLIAMSTOWN, MA 01267-2521
+Race: U Sex: M
+Narrative:
+Parked in lot, unregistered. Owner called and message left
+advising to get it done before driving..
+19-5709 1159 Other - PUBLIC RECORDS REQUEST SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Narrative:
+Requesting 19-5373 5706. Emailed mailed
+19-5710 1201 Phone - FOUND/ LOST PROPERTY SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 225] COLD SPRING RD
+Unit: 32
+Disp-12:02:23 Enrt-12:02:40 Arvd-12:06:22 Clrd-12:15:51
+Narrative:
+Landscapers have found a safe in the woods with personal
+contents inside.
+19-5715 1337 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NORTH HOOSAC RD
+Unit: 35
+Arvd-13:37:04 Clrd-13:45:56
+Vehicle: GRY 2014 FORD SE FOCUS PC MA 17BK51 VIN: 1FADP3E26EL188477
+Operator: KANIA, MITCHELL J @ 287 Reg: LINDEN ST - PITTSFIELD, MA 01201
+Race: W Sex: M
+Refer To Citation: T1785384
+Owner: MITCHELL J 287
+Race: KANIA, U Sex: M @ LINDEN ST - PITTSFIELD, MA 01201-3946

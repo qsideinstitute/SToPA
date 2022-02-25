@@ -1,1 +1,53 @@
-Location/Address:  iWIA 4066] SCHOOL 5T  Unit:  32  Arvd-16:26;31  Clrd-16:26:45  Narrative:  40/16/2019 1626 - no vilations  19-12526  1623  Initiated ~ BUILDING CHECK  BULLDING CHECKED/ SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Addresa  SOUTHWORTH ST  Unit  32  Arvd-16:29:59  Clrd-16:30:22  Narrative  Checked 6054  19-12927  21632  Phone -  ALARM - BURGLAR  ALARM FOUNDED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA ATM] MAIN ST  Unit:  32  Enrt-16:34:21  Arvead-16:35:17  Clrd-16:39:23  Disp-16:34:07  Narrative:  Entry/exit front door.  Narrative:  10/16/2019 1638 - Unknown reason for activation.  19+12528  1708  Phone -  ALARM  - BURGLAR  ALARM FOUNDED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 1869] MT. WILLIAMS DR  Unit:  38  Enrt-17:10:33  Arvd-17:12:44  Clyrd-17:16:18  Disp-17:10:24  Narrative:  Rear door. Key holder, (NNMM is responding in a BMW,  ETA: Smins.  Narrative:  Back door was blown open by the wind.  15-32925  1746  $11 - DESTURBANCE  UNFOUNDED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  [WIA 2088] CHURCH ST  38  Unit  Disp-17:40:54  Clird-17:42:53  Unit  32  Disp-17;42:43  Enrt-17:42:49 Arvd-17:46:32  Clrd-17:55:40  Narrative  RP reports that  is screaming in the library.  RP says that she was told to call the police.  Narrative:  10/16/2019 1754 - Hung out in hallway for 5+ minutes, no  yelling or disturbance of any kind observed. RP given  options.  19-12930  1817  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JCHN J MCCONNELL JR  Location/Address  (WIA 910] TACONIC TRL  Unit  38  Arvd-18:17:30  Clrd-18:18:36  Narrative 
+Location/Addreys: Unic: WIA 408] SCHOOL aT
+12 Arvd-16:26:31 Clrd-16:26:45
+rarrative: vilations
+10/16/2019 1626 - no
+19-125925 1629 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Takar: PATROL SHUAN N $ILLIAM
+Location/Adéreus: SOUTHWOR'TH ET
+Unit: 22
+Arvd-16:29:59 Clrd-1h:3I0:22
+Narrative:
+(recked 0054
+19-12927 1632 Phone - ALARM - BURSLAR ALARM FOUNDED
+Call Takar: DISCAICHEER LAURIE “UBER
+Location/Addresy: [WIA ATM] MAIN BT
+Unit: 32
+Disp-16:34:07 Enrt-16:34:21 Arvd-16:35:17 Clrd-16:29:23
+Narrative:
+Eni:y/exit fron: door.
+Narvasivea:
+10/16/2012 1638 - Unknown reascn for activation.
+18-12928 1708 Fhone - ALARM - BURGLAR ALARM FOUNDED
+Call Taker: DISPATCHER TAIRIE TU2ER
+Tocation/Address: TWIA LBES] MT, WITLZAMS DR
+Unit: 38
+Disp-.7:.0:24 Enrt-17:10:23 Arvd-17:12:44 Clrd-17:15:18
+Narrative:
+rear door. Key holdex. JJJJJE is responding in a BMW,
+ETA: Snins.
+Rarrative:
+Rack door was blown cper by the wind.
+19-12929 1740 911 - DiATURBANCE UNFOUNDED
+Call Taker: DISPATCHER LAURTE TUFER
+Location/Address: [win 2088] CHURCH ST
+Unit: 3B
+2is8p-17:43: 54 Clycé-17:42:53
+Unik: 32
+Disn-17:42 143 Enrk-:7:42:49 Arvd-:17:46:32 Clrg-17:55:40
+Narrative:
+RE reports that ig screaming in the library.
+R®: that she was told to call the police.
+cays
+Yarrative:
+-0/16/4919 1754 - Hung out in hallway [oz 5+ minutes, no
+or disturhance of any kind obswrved. RP given
+velling
+oplLions.
+1817 Initiated - BUILDING CHECK BUILDING CHEUKED/SECURED
+19-322930
+JOHN J MCCOENEL: JR
+Call Taker: PATROL 9101 '“ACONIC TRL
+Locaticn/Address: ag [WIA
+Unit: Arvd-12:17:30 Clrd-18:18:36
+Narrative:

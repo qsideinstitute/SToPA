@@ -1,1 +1,59 @@
-Unit  34  Arvd-18:40;00  Clird-18:44:49  Vehicle  GRY 2017 AUDI 4T Reg: DL MA 730D  Operator  CULBERT, DANIEL JAMES @ 751 MOHAWK TRL - NORTH ADAMS, MA 01247  Race: W Sex:  Ml  Refer To Citation  7T2085133  Owner:  FLYNN MOTORS @ 600 MERRELL RD - PITTSFIELD, MA $1201  19-12725  igil  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KEVIN PF GARNER  HANCOCK RD  Location/Address:  Unit:  34  Arvd-19:11:54  Clrd-19:19:38  Vehicle:  2016 TOYT U Ravéd Hy Hybrid Xle  Reg: PC CT AE82980 VIN:  JIMRIREV6éGDO16E509  Operator:  LAVENDER, DAVID M @ 17 NORTHVIEW DR - LATHAM, NY¥ 12110  Race:  W  Sex: M  Refer To Citation:  T20B85134  Owner:  KINSLEY GROUP INC @ 14  - EAST GRANBY, CT 06026  4249-12730  1931  initiated - MOTOR VEHICLE StToP  CITATION - CIVIL  Call Taker  PATROL BRAD SACCO  Location/Address  MAIN ST  Unit  35  Arvd-19:31:03  Clrd-19:44:40  Vehicle  BLK 2015 FORD SE FUSION Reg: PC MA 3TB440 VIN: 3FAGPOG74FR156050  Operator  CARVALHO,  ANTHONY WILLIAM @ 765 SIMONDS RD - WILLIAMSTOWN, MA 012267-  2107  Race:  W  Sex: M  Refer To Citation  T2085011  Owner  CARVALHO, JOHN F @ 765 SIMONDS RD - WILLIAMSTOWN, MA 01267-2107  Race: U Sex: M  19-12731  1939  Walk-In - SUSPICLOUS ACTIVITY  INVESTIGATED / REPORT  TAKEN  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 390] SIMONDS RD  Unit:  31  Arvd-19:41:45  Clrd-20:05:29  Disp-19:41:39  Narrative:  Requests to speak to officer regarding a scam she was  involved in and gave too much personal information.  Refer To Incident:  19-355-07F  1419-12734  22539  Initiated - SUSPICIOUS MOTOR VEHICLE  SERVICES RENDERED  Call Taker:  PATROL KEVIN P GARNER  Location/Address  [WIA 256] NEW ASHFORD RD  Unit  34  Arvd-23:02:26  Clrd-23:113:43  Vehicle  VIN: 2TILBR32EX3C105955  GRY 2003 TOYT SE COROLL Reg: PC MA SYK943  Operator  DUTEAU, RICHARD M @ 414 BARBOUR ST - N ADAMS, MA 61247~3124  Race:  U Sex: M  Owner  DUTEAU,  RICHARD M # 414 BARBOUR 8T - N ADAMS, MA 01247-3124  Race: U Sex: M  Narrative  EMT called officer by phone to report suspect car was  driving about iSmph,  turned into golf course let, and turned  lights off. Just thought it was odd  Narrative  Subject known to officer. She says she was blinded by lights  behind her. At Waubeeka to pick up her DJ sen 
+Unit: 34 Clrd-18:44:45
+Arvd-18:4C:00
+Vchicle: GRY 2017 AUDI 4T Reg: DL HA 730D
+Operulor: CULBERY, DANIEL JAMES @ 751 MOHAKK “RL - NCR1IE ADANS, MA 01247
+Race: KF Sex: H
+Refer To Citation: —20851323
+OwRer : FLYNN MOTORS ® 600 MEXRELL RD - PITTSFIELD, MA O120t
+19-127208 1911 Initiated - MOTOR VEHICLE STOP CLTATION - WARNING
+Jall Taker: PATRCL KEV_N P GARNER
+Location/Address: ZANCCCK RD
+Uniz: 2q
+Arvd-19:11:54 Clrd-19:19:38
+Vichicle: 2016 '1OY1 U Ravi Hv Hyhrid Kle Reg: PC CU AEB2380 VIN:
+JTMRIREVEGD016509
+Cperalor: LAVENDER, DAVID M @ 17 NORTHVIEW DR - TATHRM, NY 2110
+Rave: W Sex: M
+Refer To Citation: T2085134
+06025
+Owrler : KINSLEY OROUF INC @ 14 - ZAST GRANRY, CT
+19-312730 1531 Initiated - MOTOR VEEICLE S10P CITATION - CIVIL
+Call Taker: PATROL BRAD SACCC
+Locatlion/Adcress: MAIN ST
+Unit: a5
+Arvd-15:31:03 J1l»d4-19:41:40
+Vehicle: BLK 2015 FORD SE FUSIOK Reg: FC MA 3'U'B440 VIN: 2FAGPOSTAFRISAOZD
+Operator: CARVALHO, ANTHOKY WILLIAM @ 765 S1MONDS RD - WILLIAMSTOWN, MA 01267-
+2109
+Hace: d Bex: M
+Reter To CiLaviv:a: T208201_
+OWTIeY : CARVATHO, JOHN F 765 SIMONDS RD - WILLIAMSTOWN, MA 31267-2187
+Hace: U Sax: M
+1959-12731 1939 Walk-In - SUSPICIOUS ACTIVITY INVESTIGATED / REPORT
+TAKER
+Cell Taker: DISPATCEER TAURLE TUPER
+Location/Aaddreyy: [WIA 39L] SI1MCNDS RD
+Unit: 31
+MArvvG-18:41:42 CLrd-20:05:2F
+Diap-19:41:29
+Narrative: officer she
+Requesls Lo speak to regarding a information. scam was
+involved in and gave toc much personal
+Rafer To Incident: 19 2355 CF
+19-12734 2259 Initiated - SUSPICIOUS MOTOR VEHICLE SERVICES RENDERED
+Cz.l Taker: PATROL K3VIN 7 GMRNTR
+Locaticn/Address: [#IA 256] NEW ASHFORD RI
+Unit: 34
+Arvd-23:02:26 Clrd-23:11:42
+Vehicle: CRY 2003 OY" SE COROLL Req: PC MA S5YK945 VIN: 2T1BR32EX3CLO595E
+OperaLor: CUYEAL, RICHARD M # 414 BARBOUR 97 - KN ADAMS, MA 0°.247-3124
+Race: U Sax: M
+Owner: DFSEAL, RICHARD M @ 414 RARBOIR ST - K ADAMS, MA 01247-3124
+Race: U Sox: M
+Narrative:
+EMT called officer by vhone to repcrt suspect car was
+driving about 1Smph, turnoé into golf course lot, and turned
+lights off. Just thought it was odd
+Narrative:
+Sub‘ect xnown Lo officer. She says she was blinded by lignts
+behind her. AL Waubceka to pick up her NT son

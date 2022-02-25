@@ -1,1 +1,44 @@
-Narrative:  checked  19-393  0912  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  LONGVIEW TER  Unit  32  Arvd-09:12:44 Clrd-09:12:52  Narrative  checked  19-994  0913  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  HAWTHORNE RD  Unit  30  Arvd-09:14:03  Clrd-09:14:16  Narrative  done  19-995  0914  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  HILL PROVINCE RD  Unit:  30  Arvd-09:16:35  Clrd-09:17:57  Narrative:  done  19-996  0916  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  PATROL SHUAN N WILLIAM  Location/Address  STRATTON RD  Unit  32  Arvd-09:16:40  Clrd-09:16:45  Narrative  checked  19-997  0920  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  STONEY LEDGE RD  Unit  32  Arvd-09:20:38  Clrd-09:20:48  Narrative  checked  19-998  0935  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  (WIA 333] CHURCH ST  Unit:  30  Arvd-09:36:33  Clrd-09:37:29  Narrative:  checked  19-999  0938  Phone - 9~1-1 HANG UP CALL  NO ACTION REQUIRED 
+Narrative:
+checked
+19-993 0912 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: LONGVIEW TER
+Unit: 32
+Arvd-09:12:44 Clrd-09:12:52
+Narrative:
+checked
+19-994 0913 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: HAWTHORNE RD
+Unit: 30
+Arvd-09:14:03 Clrd-09:14:16
+Narrative:
+done
+19-995 0914 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: HILL PROVINCE RD
+Unit: 30
+Narrative: Arvd-09:16:35 Clrd-09:17:57
+done
+19-996 0916 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: STRATTON RD
+Unit: 32
+Arvd-09:16:40 Clrd-09:16:45
+Narrative:
+checked
+19-997 0920 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: STONEY LEDGE RD
+Unit: 32
+Arvd-09:20:38 Clrd-09:20:48
+Narrative:
+checked
+19-998 0935 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 333] CHURCH ST
+Unit: 30
+Arvd-09:36:33 Clrd-09:37:29
+Narrative:
+checked
+19-999 0938 Phone - 9-1-1 HANG UP CALL NO ACTION REQUIRED

@@ -1,1 +1,49 @@
-Arvd-11:35:08  Clrd-11:35:20  Narrative:  Checked  Narrative:  checked  Narrative:  Checked  19-5971.  1136  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  PATROL KALVIN DZIEDZIAK  HARWOOD ST  Location/Address  Unit  34  Arvd-11:36:22 Clrd-11:36:40  Narrative  Checked  Narrative  checked  Narrative  Checked  19-5972  1142  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  LONGVIEW TER  Unit  34  Arvd-11:42:43 Clrd-11:43:06  Narrative  Checked  19-5973  1146  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  STRATTON RD  Unit  34  Arvd-11:46:59  Cird-11:47:30  Narrative  Checked  Narrative  05/12/2019 1617 - Homeowner retruned.  No further checks  needed.  19-5974  1251  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  ‘Call Taker  PATROL KALVIN DZIEDZIAK  HANCOCK RD  Location/Address  Unit  34  Arvd~-12:52:00 Clrd-13:00:34  Vehicle  BLK 2008 4D SX4 Reg: PC NY HZN1946 VIN: JS2Y¥C414485103333  Operator  TURTELTAUB, LINDSEY A @ 3550 CRESCENT ST Apt. #1 - LONG IS CITY, NY  11106  Race:  W Sex: F  Refer To Citation  T1401278  Owner  TURTELTAUB, LINDSEY A @ 3550 CRESCENT ST Apt. #2 - LONG IS CITY, NY  11106  Race: W Sex: F 
+Narrative: Arvd-11:35:08 Clrd-11:35:20
+Checked
+Narrative:
+checked
+Narrative:
+Checked
+19-5971 1136 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAX
+Location/Address: HARWOOD ST
+Unit: 34
+Arvd-11:36:22 Clrd-11:36:40
+Narrative:
+Checked
+Narrative:
+checked
+Narrative:
+Checked
+19-5972 1142 Initiated - BUILDING CHECK BUILDING
+CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: LONGVIEW
+Unit: TER
+34
+Arvd-11:42:43 Clrd-11:43:06
+Narrative:
+Checked
+19-5973 1146 Initiated - BUXLDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIFEDZIAK
+Location/Address: STRATTON RD
+Unit: 34
+Arvd-11:46:59 Clrd-11:47:39
+Narrative:
+Checked
+Narrative:
+05/12/2019 1617 - Homeowner retruned. No further checks
+needed.
+19-5974 1251 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: HANCOCK RD
+Unit: 34
+Arvd-12:52:00 Clrd-13:00:34
+Vehicle: BLX 2008 4D SX4 Reg: PC NY H2ZN1946 VIN: JS2YC414485103333
+Operator: TURTELTAUB, LINDSEY A @ 3550 CRESCENT ST Apt. #1 - LONG IS CITY, NY
+11.106
+Race: W Sex: F
+Refer To Citation: T1403i278
+Owner: TURTELTAUB, LINDSEY A @ 3550 CRESCENT
+11106 ST Apt. #1 - LONG IS CITY, NY
+Race: W Sex: F

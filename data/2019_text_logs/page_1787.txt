@@ -1,1 +1,47 @@
-Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address;  [WIA 333] CHURCH ST  Unit:  35  Arvd-08:15:47  Clyrd-08:37:07  19+12515  0843  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  STRATTON RD  unit  30  Arvd-08:43:56  Clird-08:44:12  Narrative  Countryside at property.  Narrative  Checked  Narrative  Checked Area.  49-422516  8850  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  WOODLAWN DR  Unit  30  Arvd-06:51:21 Clrd-08:56:40  Vehicle  GRY 2009 GMC SIERRA Reg: PC MA 221JM2 VIN: iGTEK24J192200229  Owner  AMES, ROBERT E JR @ 688 WALKER ST - CLARKSBURG, MA 01247-2863  Reais:  U Sex: M  Narrative  Lawn care indivdual at location  Narrative  Checked 9-4  18:39  Narrative  Checked 0220  19-12517  0904  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  {WIA 1832] NORTH HCOSAC RD  Unit  35  Arvd-09:05:61  Clrd-09:05:59  Narrative  Checked  Narrative  Checked $-4  18:51  Narrative  Checked  Narrative  Checked 2335  Narrative  Checked 0317  19-12518  0938  initiated - MOTOR VESICLE STOP  CITATION - WARNING  Call Taker:  PATROL ANTHONY M DUPRAT  COLD SPRING RD  Location/Address: 
+sal. Taxex: FATROL ANTHONY XM DUPRAT
+Lecation/Address: ‘WIA 333] CHURCH 8T
+Jil: as
+Arvi-08::15:47 Clrd-08:37:07
+19-125115 0843 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Ta<er: SEXCERNL SCO B MCHOWAN
+Twocation/Mddress: SUAhITON RL
+rit: 30
+Arvd 0B:43:5¢ Clrd-08:44:12
+Narraliva:
+CounlLryside at property.
+Har—ativa:
+Thecked
+Harrative:
+Checked Area.
+19-12516 0850 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca_l Taker: SERGEANT SIOTT E MOGCWAN
+_ocat-on/Address: WOOCLAWK CR
+Unit: -. iL
+Ary@-0E8:51:21 Clxd-0B:56:42
+Veaicle: GRY 2002 SMC SIZRRA Reg: PC MA 221IM2 VIN: 1GTEK24J19Z230223
+Owner: AMES, ROBERT E JR @ 688 WALKER ST - CLARKSBURG, MA 01z247-2863
+Race: U Sex: M
+Narrazive:
+Lawn care indivduzl ab location
+Narrative:
+Harrative:
+Chesxad 0220
+19-125117 0504 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call 'laker: PATRCL ANTEONY M DUFRAT
+Location /iddress: [WTA 1E32] NORTH HCCSAC RD
+Unix: 35
+Arvd-29:05:00 Clrd-09:05:59
+Narrative:
+Checked
+varrabive:
+Chacksad 5-4 18:51
+Karrative:
+heckad
+Earrativeo:
+Chackad 2335
+Hurral-ve:
+Checked $317
+0938 tritiated - MOTOR VEHICLE ATOP CITATION - WARNING
+19-128518
+Jal. Taxexr: “ATROL ANTHONY M DUPRAT
+Lezasion/Address: COLD SPRING KD

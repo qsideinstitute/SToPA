@@ -1,1 +1,45 @@
-19+12796  0752  Initiated - PARKING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  SCHOOL ST  Unit  30  Arvd-07:53:04 Clrd-07:53:19  Narrative  Checked  Narrative  Checked $§-4  17:44  13-12797  O755  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  NORTH ST  Unit  30  Arvd-07:55:27  Clrd-07:56:30  Narrative  Checked S-4  19:01  Narrative  Checked 0031  19-12796  o758  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  COLD SPRING RD  Location/Address  Unit  30  Arvd-07:58:48  Clrd-07:58:57  Narrative  checked  Narrative  Checked Area.  19-12799  0862  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arva-08:02:42  Clrd-68:03:23  Narrative  checked  Narrative  Checked Area.  19-12800  OS8i1  tnitiated -« BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address  HOPPER RD  30  Unit  Arvd-08:11:34  Clrd-08:12:03  Narrative  checked  Narrative  Checked Area. 
+19-127996 0752 Initiated - PARKING CHECK BUILDING CHECEKED/SECURED
+Cull Tuhker: SERGEANT SCOTT E MCGOWAN
+Lovatior/Addvess: SCHOCL ST
+Uniz: 30
+Arvd-07:52:04 ClrAd-0Y:Bs:iy
+narrative:
+Checked
+Karxative:
+Checked 4 17:44
+15-12797 0755 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+fall Taker: SERGEAET SCOTT E MCGORAN
+Leoazion/Address: KCRT™H ET
+Init: 30
+Arvd-07:55:27 Clré-07:56:30
+Narrative:
+ChoackzEd 2-4 149:01
+Narrat-ve:
+Checkad 2031
+19-12798 0758 Initiated - BUILDING CEECK BUILDING CEECKED/SECURED
+cal. Taxe: SFRGEANT RCOTT FE MCGOWAN
+Lozation/Addreen: COI) SPR™NG RD
+Jit: 1
+ArvaA-07:58:48 Clrd-07:58:5Y
+Narrative:
+checked
+Hurrative:
+Checkeu Arasa.
+15-12795 0802 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cail Taxer: SERGEANT SCOTT E MTGOWAN
+—ocation/Address: COLD SPRING ER
+Unit: 30
+Arvd-08:02:42 Clrd-SR:03:23
+Narrstive:
+checkead
+Narratrive:
+Checked Area.
+15-12802 0011 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cael Taker: SERGEANT SO0OTT 3 MOGOWAN
+Lorat cn/Ridrens: HOPERR RI
+mit: an
+Arvé-06:11:34 (Zrd-08:22:03
+Hlavrative:
+shecked
+NarraTive:
+Shecked Area.

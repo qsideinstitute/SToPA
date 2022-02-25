@@ -1,1 +1,52 @@
-Disp-11:43:29  Arvd-11:51:09  Clrd-12:14:42  Vehicle  GRY 2017 NISS ROGUE Reg: PC MA 6XB334  VIN: KNMAT2MV9HPS52497  Owner  KUGEL, JUSTIN N @ 39 CHAPIN HALL DR - WILLIAMSTOWN, MA 01267-2569  Race: W Sex: M  Narrative  Tree took down a powerline pole to pole.  Narrative  Tree branch fell on top of RP's MV with the cable lines,  advised RP ta contact landlord for tree removal and to  contact Cable company. RP contacted insurance company and  filed a claim and submitted pictures of damage.  Refer To Incident:  19-262-OF  19-12569  2147  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  [WIA 333)  CHURCH 8ST  Unit:  36  Arvd-11:48:08  Clrd-11:49:01  13-12970  1224  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  HOPPER RD  Unit:  34  Arvd-12:24:34  Clrd-12:29:30  Narrative:  Checked 5-4  19:18  Narrative:  Checked Area.  19-L2971  1228  MAILED  Other - PUBLIC RECORDS REQUEST  Call Taker:  CHIEF  KYLE J JOHNSON  Narrative:  Requesting 19-122-AC & 19-211-PR.  Mailed,  19-125972  1249  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  MAIN ST  Unit  35  Arvd-12:40:07  Clrd-12:44:03  Vehicle  GRN 2008 DODG SE AVENGE Reg: PC MA 2Sx184  VIN: IB3SLC5S6K68N227770  Operator  DEBENEDETTO, KEVIN N @ 211 CHURCH ST ~ NORTH ADAMS, MA 01247-4147  Race:  U Sex: M  Refer To Citation  T2085047  Owner  COHEN, REBBECCA ANN @ 211 CHURCH ST - NORTH ADAMS, MA 01247-4147  Race:  U Sex: F  19-12973  12406  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 225] COLD SPRING RD  Unit:  34  Arvd-12:40:35  Clrd-12:44:33  19-125974  1245  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  COLD SPRING RD  Unit:  34 
+Vehizle: Disp-1::43:29 GRY 20:7 Arvd-12:51:09 Cl:d-12:14:42
+Owner: FiIATTN N788 W RCFIE Reg: YO MA $XB334 VIN: KNMAT2MVOHPSGR24357
+KUGEL, ace: B M 39 CHAP.N ALL DE - WILLIAMSTOWN, MA 01267-2562
+Narrative: Rex:
+Trae tock down:
+a powcrlirce pole to pele.
+Narrative:
+ree branch fell cn tcp of R2's MV witk the cable lines,
+advised RF to contac: landlord for tres removal and Lo
+contact Cable company. RR? aontacted insurance company and
+filed a claim and sibtmitred pictures of damage.
+Reltar To Incident: 19-262-OF
+19-125568 1147 Initiated - RUILDING CHECK BUILDING CHECKED/SECURED
+Cal Taker: EATROL CANLA HERNANDEZ
+Location/address: [Wik 333] CHURCH ST
+Mit: SE
+Arvi-11:48:06 Cord-31:49:01
+15-12970 1224 Initciaced - BUILDING CHECK BUILDING CEECKED/SECURED
+Call “akar: PATROL ANTZIONY M DUZRAT
+Loculio/Aadoress: IIOZPER RL
+Unix: 24
+hryd-12:24:34 Clrsd.12:29:30
+Karrative:
+Checked -4 19:18
+Narrative:
+Checked Arce.
+19-129711 1228 Other - PUBLIC RECORDS REQURST MATLED
+Call Toioer: CHIZF KYLE J JOIIKSON
+Nerral.iwve:
+Recussting 19-122-AC  19-2Z11-PR. HMalled.
+19-123972 124C —nitiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROI. ARRAN SACCC
+Locaticn/Address: MAIN ST
+Unit:
+Arvd-12:40:07 (C1-d-12:44:03
+vericle: ORN 2008 DOD3 SE AVONGE Reg: FZ MA 29X184 VIN: IRALOSEKEUNZ2TIT0
+Cperator: DIBENEDETTO, EKSVIN N ® 21. OSURCT ST - NCRTH ADAMS, MA (0-234Y.4147
+Rane: J Sex: M
+Rafer To Cltatior: m20RG047
+Cwmner: RESBROCA ANN ®
+Zane: CCHEN, I Sax: 7 211 CHURCH ST - NOHTH ADAME, MA 012L7 4147
+19-125733 1240 Initiated BUILDING CHECK
+- BUILDING CHECKED/SECURED
+Cul. Tuger: ZATROL ANTHONY M DUPRAT
+Loval lon/Address: ‘WIA COLD SPRING RD
+Unik: Ad 225]
+Arvi-12:40:35 Clrd -2:44:32
+1245 Initiated BUILDING
+19-125574 - CRECH BUILDING CHECKED/SECURED
+Ca>l Taker. PATROL
+COLL SPXING ANTHONY RD M CTFRAT
+Locabon/Address: nit: 34

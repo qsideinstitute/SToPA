@@ -1,1 +1,52 @@
-Unit:  32  Arvd-19:49:36  Clrd-19:49:53  19-5586  1952  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  {WIA 230] MAIN ST  Unit:  32  Arvd-19:52:14  Clyrd@-19:52:33  Narrative:  done  19-9587  2026  Initiated - MOTOR VEHICLE STOP  CITATION -  WARNING  Call Taker  PATROL KALVIN DZIEDZIAK  MAIN ST  Location/Address  Unit  a4  Arvd-20:26:20  Cird-20:47:31  Vehicle  WHI 2013 HYUN SE SONATA Reg: PC MA 37NH37 VIN: KMHEC4A46DA087176  Operator  COOPER, BARBARA § @ i107 ASHTON AVE - NORTH ADAMS, MA 01247  Race:  W Sex: F  Refer To Citation  T1785519  owner  COOPER, BARBARA & @ 107 ASHTON AVE - NORTH ADAMS, MA 01247  Race:  W Sex: F  19-9588  2114  Phone - SUSPICIOUS MOTOR VEHICLE  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  SPRING ST  Unit:  34  Enrt-21:19:46 Arvd-21:21:12  Clrd-21:31:08  Disp-21:17:03  Vehicle:  BLK 2013 TOYT TK TUNDRA Reg: PC MA 4M¥286  VIN:  STFDYSF14DX274581  SABIN, JONATHAN B @ 45 ROARING BROOK RD - WILLIAMSTOWN, MA 01267  Operator:  Race:  W Sex: M  Owner:  SABIN, JONATHAN 8 @ 45 ROARING BROOK RD - WILLIAMSTOWN, MA 01267  Race:  WwW Sex: M  Narrative:  cP reports a black truck on rightside of street. Truck has  been running for a long period of time. Across from Images  Cinema.  2128 Owner was called. He was unaware of vehicle was  running. He will be going out Eo speak to Officer.  Narrative:  Spoke with registered owner whe stated it waa a mindless  mistake.  Vehicle turned off and secured.  19-9589  2153  $11 - 9-1-1 TEST CALL  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  SIMONDS RD  Narrative:  Verizon called,  requesting to do multiple 9-1-1 Test calls.  Due to issues that we were having with callers hearing us.  But we could not hear them.  Test calls were all good. No problems with any of the calls.  For Date:  ~  08/02/2019  Friday  19-9592  0106  Phone - DISARLED M V  SERVICES RENDERED  Call Taker:  MICHAEL STRI2ZZI  Location/Address:  ROARING BROOK RD  Unit:  32  Disp-01:09:22 Enrt-01:09:51  Arvd-01:20:46 Clrd-02:24:42 
+nit: Arvd-19:49:36 Clrc-19:49:53
+CHECKED/SECURED
+19-9586 1552 Initiated - BUILDING CHECK BUILDING
+Ca'l Taker: PATROZ SHUAN N WILLIAM
+Iacakion/Address: [WIA 190] MAIN ST
+Unit: 32
+Arvd-19:52:14 Clré-19:52:33
+Narrative:
+18-3587 2026 initieted - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: FATROL. KAT WWTH DZIEDZIAK
+Locaticen/Address: MAIN 3T
+Unit: 31
+Arvd-20:26:20 Clxé-20:37:31
+Vehicla: WHI 2012 HYUIN SE SONATA Reg: PC MA 3I7KH37 VIN: KMIIZEC4A46DAODT1T76
+Operator: COOPER, BARBARA 107 ASHTON AVE - NORTH ADAMS, MA 01247
+Race: W Sex: F
+Refer To Citaticn: T1785519
+Owrer COOPER, RARBARA § # 07 ASHTON AVE - NORTE ADAMS, [HMA 01247
+Race: W Sex: F
+15-9588 2114 Phone - BUSPICIOUS MOTOR VEHICLE SERVICES RENDERED
+Call Taker: CISPATCHXR WILLILIANM C JENNINGS oR
+Location/Address: SPRING ST
+Ur:ik: 34
+Disp-21:37:03 Enrt-21:15:46 Arvd 21:21:12 Clrd-21:31:08
+Vehicle: BLK 2013 TOYT TK TUNDRA Reg: PC MA 4MY286 VON: STFOYSFIL4LDXZ745H81
+Ooperazor: SARIN, GJONATEAN 5 E 45 ROARING SROOK RD - WILLIAMSTOWN, MA 031267
+Race: W Sex: H
+Qumer: SABIN, JONATZAN 5 @ 45 ROARING BROOX RD - WILLIAMSTOWN, MA 01267
+Race: W Bex: H
+Narrative:
+CP reports a black Exrusk on rightside of street. Truck has
+keen runcine for a leng rericd of time. Acrcss from Images
+Cinema.
+2128 Owner way called, Ze was unaware of vehicle was
+runing. lle wil: be goizg oul Le speak to Officer.
+Narrative:
+Spoke with registered owner who stated it was a mindless
+mistake. Velicle turned off and secured.
+18-9589 2153 811 - 9-1-1 TEST CALL SERVICES RENDERED
+Call Taker: CISPATCHER WILLIAM C JENNINGS JR
+Location/Address: SIMONDS RD
+Narrative:
+Yarizon called, reguesting Le do multiple 9-1-1 Test calls.
+Lue to issues that we were having with caZlers heaving us.
+But we coulc not hear Lhem,
+Teet calls were all good. NO problems with ary of the calls.
+For Date: 08/02/2019 Friday
+19-9592 a10é Phone - DISABLED M V SERVICES RENDERED
+Call Taker: MICHAZL STRIZZI
+Location/Address: ROARING BROOK RD
+Unik: 32
+Disp-01:09:22 Enrt-01:09:51 Arvd 01:20:46 Clrd-02:24:42

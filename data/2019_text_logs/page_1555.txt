@@ -1,1 +1,48 @@
-co:  731RNP  MA: 474ND5 - 7XS127  Narrative  Checked  S-4  18:36  Narrative  Checked  Empty S-4  Narrative  no vehicles.  Checked,  2329  Narrative  Checked,  no vehicles.  Narrative  Checked,  no vehicles.  0403  19-11118  1035  Tnitiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  PETERSBURG RD  Location/Address  Unit  35  Arvd-10:35:39  Clrd-10:37:44  Narrative  checked  Narrative  Checked  4149-11119  1047  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  35  Arvd-10:47:13  Clird-10:49:02  Narrative  Checked 5-4  18:50  Narrative  Checked  19-112206  4125  Phone - TRAFFIC COMPLAINT  UNABLE TO LOCATE  Cail Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  GREEN RIVER RD  Unit :  35  Disp-11:26:33  Enrt-11:27:02 Arvd-11:31:05  Clrd-11:36:28  Narrative:  Black pickup with CT plates heading northbound at a high  rate of speed.  15-31121  1202  Phone - ANIMAL CONTROL  PATROL ADVISED  Call Taker:  PATROL KALVIN DZIEDZTAK  Location/Address:  [WIA 412} COLE AVE  Unit:  35  Disp-12:07:45 Enrt-12:08:35  Cird-12:10:53  Narrative:  Dog escaped from fenced in back yard around 1000am. Dog is a  mut and is roughly 30 pounds and black in color. 
+MW: TILKNP
+MA: 4vENDS TXS127
+Narrative:
+Chocked S-4 18:36
+Nexral ove:
+Checked PRmpty 5-2
+Narrative:
+Checkoé, 1 velicles. 22326
+Narvative:
+Checluad, ne vehicles,
+Narrative:
+Checked, no vehicles. 0423
+19-11118 1035 Initiated
+- BUILDING CHECK BUILDING CHECKFD/SECURED
+Call Taker: PATROL. BRAL SACTO
+Lecation/Addrass: PETERSBURG RD)
+uni<: a5
+Arvd-_0:35:39 Clrd-20:37:44
+Narralk.ve:
+checked
+Narrative:
+Checked
+15-11119 1047 Initiated - BUILDING CHECK BUILDING CHECEED/SSCURED
+Tall —aker: PATROL BRAD SACCO
+Lonattor/hddress: COLl> SPRING RD
+Unit: 35
+Arvad-In:47::3
+Narrative: Clyd-10:49:02
+Checked 8-4 13:50
+ive:
+Nerral
+Checked
+15-11120 11356 Phone - TRAFFIC COMELATNT UNABLE T0 LOCATE
+Cz:1 Taker: EATRCL RALVIN DZIEDZIAN
+Location/Address: GREEN RIVER RD
+Phil: 35
+Cisp-11:26:33 Enrs-17:27:02 Arvd-11:31:05 Clrc-11:36:20
+Narrazive:
+Black pickup wit,r Cf plates head-ng oelibound at a hich
+rave of spaed.
+19-113121 1202 Shona - ANIMAL CONTROL PATROL ADVISED
+Call Taker: PATROL KALVIN DZTFDZIAK
+Locul con/Acdress : [KITA 412] COLE AVE
+Unit: as
+Hen-12:07:144 sEnrt-12:08:353 zrd-12:10:55
+Narrative:
+Nog eacaped from fenecd in Luck arcuné 1600am.
+mut and if roughly 30 pounds iid yard slack in cclor. Dag "8 z

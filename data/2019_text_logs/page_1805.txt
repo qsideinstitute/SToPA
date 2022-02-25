@@ -1,1 +1,54 @@
-Call Taker:  PATROL KALVIN DZTEDZTIAK  Location/Address:  (WIA 436) MAIN ST  Narrative:  Small brown single fold wallet believed to have been lest on  10/99/2019  29-12620  1650  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL JOBN J MCCONNELL JR  Location/Addregs  [WIA 910] TACONIC TRL  Unit  38  Arvd-16:5090:37  Clrd-16:51:20  Narrative  done  19-1262]  1706  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SOUTHWORTH ST  Unit:  32  Arvd-17:06:49 Clrd-17:06:57  Narrative:  10/10/2019 2342 Checked S3  19-12622  1803  Initiated - PARKING CHECK  NO ACTION REQUIRED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SCHOOL ST  Unit:  38  Arvd-18:03:41  Clyrd-16:05:12  19-12623  180s  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  NORTH HOOSAC RD  Unit  38  Arvd-18-:09:36  Clrd-18:18:15  Vehicle  BRO 2001 GMC SONOMA Req: PC MA 7CK373  VIN;  1GTCT19W518152814  Operator:  GRISWOLD, ZACHERY THOMAS @ 126 E QUINCY ST - NORTH ADAMS, MA 01247-  4311  Race:  W Sex: M  Refer To Citation:  T2084984  Owner:  GRISWOLD, ZACHERY THOMAS @ 126 E QUINCY S&T - NORTH ADAMS,  iA 01247-  4311  Race:  UO Sex:  M  19-12624  1821  Phone -  ANIMAL CONTROL  UNABLE TO LOCATE  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  HANCOCK RD  Unit  35  Disp-18:23:47  Enrt-18:24:16 Arvd-18:33:48  Clrd-18:38:44  Narrative  RP  reports possible Rabid porcupine walking in the roadway,  by  MM = xecidence.  19-12625  1937  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KALVIN DZITEDZTAK  Location/Address  CHURCH ST  Unit  35  Arvd-19:37:04  Clrd-19:45;2]  Vehicle  BLU 2001 DODG DAKOTA Reg: PC MA 2EN481  VIN:  1LB7GG22N515283449  Operator  MANLEY, JOHN R JR @ 1 3RD AVE - CHESHIRE, MA 01225  Race:  W® Sex: M 
+Call Taker: PATRCL KALVIN DZIELZIAK
+Location/REdress: [Wlk 436] MAIN ST
+Narrative:
+Sil brown s-ngle [old wallet believed to have been lost on
+10/09/2019
+18-12620 1650 Initiated - BUILDING CHECK BUILDING CHECKED/SRCURED
+fall Taker: PATROL J0AN J MCCOKNEILI. JR
+Lesasion/Addrees: [WIA 21.0] TACONIC TRL
+Unit: 38
+Arvd-16:59:27 Clrg-15:51:20
+Narrative:
+done
+1595-12621 1706 Initiated - BUILDING CHZCK SERVICES RENDERED
+Call Taker: PATROL SATTAN K WITT, TAM
+Tozation/Address: SOUTHWCRTE ST
+Unit: iz
+Rrvd-17:06:49 Clrd-17:06:57
+Narrative:
+10/10/2079 2342 Checked S3
+19-128622 1802 Initiated - PARKING CHECK HO ACTION REQUIRED
+Call Taker: BATROL JOIIN J MCCONNELL JR
+wocation/Addreas: SCHOOL ST
+Jrnit: 3p
+Arvd-18:03:41 Clrd-18:05:12
+18-12623 1805 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Ca_l Taker: PATROI, JOHN J MCCONNELL JR
+Local ion/Addroos: NORTH HOUSAC RD
+Unit: 38
+Arvd-18:09:36 (Clrd-iB:18:15
+Vehicle: BRO Z001 CMO SOKCMA Req: PC MA JOX3Y3 VIN: 1GTCT.9WS181352814
+Qperalor: GRISWOLD, ZACHERY THOMAY @ 12 E QUINCY S1 - NORIH ADAMS, MA 0124°7-
+4311
+Race: W Sox: M
+Refer Te Citacion: 12084984
+Oouwmner: GRISWOLD, ZACHERY THOMAS @# 126 E QUINCY BET - NORTZ ADAMS, MA 01247-
+4311
+Race: J BScx: M
+15-12624 1821 Phone - ANIMAL CONTROL UNABLE TO LOCATE
+Call Taker: PATROI. SHUAK N WILLTAM
+Location/Address: HANCOCK RD
+Unit: 15
+Disp-16:23:47 Enrt-18:24:16 Arvd-18:33:48 Clrd-18:38:44
+Norrative:
+ny reports possible Rabid porcupine walking in the roadway,
+
+oy
+19-1l2625 1937 Initiated - MOTOR VEHICLE BTOP CITATION - WARNING
+Call Taker: PATROL XALVIN DZIEDZ1AK
+CHURCH ST
+Location/Address:
+Unzz: i5 Arvd-79:37:04 Clrd-12:45:21
+Vehicie: 5L0 2031 DOCS DAKOTA PC MA 2EN481 VIN: 1B7GG22N5.5283449
+JOIIN R JR F 1 Rug: 30D AVE MA 01225
+Jperator: MANLEY, Race: W Sex: M - CHESHIRE,

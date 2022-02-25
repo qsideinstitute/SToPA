@@ -1,1 +1,54 @@
-Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SOUTHWORTH ST  Unit  31  Arvd-17:36:09  Clrd-17:37;:38  Narrative  Checked 0125  19-14224  1739  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  STRATTON RD  Unit:  38  Arvd-17:40:25  Clird-17:40:47  49-14225  1822  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN d MCCONNELL JR  Location/Address  NORTH ST  Unit  38  Arvd-18:22:20  Clrd-18:31:16  Vehicle  GRY 2016 CHEV EQUINO Reg: PC MA 8MB7143  VIN: 2GNPLFEKSG6108427  Operator  MILLER, GERRY L @ 330 SAFFORD ST - BENNINGTON, VT 05201  Race:  W Sex: M  Refer To Citation  T2085230  Owner  CARR HARDWARE AND SUPPLY CO  INC @ BX 1153  - PITTSFIELD, MA 01202-1153  Race: U Sex: U  19-14226  1834  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  (WIA 249] NORTH ST  Unit  34  Arvd-18:34:31  Clrd-18:34:57  Narrative  Checked 0018  19-14227  1927  Phone - B.0.L.0.  PATROL ADVISED  Call Taker  PATROL KALVIN DZIEDZTAK  Location  [WIA 249]  TOWN OF WILLIAMSTOWN  Unit  31  Disp-19:29;31  Clrd-19:29:49  Unit  38  Disp-19:29:31  Arvd-19:29:52  Clrd-19:30:11  Narrative  Bolo for black SUV with front end damage on drivers side.  Hit and run occurred on Church st in North Adams.  Unknown  direction of travel.  19-14228  1945  Radio - B.0,1L.0,  PATROL ADVISED  Call Taker  PATROL KALVIN DZIEDZIAK  Location  (WIA 249]  TOWN OF WILLIAMSTOWN  Unit  38  Disp-19:48:27  Arvd-19:48:53  Clrd-19:50:58  Vehicle  GRY 2015 HOND SE CIVIC Reg: PC MA 9NX110 VIN: i9XFB2F55FE296250  Owner  RIZZONE, LISA P @ 13 BLANCHARD AVE - BILLERICA, MA 01821-2519  Race: U Sex: F  Narrative  BOLG for vehicle involved in hit in run in the area of  Wallmart in WA. Vehicle in call.  19-14229  210%  Phone - ASSIST OTHER AGENCY  SERVICES RENDERED  Call Taker:  PATROL KALVIN D&IEDZIAK  Location/Address:  [WIA 165] ADAMS RD 
+‘all ““akor: SERGIANT DAVID R LEMIEUX
+Location/Address: SOUTIIMORTII ST
+Lnil: az
+Sord-17:37:38
+Karrative:
+Checzed 0°25
+19-14224 1739 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call ‘Taker: PAIRGL JOAN J MCTONNELL JR
+Toearion/réd ess: STRATTON RD
+UnilL: 38
+Arvd-17:40:25 Clrd 17:40:47
+19-142325 1822 Initiated - MOTOR VEHICLE ETOP CITATION - WARNING
+dal Take: FATROL JOEN J MCCONNELL JR
+Lecation/Addrere: NORZ'H s'T
+Jit: 38
+Arvd-18:22:20 Clrd-18:31:14
+Vehicle: CRY 2916 CHEV EQUINO Reg: PC MA SMBE713 VIN: 2GNFLFEXKGGER1LI8427
+Operaicr: NILLEX, GERRY L # 330 SATFORL ST - BENNINGTOK, VT 05201
+Pace: W Sex:
+Roler Te Citzticn: T2285250
+iwner: CARR HARDWARZ AND SUSPLY C0 INC @ BX 153 - ZITTSFIELD, MA Q1202-:152
+Rice: 0 Sex: U
+19-142225 1834 Initiated - BUILDING CHECK BUILDING CHZCEED/SECURED
+Call Taker: SERIZANT DAVID R TTMTBLX
+Locaticn/AdCrese: [WIA 249] NORTH 8T
+Unit: i
+Arvd-13:34:31 Clxd-18:34:57
+Karrative:
+Checked 0218
+19-114227 1927 Phone - B,.0.L.0D. PATROL ADVISED
+call Taker: PATRCL KALVIN DEIZLZIAK
+LocukbLon: IHIA 249] TOWK OF WILLIAMSTOWN
+H 3 A 31
+Diwp- 29:29:31 Clrd-15:29:40
+Tit: 38
+Disp. 29:29:31 Arvd-19:29:52 Clrd-15:30:11
+Narrative:
+Boi¢c for black SUV with Zront end damage on drivevs side.
+Hit azd run coouvrred on Churcsn st in North Adams. Unkoown
+dircolion of Lrave..
+15-14228 1945 Radio - EB.O.L.O. PATROL ADVISYD
+Czil Taker: PATROZ: KALVIN DZIEDZIAK
+Locavion: [WIA 243] TOWH OF WILLIAMSTOWK
+Unit: aa
+Disp-19:48:27 Arvd-19:48:53 Clrd-19:50:58
+Vehicle: GRY 2015 HOKLD SE CTYIC 2C MA 9KXIL0 V1IN: 13XFB2ES3XE236250
+Owner: RIZZONE, LT8A P # 13 5EIANCHARD Reg: AVE MA
+Race: UJ Sex: F - BLLLEXLICA, 01821 2519
+Karrative:
+5CLO for vehicle involved in hiz 19 in the of
+Kalimarc in NA. Vehicle in call. ur arca
+19-142259 2109 Phone - ASSIST OTHER AGENCY SERVICES
+Cal: Tzkar: PATROL, KLLVIN DEZELYU_AK RENDERED
+Lozacion/Address: WTA 165] ALRMS 2b

@@ -1,1 +1,51 @@
-Unit:  30  Arvd-07:  41  10  Clrd-07:57:40  Unit:  a5  Disp-14:48:04  Arvd-14:  48  13  Clrd-15:12:08  19-12471  03805  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZTEDZTAK  Location/Address:  (WEA 333] CHURCH ST  Unit:  34  Arvd-0s8:  05  34  Clrd-06:40:32  1219-12472  o8il  Initiated ~- TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLE AVE  tit  30  Arvd-08:  12  27  Clrd-08:33:25  Unit  al  Disp-14:55:52  Enrt-14:57:38  Arvd-15:  o1  OB  Clrd-15;20:22  19-12473  og59  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cali Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  FINE COBBLE RD  Unit  30  22  Arvd-09:00  Clrd-09:00:59  Narrative  PA; KRY¥3202  VA: APSO55  Narrative  Same vehicles ag above.  Narrative  checked  Warrative  Checked 5-4  19:40  Narrative  Checked 2344  VA AP5055  PA KRY3202  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked 0347  Narrative  Checked Area  Narrative  Checked 0615  19-+-1L2¢74  0904  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  [WIA 1832] WORTH HOOSAC RD  Unit  30  Arvd-059:05:04  Clrd-09:05:23  Narrative 
+Un: os: 0
+Arvd-i77:41 +13 Clxd 07:57:40
+un-c: ib
+Hsp 14:48:04 Aryd-z4:40 :13 Clxd-15:12:CB
+19-12471 0805 Initinted - TRAFFIC CONTROL SERVICES RENDERED
+“all Taker: PATROL KALVIN DZIEDZIAK
+Lecazion/Acdrees: [WIA 333, CHURCH ST
+mit: 34
+Arvd-nBe:Q 134 Clrc-06:401:32
+19-12472 0811 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cal_ Taker: EERCEANT SCOUT E MUGOWAN
+Legat Low/Address: CCLZ AVE
+Unit: 30
+Arvd-0B:1.: Clra-N6:33: 35
+Unit: 31
+Disp-14:75:52 Enrt-_4:57:38 Arvd-1L5:01 Hi: Clvad-13:20:22
+19-124773 c859 Initiated - BUILDING CEECK BULLDING CHECKED/SECURED
+Cal: Tazer: SERGEANT 2COTT RE MCGOWAN
+Location/Address: FINZ CCBZLE RD
+Joit: 30
+Brvd-09:20:2: Cled 09:02:59
+Norrative:
+: KRY3202
+: AP5055
+Harrztive:
+3zre vehicles 25 ahove.
+Harracive-:
+checked
+Narrecivea:
+Checked B8-a 9:40
+Haxrazive:
+Cheohod 234<
+VA AP5055
+PA EXY5202
+Xarrative:
+Cresked Area.
+harrative:
+Choeoxoed Arca,
+Barrabtive:
+Checked 0347
+Burrulive:
+Checked Area.
+Narrative:
+Chackad 0616
+D304 Initiated BUILDING CEECK BUILDING
+19-124774 - CHECKED/SECURED
+Cal. Yaxe:: SERGEANT SCOTT E MCGOWAN
+Location/Address: WIA 1832] WORTH HOOSAC RD
+Joit: 30
+Arvd-00:05:34 Clrd-05:05:22
+Narrative:

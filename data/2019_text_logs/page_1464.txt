@@ -1,1 +1,49 @@
-19-10588  O734  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  PINE COBBLE RD  Location/Address:  Unit:  39  Arvd-07:35:30  Clrd-07:35:46  Narrative:  MA  SHX5125  NY  HVT3386  PA  KPGB236  Narrative:  SHX51i5 -  S24FA6  -  793PN7  eae  HVT3386  PA  KPG8236  ON  ADV2Z109  Narrative:  Checked  MA 8HX515  Ontario- ADVZ109  NY¥- HVT3386  MA -  793PN7  PA-  KPG8236  Narrative:  checked  Narrative:  Checked S-4  19:38  Narrative:  Checked 2341  PA KPG8236  MA 7S3PN7  NY HVT3386  MA SHX515  Narrative:  Checked Area  Narrative:  Checked Area  Narrative:  Checked 0327  Narrative:  Checked Area.  Narrative:  Checked 0625  19-10589  0747  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  SERGEANT SCOTT E MCGOWAN  Call Taker  Location/Address  LUCE RD  Unit  30  Arvd-07:48:09  Clrd-08:15:36  Narrative  checked  19-10590  0843  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+19-105688 0734 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEART SCOTE 5 MCOGOWAN
+Locaticn/Address: PINE COEBLE RD
+Usil: 30
+Arvd-07:35:30 OlxrAd-07:35:40
+Narrative:
+MA: BHXH13
+NY: HVT3336
+FA: KPGBz36
+Narvativea:
+Mh: 8MX5:5 - 324FA6 - T793PNY
+NY: HVT3386
+PA: KPGB236
+Oi: ADVE.O03
+Narrative:
+Checked
+MA 8HX515
+Ontarip- ADVZ109
+NY- HVT2386
+FA- T753PK7
+Phe KPGE236
+Harranive:
+checked
+Narrative:
+Thecked S5-4 19:38
+Karrative:
+Checked 234:
+PA KPGR236
+MA T93PRN7
+NY HVTIABA
+MA. BuX5:.5
+Karralbive:
+Checxed Area.
+Karrative:
+Checxed Areu.
+Narrative:
+Checked 0327
+Narrative:
+Checked Area.
+Narrative:
+Checked 08525
+1939-10589 0747 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: LUCE RO
+Unit: 20
+Arvd-07:48:09 Clrd-08:15:38
+Narrative:
+checkeac
+19-105950 0843 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

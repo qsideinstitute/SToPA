@@ -1,1 +1,46 @@
-Narrative:  done  19-10226  0949  Enitiated - BULTLDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  PATROL DAVID JENNINGS,  DR  Location/Address:  BOLKLEY st  Unit:  35  Arvd-09:49:27  Clrd-09:49:43  Narrative:  checked  Narrative:  dome  19-10227  Og955  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTHWEST HILL RD  Unit  35  Arvd-09:55:23  Clrd-10:00:03  Narrative  Cleaning lady at lecation.  Narrative:  checked  Narrative:  Checked 0209  19-10228  1008  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  COLD SPRING RD  Unit  35  Arvd-10:08:14  Clyrd-10:09;30  Narrative  Checked  Narrative:  Checked 0336  39-10229  1022  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  SCHOOL 8T  Unit:  35  Arvd-10:12:44  Clrd-10:13:22  Narrative:  checked  Narrative:  checked  19+10230  1025  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  NORTH HOOSAC RD  Unit:  35  Arvd-10:25:40  Clrd-10:32:42  Vehicle:  WHI 1999 TOYT 4RUNNE Reg: PC MA 8KT275 VIN: JT3HN86R3X0216402 
+Narrazive:
+dane
+19-1022¢ 0549 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Lozatiorn/Adéress: BOLELEY 2W
+Unit: as
+Arvi-09:49:27 Clrd-05:49:43
+Narrative:
+checxed
+Narrative:
+dome
+19-100227 0955 Initiated - BUILDING CEECK BUILDING CHECKED/SECURED
+Cali: Taker: PATRCL DAVID JENNINGS, D
+Location/Address: KORTHWEST H1LL RD
+Unit: as
+Arvd-09:55:23 Cird-i0:00:02
+Nerxat-ve:
+Cleaning lady at locat-on.
+Rarrative:
+checked
+Narrativa:
+Checked 39204
+15-10228 1008 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL, DAVILC JENNINGS, D
+Incation/Address: COLD SPRIKG RD
+Unit: 3s
+Arvé-15:08:14 Clrd-13:09:30
+Narrative:
+Checked
+Marrative:
+Checked 0335
+19-102229 1012 Initiated - PARKING CIRCK SERVICES RENDERED
+Call Taxtex: PATROL DAVID JENNINGS, oO
+Locaticn/Address: SCHOOL ST
+Unit: 35
+Arvad-10:i2:44 Clrd-10:13:22
+Harxztive:
+checked
+Narrative:
+checked
+A9-10230 i025 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROT. DAVTD JENNINGS, LI
+ocation/Address: NORTH HOOSADT RT:
+Uniz: is
+Arvd-10:25:40 Clrd-10:32:42
+Vehicle: WHI 1999 TOYT ARUNNE Reg: PC MA BKT2Yh VIN: JIT3HNS86R3IX0216402

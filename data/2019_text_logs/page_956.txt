@@ -1,1 +1,57 @@
--~  For Date:  05/21/2019  Tuesday  19-6353  0357  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  {WIA 249] NORTH ST  Unit:  32  Arvd-03:57:42  Clrd-03:57:47  19-6354  0624  Phone - ROAD CONDITIONS  SERVICES RENDERED  4  Call Taker  SERGEANT PAUL D THOMPSON  TACONIC TRL  Location/Address  Unit  32  Arvd-06:37:01  Cird-06:49:12  Disp-06:29:51 Enrt-06:29:58  Unit  35  Disp-06:35:28 Enrt-06:35:43  Cird-06:42:20  Unit  37K  Disp-06:43:48  Enrt-06;:43:52  Arvd-06:46:21  Clird-06:49:09  Narrative  Tree across westbound lane Rt.2 Taconic Trail at MM2 Lost  caller on phone before information obtained.  0630 Mass Highway contacted.  ' Narrative  Roadway clear, open.  19-6357  0721  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  COLD SPRING RD  Unit  35  Arva-07  22:07  Clrd-07:43:35  Unit  35  Disp-14:10:11  Arvd-14  10:29  Clrd-14:37:36  19-6358  0745  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS,  D  GALE RD  Location/Address:  Unit:  35  Arvd-07  45:20  Clrd-08:03:36  Unit:  31  Disp-14:55:51 Enrt-14:55:59  Arvd-14  56:08  Clrd-15:20:09  19-6359 ©  0810  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  COLE AVE  Unit:  35  Arvd-08  16:28  Clrd-08:40:29  19-6360  0821  Phone - ROAD CONDITIONS  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  BLATR RD  Narrative  Party reporting a large tree on the wires, still up but  leaning. Exact location unknown by caller by closer to the  Green River Rd end,  Narrative  National Grid notified.  19-6361  0823  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  (WIA 333] CHURCH ST 
+For Date: 05/21/2019 - Tuesday
+19-6353 0357 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA 249] NORTH ST
+Unit: 32
+Arvd-03:57:42 Clrd-03:57:47
+19-6354 0624 Phone - ROAD CONDITIONS SERVICES RENDERED
+4
+Call 'l'aker: SERGEANT PAUL D THOMPSON
+Location/Address: TACONIC "IRL
+Unit: 32
+Disp-06:29:51 Enrt-06:29:58 Arvd-06:37:01 Clrd-06:49:12
+Unit: 35
+Disp-06:35:28 knrt-06:35:43 Clrd-06:42:20
+Unit: 37K
+Disp-06:43:48 Enrt-06:43:52 Arvd-06:46:21 Clrd-06:49:09
+Narrative:
+Tree across westbound lane Rt.2 Taconic Trail at MM2 Lost
+caller on phone before information obtained.
+0630 Mass Highway contacted.
+
+Narrative:
+Roadway clear,
+open.
+Initiated
+19-6357 0721 - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: COLD SPRING RD
+Unit: 35
+Arvd-07:22:07 Clrd-07:43:35
+Unit: 35
+Disp-14:10:11 Arvd-14:10:29 Clrd-14:37:36
+19-6358 0745 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATRCL DAVID JENNINGS, D
+Location/Address: GALE RD
+Unit: 35
+Arvd-07:45:20 Clrd-08:03:36
+Unit: 31
+Disp-14:55:51 Enrt-14:55:59 Arvd-14:56:08 Clrd-15:20:09
+19-6359 0810 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: COLE AVE
+Unit: 35
+Arvd-08:10:28 Clrd-08:40:29
+19-6360 0821 Phone - ROAD CONDITIONS TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: BLAIR RD
+Narrative:
+Party rcporting a large tree on the wires, still up but
+leaning. Exact location unknown by caller by closer to the
+Green River Rd end.
+Narrative:
+National Grid notified.
+19-6361 0823 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 333] CHURCH ST

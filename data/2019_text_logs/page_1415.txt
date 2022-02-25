@@ -1,1 +1,52 @@
-19-10296  0735  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cail Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  35  Arvd-07:35:57  Clrd-07:36:12  Narrative  Checked S-4  19:16  Narrative  Checked  19-10297  0753  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  35  Arvd-07:53:54  Clrd-08:25:04  Unit  36  Disp-08:10:58 Enrt-08:11:07 Arvd-06:19:08  Cird-08:24:29  Vehicle  GRN 2009 HOND SE ACCORD Red:  PC MA 6VX866 VIN: LHGCP26859A091311  Operator  AVILA,  ALICIA LYN @ 18 BROAD ST -  PITTSFIELD, MA 01201-0000  Race:  W Sex: F  Refer To Citation  T1786133  Owner  AVILA, ALICIA LYN @ 18 BROAD ST -  PITTSFIELD, MA 01201-0000  Race:  W Sex:  F  Narrative  08/19/2019 0810Vehicle stopped in Sweetbrook lot where owner  of vehicle works. Car to stay in lot until registered,  Plates removed.  19-163-PR  19-10298  o8l2  Phone - FOUND/ LOST PROPERTY  LOG ENTRY REQUEST  Call Taker:  PATROL KALVIN D@TEDZIAK  Location/Address:  (WIA 108} NEW ASHFORD RD  Narrative:  CP reports he lost his wallet. CP states his vehicle was  towed yesterday, per his request, and he believes he left  his wallet on top of the vehicle. Wallet is described as  being black in color, and made out of leather.  19-10299  oa24  Phone - ASSIST OTHER AGENCY -  OTILEEY  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  PATROL KALVIN DZTEDZIAK  Location/Address:  [WIA 402} SAND SPRINGS RD  Narrative:  Ofc. William reports tree branches on primary power lines.  National Grid Advised.  19+310300  0830  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL BRAD SACCO  Location/Address  SYNDICATE RD  Unit  35  Arvd-08:31:38  Clrd-08:52:44  Unit  32  Disp-17:07:35 Enrt-17:07:48 Arvd-17:08:20  Clrd-17:36:12  19-16301  o856  initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  PATROL BRAD SACCG  Location/Address:  LONGVIEW TER 
+1393-10296 0735 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tuker: PATRCL SRAD SACCO
+Location/Address: COLD SEZING RD
+Unit: as
+Cixrd-Lvviago12
+Narrative:
+Checked 8-4 19:14
+Narrative:
+Chuckad
+19-102497 0753 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cail Taker: EATRCL BRAD SACCO
+Location/Address: COLI SPRING RD
+Unit: 3h
+Arvd-07:53:54 Clrd-08:25:04
+mit: 36
+Disp-CB:10:58 Enrt-08:11:07 Arvd-08:19:08 Clrd 08:24:29
+Vshicle: SRK 2C09 HOND EE ACCORD Reg: PC MA 6VXB6E VIN: 1HGCP26655A051311
+Cperataor: AV lA, ALICIA LYN @ 18 BROAD ST - 2ITTSFIELD, MA 01221-0200
+Race: WH Bex: ®
+Raluer To Citcacion: T178133
+Owiier: AVILA, ALICIA LYN @ 12 BROAD ST - PITTSFIELD, MA 01201-0800
+Race: W Sex: T
+Karrative:
+08/19/2019 J81l0Vehicle stopped in Sweetbrcenk lo: where owner
+of vehicle works. Car to stay in lot until regirtered.
+Plates removed,
+29-163-PR
+15-10298 0g1r2 Phone - FOUND/ LOBYT PROPERTY LOG ENTRY REQUEST
+Call 'l'aker: PATRCTL, KALVIN DZIEDZZAK
+Location/Address: [WIA 1028] NEW ASHFORD RD
+Narrative:
+CF reports he lost his wallet, CF siates his vehicle was
+—owcd yestorday, per his reguest, and rhe believes he _eft
+his wallel cn top of the vehicie. Wallet is described as
+keing black in color, and made cut of leatker.
+15-10299 0824 Pkcne - ASSIST OTEER AGENCY - UTILITY TAXEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROL KaLVIN LDZIEDZIAK
+Incation/Address: [WIA 402) SAND SPRINGS RD
+Narrative:
+Ofc. Willium reporlLs tree branches on pramary power lines.
+Nazionmal Grid Advised.
+19.10300 0B30 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Takar: PATROL BRAD SACCO
+Lecation/Adéress: SYNDICATE RD
+unit: a5
+Arvd-08:31:38 Clrd-08:52:44
+Unic: 22
+Disp-17:07:35 Enrt-17:07:48 Arvd-17:08:20 Clrd-17:36:12
+15-16301 0856 Initiated - BUILDING CHECK BUILDING CHECKED/SHRCURED
+Call Taker: PATRCL BRAD SACCO
+Location/Address: LONGVIEW TER

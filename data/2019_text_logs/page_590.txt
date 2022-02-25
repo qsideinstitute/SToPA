@@ -1,1 +1,50 @@
-Narrative:  done  Narrative:  Checked 0207  19-3975  0847  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  HAWTHORNE RD  Unit:  30  Arvd- 08:47:18  Clrd-08:47:35  Narrative:  checked  Narrative:  done  Narrative:  Checked  19~3976  0850  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd-08:50:43  Clird-08:51:05  Narrative  Checked  19-3977  0850  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  PARK ST  Unit:  34  Arvd-08:51:29  Clrd-08:57:40  19-3978  0851  911 - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Misdial due to sticky buttons  19-3979  0854  Initiated - BUTLDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  30  Arvd-08:55:02 Clird-08:56:13  Narrative  CHECKED  Narrative  Checked  19-3980  0907  Phone -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker  CHIEF KYLE J JOHNSON  WATER ST  Location/Address  Unit  34  Disp-09:09:05 Enrt-09:09:16 Arvd-09;:11:15  Cird~09:15:44  Narrative  RP has a small bird in the store since yesterday.  #34  deployed with bird net. 
+Narrative:
+done
+Narrative:
+Checked 0207
+19-3975 0847 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HAWTHORNE RD
+Unit: 30
+Arvd-08:47:18 Clrd-08:47:35
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+Checked
+19-3976 0850 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-08:50:43 Clrd-08:51:05
+Narrative:
+Checked
+
+19-3977 0850 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: PARK ST
+Unit: 34
+Arvd-08:51:29 Clrd-08:57:40
+19-3978 0851 911 - 9-1-1 WRONG NUMBER LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Narrative:
+Misdial due to sticky buttcns
+19-3979 0854 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-08:55:02 Clrd-08:56:13
+Narrative:
+CHECKED
+Narrative:
+Checked
+
+19-3980 0907 Phone - ANIMAL CONTROL SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: WATER ST
+Unit: 34
+Disp-09:09:05 Enrt-09:09:16 Arvd-09:11:15 Clrd-09:15:44
+Narrative:
+RP has a small bird in the store since yesterday. #34
+deployed with bird net.

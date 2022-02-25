@@ -1,1 +1,46 @@
-19-9858  0803  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Narrative:  Requesting 19-2-AC / emailed  19-9859  0819  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  BULKLEY ST  Unit:  aTK  Arvd-08:19:51  Clrd-08:19:57  Narrative:  checked  Narrative:  Checked 0204  19-3860  0825  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Ur  Location/Addresa  NORTHWEST HILL RD  Unit  37K  Arvd-08:25:13  Clrd-68:25:52  Narrative  Checked 0155  19-9861  09900  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  (WIA 1832] NORTH HOOSAC RD  Unit:  37K  Arvd-09:00:19  Cird-09:00:31  Narrative:  Checked.  Narrative:  Checked 58-4  17:43  Narrative:  checked  Narrative:  Checked 2337  Narrative:  Checked 0357  19-9862  0904  initiated - BUILDING CHECK  BUTLDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  PINE COBBLE RD  Unit:  37K  Arvd-09:04:27  Clrd-03:06:03  Narrative:  MA PC 448XYW,  787KG7, ON PC BRJJ425, VI PC HFW78B.  Narrative:  NY; JCC3533  Narrative:  Checked S-4 
+19-9858 0803 Other - PUBLIC RECORDS REQUEST BERVICES RFNDERED
+Call Tuker: CHIEF KYLE o JOSNSON
+NarralLive:
+Requesting 19-2-AC / emailed
+19-9859 081s Initiated - BUILDING CHECK BULLDIRG CHECKED/SECURED
+Call Taker: PATROLMAN MICHA<L J Z2LEMBA Jr
+Location/Address: BULKLEY 2T
+unit: 312
+Arvd-QB:13:5] Clrd-08:15:57
+Harrative:
+crevked
+Harrative:
+Crecked 0204
+19-9860 0825 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Takar: PATROIMAN M-CHATRL J ZIRMBA Jr
+Leoation/Adéress: NORTHWEST H__L RD
+Unit: 27K
+Arvaé-06:25:12 Clrd-38:25:52
+Karrative:
+Checxed 0355
+15-9861 0900 Initiated - BUILDING CHECK BUILDING CHRCKED/SECURRD
+Call Taker: PATRCLMAN MICHAEL J ZZEMBA Jr
+Loration/rcdress: [WIA 1832] NORTH ZQOCSAC RD
+Unaz: 37K
+Arvd-03:06:19 Jixd-09:20:22
+NarralLive:
+Checked.
+Narrative:
+Chocked S-4 17:43
+Harracive:
+checked
+Harrative:
+Chevked 2327
+Narrative:
+Checked 0357
+15-9862 09504 Initiated - BUILDING CHECK BUILDING CHECKED/SRCURED
+Call Taker: PATRO_LMAN MICHAEL J ZIEMBA Jr
+Location/Address: PINE COBBLE RD
+nit: 37K
+Arvd-09:04:27 Clrd-02:06:03
+Narrative:
+MR BPC L4BXVYH, T8TKG7, ON PC BRJJ425, VT PC HFW788.
+Narrative:
+NY: JCC3533
+Harrative:
+Checxad S-4

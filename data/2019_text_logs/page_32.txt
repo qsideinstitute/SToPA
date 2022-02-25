@@ -1,1 +1,55 @@
-Disp-22:33:02 Enrt-22:35:24 Arvd-22:40:48  Clxrd-22:42:51  Narrative:  cP ,who wishes to stay anonymous, reports that a telephone  pole located in the area of Dollar General has a box on it  that it open and wires are accessible. Pole is said to  located on the eastbound side of travel.  2252- Contact attempted with Spectrum, unsuccessful  Narrative:  Pole #100/8 Main St. Box looks to belong to Cable Co. Box  was closed Cable Co .to be advised.  19-221  2338  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  HOXSEY ST  Unit  32  Arvd~23:38:15 Clrd-23:43:49  Vehicle  BRO 2004  GMC ENVOY Reg: PC MA 7LFT70  VIN: 1GKDT135042375090  Operator  DEGRAFF,  ELIZABETH M @ 36 BURT ST - ADAMS, MA 01220-1446  Race:  Ww  Sex: F  Refer To Citation  T1400537  Owner  DEGRAFF,  ELIZABETH M @ 36 BURT ST - ADAMS, MA 01220-1446  Race: W  Sex: F  19-222  2356  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL CRAIG A EICHHAMMER  Location/Add@ress  MAIN ST  Unit  33.  Arvd-23:56:15  Clrd-01/06/2019 @  00:01:00  Vehicle  BLK 2016 RAV4  Reg: PC MA 8NP499 VIN: 2T3BFREV7GW424961  Operator  WALL, STEVEN M @ 6 MARLOW DR - PERU, MA 01235-9210  Race:  U Sex: M  Refer To Citation  TO905670  Owner  WALL, STEVEN M @ 6 MARLOW DR - PERU, MA 01235-9210  Race: U Sex: M  For Date:  01/06/2019  a  Sunday  19-223  0016  Phone - NOISE COMPLAINT  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 95] COLD SPRING RD  Unit  31  Disp-00:20:08 Enrt-00:20:53  Arvd-00:24:03 Clrd-00:31:24  Unit  32  |  Enrt-00:20:41  Arvd-00:23:29  Disp-00:20:08  Clrd-00:31:34  Narrative  CP reports noise complaint coming from the area of 1896  House. Cp reports she can hear people outside yelling.  Narrative  Approximately forty students outside waiting for the bus to  pick them up from a birthday party at the restaurant. Upon  arrival bus was also arriving to pick students up.  Restaurant owners also advised of the complaint, will keep  Students inside while waiting for the bus to leave,  19-225  0337  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A KICHHAMMER  Location/Address:  (WIA 249] NORTH ST  Unit:  31 
+Narrative: Disp-22:33:02 Enrt-22:35:24 Arvd-22:40:48 Clrd-22:42:51
+CP wishes
+,who to stay anonymous, reports that a telephone
+pole located in the area of Dollar General has a box on it
+that it open and wires are accessible. Pole is said to
+located on the eastbound side of travel.
+2252- Contact attempted with Spectrum, unsuccessful
+Narrative:
+Pole #100/8 Main St. Box looks to belong to Cable Coc. Box
+was closed Cable Co .to be advised.
+19-221 2338 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROLMAN SCOTT SKORUPSK1
+Location/Address: HOXSEY ST
+Unit: 32
+Arvd-23:38:15 Clrd-23:43:49
+Vehicle: BRO 2004 GMC ENVOY Reg: PC MA 7LFT7C VIN: 1GKDT135042375090
+Orerator: DEGRAFF, ELIZABETH M @ 36 BURT ST - ADAMS, MA 01220-1446
+Race: W Scx: F
+Refer To Citation: T1400537
+Owner: DEGRAFF, ELIZABETH M @ 36 BURT ST - ADAMS, MA 01220-1446
+Race: W Sex: F
+19-222 2356 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL CRAIG A EICHHAMMER
+Location/Address: MAIN ST
+Unit: 31
+Arvd-23:56:15 Clrd-01/06/2019 @
+00:01:00
+Vehicle: BLK 2016 RAV4 Reg: PC MA 8NP499 VIN: 2T3BFREV7GW424961
+Operator: WALL, STEVEN M @ 6 MARLOW DR - PERU, MA 01235-9210
+Race: UU Sex: M
+Refer To Citation: T0905670
+Owner: WALL, STEVEN M @ 6 MARIOW DR - PERU, MA 01235-9210
+Race: U Sex: M
+For Date: 01/06/2019 - Sunday
+19-223 0016 Phone - NOISE COMPLAINT SERVICES
+Call Taker: PATROL ANTHONY M DUPRAT RENDERED
+Location/Address: [WIA 95] COLD SPRING RD
+Unit: 31
+Disp-00:20:08 Enrt-00:20:53
+Unit: 32 Arvd-00:24:03 Clrd-00:31:24
+Disp-00:20:08 Enrt-00:20:41
+Narrative: Arvd-00:23:29 Clrd-00:31:34
+CP reports noise
+louse. Cp complaint she hncar coming from the area of 1896
+reports can peoplc outside yelling.
+Narrative:
+Approximately pick them from forty students outside waiting for the bus to
+arrival bus up also a birthday party aL the restaurant. Upon
+Restaurant was aiso arriving advised to pick students up.
+students inside owners while of the complaint, will keep
+waiting for the bus to leave.
+19-225 0337 Initiated
+Call Taker: - PARKING CHECK SERVICES RENDERED
+Location/Address: PATROL CRAIG A EICHHAMMER
+Unit: 31 [WIA 249] NORTH ST

@@ -1,1 +1,47 @@
-game. Accidental set off.  19-14074  0356  Tnitiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  a1,  Arvd-03:56:44  Clrd-63:58:12  19-14075  0743  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 1832] NORTH HOOSAT RD  Unit:  39  Arvd-07:44:10  Cird-07:45:12  Narrative  checked  Narrative  done  Narrative  Checked 2322  Narrative  Checked 0308  19~-14076  0745  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  LINDLEY TER  Location/Address  Unit  34  Arvd-0G7:49:57  Clyrd-07:50:22  Narrative  checked  Narrative  Checked 0202  BUILDING CHECKED/ SECURED  19-14077  O754  Initiated ~ BUILDING CHECK  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  PINE COBBLE RD  Unit  30  Arvd-07:54:15  Clrd-07:56:18  Narrative  1BMT30  r  MA 4PX860  Narrative  Nd  CW1153  MA  SNLE71 -  8YF943  N¥ HAU2919  NH 4312153  Narrative  empty  Narrative  empty  Narrative  checked  Narrative: 
+game. Accidental set off.
+1595-14074 0356 Initiated - PARKING CHECK SERVICES RENDERED
+Cail Taker: patiROL, CRAYG A EICHHAMMER
+Locaticn/Address: [ATA 390] SIMUCNDE RD
+Unit: 31
+Arvd-03:56:44 Clxd-C3:58:12
+19-14075 0743 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca:l Taker: PATROL AKTHOKY M LCUPRAT
+Location/Address: [Wir 1832] HORTH HOOSAT RD
+unit: 30
+Arvd-07:44:20 Clrd-97:45:12
+Narrative:
+checked
+Marrative:
+done
+Narrative:
+Checked 2322
+Narrat>ve:
+Checked 0308
+19-14076 0745 Inltiated - BUILDING CHECK BUILDING CHECXED/SECTGRED
+Call Taker: PATROL ANTHONY M DUPRAT
+Twcazion/Address: LINDLEY TER
+Unit: 30
+Arvd-07:144:497 Clrd-07:50:22
+Narrative:
+checked
+Harrative:
+Checked 0202
+19-114077 0754 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL, ANTEONY M DUPRAT
+Location /Adorueys: PINE COHBLE RD
+9) y FE 20
+Arvd-07:54:15 Clrd-07:56:18
+Karrative:
+Mr 1BMTI0 MA 4PXB62
+Karrat ive:
+HJ W1l1iG653
+MA SN1871 - BYF943
+NY HAIJ2919
+NH 4312153
+Narrative:
+enpty
+varrative:
+enpty
+Harracive:
+crnacdied
+Narrative:

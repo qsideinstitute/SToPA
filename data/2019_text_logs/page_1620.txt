@@ -1,1 +1,52 @@
-19-11495  o811  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDES  COLE AVE  Location/Address  Unit  36  Arvd-08:11:29  Cird-08:21:01  Unit  36  Disp-08:27:56  Arvd-08:28:21  Clrd-08:41:14  Narrative  Drive through parking lot  19-11496  0821  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Cail Taker  PATROL TANIA HERNANDEZ  Location/Address  COLE AVE  Unit  36  Arvd-08:21:01  Clrd-08:27:50  Vehicle  GRY 2017  NiSS ROGUE Reg: PC MA 4MX386 VIN: SNLAT2MV5HC828645  REARDON,  MICHAEL B @ 37 WILLSHIRE DR - WILLIAMSTOWN, MA 01267-2926  Operator  Race:  W  Sex: M  Refer To Citation  T2085301  Owner  REARDON,  RUTUMN A @ 37 WILLSHIRE DR - WILLIAMSTOWN, MA 01267-2926  Race:  U  Sex  F  419-11497  ogss  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Cail Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  PINE COBBLE RD  Unit  37K  Arvd-08:55:58  Cird-08:57:04  Narrative  OH PC FGU3810  Narrative  OH HSC4561 all ok  Narrative  MA 5SDN6é82  Narrative  empty  Narrative  checked,  empty  Narrative  same  19-11498  Og57  911 - WELL BEING CHECK  UNABLE TO LOCATE  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  NORTH HOOSAC RD + BRIDGES RD  37K  Unit  Disp-09:01:03  Enrt-09:01:23  Clrd-09:01:37  Unit  37K  Clrd-09:09:33  Disp-09:01:56  Enrt-09:02:20  Narrative  CP  reports party with dementia, Ms. Shannon, was observed to  be  walking down Bridges Rd in the direction of North Hoosac  Rd  CP called back to state that Ms. Shannon routinely takes a  walk but is on the opposite side of roadway today which she  thought was strange.  19-11499  o901  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+19-11495 0811 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Tuker: PATROL TANIA HERKANDEZ
+Location/Address: COLE AVE
+Iniz: 36
+Arvd-08:11:29 Clrd-08:21:01
+Tmitc: 36
+Digp-08:27:5¢ Arvd-09:28:21 Clrd-uf:1:14
+Narrative:
+Drive throuch parking lot
+19-114986 0821 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL TANIA HERNANDEZ
+Lecacion/hddress: COLE AVE
+Unit: 36
+Arvd-08:21:01 Clrd-08:27:50
+Vehicle: GRY 2017 NISS RC3UE Reg: PC MA 4MX3B6 VIN: SNIAT2MVSHTE2B645
+Operator: REARDOX, MICHAEL B @ 37 WILLSHIRE DR - WILLIAMSTOWN, MA 0i267-2924
+Race: W Bex: M
+Refer To Citarlion: 1258530]
+Owmer: REARDON, AUTUMN A 2 537 WILLSHIRE DR - WILLIAMSTOWN, MA 01267-2926
+Race: U Sex: F
+19-11497 0as55 Initiated - BUILDINY CHECK BUILDING CHECKED/SECURED
+Czil Taker: LIBUTENANT MICHARL J ZIEMBA Jr
+Locaticn/Address: PINE TOBRLE RD
+Tite 37K
+Arvd-0B:53:58 Cixrd-08:57:04
+Narrative:
+OH PC FGU3310
+Narrative:
+OH HBC45A1 all ok
+Narrative:
+MA EDNGS82
+Narrative:
+empty
+Narrative:
+checked, cmpty
+Narrative:
+HEANA2
+15-11498 oes? 811 - WELL BEING CHECK UNABLE TO LOCATE
+Call Taker: PATROL KALVIN DZIZDZIAR
+Location/Address: NORTH HOOSAC RD + BRIDCES RD
+Unit: 7K
+Cisp-29:01:03 EBEar:t-09:01:25 Clrc -09:01:37
+Cnit: 37K
+Nigp-09:01:56 Enxt-02:02:20 Clra-09:09:33
+Marracive:
+CP reports party with demcutia, Ms. Shannon, was cbserved to
+he walzing down Brideces RE in the direction of North llcosas
+Rd.
+CP called back to state that Ms. Shannen routinely takes a
+walk hut is on the opposilc side of roadway today which she
+thought was strance.
+19-114589 901 Initiated - PUILDIHG CHECK BUILDHING CBECKED/SECURED

@@ -1,1 +1,44 @@
-no vehicles  Narrative:  MA IGAH30 T1i1436  N¥ JCL3177  Narrative:  Checked §-4  17:23  Narrative:  Checked  Narrative:  empty  Narrative:  Checked Area.  Narrative:  Checked Area.  19-13580  0a54  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cail Taker  PATROL TANIA HERNANDEZ  Location/Address  HARWOOD ST  Unit  36  Arvd-08:54:21  Cird-08:56:28  Narrative  Checked  Narrative  Checked Area.  19-13581  o901  tnitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  STRATTON RD  Unit  36  Arvd-09:01:20  Clrd-09:03:36  Narrative  Checked §-4  20:23  Narrative  Checked Area.  19-13582  0331  911 - 5-1-1 WRONG NUMBER  NO ACTION REQUIRED  PATROL ANTHONY M DUPRAT  Call Taker:  Narrative:  CP report's his phones acting up, accidental call no  assistance is needed.  19-13584  1001  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  NORTHWEST HILL RD  Unit:  36  Arvd-10:01:48  Clrd-10:04:46  Narrative:  Checked 5-4  19:31  Narrative: 
+no vehicles
+Narraliveo:
+MA 1CAZR30 11.4386
+NY JCL317?
+Narrative:
+Checked §-4 17:23
+Karrative:
+Checked
+Karrativoe:
+CmpLy
+Narrative:
+Chacxed Area.
+Narrative:
+1595-13580 0854 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca.l Taker: PATROL, TANLA HERNANDEZ
+Locat_on/Address: HARWOOD 21
+Unit: 38
+Arvd-08:54:21 Clrd-08:56:28
+Narrative:
+Checked
+Narrative:
+Checked Arsa.
+19-135811 a901 Initiated - BUILDING CHECK BUTLDING CHECKED/SECURED
+Cali Taxe:: PATROL TAKIN FERNANDEZ
+Lecation/Address: STRATTON XN
+Unit: 36
+Arvd-09:21:20 Clré 09:03:36
+Narrative:
+Checked S-4 20:23
+Karrative:
+Checked Arsa.
+19-135882 0831 911 - 9-1-1 WRONG NUMBER NO ACTION REQUIRED
+Call Taker: PATROL ANTHONY M DUDPRAT
+Yarrative:
+CP report's his phones acting up, accidental call no
+asslatance is needed,
+1041 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+19-135884
+PATROL, TANTRA HERNANDEZ
+Czll Taker: NORTHWEST HTT... RD
+—ocation/Addrusy:
+Unit: 3E rvE-10:01:48 Cird-20:04:45
+Narralivo: Checked 5-4 15:2:
+Narrative:

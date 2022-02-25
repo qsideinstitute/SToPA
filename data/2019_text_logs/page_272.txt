@@ -1,1 +1,52 @@
-Call Taker:  PATROL KEVIN P GARNER  Location/Address:  COLD SPRING RD  Unit:  34  Arvd-15:47:08  Clrd-15:47:18  Narrative:  done  Narrative:  Checked Area.  19-1920  1548  Initiated - DISABLED M V  VEHICLE TOWED  Cali Taker  PATROL SHUAN N WILLIAM  Location/Address  MAIN ST  Unit  32  Arvd-15:48:49 Clrd-16:14:56  Vehicle  BLU 2003 HOND SE CIVIC Reg: PC MA 4RE463 VIN: 2HGES25793H548632  Operator  BORNS, STEPHANIE @ 243 UNION ST Apt. #100 - N ADAMS, MA 01247-3566  Race: W Sex: F  Owner  BORNS, STEVEN L @ 243 UNION ST Apt. #100 - N ADAMS, MA 01247-3566  Race:  U Sex: M  Narrative  02/13/2019 1550 - Mohawk towing already enroute, eta 15  minutes.  02/13/2019 1607 - Mohawk on scene.  19-1922  1550  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  COLD SPRING RD  Unit:  34  Arvd+-15:52:18 Clrd-15:51:22  Narrative:  done. driveway not plowed  Narrative:  Checked Area.  19-1923  1603  Walk-In - FOUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  COLD SPRING RD  Narrative:  Party reports finding a bicycle in the woods and it appears  to have been there a long time. Was advised officer with  truck with pick it up tomorrow. Only description given was  that it is a "Specialized" brand.  Narrative:  Retrieved. Finder wishes to claim once hld period is up.  Tagged and stored.  Narrative:  19-20~PR.  19-1924  1614  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  Location/Address  HANCOCK RD  Unit  34  Arvd-16:124:55 Clrd-16:20:01  BS  Vehicle  GRN 2001 TOYT 4T Reg: PC VT HDS968  Operator  HIGGISTON, JOHN E @ PO BOX 893  ~ NORTH ADAMS, MA 01247 
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-15:47:08 Clrd-15:47:18
+Narrative:
+done
+Narrative:
+Checked Area.
+19-1920 1548 Initiated - DISABLED M V VEHICLE TOWED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: MAIN ST
+Unit: 32
+Arvd-15:48:49 Clrd-16:14:56
+Vehicle: BLU 2003 HOND SE CIVIC Reg: PC MA 4RE463 VIN: 2HGES25793H548632
+Operator: BORNS, STEPHANIE @ 243 UNION ST Apt. #100 - N ADAMS, MA 01247-3566
+Race: W Sex: F
+Owner: BORNS, STEVEN L @ 243 UNION ST Apt. #100 - N ADAMS, MA 01247-3566
+Race: U Sex: M
+Narrative:
+02/13/2019 1550 - Mohawk towing already enroute, eta 15
+minutes.
+02/13/2019 1607 - Mohawk on scene.
+19-1922 1550 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-15:51:18 Clrd-15:51:22
+Narrative:
+done. driveway not plowed
+Narrative:
+Checked Area.
+19-1923 1603 Walk-In - FOUND/ LOST PROPERTY SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: COLD SPRING RD
+Narrative:
+Party reports finding a bicycle in the woods and it appears
+to have been there a long time. Was advised officer with
+truck with pick it up tomorrow. Only description given was
+that it is a "Specialized" brand.
+Narrative:
+Retrieved. Finder wishes to claim once hld period is up.
+Tagged and stored.
+Narrative:
+19-20-PR.
+
+19-1924 1614 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: HANCOCK RD
+Unit: 34
+Arvd-16:14:55 Clrd-16:20:01
+Vehicle: GRN 2001 TOYT 4T Reg: PC VT HDS968
+Oparator: HIGGISTON, JOHN EE @ PO BOX 893 - NORTH ADAMS, MA 01247

@@ -1,1 +1,45 @@
-Checked 0608  19-13354  oa51  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  [WIA 1832] NORTH HOOSAC RD  Unit:  36  Arva-08:52:08  Clrd@-08:52:53  Narrative:  Checked.  Narrative:  Checked S-4  17:38  Narrative:  Checked Ss-4  20:20  Narrative:  Checked 2336  Narrative:  Checked 0353  49-33356  o549  Initiated  - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  HOPPER RD  Lecation/Address:  Unit:  35  Arvd-09:49:31  Cird-09;54:34  Narrative;  checked  Narrative:  Checked Area.  19-13357  1008  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL ANTHONY M  DUPRAT  Location/Address:  {WIA 225]  COLD SPRING RD  Unit:  35  Arvd-10:08:54  Cird-10;12:43  19-13358  1615  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  [WEA 333] CHURCH ST  Unit  30  arvd-10:15:40  Clrdg-10:16:51  Narrative  Checked.  SERVICES RENDERED  19-1335  1619  Initiated - PARKING CHECK  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  SPRING ST  Unit:  35  Arvd-10:15:57  Clrd-10:30:46  Narrative:  4 violations  19-13361  1032  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OFENED  Call Taker:  DISPATCHER CHRISTINE LEMOINE 
+Checked DEOS
+19-133354 agsl Initiated - BUILDING CHECK BUZLDING CHECEKED/SECURED
+Call Takzar: SZREZANT SCOTT E MCCOWAN
+Location/Address: [WIA 1832) KCRTH HOOSAC RD
+Cnik: an
+Arvd-08:52:08 Clrd-08:52:53
+Narrative:
+Qieched.
+Narrative:
+Checked S-4 17:38
+Narrarvive:
+Chenked 5-4 20:20
+Narrzetive:
+Jracked 2336
+NarrzLive:
+Croclhed 0323
+19-13356 0949 Initiated - RUILDING CHECK BUILDING CHECKED/SECURED
+Ca.l Taker: PATRO.. ANTHONY M DUPRAT
+Lecation/Address: HOPPER ®D
+Unitc: 38
+Arvd-09:49:31 Jird-09:54:24
+NarrclLive:
+Narzative:
+Checked Arca.
+19-133557 1008 Initiated - BUILDING CHECK BUILDING CHWCKED/SECURED
+Ca’l Taker: BATROQI. ANTHONY M LUPRAT
+Location/Address: [WIA 225] COLD SPRING RD
+nit: 35
+Arvd-10:08:54 Cird 1l0:i2:43
+15-13358 1015 Initiated - BOILDING CHECK BUILDING (HECKED/BECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: |WIA 333] CIURCH ST
+Unit: ac
+Aryd-12:15:40 Clrd-10:16:41
+Narrative:
+Chacked.
+1019 Initiated - PARKING CHECK SERVICES RENDERED
+19-133589 Call Taker: BATROI. ANTHONY M DJPRAT
+Loculion/Address: SPRING BT
+Unic: 35
+»wi-12:19:57 Clx4-10:30:46
+Narracive:
+4 violations
+1032 Phone - MOTOR VEHICLE LOCK OUT VEEICLE OPENED
+19-13361 Call l'aker: NISPATCHER CHRISTINE LEMOIKE

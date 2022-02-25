@@ -1,1 +1,51 @@
-Narrative:  Checked  1916049  1152  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  ELM 5T  Unit  30  Arvd-11:52:46  Clird-11:53:22  Narrative  Checked S-4  16:57  Narrative  Checked 0143  15-16050  1249  Other - SERVE RESTRAINING ORDER  SERVED IN HAND  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  BRIDGES RD  Unit  37K  Disp-12:41:39 Enrt-12:43:12 Arvd-12:52:19  Clrd-12:54:18  Narrative  Serve order.  Narrative  Party mot home, Eves to check back.  Narrative  Order served in hand to defendant  19-16052  1241  initiated - DISABLED M V  NO ACTION REQUIRED  Call Taker  CHIEF KYLE J JOHNSOU  Location/Address  MAIN ST  Unit  33  Arvd-12:42:18  Clird-12:44:41  Vehicle  GRY 2013 MERZ SE C300  Reg: PC MA 4KV979  VIN:  WDDGFSAB7DR25 7420  Operator  KARAKAYA,  MELAHAT @ 142 HENDERSON RD - WILLIAMSTOWN, MA 01267-2206  Race: U Sex: F  Owner  KARAKAYA, MELAHAT @ 142 HENDERSON RD - WILLIAMSTOWN, MA 01267-2206  Race: U Sex: F  Narrative  RP believes he is out of gas and a friend arrived to get him  some.  Not a traffic hazard at this time  Narrative  MY gone.  1257  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  19-16052  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  GREEN RIVER RD  Unie  33  Arvd-12:57:50  Clrd-13:04:04  Vehicle  GRY 2013 HOND FIT Reg: PC MA 4CC427 VIN: JHMGESH53DC057133  PARKER, DEREK N @ 204 PROSPECT ST - N ADAMS, MA 01247-2770  Operator  Race:  W  Sex: M  Refer To Citation  T2085100  Owner  PARKER, DEREK N @ 204 PROSPECT ST - WN ADAMS, MA 01247-2770  Race:  U Sex: M  19-16053  1424  Other -  WELL BEING CHECK  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE 
+Narraztive:
+Cheoxed
+19-156049 1152 Initiated - PBUILDING CHECK BUILDING CHECKED/SECURED
+Call "‘aker: SERGRENT SCOTT  MOGEOWAN
+Locaticn/nddresc: E_H ST
+Lnizc: 1
+Avyi-Il:bhid-d46 Clrd-11:H3:32
+Narrazive:
+Checied S-4 26:57
+Harrazive:
+Checked 0143
+19-160590 1240 Other - SERVE RESTRAINING ORDER SERVED IN HAND
+C21) Calor: DISPAICEER CHRIETINE LeMDINE
+Locak lon/Addreys: SRIDCES RD
+Tniz: 37K
+Digp-12:11:39 "nrt-12:43:12 ArvE-12:52:19 Clrd-12:54:18
+Narrazive:
+Serve order.
+Narrazive:
+Party not ome, Eves to check back.
+Narrazive:
+Order served in hard to defendant
+i0-1805: 1241 Initiated - DIBABLED M V NO ACTION REQUIRED
+C211 Taker: CHIEF KYLE J JOHNSON
+Locakticn/address: MATIN ST
+Tn-xz: a3
+Arye-12:42:18 Clrd-_2:44:41
+Yahic:e: GRY 2013 MERZ SE 2300 Roc: PO MA SKvDTL V_N: WLEDERSARTIRIASTAZD
+Operator: EARARKAYA, ME_ATAT @ 142 HBENDEXBON RD - WILLIAMSTCWN, Mr D1267-220f
+Xagze: J Sex: F
+owner: KARAKAYA, MI_ASAT @ 142 HENLEXSON RD - WiLL _AMSTCWH, MA 01267-2205
+nace: J Sex: F
+TYarranive:
+*T heliaves he 18 out of gas and a friend arrived tc wet Iiiin
+scme, Not a ftrafiic hazard at this time.
+Yarrazive:
+MV gone,
+19-160852 1259 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: CHIEF KYLE J JOHNSON
+Tocation/nddresn: GREEN RIVER RD
+nik: 33
+Arvd-12:57:50 Jird 13:54:04
+Veriale: GRY 20_3 HONL FIT Rec: PC MA 4CC427 VIN: JHMGEBAS3DO057733
+Gperator: ARKSR, CEREK K @ 204 DPROSZFECT ST url - NW ADANE, Ma 01247 2774
+xace: W Sex: M
+Rater Toe Cituliun: EUbosl0
+5T KN MA 0129-2770
+Owner: PARKZR, DERZK K 204 PROSZECT - ADAMS,
+Rage: UJ Sex: M
+1424 Other WELL BEING CHECK SERVICES RENDERED
+19-26053 Call Takex: DISPATCHER - CHRISTZHE LEMOiNE

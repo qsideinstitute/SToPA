@@ -1,1 +1,56 @@
-Vehicle  BLU 2006  HOND ELEMENT Reg: PC MA 262PW4 VIN: 5J36YH283261003683  Operator  RONDEAU,  STEPHEN J @ 679 ASHLAND ST - N ADAMS, MA 01247-4505  Race: U  Sex: M  Owner  RONDEAU,  STEPHEN J @ 679 ASHLAND ST - N ADAMS, MA 01247-4505  Race: U  Sex: M  Narrative  RP reports his vehicle is having mechanical issues on Spring  St, working on trying a different key or will have it towed  in the next few hours.  Narrative  AAA unable to tow due to cars in front and behind, will be  back later to try again.  Narrative  Vehicle gone.  19-416  0927  Initiated - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  SYNDICATE RD  Unit  34  Arvd-09:27:26  Clrd-09:45:26  Vehicle  WHI 2000  FORD TK Reg: TK VT 270A279  VIN:  1FTRX18W8YNA53318  Operator  GIJANTO,  EDWARD J @ 35 GORE RD PARK - BENNINGTON, VT 05201  Race: W  Sex: M  Owner  GIJANTO,  EDWARD J @ 35 GORE RD PARK - BENNINGTON, VT 05201  Race: W  Sex: M  Narrative  Caroff the roadway  Narrative  Ron's Enroute.  Refer To Accident:  29-7-AC  19-415  0948  Initiated - PARKING CHECK  SERVICES RENDERED  Cail Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit:  34  Arvd-09:24:14 Clrd-09:26:35  19-417  0955  Initiated -~ PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address;  SPRING ST  Unit:  34  Arvd-09:55:47  Cird-09:58:35  19-418  1010  911 - 9-1-1 HANG UP CALL  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  [WIA 165} ADAMS RD  Narrative  Multiple hang up calls with no voice answer, 1 partial TTY  (ergen), followed by hangup. Call back was busy.  Narrative  Dispatch called Commons who reports it is ro  on aa  HM]. Will check on her immediately.  19-420  1041  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  {WIA 333] CHURCH ST 
+Vehicle: BLU 2006 HOND ELEMENT Reg: PC MA 262PW4 VIN: 5J6YH28326L003683
+Operator: RONDEAU, STEPHEN J @ 679 ASHLAND ST - N ADAMS, MA 01247-4505
+Race: U Sex: M
+Owner: RONDEAU, STEPHEN J @ 679 ASHLAND ST - N ADAMS, MA 01247-4505
+Race: U Sex: M
+Narrative:
+RP reports his vehicle is having mechanical issues on Spring
+St, working on trying a different key or will have it towed
+in the next few hours.
+Narrative:
+AAA unable to tow due to cars in front and behind, will be
+back later to try again.
+Narrative:
+Vehicle gone.
+19-416 ) 0927 Initiated - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Call Taker: PATROL DAVID JENNINGS, DI
+Location/Address: SYNDICATE RD
+Unit: 34
+Arvd-09:27:26 Clrd-09:45:26
+Vehicle: WHI 2000 FORD TX Reg: TK VT 270A279 VIN: 1FTRX18WSYNAS53318
+Operator: GILJANTO, EDWARD J @ 35 GORE RD PARK - BENNINGTON, VT 05201
+Race: W Sex: M
+Owner: GlJANTO, EDWARD J ®@ 35 GORE RD PARK - BENNINGTON, VI' 05201
+Race: W Sex: M
+Narrative:
+Caroff the roadway.
+Narrative:
+Ron's Enroute.
+Refer To Accident: 19-7-AC
+19-415 0948 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATRQL DAVID JENNINGS, D
+Location/Address: PARK ST
+Unit: 34
+Arvd-09:24:14 Clrd-09:26:35
+19-417 0955 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SPRING ST
+Unit: 34
+Arvd-09:55:47 Clrd-09:58:35
+19-418 1010 911 - 9-1-1 HANG UP CALL
+AGENCY TAKEN/REFERRED TO OTHER
+Call Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: [WIA 165] ADAMS RD
+Narrative:
+Multiple hang calls with voice 1
+(ergen), followed up no Call back answer, partial TTY
+by hangup. was busy.
+Narrative:
+Dispatch called Commons who
+Bl. vill check her reports it is room [JJ IIE
+on immediately.
+19-420 1041 Initiated BUILDING
+- CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT
+Location/Address: [WIA 333] CHURCH E ST MCGOWAN

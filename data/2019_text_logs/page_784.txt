@@ -1,1 +1,57 @@
-Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  [WIA 255] WATER ST  Unit  32  Arvd-02:23:34 Clrd-02:24:32  Vehicle  GRY 2012 CHEV EQUINO Reg: PC MA 8ME464 VIN: 2GNFLEE50C6205761  Owner  SEGALA, JENNAFER F @ 5 WEBER ST - ADAMS, MA 01220-1717  Race: U Sex: F  Vehicle  GRY 2008 TOYT PRIUS Reg: PC MA 399HS7 VIN: JTDKB20U987744944  Owner  KEOGH, NICOLE METHOT @ 13 MANNING ST - WILLIAMSTOWN, MA 01267-2407  Race;  W Sex: F  Narrative  Two m/v's parked in the parking lot, unoccupied.  19-5245  0227  Initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  {WIA 404] MAIN ST  Unit  32  Arvd-02:28:09 Clrd~-02:28:37  Vehicle  BLU 2008 TOYT RAV4 Reg: PC MA 3880VI VIN: JTMBD33V985147261  Owner  MEAD, BROOKE W @ 67 CUMMINGS AVE - WILLIAMSTOWN, MA 01267-2201  Race: U Sex: F  Narrative  M/V parked in the parking lot, unoccupied.  19-5246  0359  Initiated ~ PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  (WIA 249] NORTH ST  Unit:  31  Arvd-03:59  10  Clrd-04:00:06  19-5248  0528  Phone ~- DISABLED M V  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  (WIA 380] MAIN ST  Vehicle  SIL 2009 PONT 4D VIBE Reg: PC VIF HET634  VIN:  5Y2SM6 70992472356  Operator  CLAYSON, ALAN @ 93 CLOUGH RD - STAMFORD,  VT 05352  Race:  W Sex: M  Owner  CLAYSON, ALAN @ 93 CLOUGH RD - STAMFORD,  VT 05352  Race:  W Sex: M  Narrative  CP reports he has a flat tire at cumberland farms, CP  requesting Ron's. Rons Notified.  19-5249  0733  Phone - PUBLIC SERVICE  SERVICES RENDERED  Cail Taker  PATROL KALVIN DZIEDZIAK  Location/Address  (WIA 330] MAIN ST  Unit  35  Disp-07:34:31 Enrt-07:34:47 Arvd-07:38  2:12 Clrd=-07:45:39  Unit  37K  Disp-07:34:31 Hnrt-07:34:49 Arvd-07:37  Narrative  24 Slee “0¥ 88 ae  Assist employee locked in bathroom.  Narrative  Entry gained and employee let out. No damage to door.  19-5250  0853  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROLMAN MICHAEL J ZIEMBA dx  Location/Address  SCHOOL ST  Unit  37K  Arvd-08:53:21  Clrd-08:53:29  Narrative 
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA 255] WATER ST
+Unit: 32
+Arvd-02:23:34 Clrd-02:24:32
+Vehicle: GRY 2012 CHEV EQUINO Reg: PC MA 8ME464 VIN: 2GNFLEE50C6205761
+Owner: SEGALA, JENNAFER F @ 5 WEBER ST - ADAMS, MA 01220-1717
+Race: U Sex: F
+Vehicle: GRY 2008 TOYT PRIUS Reg: PC MA 399HS7 VIN: JTDKB20U987744944
+Owner: KEOGH, NICOLE METHOT @ 13 MANNING ST - WILLIAMSTOWN, MA 01267-2407
+Race: W Sex: F
+Narrative:
+Two m/v's parked in the parking lot, unoccupied.
+19-5245 0227 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/SECURED
+
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: (WIA 404] MAIN ST
+Unit: 32
+Arvd-02:28:09 Clrd-02:28:37
+Vehicle: BLU 2008 TOYT RAV4 Reg: PC MA 3880VI VIN: JTMBD33V985147261
+Owner: MEAD, BROOKE W @ 67 CUMMINGS AVE - WILLIAMSTOWN, MA 01267-2201
+Race: U Sex: F
+Narrative:
+M/V parked in the parking lot, unoccupied.
+19-5246 0359 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL CRAIG A EICHHAMMER
+Location/Address: [WIA 249] NORTH ST
+Unit: 31
+Arvd-03:59:10 Clrd-04:00:96
+19-5248 0528 Phone - DISABLED M V SERVICES RENDERED
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: [WIA 380] MAIN ST
+Vehicle: SIL 2009 PONT 4D VIBE Reg: PC VT HET634 VIN: 5Y2SM670992472356
+Operator: CLAYSON, ALAN @ 93 CLOUGH RD - STAMFORD, VT 05352
+Race: W Sex: M
+Owner: CLAYSON, ALAN @ 93 CLOUGH RD - STAMFCRD, VT 05352
+Race: W Sex: M
+Narrative:
+CP reports he has a flat tire at cumberland CP
+requesting Ron's. Rons Notified. farms,
+19-5249 0733 Phone - PUBLIC SERVICE
+Call Taker: PATROL KALVIN DZIEDZIAK SERVICES RENDERED
+Local.ion/Address: [WIA 330] MAIN ST
+Unit: 35
+Disp-07:34:31 Enrt-07:34:47
+Unit: 37K Arvd-07:38:12 Clrd-07:45:39
+Narrative: Disp-07:34:31 Knrt-07:34:49 Arvd-07:37:24 Clrd-07:43:56
+Assist locked
+employee in bathroom.
+Narrative:
+and
+Entry gained employee let out. No damage to door.
+19-5250 0853
+Call Taker: Initiated - PARKING CHECK SERVICES RENDERED
+Location/Address: PATROLMAN MICHAEL J ZIEMBA Jr
+Unit: SCHOOL ST
+37K
+Narrative: Arvd-08:53:21 Clrd-08:53:29

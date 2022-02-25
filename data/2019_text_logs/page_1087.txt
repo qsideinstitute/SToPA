@@ -1,1 +1,48 @@
-Call Taker  SERGEANT SCOTT E MCGOWAN  Leocation/Address  SCHOOL ST  30  Unit  Arvd-08:32:42  Clrd-08:32:56  Narrative  checked  Narrative  checked  19-8188  0858  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  {WIA 1832] NORTH HOOSAC RD  Unit:  30  Arvd-08:58:37  Clrd-68:59:05  Narrative:  Checked  Narrative  done  Narrative  checked  Narrative  done  Narrative  done  Narrative  done  19-6189  0900  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  SIMONDS RD  Unit  30  Arvd-09:00:35  Clrd-09:01:28  Narrative  done  Narrative  done  219-8190  o508  Phone - SOLICITING  SERVICES RENDERED  Call Taker:  MICHAEL STRI2ZZI  Location:  TOWN OF WILLIAMSTOWN  Vehicle:  VIN: KMHEC4A44FA119299  BLU 2015 HYUN SE SONATA Reg: PC MA 8WW973  Operator:  HARRINGTON, CULLEN T @ 563 MAIN - DALTON,  MA 01226  Race:  W Sex:  M  MA 01226  Owner:  HARRINGTON, CULLEN T @ 563 MAIN - DALTON,  Race:  W Sex:  M  Narrative:  From 1000 to 1700 party will be going door to door for  Trinity Soloar.  1214 Party left early.  Will call if he plans on coming back  sometime next week.  19-8192  g913  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+Call Taker: SERGEANT SCOTT E MCOOWAN
+Location/Address: SCHCOL ST
+Unit: a0
+Arvd-08:22:42 Clzd-0B:32:56
+Narrative:
+checked
+Narrative:
+checked
+19-5188 0858 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+all Taker: SERGEANT SCOTT E MCGOWAN
+Locaticn/Address: iW1A 1B32) NORTII HOOSAC RD
+tmit: 30
+Arvd-CcB:58:37 Clxd-0B:59:05
+Marrative:
+Checked.
+Nerrative:
+done
+Nerrative:
+checkac
+Narrative:
+done
+Narrative:
+done
+Narrat.ve:
+done
+15-g189 Ds00 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: 1akex: SFRGEANT aCOTT E MCGOWAN
+Location/Address: EIMONDS RD
+it: 30
+Arvd-05:00:35 Clrd-09:01:28
+Narrative:
+done
+Narrative:
+done
+19-8190 0908 Phone - SOLICITING BERVICRS RENDERED
+Call Taker: MICHAET: STRIZZI
+Locaticm: TCWN OF Q@TTI.TAMSTOWN
+Vehicle: SIU 2015 HYUN BE SONATA Reg: PC MA SWW973 VIN: KMHEC4A44FA119253
+Onerator: SARRINCTON, JULLER 1 « 563 MAIN - CALTON, MA 0122¢
+Tae:: W Bex: M
+Cwrier : HARRINGAON, TULLEN T @ 563 MAIN - DALTON, MA 01226
+Race: W Sex: M
+Narrative:
+From 1000 to 1700 party will be going door to door [or
+‘i'rinity Soloar.
+1214 Party left early. Will call if he plans on comisig pack
+sometime next weex.
+19-8191 0913 Initiated - BUILDING CHECK BUILDING CHRCKED/SECURZD

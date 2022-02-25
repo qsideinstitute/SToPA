@@ -1,1 +1,55 @@
-Unit  34  Disp-11:07:18  Enyt-11:07:19  Clrd-11:09:22  Vehicle  VIN:  GRN 2015 SUBA LL FORRESTER Reg: PC NY HZV6i30  JF2SJAAC2FG517242  Operator  OLCHOWSET ,  IVAN ALEX @ 76 POOL HILL RD - LEBANON SPRING, NY 12125  Race:  W Sex: M  Owner  OLCHOWSKT,  IVAN ALEX @© 76 POOL HILL RD - LEBANON SPRING,  NY¥ 12125  Race: U Sex: M  Narrative  RP  reports a dog in a car panting.  Narrative  95  in car, no water, Owner advised and teok dog out of car  19-9516  1120  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  MAIN ST  unit  34  Enrt-11:23:28  Arvd-11:26:48  Clrd-11:36:24  BDisp-11:23:16  Vehicle  BLU 2007 ACUR LL MDK Reg: PC NY S797NW VIN: 2HNYD28327H538653  Operator  BANNER, WENDY JILL @ 69 W 3TH ST Apt. #4F - NEW YORK, N¥ 19011  Race:  W Sex: F  Owner  BANNER, ELLEN K @ 131 E 66 ST Apt.  #8D - NEW YORK, NY 10065  Race:  UD Sex: F  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  19-9517  4138  Call Taker  PATROL BRAD SACCO  Location/Address  HOPPER RD  Unit  35  Arvd-11:38:18  Clrd-11:40:31  Narrative  NY 17948MM parked in driveway  Narrative  checked  Narrative  35 Checked  19-9518  1158  911 - ALARM  - BURGLAR  ALARM FOUNDED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  [WIA 3] MAIN ST  Unit  34  Disp-12:00:48  Enrt-12:01:02  Clrd-12:04:41  Unit  35  Arvd-12:61:59  Clrd-12:05:52  Digsp-12:01:54  Enrt-12:01L:57  Narrative  Multiple Hold Up alarms.  Narrative  Alarm Co states they spoke with an employee in the bank who  reports the ATM is being serviced {officers confirm),  believed to be the cause for the alarm.  Narrative  Alarm tripped my maintenance personel working on ATM.  Noyhing needed.  19-9519  1306  Initiated - PUBLIC SERVICE  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  [WIA 390] SIMONDS RD  Unit:  35 
+Tnit: a1 Clré-11:09:22
+Ripp-11:07:78 Enrt-11:07:19
+venicle: GN 201 8U3A LL FOIRESTER Reg: PC NY HZVG130 VIN:
+JEFZ2EJAACI MELT TALE
+Uperator: OLCHOWSKI, IVAN ALEX § 76 POOL HILL RD - LEBANDN SPRING, NY 12125
+Baco: W Sex: M
+Owner : OLCHOWSKI, iVAN ALEX 2 76 POCL HILL RD - LEBANON SPRING, NY 12125
+Race: U Sex: M
+Narrativa:
+RP »aparz8 a dog in a2 car panting.
+Narzztiva:
+9 in car, wo water, Owner advised and teok deg out of car
+19-9516 1120 Phone - MOTOR VEHICLE LOCK OIF VEHICLE OPENED
+Ca_l Taker: CISATCHZR CERISTINE LEMOINS
+Location/Address: MAIN ST
+init: 34
+Disp-31:23:14 Brort-11:23:22 Arvd 11:26:49 (lod-11:36:24
+Vehicle: BLT 2007 ACUR LL MEX Heg: PC NY STO9TNW VCON: 2HNYR2RIAZTERIEGLS
+Operaccr: BANNDR, WENDY JILL @ 69 W 97H S7 Ap-. §4F - NZW YORK, NY 10071
+Bace: W Sex: F
+Jurer: BANKER, ELLEN EK @ 131 E G6 5T Apt. #8D NEW YORK, NY 10065
+Race: U Sex: F
+19-9517 1138 Ianikiated - BUILDING CEECK BUILDING CHECKED/SECURED
+Cal. Tzxer: SATROL BRAL SACTO
+Location/Address: HAPDEx RD
+Pt A 35
+Arvd-11:38:18 Cl-d-11:40:31
+Narrative:
+NY 17948MM narkec in driveway
+Narrat-vec:
+checked
+Nurral._vo:
+35 Chacksed
+15-9518 1-58 911 - ALARM - BURGLAR ALARM FOUNDED
+Cal. Tzkex: DISPATCHER CHRISTINE LEMOINE
+—ocation/Address: ‘WIA 2] MAIN 8T
+Unit: iz
+Disp-12:00:46 Enrt-22:01:02 Clxd 12:04:41
+Uzil: ib
+Digp-12:02:54 Enrt--2:00:57 Arvd-12:02:59 Clrd-12:05:52
+Narratrve:
+Multip_e Hold alarms.
+Up
+Narrative:
+Alarm Co states they spoxe with an emp_oyes in the hank who
+the ATM -8 belmwe: serviced (off-cera conrtirm),
+believed reports to be Lixo cause for the alarm.
+Narrative:
+Alsra tripped maintenance personal working on ATM.
+needed. wy
+Noviing
+Initiated PUBLIC SERVICE S8FRVICES RENDERED
+13-9519 1306 DISPATCHER - CHRISTINE LEMO-NE
+all ‘Maker: SIMONES RD
+otation/Acd-ann: Unit: aL [WIA 250:

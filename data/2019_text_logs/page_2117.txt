@@ -1,1 +1,50 @@
-Unit:  32  Arvd-03:59:05  Cird-03;59:11  Narrative:  5 violations  19-14425  0429  Initiated - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSEKI  Location/Address:  SPRING ST  Unit:  32  Arvd-04:29:33  Clrd-04:31:50  Narrative:  A couple trash cans tipped over, no one around  ALARM FALSE  19-14426  0546  Phone -  ALARM  - BURGLAR  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address  [WIA 2359] MAIN ST  Unit  30  Disp-05:47:32  Enrt-05:47:57 Arvd-05:49;22  Clrd-05:54:24  Unit  32  Disp-05:47:32  Enrt-05:47:55 Arvd-05:52:14  Cird-05:54:02  Narrative  Network closet motion  Narrative  All doors secure,  unknown reason for activation,  19-14427  0639  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  SAND SPRINGS RD  Unit:  37K  Arvd-06:33:14  Clird-06:49:04  Vehicle:  WHI 2001 BMW SW 525  Reg: PC VT HLF5S57  VIN: WBADS43431GD84446  PASSARETTE, PASQUALE J III @ 326 PLEASANT ST Apt. #2 - BENNINGTON, VT  Operator:  O5201  Race:  W Sex: M  Refer To Citation:  TI785528  Owner:  PASSARETTE, PASQUALE J III @ 326 PLEASANT ST Apt. #2 - BENNINGTON, VT  05201  Race:  W Sex: M  19+14428  0818  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  PATROL TANIA HERNANDEZ  Location/Address  LINDLEY TER  Unit  36  Arvd-08:18:37  Clrd-08:21:25  Narrative  Back screen door was open,  doors locked. Screen closed.  Narrative  Checked 5-4  16:05  Narrative  done  3219-14429  0822  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  [WIA 1832] NORTH HOOSAC RD  Unit:  36  Arvd-08:22:16 Clrd-698;23:33 
+nit: 32 (lrd-03:59:10
+Arvd-03:59:05
+Narrative:
+5 viclations
+19-114425 0429 Ynitiated - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call aker: PATROLMAN 3COTT SKORUPSKI
+Location /Add ross: EPRING 81
+Unit: 32
+Ciyd-04:31:5C
+Karrubtive:
+A couple Lrash caily Lipped over, nos one around,
+19-14426 0546 Phone - ALARM - BURGLAR ALARM FALSE
+call Taker: SFRGEANT PAUL © THOMPSON
+Location/Adéresa: [WIA 2358] MAIN ST
+Unit: 30
+Digp-05:47:32 Enrt-05:47:57 Arvd-05:49:22 (Clrd-0h:54:24
+Unik: 32
+Disp-05:47:32 Enrt-05:47:55 Arvd-05:52:14 (inrd-05:54:02
+Narrative:
+Network closct motlon
+Narrazive:
+All doors secure, unknown reason [or activation,
+19-14427 0639 Initiated - MOTOR VHHEICLE STOP CITAIION - WARNING
+Call Taker: LIEUTENANT MICHAEL J ZTEMBA Or
+Locat-on/Address: SAND SDRINGE RL
+Unxt: 37K
+Arvd-06:39:14 Clrd-06:45:04
+Yanic.e: WHI 2001 BMW SW 52: Reg: PC VT ZLF557 VIN: WBADS43431GDE4446
+Operator: PASSARETTE, PASQUALE ¢ 111 ® 326 PLEASANT S7 Apt. #2 - BEMNINGTCR, VI
+Raca: W Sex: M
+Refer —ao (itazion: T1785528
+Owner: PASSARETTE, 3ASQUALE J 1II 326 PLEASANT ST Apt. #2 - BENNINGTON, VT
+a5201
+Raca: W Bex: M
+19-114428 08le Initiated - BUILDING CHECK BUILDING CHRECKED/SECURED
+Cull Tukerx: PATROL TANLA HERNANDEZ
+Location/Address: LINDLEY TER
+Unat: 36
+Arvd-08:18:37 Clrd-78:21:35
+Narrative:
+Sack door doors locked. Screen closed.
+screen way open,
+Narracive:
+Checked §-4 16:28
+Narrazive: cone
+CHECK BUILDING CHECKED/SECURED
+19-14429 of22 Initiated - BUILDING
+Cz11l Taksr: PATROL TANIA HERNANDEZ HOOSAC RD
+Location/Address: [RIA 1632] NORTE
+Unit: 5 Arvd-08:22:16 Clrd-38:23:32

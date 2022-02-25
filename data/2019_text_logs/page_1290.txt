@@ -1,1 +1,50 @@
-Narrative:  Checked Area.  19-9500  O819  Phone - TRAFFIC COMPLAINT  UNABLE TO LOCATE  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  TACONIC TRL  Unit  35  Disp-08:20:44  Enrt-08:21:08  Clrd-08:21:40  Unit  35  Disp-08:22:06  Enrt-08:22:12 Arvd-08:28:15  Clrd-08:29:37  Vehicle  WHI 2016 FORD TRANSI  Reg: PC MA 3SN116 VIN: 1FBZX2CMOGKA32320  Owner  CAPITAL LEASE GROUP LTD @ 145 MANLEY ST - BROCKTON, MA 02301-5584  Narrative  Vehicle crossing lines badiy on the way down into  williamstown.  Narrative  Reported as a Red Jetta, plate comes back to a white transit  Van.  19-5501  0821  Initiated - BUILDING CHECK  BULLDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  PINE COBBLE RD  Unit  35  Arvd-08:21:40  Clyrd-08:21:43  Narrative  L vehicle PA FVC2704 all ok.  Narrative  Checked MA 9GYF40 and same PA all ok  Narrative  Checked all ok  Narrative  empty  Narrative  Checked Area.  Empty.  Narrative  Checked Area.  Narrative  Checked  19-9503  0829  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL TANIA HERNANDES  Location/Address  NORTH HOOSAC RD  Unit  36  Arvd-08:29:26  Clrd-08:36:09  Vehicle  BLK 2018  FORD F150 Reg: FC MA 7MB969  VIN: JFTFKIES1LOUPEOG402  Operator  RENNELL,  BRYAN HOWARD @ 80 BLACKSTONE RD -  FLORIDA, MA 01247-9400  W  Race:  Sex: M  Refer To Citation:  TIL765658  Owner:  RENNELL,  BRYAN HOWARD @ 86 BLACKSTONE RD - FLORIDA, MA 01247-9400  Race:  W  Sex: M  19-9504  0a31  Initiated - MOTOR VEHICLE STOP  CITATION - CIVEL  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  COLD SPRING RD 
+Nerrative:
+Chockod Arce.
+19-9500 0815 Phone - TRAFFIC COMPLAINT UNABLE TO LOCATE
+Cal. Tazer: DISPATCHER CHRISTINE LEMOINE
+oacation/Addrass: TAOONIC TRL
+Init is
+THap-CR: 20:44 Enrt-08:27:08 Clvd-08:31:43
+Init 35
+Ligp-08:22:00 Enrt-28:22:12 Arvd-0B::3:15 Clxd-08:29:37
+vehicle: KWIII 2016 FORD TRANSI Rey: PC Ma 38N11¢ VIN: 1FBZX2CMOGKA32320
+Durer: CAPITA: LIASE GROUP LIC @ 145 MANLEY ST - BROCXION, MA 02301-5584
+Harrative:
+Vehicle croseing lines badly on the way down into
+wizlianstcwn.
+Hzrrative:
+Reperted ap a Red Jetta, plate comes back to a white ranait
+Val.
+15-5501 0821 Injtiated - BUILDING CEECK BUILDING CHECKED/SECURED
+Call Taser: FATIROL DAVID JENNINGS, D
+Locaticn/Address: PINE CCBaLE RD
+nit: 35
+Arvd-08:21:40 Clrd-08:21:43
+Narrztiva:
+1 vehicle PBA FVUZY04 all ok.
+NarroLive:
+Choolied MA 3CYR4AO ard same 2A all ck
+Narrz«-iwo:
+Cheched all ck
+Narrazive:
+empty
+Narracive:
+Thecked Area. Emply.
+Rarrative:
+Cirecxed Area.
+Karrative:
+Crecxed
+19-9503 0829 Initiated - MOTOR VEIICLE STOP CITATION - WARNING
+all Talker: PATROT. TANTA HERNANDEZ
+Lecatiorn/nddrese: NORTH HOCSAC RD
+Uniz: 16
+Arvd-03:29:36 Clvrd-NB:38:09
+Vehislio: BLE 2018 FORD KFib0 Reg: PC Mh TME96> VIN: IFTFXIESICFFORANZ
+oSocrabor: mENNELEL, BxYAN HDWARD @ BS BRLACKESTNS RD - FTORTRA, MA Q1247-9400
+Haos: W Hex: M
+Hefaer 'I'n Citatiom: 1IRSREA
+Cwner: RENYILL, DXYAN IIDWARD @ 80 BLACKSTONZ RD - TLORILCA, BA 01247 2300
+aca: W Sex: M
+15-5504 0831 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+a11 Taker: PATRCL DAVID GINNIKGY, ©
+Tlogation/hédrers: CCTD SPRTNG RED

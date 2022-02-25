@@ -1,1 +1,51 @@
-Arvd-07:44:02 Clrd-07:53:33  Vehicle  BLK 2017 TOYT TACOMA Reg: PC MA GXASS8 VIN:  2TMCZ5ANXHM105745  Operator  CARRANO, MICHAEL JOSEPH @ 130 BELLEVUE AVE - ADAMS, MA 01220-9713  Race: W Sex: M  Refer To Citation  T2085282  Owner  CARRANO, MICHAEL JOSEPH @ 130 BELLEVUE AVE - ADAMS, MA 01220-9713  Race:  W Sex: M  49-11645  o754  Initiated - BULTLDING CHECK  BULLDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address  HOPPER RD  Unit  a5  Arvd-07:54:42  Clyrd-07:57:11  Narrative  checked  Narrative  Checked Area  19-11646  OT57  Initiated -~ BUFTLDING CHECK  BUILDING CRECKED/SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  (WIA 1832]  NORTH HOOSAC RD  Unit:  34  Arvd-07:57:43  Clrd-07:58:36  Narrative;  Checked  Narrative:  Checked  Narrative:  Checked  s-4  17:31  Narrative:  Checked  S-4  20:19  Narrative:  Checked  2332  Narrative:  Checked  0330  19-11647  a809  Initiated -  ASSIST OTHER AGENCY:  MGRSD  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J 4IEMBA Jr  Location/Address:  [WIA 225] COLD SPRING RD  unit:  37K  Arvd-08:10:27  Clrd-09:00:49  Unit:  35  Arvd-08:11:00  Clrd-09;00:51  Unit:  24  Arvd-08:11:03  Clird-69:00:52  Narrative:  Lockdown drill MGRHS.  15-11648  0813  Initiated + TRAFFIC CONTROL  SERVICES RENDERED  Cail Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address;  COLE AVE  Unit:  30  Clrd-08:34:28  Arvd+08:14:03  Unit:  38  Enrt-15:05:43  Arvd-15:08:51  Clrd-15:20:19  Disp-15:03:15 
+Arvd-07:41:02 Clrd-07:52:33
+vehicle: BLK 2017 TCYY JACCMA Rog: PC MA 6XA898 VIN: 2UMCZSANXHNIOS 745
+Ope-alor: CARRANO, MITEHAEL JOSEDH @ 1320 BELLEVUE AVE - ADAMS, MA 01220-9773
+Rage: W Sex: M
+Reler To Cilalkion: T20B5282
+Cwner: CARRANO, MITHEAEL JOSEPH @ 1320 RRLLEVUR AVE - ADAMS, MA C1220-9723
+Hace: W Sex: M
+19-111645 0754 Initiated - BUOIILDING CHECK BUILDING CHEECKED/SECURED
+Cali Takar: PATROL RxAL SACIO
+Location/Address: “0PPER RD
+nit: 35
+Arvd-07:54:42 Clrd-07:57:11
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-1164686 0757 Initisted - BUTLDING CEECK BUILDING CRECKED/SECURED
+Cal_. Taker: PATROL ANTHONY HM DUPIAT
+Locat-on/Address: [WIA 1B32] NORTH HOOSAC RD
+Unit: 34
+Arvd-07:57:43 Clrd-07:58:36
+Noarralive:
+Checked
+Narrualive:
+Chucked
+Nerrative:
+Checked 5-4 17:51
+Narrative:
+Chacked 5-4 20:15
+Narrative:
+Chacked 2332
+Narrative:
+Chocked 0230
+19-116547 a809 Initiated - ASSIST OTHER AGERCY: MGRSD CERVICEE RENDERED
+Call Taker: LIEUTENANT MICHAEL J ZIZHMBA Jr
+Tocation/Address: [WIA 225] COLD SFRING RD
+Irit: 37K
+Arvd-08:10:27 Clrd-09:00:45
+Unit: ih
+Arvwi-08:11:00
+Unit: 34
+Arvd-08:11:63
+Warrative:
+Lockdown drill MNERHS.
+19-116448 0813 Initiated TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGERNT SCOTT - E BMOCOWAN
+COLE AVE
+location/Addreas: Orik: ao
+Arvd-08:.4:03 Cld-08:34:28
+nit: LY]
+Disp-15:03:15 Enrt-15:05:43 Arvd-15:08:51 Clrd-15:20:19

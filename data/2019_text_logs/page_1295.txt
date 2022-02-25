@@ -1,1 +1,56 @@
-37  Age:  Charges:  LICENSE SUSPENDED, OP MV WITH  INSPECTION/STICKER, NO  19-9525  1633  Initiated - BUILDING CHECK  SERVICES RENDERED  Call  Taker  PATROL SHUAN N WILLIAM  Location/Address  SOUTHWORTH ST  Unit  32  Arvd-16:34:03  Clrd-16:34;13  Narrative  Checked Area.  19-9526  1636  Znitiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SCHOOL ST  Unit  32  Arvd-16:37:18  Clrd-16:37:39  Narrative  07/21/2019 1637 - no violations  a7/31/2019 2008 -~ no violations  19-9527  1651  Phone - B.0,.4L.06.  ALARM FALSE  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  [Wik 404] MAIN ST  Unit  32  Disp-16:54:56  Cird-16:55:06  Unit  32  Disp-16:55:41  Enrt-16:55:48  Arvd-16:55:55  Clird-17:03:09  Vehicle  WHI 2006 FORD SE TAURUS Reg: PC MA 7ET661 VIN:  LFAFPS3U76A129122  Owner  HENDERSON,  CAROLYN A @ 249 ADAMS RD - WILLIAMSTOWN, MA 01267  Race:  W Sex: F  Narrative  Requests BOLO for white Taurus, MA PC 7ET661, Erratic  operation (speeding up/slowing down/crossing yellow line).  Narrative  o7/3i/2019 1702 - Located vehicle at the residence,  talked  with suspected operator about complaint. No infractions  observed, or can be cited for.  19-9528  Phone -  ANIMAL CONTROL  SERVICES RENDERED  1656  Call Taker  DISPATCHER LAURIE TUPER  Location  CLARK ART NORTH PARKING LOT  Unit  35  Disp-17:02:59  Enrt-17:03:15  Arvd-17:11;05  Clrd-17:24:57  Vehicle  PA HMA3735  2008 HOND Reg:  Race:  U sex: U  Vehicle  BLU 1997 BUIC SE CENTUR Reg: PC MA 2WE968  VIN:  2G4WS52M0V1i405042  Operator  SWIFT, JEFFREY ALLEN @ 739 W MAIN ST Apt.  #3E - N ADAMS, MA 61247-3325  Race:  U Sex: M  Owner  SWIFT, JEFFREY ALLEN @ 79 W MAIN ST Apt. #3E - N ADAMS, MA 01247-3325  Race:  U Sex: M  Narrative  Reports his supervisor is requesting officer assistance with  an issue of a dog being let out GE a car by someones unknown  to the owner. Vehicle:  PA PC HMA3735  Narrative  Spoke with ali involved parties concerning entering the  vehicle without permission and also leaving a dog in the car  unattended in the heat. Both parties happy with the outcome.  Nothing further needed. 
+Age - aT
+Charces: LICENSE STUEDENJED, CDI MV WLLZ
+INSPIUTION/STICKER, NO
+19-9525 1633 Initiated - BUILDING CHECK SERVICES RENDERED
+Call Taker: PATROL SIIUAN N WILLIAM
+Location/Address: ECUTIIRORTII BT
+nit: 32
+Arvd-16:34:03 Jlrd-16:34:13
+Narrat ve:
+Checked hrea.
+19-9524 1636 Initiated - PARKING CHECK BERVICES RENDERED
+Cal: Tunes: TATR0L SHUAN N WILLIAM
+—ocullon/addresy: SCHCOL, ST
+nik: 32
+Arvd-_6:27:18 Crd-16:27:30
+Narrative:
+07/30/2019 1537 - no violations
+N7/3172019 2C08 - no vioiations
+19-9527 1651 Phone - B.0.L.O. ALARM FALSE
+Cal. lsker: DISPATCHER IAJRTE TUPPER
+Location/Address: ‘Wlh 404] MAIN ST
+it: 32
+Disp-16:54:56 Clrd-1é:55:05
+Jmit 32
+Disp-16:55:41 Enrt-16:55:46 Arvd-26:55:55 Clrd-17:33:08
+Vehicle: WHT 2006 FORD SE TAURUS Reg: PC MA 7ET661 VIN: ZFAFP53U76A129122
+oJwoer: HENDFRS0ON, CAROLYK A ® 249 ADAMS RD - WZLLIAMSTCWN, MA 01267
+Range: W Rex: T
+Nerrative:
+Requests BOLO for white Taurus, MA PC 7ETES1l, Erratic
+cporation (opeeding up/slow ng down/arossing vellow Zine).
+Narrative:
+0773172029 1702 Localed vehicle az the residence, talked
+with wuspecled opercter about complaint. No iniractions
+cbhserved, or cun be cited fox.
+19-9528 1656 Phone - ANIMAL CONTROL EERVICES RENDERED
+Cal. Taxexr: DISPATCHER LAURIE TUPZR
+CTARK ART NORTH PARKING LOT
+as
+Disp-_7:02:59 Enrt-27:03:15 Arvd 17:11:05 Cl>d-1YY:2:59
+2508 HCND Reg: SA HMR3IT735
+RBoace: U Sex: U
+VYeh-cle: BLO 1597 BUIC SE CENTUR Houo: IC MA 2A3968 ViN: 204Ws5ZM0V1405042
+Operazcr: SAZFT, “EFFREY ALLEN @ 732 W MAILN SY Apt. h3E - N ADAME, MMA 0.2¢7-3325
+RBugce: U Sax: M
+owner: SWZTT, CESFREY ALLEN @ 79 W MAIK g™ Apl. §3E - N ALAME, MA (°.247-3323
+Race: UU Sex: HM
+Harvrakive:
+his supervisor is reguestiny olbiicer uasslslance will
+Repcrts an issue of a dog being let cut st a car by scinecons unk:aown
+to the owner. Vekic_e: PA PC IIMA3S735
+Narrative:
+with all irvaived parties concerning entering the
+Spoke voiizle without and also leaving 2 dog in the car
+unattended in the permission heat. Both parties Lappy wich the outcoma.
+Norhizg further needed.

@@ -1,1 +1,46 @@
-VT HCE797  PA KRY3202  Narrative  MA 897336  VT HMB817 HGB520  PA KRY3202  Narrative  PA KRY3203  Narrative  Checked s§-4  20:08  Narrative  done  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked Area  19-13611  0850  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  36  Arvd-08:50:30  Clrd-08:52:04  Narrative  Checked  Narrative  checked  Narrative  done  Narrative  Checked Area.  Narrative  Checked Area.  19-13012  0850  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  LISUTENANT MICHARL J ZIEMBA Jr  Location/Address  STRATTON RD  Unit  37K  Arvd-08:50:55  Clrd-68:51:59  Narrative  Checked  Narrative  done  19-43014  0920  Initiated - BUILDING CHECK  BUILDING CHECKED/S=ECURED  Call Taker:  PATROL TANITA HERNANDEZ  Location/Address:  HALL ST 
+vT IICC797
+PA EXY5202
+Xurrative:
+MA 83J336
+VT H3MBA17T HABR20
+PA KRY3202
+xarrative:
+PA XRY3213
+Hurrative:
+Checked E-4 20:08
+Narrative:
+done
+Mayrralb_ve:
+Chucked Area.
+Nzrrat-ve:
+Checked Aros.
+Narrative:
+Checked Area.
+15-13011 0B50 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cz. 1 Taker: PATROL TANIMN HERKANIEZ
+Tocation/hddress: [zh 182322] NORIY HUOSAC RD
+nit: 3 4.
+Arvd-08:50:3C
+Harrazive:
+wnaecked
+Harxrazive:
+crecxed
+Yarratiwve:
+conea
+Yarrative:
+Checked Ares.
+Karrative:
+Checked Area.
+19-135012 CBSD Initiated - BUILDING CHECK BUILDING CHECEED/SECURED
+Cal” Tenu-: LIEUTENANT MICHAEL J ZIEMBA Jz
+Lugval Lon/Address: STRATTON RD
+Joit 37K
+AY wil- 0 B |] Clrd 08:51:59
+Narrative: H Et
+Checked
+Narrolive:
+doze
+15-13014 0920 Initiated
+- BUILDING CHECK SUILDING CHECKED/SECURED
+Cell —ukar: PATROL TANIA HEXNANDEZ
+Locat ioen/Adireus: HALL ET

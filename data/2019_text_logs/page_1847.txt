@@ -1,1 +1,52 @@
-Narrative:  Checke 0617  19-12841  O7 17  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  unit  30  Arvd-O7:17:31  Clrdad-07:17:44  Narrative  checked  19-12842  O718  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RDB  Unit  30  Arvd-0O7:18:25  Clrd-07:35:03  Unit  36  Enrt-14:19:41  Clrd-14:21:51  Disp-14:19:28  unit  33  Disp-14:21;45  Enrt-34:21:45 Arvd-14:23:44  Clrd-14:41:57  19-12943  0739  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  COLD SPRING RD  Unit  39  Arvd-07:39:14  Clrd-07:39:24  Narrative  checked  19-12845  0744  initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  GALE RD  Unit  30  Arvd-07  44  i?  Clrd-08:00:16  Unit  38  Disp-15:01:12 Enrt-15:01:54  Arvd-15  o8  08  Cird-15:19:11  19-12846  0813  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLE AVE  Unit:  39  Arvd-O8  13  20  Clrd-08:33:30  19-12847  0821  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANTA HERNANDE?  Location/Address  [WIA 333] CHURCH ST  Unit  36  Arvd-08  a1  37  Clrd-08:36:35  Unit  32  Enrt-14:58:14  Arvd-14  2  27  Clrd-15:17:39  Disp-14:57:59  19-12848  0834  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  WOODLAWN DR  Location/Address  Unit  30  Arvd-oO8  34  28  Clrd-08:34:40  Narrative  done 
+Karrative:
+Cheake 06:7
+19-122841 0717 Initiated - BUILDING CHECK BUILDING CHECEED/SECURED
+Call 'l'aker: SERGEANT S5CCTT E MCI0WAN
+Twxeazion/acd>oss: COULD SPRING RD
+unilk: 30
+Arvd-07 117: Clré-0v 17:44
+Marrative:
+chackead
+19-124842 0718 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cal. laxer: SEXGEANT' SCOTT KE MCSOWAY
+Lazation/Address: COLD SDRING
+Jolls 30 7
+Arvd-07:: 125 Clrd-67:35:09
+Trnils 36
+Cisp-14:19:28 Envt-14:19:41 Clrd-14:27:51
+Jrit: 33
+Disp-14:21:45 En>t-14:21:45 Arvd-l4: 23 :44 Clrd-A4:4::57
+1909-12843 D730 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca2_1 Taker: SERGEANT SI20TT # MOGCWAN
+lLocaticn/Address: o0LL SPRING RE
+tnil: 33
+AryG-07 139 14 Clrd-07:39:24
+Narrazive:
+chestad
+19-122845 0744 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEAXT S0OTT FE MCOGOWAN
+Location/adérese: GALE RD
+Unin: 10
+Arvd-31:
+117 Clrd-08:00:26
+Un: so: 3B
+Jl8p-15:01:12 Enrz-15:01:54 Arvd-_b: 2 [34] :08 Clrd-15:19:11
+19-132846 0813 Initiated - TRAFFIC CONTROL EERVICEE RENDERED
+Jall ''akex: EERGEANT SCOT BE MCOSOWAN
+LoceLion/Addrexy: CJOLZ AVE
+Unit: 11)
+Lrvd-ui: 3 Zl) Clrd-02:32:30
+19-12847 2821 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+al” Taxer: Fa™TROT TANTA HERKANTTST
+Lozatlionsaddress: [AA 333] CHURCH ST
+rik: 36
+Arvd 08: 2): 37 Clrd 78:26:35
+Jil: 32
+Cisp-14:57:55 Enrlk-14:38:14 Arvd-14: 53 +27 Clrd-25:17:37
+1959-12848 0834 nitiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cul Tuker: SERGEANT SJ0TT z MOCCWAN
+oval onfAaddross: WOOCLAWK LCR
+Cninit: 3
+Arvyd-05: 34 2B Cord-08:34:40
+Narrazive:
+dons

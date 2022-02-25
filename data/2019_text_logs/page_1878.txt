@@ -1,1 +1,54 @@
-Arvd-10:39:53  Clrd-10:39:55  Narrative:  Checked $§-4  18:13  19-13026  LO52  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  NEW ASHFORD RP  Unit  35  Arvd-10:52:31  Clrd-11:03:15  Vehicle  GRY 2016 ACUR MDK Reg: PC MA 15NMO7 VIN: SFRYD4H6XGBO07636  Operator  VENGALIL, BIJI M @ 11 TOR CT - PITTSFIELD, MA 01201-3052  Race: U Sex: F  Refer To Citation  2085050  Owner  VENGALIL, BIJI M @ 11 TOR CT - PITTSFIELD, MA 01201-3052  Race:  UG Sex:  F  19-13028  1122  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAR SACCO  MAIN ST  Location/Address  unit  35  Arvd-11:22:57  Clrd-11:26:23  Vehicle  BLU 2008 CHEV SE MALIBU Reg: PC MA 8S97WR7  VIN:  1GEZH57B784307389  Operator  PHILLIPS, JORDAN A @ 70 COMMERCIAL ST Apt.  #1 - ADAMS, MA 01220-2024  Race:  W  Sex: M  Refer To Citation  T2085051  Owner  PHILLIPS, JORDAN A @ 70 COMMERCIAL ST Apt.  #1 = - ADAMS, MA 01220-2024  Race:  W  Sex:  i  19-13029  1123  311 - ASSIST OTHER AGENCY  “  OTILITY  TAKEN/REFERRED TO OFHER  AGENCY  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  HANCOCK RD  Unit  37K  Disp-11:28:12  Enrt-11:28:27 Arvd-11:40:08  Clrd-12:27:37  Narrative  RP states a tree took down power lines.  Narrative  second call stating power lines are not down tree leaning on  wires.  1127 National Grid Notified (ETA of 40 Minutes, waiting for  new ETA)  1152 Verizon notified.  Narrative  Stand by for tree removal. Nat Grid to repair line, has room  for two way traffic. Will call if assistance is needed.  19-13030  1133  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RP  tmit  35  Arvd-11:33:28  Cird-11:33:30  Narrative  Checked  6-4  18:20  4249-13031  1213  initiated - MOTOR VEHICLE &ToPr  CITATION - WARNING  Call Taker:  PATROL BRAD SACCO  Location/Address:  MAIN ST 
+harrativoe: Arvd-10:39:53 Cl>d-10:39:35
+Checked S-4 15:13
+1929-13026
+1C52 Initiated - MOTOR VEHICLE 37T0P CITATION - WARNING
+fall Taker: PATROL BYAL SACCO
+Lecazion/Address: KEN ASHEOSD W3
+mit: 35
+Arvd 10:52:31 Clrd-12:03:15
+Vehicle: CRY 2016 AUUR MDX Reg: DC MA 15NMO7 VIN: SFRYD4NGEGDOZ7G36
+Dnezalor: VENGALIL, BI.I M @ 1. TOX CY - PITTEFIELD, MA 01201-3052
+Raze: U Sex: T
+Retfar To cotat-on: T2035060
+Owner: VENGALIL, BISI M @ 1 7 CT - PITTSFIELD, MA 01201-3052
+Race: U Sex: F
+1959-13028 1122 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Tzxer: EATROL BRAE SACCO
+_ocetion/Address: MAIN 8T
+mit: 3h
+Arvd-11-.22:5Y (lrd-:1:26:22
+Veh:cle: BLL 2008 CHEV SE HALIBYJ Hag: DU MA BS7WR7 VIN: 1GLZHITB734307380
+JLerator: PH_LLIPS, JORDAN A @ 70 COMMERCIAL ST Apt. #1 ADANS, MA 01220-2024
+Raco: BW Hax: M
+Xefer Yo Citetion: T20BE05
+DwWner: PA-LLIPS, JURLDAN A @ YO COMMERCIAL 87 Apk, #1 ADRMS, MA 01220-2224
+ReCo: WW Sex: o M
+16-130z20 11z3 911 - ASSIST OTHER AGENCY - UTILITY TAKEN/REFERRED TO OTHER
+AGENCY
+Call —aker: FATROL ANTIONY M DUZRAY
+Locaticn/Address: HAMCOCE RD
+Tnit: 7K
+Disp-11:28:12 Enrt-11:28:27 2rvyd-1_:240:08 Clrd-12:27:37
+Yarrative:
+R2 states a tree took down power lines.
+Xarrative:
+second call stating power lines are not down Lose loaning oc
+wives,
+127 Nabional ¢xid Notified ‘ELA of 2u Minuics, waiting for
+“cw ETA)
+11582 Vorizon nelificd.
+Narrative:
+gtand by for txac removal. Nat Grid to repair ling, has zoom
+for two traffic. Wiil 2all if aseietance is ngecded.
+way
+19-134930 1133 Initiated - RUTLDING CHECK BUILDING CHECKED/SECURED
+fall laker: FATROL Bxald SACTO
+Lozat Lon/Address: COLD EZRONCG RD
+Jeite 35
+Arvd-11:33:28 Clrd-11:33:30
+Nerrative:
+Checked 8-4 18:2¢C
+19-13031 1213 *nitiated MOTOR VEHICLE BTOP CITATION
+- - WARNING
+Cal 1'aker: PATROL BRAD YAUCO
+modal on/addrusy: JATN ST

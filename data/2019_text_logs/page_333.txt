@@ -1,1 +1,58 @@
-Location/Address:  MAIN ST  Unit:  34  Arvd-16:37:09  Clrd-16:37:15  Vehicle:  BLK 2013 HOND PILOT Reg: PC MA 2XC199 VIN: 5FNYF4H29DB060834  Operator:  THOMPSON, NICHOLAS R @ 115 ELM AVE Apt. #2 - QUINCY, MA 02170-0000  Race: U Sex: M  Owner:  THOMPSON, NICHOLAS R @ 115 ELM AVE Apt. #2 - QUINCY, MA 02170-0000  Race: U0 Sex: M  Narrative:  Stopped for expired MA license. Operator has valid PA  license.  19-2344  1640  Phone - DISTURBANCE  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  MASON ST  Location/Address  Unit  31  Disp~-16:42:26 Enrt-16:43:01  Arvd-16:47:20 Clird-17:13:10  Unit  34  Disp-16:42:33 Enrt-16:43:16 Arvd-16:47:23  Clrd-17:13:48  Narrative  Party reports [EBB] pushed her and stole some  property.  Reports he is now walking into the woods to meet a friend  with a white Jeep.  Narrative:  Located both parties on the trail on top of Mason St. Spoke  with both separately regarding incident. RP states her and  GBR «were arguing when  decided to leave (with his  backpack) and take a walk. RP got upset and believed her  phone was located in backpack.  RP now states no assault  occurred and there was no sign of any injuries.  19-2345  1715  Initiated - ASSIST OTHER AGENCY - POLICE  SERVICES RENDERED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SIMONDS RD  Unit  3d  Arvd-17:15:23  Clrd-17:45:31  Vehicle  BLK 1999 HOND 4D CIVIC Reg: PC NY HUL9787  VIN: LHGEJ6573XL012424  Operator  PERRAS, KARISSA LEIGH @ 99 HILL ST - TROY, NY 12180  Race: W Sex: F  Owner  PERRAS, KARISSA LEIGH @ 99 HILL ST - TROY, NY 12180  Race: U Sex:  F  Narrative  BCSD stopped vehicle at line. Driver issued summons by  sheriff for OAS.  19-2346  1818  911 - DISTURBANCE  GONE ON ARRIVAL  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  (WIA 180] COLD SPRING RD  Unit  34  Disp-18:19:57 Enrt-18;22:04  Clrd-18:22:52  Unit  31  Disp-18:20:02 Enrt-18:20:06 Axrvd-18:24:17 Clrd-18:26:52  Narrative  Reports a patron causing a disturbance. Bringing extra  guests in a refusing to pay.  19-2347  1907  911 - DISABLED M V  TAKEN/REFERRED TO OTHER  AGENCY  Cail Taker:  DISPATCHER LAURIE TUPER  Location/Address:  GREEN RIVER RD 
+Location/Address: Unit: MAIN ST
+34
+Arvd-16:37:09 Clrd-16:37:15
+Vehicle: BLK 2013 HOND PILOT Reg: PC MA 2XCl199 VIN: SFNYF4H29DB060834
+Operator: THOMPSON, NICHOLAS R @ 115 ELM AVE Apt. #2 - QUINCY, MA 02170-0000
+Race: U Sex: M
+Owner: THOMPSON, NICHOLAS R @ 115 ELM AVE Apt. #2 - QUINCY, MA 02170-0000
+Race: U Sex: M
+Narrative:
+Stopped for expired MA license. Operator has valid PA
+license.
+19-2344 1640 Phone - DISTURBANCE SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: MASON ST
+Unit: 31
+Disp-16:42:26 Enrt-16:43:01 Arvd-16:47:20 Clrd-17:13:10
+Unit: 34
+Disp-16:42:33 Enrt-16:43:16 Arvd-16:47:23 Clrd-17:13:48
+Narrative:
+Party reports |JJJJEI pushed her and stole some
+property.
+Reports he is now walking into the woods to meet a friend
+with a white Jeep.
+Narrative:
+Located both parties on the trail on top of Mason St. Spoke
+with both separately regarding incident. RP states her and
+were arguing when decided to leave (with his
+backpack) and take a walk. RP got upset and believed her
+phone was located in backpack. RP now states no assault
+occurred and there was no sign of any injuries.
+19-2345 1715 Initiated - ASSIST OTHER AGENCY - POLICE SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SIMONDS RD
+Unit: 31
+Arvd-17:15:23 Clrd-17:45:31
+Vehicle: BLK 1999 HORD 4D CIVIC Reg: PC NY HULS787 VIN: 1HGEJ6573X1012424
+Operator: PERRAS, KARISSA LEIGH @ 99 HILL ST - TROY, NY 12180
+Race: W Sex: F
+Owner: PERRAS, KARISSA LEIGH @ 99 HILL ST - TROY, NY 12180
+Race: U Sex: F
+Narrative:
+BCSD stopped vehicle at line. Driver issued summons by
+sheriff for OAS.
+19-2346 1818 911 - DISTURBANCE GONE ON ARRIVAL
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 180] COLD SPRING RD
+Unit: 34
+Disp-18:19:57 Enrt-18:22:04 Clrd-18:22:52
+Unit: 31
+Disp-18:20:02 Enrt-18:20:06 Arvd-18:24:17 Clrd-18:26:52
+Narrative:
+disturbance.
+Reports in a patron causing to a Bringing extra
+guests a refusing pay.
+19-2347 1907 911 - DISABLED M V
+AGENCY TAKEN/REFERRED TO OTHER
+Call Taker: DISPATCHER LAURIE
+Location/Address: GREEN RIVER RD TUPER

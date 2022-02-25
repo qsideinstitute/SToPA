@@ -1,1 +1,47 @@
-Disp-09:55:28  Clrd-09:56:57  Unit:  34  Disp-09:56:49 Enrt-09:56:49  Clrd-09:58:11  Narrative:  Mud Room door alarm. Spoke with home owner whe had incorrect  passcodes.  Narrative:  Request to cancel.  19-105943  ogs5  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK 8ST  Unit  34  Arvd-039:56:02  Clrd-09:56:49  Unit  34  Disp-09:58:33  Arvd-09:59:58  Cird-10:04:57  Narrative  no violations  15-310944  1000  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  {WIA 225] COLD SPRING RD  Unit:  36  Arvd-10:00:43  Clrd-10:03:18  1939-10945  1005  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS,  D  Location/Address  COLD SPRING RD  Unit  35  Arvd-10:06:02  Clrd-10:06:16  Narrative  checked  Narrative  Checked  19-105946  1012  initiated - BUZLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  PETERSBURG RD  Unit  35  Arvd-10:12:39  Cird-10:16:17  Narrative  checked  Narrative  done  Narrative  Checked  49-10957  lil?  Other - TRESPASS  LOG ENTRY REQUEST  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Addreas:  (WIA 61]  MAIN ST  Narrative:  Notice Against Trespass Letter,  19~10548  1202  Other - PUBLIC RECORDS REQUEST  SERVICES RENDERED 
+Jait: Disp-09:55:23 34 Clrd-C9:58:57
+Narrative: Nigp-09:56:49 Euct-09:36:43 Clrd 29:58:11
+Mud Room docr
+alarw. Speke with home ownar who hoé jncoerrect
+passcodes.
+Narravive:
+Pecuest bo cancel.
+15-10943 0855 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROT, TANIA 2ERNANDREZ
+—wcation/Acdrese: PARK BT
+min: 34
+Arvd-03:56:02 Clxd-0S:56:49
+Un-<: 14
+Digap-09:58:323 Arvd 09:59:58 Clrd-10:04:57
+Nerrabzve:
+rc violations
+15-10944 1000 Initiated - BUILDING CHEDER BUILDING CHECKED/SECURED
+Cull Taker: SATROL DAVTD JEKNINGS, Lb
+Loedacion/Address: WTA 225] COLD 8PR_NJ D
+nit: i5
+Arvd-10:50:43 C1>3-10:03:13
+15-0945 1005 Initiated - BUILDING CHECK BUILDING CHECXED/SECURED
+ll Taker: PATROL DAVILC JENN_MGR, Ii
+wotation/Addxess: COLL: SPRIKGE RD
+Uniz: as
+Arvd-10:06:02 Clrd-10:05:16
+Narrative:
+chaeozed
+Narrative:
+Checked
+19-100946 1012 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SATRCL DAV-D JSMNIKGS, D
+Legelion/hddress: cETERSPURE RC
+Cnit: 35
+Arvd-10:12:29 (Clrd-10:16:.7
+Narrative:
+ahecked
+Narrative:
+dono
+Narralive:
+Chevied
+19-10957 1117 Other - TRESPASS 1.0G¢ ENTRY REQUEST
+Call Tuies: JISPATCHER CHRISTINZ LEMCING
+Local ien/Address: [WIA 62) MAIN ST
+Narrative:
+Notice Aralnst Irespsass Latter,
+19-105448 13202 Other - PUBLIC RECORDS REQUEST SERVICES RENDERED

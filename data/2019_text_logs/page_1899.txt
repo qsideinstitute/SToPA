@@ -1,1 +1,50 @@
-19-43149  0743  Initiated ~ TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  GALE RD  Unit  30  Arvd-07:44:42 Cird-07:56:54  unit  38  Enrt-15:01:30  Arvd-15:05:59  Clrd-15:22:03  Disp-15:00:06  19-13156  0802  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANITA HERNANDEZ  HALL ST  Location/Address:  Unit:  36  Arvd-08:02:38  Clird-08:04:27  Narrative:  MA 11T690 - 3PT136 parked in driveway  MA 4NS5819 parked on West side.  Narrative:  MA 117690  Narrative:  Checked  Narrative:  checked  Narrative:  Checked 0206  19-13151  a806  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address  WOODLAWN DR  36  Unit  Arvd-08:06:55  Clrd-08:09:34  Narrative  checked  Narrative  Checked 0203  1219-13152  0815  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  COLE AVE  Unit  36  Arvd-08:15:29  Clrd-08:26:17  Unit  36  Disp-08:33:23  Arvd-08:33:32  Clrd-08:39:02  Narrative  1 violation  Drive through school parking lot  19-13153  O826  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  COLE AVE  Unit  36  Arvd-08:26:17  Cird-08:33:05  SFNRLSH23AB024916  Vehicle  BLU 2010 HOND ODYSSE Reg: PC MA S66HR7 VIN:  Operator  GERRY, ROBERT A SR @ 19 ARNOLD ST - WILLIAMSTOWN, MA 01267-2540  Race:  W  Sex: M 
+19-313149 0743 Initiated - TRAFFIC CONTROL BERVICES RENDERED
+“all “‘akor: SERGANT SC01T E MCEOWAR
+Location/Address: GALE RD
+Unit: aD
+yr y-07:44:42 Clrd-07:56:54
+Unit: aa
+Disp-15:00:36 Enrt-15:01:30 Arvg-15:05:59 Cird-15:22:03
+15-13150 0602 Initiated - BUILDING CHECK BUILDING CRECEED/SECURED
+Call raker: BATROL Z'aNIA HERNANDEZ
+Locut ion/Addross: HALL S49
+Unit: a6
+AvvE-08:02:38 Jiyd-08:34:27
+Hazruvive:
+MA 11TE20 - 3PT13 parked in driveway
+MA 4NS5B19 parked on West side.
+Marrazive:
+Mh 1.Te90
+NMarracive:
+Tracked
+Narracive:
+checked
+Narrazive:
+Checxed 0206
+19-131561 aB0s6 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+Call Taker: PATROL TANIA HIERNAKDEZ
+Location/Address: WOODTAWN DR
+Unit: as
+Arvd-08:06:55 C1l>xd-08:09:34
+Nurrabtive:
+checxod
+Narrakive:
+Checked 0203
+i9-13152 0815 Initiated - TRAFFIC CONTROL BEERVICES RENDERED
+Call Taker: PATRCL TANLA HZRNAKDKZ
+Iocation/Adcress: COLE AVE
+Unit: 35
+AYvd-02:14:29 C1+d-0B:26:17
+Unit: 36
+Digp-08:32:23 Arvd-08:32:32 Clrd-08:39:02
+Narrative:
+1 vaclation
+Drive through school parsing lot
+19-13153 0836 Initigted - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATRCL TANIA TERNMANDEZ
+Location/Address: COLE AVE
+Unit: is
+Arvd-08:28:27 Clrd-08:33:05
+vchicle: WLU 20:0 AOND OCYSSE PC HMA 9GEIIR7 VIN: SFNRLIH23AB024916
+ROBERT A SR # 19 Rec: ARNOLD 5T - WILLIAMSTOWN, MA 01267-2540
+Operacor: GERRY, Race: W Sex: MN

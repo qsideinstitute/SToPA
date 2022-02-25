@@ -1,1 +1,53 @@
-Location/Address:  [WIA 162]  MAIN ST  Narrative:  Alarm Testing in progress. Will call back when testing is  complete.  1408- Testing Complete.  19-9751  1511  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  PARK ST  Unit  32  Arvd-15:11:20  Cird-15:15;08  Narrative  08/05/2019 1511 - Start  08/05/2019 1900 - no violations  19-8752  1513  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:14:46  Clrd-15:21:29  19-3753  1647  Phone - ANIMAL CONTROL  SERVICES RENDERED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  OBLONG RD  Unit  32  Disp~16:50:50  Enrt-16:50:54  Arvd-17:00:47  Clrd-17:16:18  Narrative  Skunk badly injured by doq, requesting assistance with  injured skunk. Right fork of driveway.  Narrative  08/05/2019 1716 ~ Dispatched, owner will remove  19-9754  1650  Phone - WELL BEING CHECK  SERVICES RENDERED  Call Taker:  DISPATCHER CHRISTINE LEMOCINE  Location/Address:  WALNUT ST  Unit:  38  Disp-16:52:56  Enrt-16:53:14 Arvd-17:01:03  Clrd-17:12:14  Narrative:  Call center concerned regarding an irate party they called  that referenced mass shootings and that he "planned to do  his own".  Narrative:  In house address dees not match address provided, no MA  license info in RMV.  Narrative:  Spoke to  who admitted to making the comments to a  bill collector who calls him everyday. He said he was angry  and frustrated over them calling him all the time and does  net want to hurt anyone.  19-9755  1721  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  [WIA 910] TACONIC TRL  Location/Address:  Unit:  32  Arvd-17:22:01  Clrd-17:22:34  Narrative:  Checked 
+Location/Address: [WIA 162] MAIN ST
+Narrative:
+Alarm Testing in progress. Will call bzck when testing is
+complete.
+1403- Testing Complete.
+19-8751 1511 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATRCL SHUAN N WILi.1aM
+Tacation/Mdress: PARK 81
+Unit: 32
+Arvd-Z5:11:28 ird-15:15:08
+Nerrakive:
+08/05/20-9 1511 - Start
+08/05/2092 1500 - no violaticns
+19-8752 1513 Ynltiated - PARKING CHECK SERVICEE RENDERED
+Call Taxer: SATROL JOHN J MCCCNNZELL JR
+Location/Address: SPRING SU
+urit:
+38
+Arva-15:14:46 Clrd-15:21:29
+19-9753 1547 Phone - ANIMAL CONTROL SERVICES RENDERED
+Ca.l Taker: CISPATCHER Z:iRISTINE LEMCINE
+Iocation/Addreys: QBLONE RO
+Unit: 32
+Diap-16:50:50 Enrt-16:50:54 Arvd-17:00:47 Clré-17:16:18
+Narracive:
+Skunk badly injurad by dog, requesting aselstance with
+injured skunk. Right fork of driveway.
+Farra.ive:
+03/05/2019 1716 - Disputciied, owner will remove
+19-9754 1650 Phone - WELL BEING CHECK SERVICES RENDERED
+Call Takzr: DISPATCHER CHRISTINE LIMOZNE
+Location/Address: WALNUT ST
+Univ: is
+Disp-16:52:56 Enrt-15:52:14 Arvd-17:01:02 (Qlrd-:7:12:14
+Narrative:
+Call center concerned regarding an irate party they called
+that referenced mass shootings and that he "planned to do
+kis cuwn".
+Narrative:
+In house address does not match addresa provided, no Ma
+license info in RMV.
+Narrative:
+Spoke to who admitted to making the commsnits tc a
+kill coliector who cal:is him everyday. Ha sald he was angry
+anc frustrated over them calling him all the time and does
+not want to hurt anyone.
+19-8755 1721 Initiated - BUILDING CHECK BERVICES RENDERED
+Ca_-l Taker: PATROL SHUAN N WILILLIMM
+Location/Address: [WA 910] TACCN-C TRL
+nit: 32
+Arvd-17:22:21 Clrd-17:22:34
+Marranive:
+Checked

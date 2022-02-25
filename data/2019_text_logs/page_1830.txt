@@ -1,1 +1,48 @@
-PA KRY3202  Narrative:  checked  Narrative:  Checked s-4  21:56  Narrative  Checked 0009  PA KRY3202  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked 0343  Narrative  Checked Area  Narrative  Checked 0618  19-12751  0921  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address  STRATTON RD  Unit  35  Arvd-09:21:55  Clrd-09:23:17  Narrative  Checked $-4 22:07  Narrative  Checked Area.  18-42752  03934  Initiated - BUILDING CHECK  BUILDINGS CHECKED/SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  HOPPER RD  Unit:  35  Arvd-09:34:15  Clrd-09:37:23  Narrative:  Checked Area.  19-12753  0945  Initiated - MOTOR VEHICLE STOP  CRIMINAL COMPLAINT  Call Taker:  PATROL BRAD SACCO  Location/Address:  WATER ST  Unit:  35  Arvd-09:45:54  Cird-10:17:33  Vehicle:  BLK 2001 HOND SE ACCORD Reg: PC MA 513TM4 VIN: 1HGCG6S5501A007527  Towed:  For: REVO/INSC By: RONS AUTG REPAIR To: OWNER'S RESTDENCE  Operator:  SWEET, CARL W @ 1014 HOPPER RD - WILLIAMSTOWN, MA 01267-3157  W@ Sex: M  Race:  Refer To Citation  T2085012  Owner  SWEET, CARL W @ 1014 HOPPER RD - WILLIAMSTOWN, MA 01267-3157  Race:  W  Sex: M  Narrative  0947- Ron's Towing notified/en route 
+PA KRY3202
+Narrative:
+checked
+Nerrative:
+Checked 5-4 21:56
+Narrative:
+Checkad 2009
+“A KRY3uo2
+Narrative:
+Checked Arec.
+Narrative:
+Chackeé Arsz.
+Narrative:
+Chockeg 0342
+Narrative:
+Checked Aree.
+Narrative:
+Chacked GE1RB
+19-127511 0521 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: EATRCI, RRAN SACCO
+Locul ion/Addraso: STRATTON RD
+Un-z: 3k
+Arvd-29:22:58 (Clrd 09:23:17
+Karralive:
+Checked .4 22:07
+Narrative:
+Checked Area.
+3189-33752 as3d Initiated - BUILDING CHECK BUILDIKG CHECKED/SECURED
+Call Taker: PATROL BRAD SACCOD
+Location/Address: HOPPER RD
+Unit: 15
+Ared-05:34:15 Clxd-09:37:2
+Narracive:
+Checked Area.
+19-127563 gs45 Initiated - MOTOR VEHICLE STOP CRIMINAL COMPLAINT
+Cz_1 Taker: BATROL ARAD SACCC
+Locakb.en/Aaddresy: WATER ST
+Cnil: is
+Arvd-09:45:54 Clrd-10:17:33
+Vehicle: BI.K 2001 HOMD SE ACCCRD Rey: PC MA 5137TM4 VIN: IHGOGRSS01A007527
+Towed : For: REVC/INSC By: RCONS AUTC REPAIR To: OWNER'S RESTDENCE
+Operator: SWEET, CARL X @ 1014 HOPPER RD - WILLIAMSTOWN, MA D1267-3157
+Race: H# Sex: M
+Reler To Citacion: 1T2383013
+Owner: SWEET, CARL W @ 1014 HOPDERX RD - WILLIAMSTOWN, MA 01287-3157
+Race: W Sex: M
+Rarrative:
+0947- Ron's Towing nolLified/en route

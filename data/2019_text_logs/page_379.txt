@@ -1,1 +1,56 @@
-AGENCY  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  {WIA 39] THE KNOLLS  Narrative:  WCS reports broken water main located in parking lot of  above address. Requesting Water Dept. to shut off water.  MM The Knolls & JM Hoxsey Street without water (fire  sprinklers) at this time.  0146- Water Dept in route.  19-2631  0347  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  (WIA 249] NORTH ST  Unit:  31  Arvd-03:47:35  Cird-03:49:43  19-2632  0546  Initiated - ASSIST OTHER AGENCY  - POLICE  CRIMINAL COMPLAINT  Call Taker  PATROL CRAIG A EICHHAMMER  Location/Address  {WIA 1913] SAND SPRINGS RD  Unit  31  Arvd-05:47:12  Clrd-06:00:24  Unit  32  Arvd-05;:47:31  Clird-06:39:14  Narrative  Assist task force.  0617- 22068 Starting Mileage, enroute to station with one in  custody.  0619~- 22069 Ending Mileage, At Station  0630  In cell  0700  Cell check  0733  Cell check  0814  Out cell; enroute to NBDC; starting 22085.7  0832  @ NBDC 22091.3  Refer To Arrest:  19-20-AR  Arrest  WILLIAMS, LAKARRA M  Address  172 BARBOUR ST Apt.  #I  NORTH ADAMS, MA  Age  28  Charges  ARRESTED ON WARRANT - DOCKET# 1827CR002470  ARRESTED ON WARRANT - DOCKET# 1828CRO01003  Refer To Arrest:  19-22-AR  Arrest:  MORALES, EDWIN N JR  Address:  76 EDBERT ST Apt. #C  CHICOPEE, MA  Age:  22  Charges:  ARRESTED ON WARRANT - ATF FEDERAL WARRANT  19-2633  O714  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  COLD SPRING RD  Location/Address:  Unit:  37K  Arvd-07:14:35 Cird-07:29:04  Unit:  37K  Disp-14:12:31  Arvd-14:12:43  Cird-14:30:41  19-2636  0723  Phone - ASSIST OTHER AGENCY  - FIRE  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  [WIA 19} MAIN ST  Narrative:  Reports an activated fire alarm but they know it is a  mechanical issue and not a fire.  RP requests no WFD 
+AGENCY Call Taker: KALVIN DZIEDZIAK
+PATROL
+Location/Address: (WIA 39] THE KNOLLS
+Narrative:
+WCS reports broken water main located in parking lot of
+above address. Requesting Water Dept. to shut off water.
+ll The knolls « [J] Hoxsey Street without water (fire
+sprinklers) at this time.
+0146- Water Dept in route.
+
+19-2631 0347 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL CRAIG A EICHHAMMER
+Location/Address: [WIA 249] NORTH ST
+Unit: 31
+Arvd-03:47:35 Clrd-03:49:43
+19-2632 0546 Initiated - ASSIST OTHER AGENCY - POLICE CRIMINAL COMPLAINT
+Cal. Taker: PATROL CRAIG A EICHHAMMER
+Location/Address: [WIA 1913] SAND SPRINGS RD
+Unit: 31
+Arvd-05:47:12 Clrd-06:00:24
+Unit: 32
+Arvd-05:47:31 Clrd-06:39:14
+Narrative:
+Assist task force.
+0617- 22068 Starting Mileage, enroute to station with one in
+custody.
+0619- 22069 Ending Mileage, At Station
+0630 In cell
+0700 Cell check
+0733 Cell check
+0814 Out cell enroute to NBDC: starting 22085.7
+0832 @ NBDC 22091.3
+Refer To Arrest: 19-20-AR
+Arrest: WILLIAMS, LAKARRA M
+Address: 172 BARBOUR ST Apt. #J NORTH ADAMS, MA
+Age: 28
+Charges: ARRESTED ON WARRANT - DOCKET# 1827CR002470
+ARRESTED ON WARRANT - DOCKET# 1828CR001003
+Refer To Arrest: 19-22-AR
+Arrest: MORALES, EDWIN N JR
+Address: 76 EDBERT ST Apt. #C CHICOPEE, MA
+Age: 22
+Charges: ARRESTED ON WARRANT - ATF FEDERAL WARRANT
+19-2633 0714 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: PATROLMAN MTCHAEJ:. J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-07:14:35 Clrd-07:29:04
+Unit: 37K
+Disp-14:12:31 Arvd-14:12:43 Clrd-14:30:41
+19-2636 0723 Phone - ASSIST OTHER AGENCY - FIRE LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 19] MAIN ST
+Narrative:
+an activated fire alarm but they know it is a
+mechanical Reports issue and not a fire. RP requests no WFD

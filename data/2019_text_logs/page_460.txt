@@ -1,1 +1,57 @@
-19-3163  1735  Initiated - DISABLED M V  LOG ENTRY REQUEST  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  (WIA 1297] COLD SPRING RD  Unit  30  Arvd-17:37:42 Clrd-17:40:21  Vehicle  GRY 2004  FORD LGTCON Reg: PC MA 6GL712 VIN: 2FTRF182K4CA23835  Operator  MALONEY,  JEFFREY A @ 762 HANCOCK RD - WILLIAMSTOWN, MA 01267-3016  Race: U  Sex: M  Owner  MALONEY,  JEFFREY A @ 762 HANCOCK RD - WILLIAMSTOWN, MA 01267-3016  Race: U  Sex: M  Narrative:  Disabled in  parking lot, owner in process of contacting  Ron's Auto Repair to tow. I advised business owner of same  as she was unaware.  19-3164  1749  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  SIMONDS RD  Unit  38  Arvd-17:49:48  Cird-17:53:04  Vehicle  DBL 2008 HOND 4T PILOT Reg: PC VT FPEM335 VIN: SFNYF184X8B039996  Operator  MORRISSEY, JASON P @ PO BOX 26 - BENNINGTON, VT 05201  Race: W Sex: M  Refer To Citation  71400853  Owner  MORRISSEY, JASON P @ PO BOX 26 ~- BENNINGTON, VT 05201  Race: W Sex: M  19-3165  1803  Initiated ~ MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  NORTH ST  Unit:  38  Arvd-18:03:39 Clrd-18:13:57  Vehicle  BRO 2006 TOYT U HIGHLANDER Reg: PC DC DK3322 VIN: JTEEW21A560031546  Operator  READ, STUART LECONTE @ 3601 ALBEMARLE NW - WASHINGTON, DC 20008  Race:  W Sex: M  Refer To Citation  T1400854  Owner  READ, JOHN P © 3601 ALBEMARLE - WASHINGTON,  De 200084215  Race:  W Sex:  M  19-3167  1920  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  {WIA 190] MAIN ST  Unit:  38  Arvd~-19:21:14  Clrd-19:21:22  Narrative:  Checked 0312  19-3169  2009  Phone - SUSPICIOUS ACTIVITY  LOG ENTRY REQUEST  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  NORTH ST  Vehicle  BRO 2002 OLDS 4D INTREPID Reg: PC VT HGB581 VIN: 1G3WH52HX2F123582  Owner  DIX, CINDY LEE @ PO BOX 21 - NORTH POWNAL, VT 05260  Race:  W Sex: M  Narrative  CP called reporting that today a middle age w/m was taking  pictures of the horses. He had parked at the Condo's and  walked over. She was concerned that maybe he was taking  pictures of kids & women also at location. This was around  1500 hrs. CP was advised to call sooner if he showed up  there again. 
+19-3163 1735 Initiated - DISABLED M V LOG ENTRY REQUEST
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: [WIA 1297] COLD SPRING RD
+Unit: 30
+Arvd-17:37:42 Clrd-17:40:21
+Vehicle: GRY 2004 FORD LGTCON Reg: PC MA 6GL712 VIN: 2FTRF182X4CA23835
+Operator: MALONEY, JEFFREY A @ 762 HANCOCK RD - WILLIAMSTOWN, MA 01267-3016
+Race: U Sex: M
+Owner: MALONEY, JEFFREY A @ 762 HANCOCK RD - WILLIAMSTOWN, MA 01267-3016
+Race: U Sex: M
+Narrative:
+Disabled in parking lot, owner in process of contacting
+Ron's Auto Repair to tow. I advised business owner of same
+as she was unaware.
+19-3164 1749 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SIMONDS RD
+Unit: 38
+Arvd-17:49:48 Clrd-17:53:04
+Vehicle: DBL 2008 HOND 4T PILOT Reg: PC VT FEM335 VIN: SFNYF184X8B039996
+Operator: MORRISSEY, JASON P @ PO BOX 26 - BENNINGTON, VT 05201
+Race: W Sex: M
+Refer To Citation: T1400853
+Owner: MORRISSEY, JASON P @ PO BOX 26 - BENNINGTON, VT 05201
+Race: W Sex: M
+19-3165 1803 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: NORTH ST
+Unit: 38
+Arvd-18:03:39 Clrd-18:13:57
+Vehicle: BRO 2006 TOYT U HIGHLANDER Reg: PC DC DK3322 VIN: JTEEW21A560031546
+Operator: READ, STUART LECONTE ® 3601 ALBEMARLE NW - WASHINGTON, DC 20008
+Race: W Sex: M
+Refer To Citation: T1400854
+Owner: JOHN P @ 3601 ALBEMARLE DC 200084215
+READ, - WASHINGTON,
+Race: W Sex: M
+19-3167 1920 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: [WIA 190] MAIN ST
+Unit: 38
+Arvd-19:21:14 Clrd-19:21:22
+Narrative:
+Checked 0312
+19-3169 2009 Phone - SUSPICIOUS ACTIVITY LOG ENTRY REQUEST
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: NORTH ST
+Vehicle: BRO 2002 OLDS 4D INTREPID Reg: PC VT HGBS81 VIN: 1G3WHS52HX2F123582
+Owner: DIX, CINDY LEE @ PO BOX 21 - NORTH POWNAL, VT 05260
+Race: W Sex: M
+Narrative:
+CP called reporting that today a middle age w/m was taking
+pictures of the horses. He had parked at the Condo's and
+walked over. She was concerned that maybe he was taking
+pictures of kids women also at location. This was around
+1500 hrs. CP was advised to call if he showed
+there again. sooner up

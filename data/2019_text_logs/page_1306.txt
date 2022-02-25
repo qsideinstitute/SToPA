@@ -1,1 +1,54 @@
-Unit  34  Disp-01:09:22 Enrt-01:09:50 Arvd-01:21:25  Clrd-01:38:23  Vehicle  VIN: 2HGFAL6509H527725  GRY 2003 HOND SE CIVIC Reg: PC MA 4JZ666  Operator  ABARNO, VICTORIA L @ 52 MAYNARD RD - NORTHAMPTON, MA 01060-0000  Race:  U Sex: F  Owner  ABARNO, VICTORIA L @ 52 MAYNARD RD - NORTHAMPTON, MA 01060-0000  Race: U Sex:  F  Narrative  cP states that ((RBBRRRMBBMR) called AAA because her car  is stuck in «a ditch on the corner of Roaring Brook Rd and  New Ashford Red.  CP states that party is not injured but AAA  wants to send officers to the scene.  0129 Rons notified and enroute.  0205 Rons on scene.  Narrative  M/V¥ pulled out without damage, just stuck from attempting to  turn around. Ron, m/v clear from scene and sent on there  way  19-9593  o157  Initiated ~- SUSPICIOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Cali Taker  PATROL KEVIN P GARNER  Location/Address  [WIA 2096]  MAIN ST  Unit  34  Arvd-01:58:33  Clyrd-02:00:21  Vehicle  WHI 2018 FORD VN TCN Reg: CO NY 836070W VIN: NMOLSGE?191379129  Owner  HARNEY & SONS TEA CORP @  - MILLERTON, NY  Narrative  Van parked in east lot, nobody around.  19-9595  0340  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKT  Location/Address:  [WIA 390] STIMONDS RD  Unit:  22  Arvd-03:40:54  Clrd-03:40:59  19-9596  0728  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  LUCE RD  Location/Address:  Unit:  30  Arvd-07:28:32  Clrd-07:58:30  Narrative:  checked  19-9597  O366  Initiated - BUILDING CERECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HOPPER RD  unit  39  Arvd-09:07:21  Clrd-09:08:20  Narrative  Checked  Narrative  Checked Area.  19-3612  0915  Cellular - SUSPICIOUS MOTOR VEHICLE  INVESTIGATED / REPORT  TAKEN  Call Taker  PATROL BRAD SACCO  Location/Address  [WIA 2002} LUCE RD  Vehicle  GRY 2011 SUZI Sx4  Reg: PC MA 929KE9  VIN: JS2YB5A30B6305104  Owner  BISHOFF, JOSHUA HENRY @ 23 WALNUT ST Apt.  #4  - N ADAMS, MA 01247-0000 
+Unic: 34 Clrd-01:38:23
+Disp-901:03:22 HEnrt-21:04:50 Arvd-01:22:25
+Vehicle: GRY 2009 EOND SE CIV.( Xeg: PC MA 4JXZe66 VIN: zECFAL65L9H52772:
+UpCretoy: ABARNQ, VICIORLA L © 52 MAYNARD RD - NORKTEAMI*'ON, MA 01050-0000
+Race: U Sex: F
+owner: ABARNO, VICTORIA LE 52 MAYNARD RD - RORTHAMPTON, MA 21060-0000
+Race: U Efex: IF
+Narrative:
+cp states that (EE c2112¢ AAA because her car
+is stuck in a ditch on the cerner of Roaring Brook RE and
+New Ashford Rd. CP stztes that party is not injured but AAA
+wants *o send officers tc tle scene.
+0129 Rong notified and enroute.
+0205 Rong on sccne.
+Narrative:
+M/V pulled out without damage, just stuck from attempting to
+turn around. Ron, m/v clear from scene and sent on there
+WEY.
+19-5593 a157 Initiated - SUSPICIOUS MOTOR VEHICLE LOG ENTRY REQUEST
+Call 't'axer: PATROL KEVIN 2 GARNER
+Locat.on/Addregy: [WZA 2098] MAIN ST
+Unit: 34
+Arvd-01:58:32 Clxd-02:00:21
+Vahicle: WH- 2018 FCRD VN TCN Reg: CO NY B82607JW VIN: NMOLSEE71J1375129
+Jumear: HARNEY  SCHS TEA COXZ ® - MILLERTON, NY
+Narrative:
+Van parked in east lot, nobody around.
+19-9595 0340 inltiated - PARKING CHECK SERVICES RENDERED
+Ca.l Taker: PATROMAN SCOTT SKORUPSKI
+Locaticn/Addressy: [WIA 390] SIMONDS RD
+Unit: 32
+Arvd-05:40:52 Clrd-02:40:39
+19-9596 0728 Initiated - TRAFFIC COKTROL BERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: LICE RD
+Init: 33
+Arvd-07:28:32 Clrd-07:58:30
+Narrative:
+checked
+19-9537 0508 Initiated - BUILDING CHECK BUILDING CHECEED/SECURYD
+Cail Taker: SERGZANT 800TT E MOGOHAN
+Location/Address: HOPPER 3D
+unic: 39
+Arvd-09:07:21 Clrd-09:08:20
+Narrative:
+Theazed
+Harrative:
+Chenxed Area.
+19-9612 0915 Callular - BUSPICIOUS MOTOR VEHICLE INVESTIGATED / REPORT
+TAKEN
+all “Takor: PATROL BRAD SACCC
+Locd..ion/Adérens: [WIA 2002: LUCE RD
+Vchicle: GRY 2011 SUZI 34 Reg: PO MA 929KE9 VIN: JS2YB5A30B6305104
+Owner : BISEOFF, JOSHUA HENRY # 23 WALNUT ST Apt. fi4 - N ADAMS, MA (1247-0000

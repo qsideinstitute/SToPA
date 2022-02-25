@@ -1,1 +1,50 @@
-Unit  33  Arvd-11:00:11 Clrd-11:01:36  Narrative  Checked S-4  17:21  Narrative  done  Narrative  Checked  19-3242  1100  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  LONGVIEW TER  Location/Address  Unit  37K  Arvd-11:00:32 Clrd-11:00:52  Narrative  checked  Narrative  Checked  19-3244  1128  Initiated - FOUND/ LOST PROPERTY  SERVICES RENDERED  Call Taker  ALL EQUIPMENT POLICE DEPARTMENT  Location/Address  {WIA 191] MAIN ST  Unit  38  Arvd-11:28:00 Cird-11:30:59  Narrative  Located 3/4 drive extension in middle of road.  Refer To Incident:  19-63-OF  19-3245  1200  Phone -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  {WIA 33] STETSON RD  Narrative:  CP reports her dog walker lost her dog on the walking trail  by cole field. Dog is a medium mix dog, yellow and brown.  1426 dog located by RP.  19-3247  1412  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  FRENIER AVE  Location/Address:  Unit:  37K  Arvd-14:13:03  Cird-14:13:10  Narrative:  checked  Narrative:  Checked  19-3248  1413  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  HARWOOD ST  Unit  37K  Arvd-14:13:54  Clrd-14:14:05  Narrative  checked 
+Unit: 33
+Arvd-11:00:11 Clrd-11:01:36
+Narrative:
+Checked §S-4 17:21
+Narrative:
+done
+Narrative:
+Checked
+19-3242 1100 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: LONGVIEW TER
+Unit: 37K
+Arvd-11:00:32 Clrd-11:00:52
+Narrative:
+checked
+Narrative:
+Checked
+19-3244 1128 Initiated - FOUND/ LOST PROPERTY SERVICES RENDERED
+Call Taker: ALL: EQUIPMENT POLICE DEDARTMENT
+Location/Address: [RIA 191] MAIN ST
+Unit: a8
+Arvd-11:28:00 Clrd-11:30:59
+Narrative:
+Located 3/4 drive extension in middle of road.
+
+Refer To Incident: 19-63-0OF
+19-3245 1200 Phone - ANIMAL CONTROL SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 33] STETSON RD
+Narrative:
+CP reports her dog walker lost her dog on the walking trail
+by cole field. Dog is a medium mix dog, yellow and brown.
+1426 dog located by RP.
+19-3247 1412 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: FRENIER AVE
+Unit: 37K
+Arvd-14:13:03 Clrd-14:13:10
+Narrative:
+checked
+Narrative:
+Checked
+
+19-3248 1413 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HARWOOD ST
+Unit: 37K
+Arvd-14:13:54 Clrd-14:14:05
+Narrative:
+checked

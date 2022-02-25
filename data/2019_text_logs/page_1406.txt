@@ -1,1 +1,53 @@
-Vehicle  i999 Reg: TL ME 2273770 VIN: 843207W  Operator  #85  - CROPSEYVILLE, NY  GOYER, MITCHELL ETHAN @ 504 COUNTY ROUTE Apt.  12052  Race:  W Sex: M  Owner  GARDY, BRANDON @ 440 COUNTY RT Apt. #85 -  CROPSEYVILLE, NY 12082  Race:  W  Sex: M  Refer To Citation  Ti785822  19-10244  1845  Phone - PARKING CHECK  SERVICES RENDERED  Cail Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 205]  MAIN ST  Vehicle:  BLU 2013 VOLK TIGUAN Reg: PC MA 9NG925  VIN: WVGBV3AKXDN574689  owner:  MARCEAU, STEPHEN M @ 146 WALKER ST - N ADAMS,  MA 01247-2865  Race:  UG Sex:  Mi  Narrative:  Caller's Volkswagon (MA PC 9NG925)broke down. He was able to  get it into above parking lot. Will be making arrangements  to have it towed by Monday morning before the business  opens.  1989-10245  1855  Initiated +- BUILDING CHECK  BUZLDING CHECKED/SHCURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  SOUTHWORTH ST  Unit:  34  Arvd-18:55:22 Clrd-18:55:39  Narrative:  Checked  Narrative:  done  19-10247  2022  Initiated - BUTLDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [NIA 910] TACONIC TRL  Unit:  34  Arvd-20:23:18 Clrd-20:23:26  Narrative:  Checked  Narrative:  Checked 0331  19-10248  2036  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  HATER ST  Unit  38  Arvd-20:36:49 Clrd-20:45-:42  Vehicle  WHI 2004 HOND PILOT Reg: PC MA 2D2197  VIN: 2HEYF18524H609686  Operator  POLITIS, OWEN A @ 201 COLE AVE Apt.  #203 - WILLIAMSTOWN, MA 01267-  2590  Race:  W Sex:  M  Refer To Citation:  TI785996  Owner:  POLITIS, GARRETT A @ 1254 NORTH HOOSAC RD - WILLIAMSTOWN, MA 01267-  43i7  Race:  U Sex: M  19-10249  2106  initiated - MOYOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  WATER ST 
+Vehicle: 2999 Reg: TL ME 2273770 VIN: 543207W
+Opcratox: GOYEx, MITCHEL:: ETHAN @ 504 QOUNTY ROUTE Apt. #83 - CROPSFYVILLE, NY
+12052
+Race: W Sex: M
+Owner: GARDY, DBRANLCON @ 440 COUNTY RT Apt. #85 - CROPSEYVILLE, NY 12082
+Race: WH Sex: M
+Refer To Citation: T_T7E5022
+19-10244 1845 Phone - PARKING CHECK SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPZR
+Location/Address: [WIA 205] MARIN 87
+Vehicle: RTU 20713 VOLK TTGUAN Reg: PC MA SNGS25 VIN: WWCEBVIAXXUWS 74889
+Ovmer: MARCEAU, STEPHEN M @ 146 WALKER ST - N ALAMS, MA 01247-2H65
+Race: U Bex: M
+Narrative:
+Cal cr's Volkawagon (MA 2C 9N3925) broke dow:. Ze wus able Lo
+gel it into above parking lot. Will be muking arrzngements
+tu have it towzd by Monday morning beiore the husiness
+opens.
+19-10D0245 1855 Initiated - BUILDING CHECK BUILDING CHECKED/SZCURED
+Cal. Tskexr: PATRCL ANTHOKY M CUPRAT
+Locaticn/Address: SCUTHWORTH ST
+mit: 34
+Arvd-18:55:22 (Clrd-18:54:34
+Narrat-_ve:
+Checked
+Narrative:
+done
+19-10247 2022 Initiated - BOILDING CHECK BUILDING CHECKED/SECURED
+O31] Taker: FATROT, ANTHONY VM [DUPRAT
+Teccation/Address: [WIA 9:0] TACOKIC TRL
+Unit: 34
+Arvd-20:43:18 Clr3-20:23:28
+Narrztivea:
+Checked
+Harrevive:
+Checked 0331
+19-10248 2038 Initiated - MOTOR VEHICLE BTOP CITATION - WARNING
+Call Taker: PATROS JOEN © MCOONNELT on
+Location/Address: WATER ST
+Unit: 38
+Arv@E-20:36:49 Clré-20:45:42
+Vehicle: WI Z004 IIOND FILOT Reg: SC MA 2DE197 VIN: 2HKYFIES524H60936
+Cperator: POLITIS, OWEN A @ 201 COLE AVE Anc. #203 - WILLIAMSTOWN, MA 01267
+2580
+Raca: W Sex: M
+Refer To Citetion: T-78599G
+Cuwncy: MOLINIS, CGARRETIYN A 4 1254 NORTH ZCOSAC RD - WILLTAMSTOWNN, MA 0)767-
+2317
+Race: U Sex: M
+2106 Initiated MOTOR VEHICLE BTOP CITATION WARNING
+19-102495 - -
+Call Talker: PATROL ANTHONY M DUPRAT
+Local ion/Address: WATER ST

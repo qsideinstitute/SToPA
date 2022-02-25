@@ -1,1 +1,47 @@
-Arvd-10:27:33  Clrd-10:29:11  Narrative:  MA PC 9HS585,  7KF260,  7FR&74,  272¥M9,  CT PC 1AENX2,  PA PC  FVC2704, NY PC JDE6GS50.  Narrative:  checked  Narrative:  Checked.  Narrative:  Checked S-4  11  16  Narrative:  PA  PC FVC2704  MA PC 4AR395  Narrative:  31  Checked 0001  PA  FVC2704  Narrative:  32  Checked, 0130 and 0245  Narrative:  31  checked 0347  19-9373  1035  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  BULKLEY ST  Location/Address  Unit  37K  Arvd-10:35:56  Clrd-20:36:03  Narrative  Checked  Narrative  31 checked 0211  19-9374  1039  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA or  Location/Address  COLD SPRING RD  Unit  37K  Arvd-10:39:40  Clrd-10:39:52  Narrative  18:06  Checked $-4  Narrative  32 checked 0201  19-9375  2055  {Initiated + BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROLMAN MICHAEL J ZTEMBA Ur  Location/Address  HOPPER RD  unit  37K  Arvd-10:55:37  Cird-10:56:12  Narrative  Checked  Narrative  32 checked 0226 
+Arvi-10:27:33 Clrd-10:29:11
+Narrative:
+MA PC 21i8385, 7KF260, TFR874, 272YM9?, CT EC 1AENX2, PA FC
+C704, NY PC JDZ6550.
+Karrative:
+checked
+Harrative:
+Checked.
+Narrative:
+Checked 5-4 16:11
+Narrative:
+PA PC FYI2704 MA BC 4AARI95
+Harvative:
+31 Checked 0021
+pA PYC27T04
+Narrative:
+32 Checkad, 0130 and 0243
+Narrative:
+31 checked 0347
+1035 Initiated
+13-9373 - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: Taker: DATROLMAN MICHAEL J ZIEMBA Jr
+Local:ion/Address: BULKLEY St
+Jaib: 37K
+Arvd-iQ:35:56 Clrd-10:36:03
+Nuarratzve:
+Checked
+Narrallve:
+31 checked 2211
+15-9374 1039 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+mik: A7K
+Arvd-10:39:40 Clrd-10:39:52
+Narrative:
+Checked 8-4 18:05
+Narrazive:
+32 checked 0201
+19-9375 1035 Initistad - BUILDING CHECK BUILDING CHECKED/3ECURED
+Call Takgor: BATROLMAN MICHAEL J ZTEMBA Jr
+Location/Adcreus: HOPPYH xD
+Unlil: 7X
+Arvd-10:55:37 Clrd-10:56:12
+Baurralbive:
+Checked
+Karrative:
+312 checked 02Z6

@@ -1,1 +1,44 @@
-Narrative  3FP136  Narrative  Checked  Narrative  checked  Narrative  Checked  §-4  19:22  Narrative  done  19-13298  0846  Initiated - BUILDING CHECK  SUILDING CHECKED/SECURED  Cali Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  PINE COBBLE RD  Unit:  35  Arvd-08:47:30  Clrd@-08:48:24  Narrative:  VA  UTI3007  Narrative:  355TH3  wy  FLL6070  Narrative:  MA SDN682,  243027  Narrative:  Checked S-4  empty 19:28  Narrative:  empty  Narrative:  Checked Area.  19-13299  e852  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  {WIA 1832] NORTH HCOQSAC RD  Unit:  a5  Arvd-08:52:59 Clrd-08:54:58  Narrative  Checked  Narrative  Checked  Narrative  Checked 5-4  19:32  Narrative  done  Narrative  done  19-13301  g938  Initiated ~ BUILDING CHECK  BULLDING CHECKED/ SECURED 
+Karretive:
+IFPl3é
+Narrative:
+Cheoxed
+Narratives:
+Narrative:
+checxed 5-4 19:22
+Narrative:
+dones
+15-13298 0846 Initiated - BUILDING CHECK BUTLDING CHECKED/SECURED
+Call Taker: PATROS, ANTHONY M DUPRRL
+Iacation/Address: PIKE COBALE RD
+Unit: 35
+Arvd-08:47:30 Clrd-08:48:24
+Natrativa:
+va ITJ3507
+Narrative:
+Mr 365TH3
+NY FLLG0O7D
+Narrative:
+243WZ7
+MA SDNG632,
+Narrative:
+Checked S-4 eupty 19:28
+Narrative:
+empty
+Narral vg:
+Cheeoked Area,
+15-132585 842 Initiated - BULLDING CEECK BUILDING CHECKED/SRCUORED
+Cal: Taker: PATRON ANTHONY M DUPRAT
+Lecation/Addrogs: WLA i832] NOXTH HCOSAC RD
+Unit: 35
+Arvd-08:52:59 Clrd-0E:54:48
+Narrat_ve:
+Checked
+Narrabzive:
+Checked
+Narrative:
+Checked S-4 19:32
+Narracive:
+done
+Marrative:
+done
+19-133001 0938 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

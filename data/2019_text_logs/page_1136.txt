@@ -1,1 +1,51 @@
-19-3477  1844  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cail Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 910) TACONIC TRL  Unit  32  Arvd-18:44:37  Clrd-18:44;50  Narrative  Checked 0306  19-8482  2136  912 - PUBLIC SERVICE  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 164] SPRING ST  Narrative:  Party came out of the Theater Festival and lost her bearings  to get back to the Williams Inn in the dark. With a  description of her surroundings and following her location  on the 911 map, was able to direct her back to the Inn.  For Date:  07/07/2019  -  Sunday  19-8443  0055  initiated - SUSPICIOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Call Taker  PATROL KEVIN P GARNER  Location/Address  MAIN ST  Unit  a4  Arvd-00:56:12  Clrd-00:56:43  Vehicle  WHI 2017 NISS ROGUES Reg: PC MA 7KX499 VIN: JNIBJ1CR6HW117289  Owner  CRAWFORD, VICTORIA R @ 11 & HOOSAC ST - ADAMS, MA 01220-1705  Race: U Sex: U  Narrative  Car parked in front, nobody around.  13-8484  0103  Initiated - MOTOR VEHICLE 8TOP  CITATION - WARNING  Call Taker  PATROL CRAIG A EICHHAMMER  Location/Address  COLD SPRING RD  unit  a1  Arvd-01:03:03  Clrd-01:07:33  Vehicle  GRY 2008 SAA ST 95  Req: PC MA VXEL87 VIN: YS3ED59G683504059  Operator  PETERS, DAMIEN JOHN @ 83 BRACEWELL AVE - NORTH ADAMS, MA 01247-2524  Race:  U Sex: M  T1785884  Refer To Citation  owner  PETERS, DAMIEN JOHN @ 83 BRACEWELL AVE - NORTH ADAMS, MA 01247-2524  Race: U Sex: M  19-8485  0123  Initiated + SUSPICIOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Cail Taker:  PATROL KEVIN P GARNER  Location/Address:  (WIA 99] SIMONDS RD  Unit:  34  Arvd-01:14:24  Clrd-01:15:02  Vehicle:  BLK 2006 CHEV EQUINO Reg: PC MA GDX138  VIN: 2CNDLT3F966117489  Owner:  LARABEE,  MELISA D @ 129 HENDERSON RD - WILLIAMSTOWN,  MA 01267-2203  Race:  UO «Sex: F  Narrative:  Car parked in back, nobody around  19-8486  0210  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  MAIN ST  Unit:  34 
+15-8477 1844 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [W1A 910] TACONLIC TRL
+Unit: 32
+Arvd-18:44:37 Cird-19:44:50
+Narravlive:
+Checked 0306
+19-8482 2135 $11 - PUBLIC JERVICE SERVICES RENDERED
+Call Taker: DISPATCHRR TAURTE TUFER
+Location/Address: [WTA 164] SPRING ST
+Narrative:
+Party came cut ¢© che Theater Featival and lest her bearings
+to get back to the Willjiams Inn in the dark. With a
+descriviion of her surroundings end following hey location
+on the 9211 map, was able to direct her back to the Inn.
+For Date: 07/07/2019 - Sunday
+19-8483 0085 Initiated - SUSPICIOUS MOTOR VEHICLE LOG ENTRY REQUEST
+Call Taker: PATROL KEVIK P GARNER
+Location/Address: MAIN ST
+nit:
+24 Avvd-00:5:12 Clrd-00:56:43
+Veliicle: WHI 2017 NISE ROQUES Reg: PC MA TKX459 VIN: JN1BJLCRGHW117289
+Owpier: CRAWSDRD, VICTORIA R @ 11 § HOOSAC ST - ADAMS, MA 01220-1705
+Race: UU Sex: U
+RNarrabive:
+Car parked in [rocl, nchody around.
+19-8484 0103 Initiated - MOTOR VEHXICLR BTOP CITATION - WARNING
+Call Taker: FATRCL CRAIG A EICHHAMMER
+Location/address: COLD SPRING RD
+iv: 11
+Arvd-02:03:02 C:rd-01:37:33
+Vehicle: GRY 2008 SAA ST 95 Reg: PC MA 7XE187 VIN: YS3IEDS59G6B3504059
+Operator: PETERS, DAMIEN JOHK ® 83 BRACEWELL AVE - NORTH ADAMS, MA 01247-2524
+aca: UT Sex: M
+Refcr To Uitalion: T17BhHESL
+cwner: PETERS, DAMIEN JOIIN @ B3 BRACEWELL AVE - NORTH ADAMS, MA 01247-2524
+Race: U Sex: K
+15-8485 0113 Initiated - BUSEICIOUE MOTOR VEHICLE LOG ENTRY REQUEST
+Cal: Taker: FATROL KEVIN PF GARNEX
+Location/Address: [WIA SD. SIMONLS RD
+Unit: 34
+Arvd-<l:14:24 Clxd-01:15:02
+Yehicle: BLK 2006 CHEV EQUINC Reg: BPC MA GDX13B VIN: 2C0DL73r95611748¢
+Oumner: LARABEE, MELISA D 129 HENDERSON RD - WILLIAMSTOWN, HA 01267-2203
+Race: iJ] Sex: F
+Nerrative:
+Car parked In back, nobody around
+19-8486 0210 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROT, KBVIN 7 GARNER
+MAIN ST
+Location/Address: Unit: 34

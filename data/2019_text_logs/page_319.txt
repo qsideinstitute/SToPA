@@ -1,1 +1,51 @@
-19-2233  1029  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address  HILL PROVINCE RD  Unit  33  Arvd-10:30:18  Clrd-10:32:23  Narrative  Checked 5-4  17:43  Narrative  02/21/2019 0241 Checked S3  19-2234  1033  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  HAWTHORNE RD  Unit  33  Arvd-10:34:25  Clrd-10:35:32  Narrative  Checked S-4  17:41  Narrative  02/21/2019 0246 Checked $3  19-2237  1117  Phone - TRAFFIC CONTROL  UNABLE TO LOCATE  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  (WIA 191] MAIN sT  Unit  34  Disp-11:18:00 Enrt-11:29:24 Arvd-11:32:44  ‘Clrd-11:33:53  Narrative  Passing motorist advising that there is an elderly male  party that seems to be stuck on a snow bank in front of  location,  19-2238  1147  $11 - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Narrative:  Tele marketer call.  19-2240  1257  911 - 9-1-1 WRONG NUMBER  LOG ENTRY REQUEST  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Narrative:  Tele marketer.  19-2243  1439  Phone -  ANIMAL CONTROL  CITATION - CIVIL  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  BALLOU LN  Unit  34  Vehicle  Disp-14:40:39 Enrt-14:41:04 Arvd-14:43:48 Gird-15:03:56  Operator  DEFREITAS, TODD J @ 710 HENDERSON RD - WILLIAMSTOWN, MA 01267-2217  Race: W Sex: M  Refer To Citation  00724  Narrative:  Reports 20 minutes ago, a blk/whi collie in her yard. Dog  was wearing a collar, but would not come close enough to  her. Last seen walking towards the Ballou/White Oaks  intersection.  34 has dog in car. Owner will meet at the bottom of Brook  Rd.  3rd Violation. 
+19-2233 1029 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: CRIEF KYLE J JOHNSON
+Location/Address: HILL PROVINCE RD
+Unit: 33
+Arvd-10:30:18 Clrd-10:32:23
+Narrative:
+Checked 8-4 17:43
+Narrative:
+02/21/2019 0241 Checked S3
+19-2234 1033 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: HAWTHORNE RD
+Unit: 33
+Arvd-10:34:25 Clrd-10:35:32
+Narrative:
+Checked S-4 17:41
+Narrative:
+02/21/2019 0246 Checked S3
+19-2237 1117 Phone - TRAFFIC CONTROL UNABLE TO LOCATE
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: [WIA 191] MAIN ST
+Unit: 34
+Disp-11:18:00 Enrt-11:29:24 Arvd-11:32:44 Clrd-11:33:53
+Narrative:
+Passing motorist advising that there is an elderly male
+party that seems to be stuck on a snow bank in front of
+location.
+19-2238 1147 911 - 9-1-1 WRONG NUMBER LOG ENTRY REQUEST
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Narrative:
+Tele marketer call.
+19-2240 1257 911 - 9-1-1 WRONG NUMBER LOG ENTRY REQUEST
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Narrative:
+Tele marketer.
+19-2243 1439 Phone - ANIMAL CONTROL CITATION - CIVIL
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: BALLOU LN
+unit: 34
+Disp-14:40:39 Enrt-14:41:04 Arvd-14:43:48 Clrd-15:03:56
+Vehicle:
+Operator: DEFREITAS, TODD J @ 710 HENDERSON RD - WILLIAMSTOWN, MA 01267-2217
+Race: W Sex: M
+Refer To Citation: 00724
+Narrative:
+Reports 20 minutes a blk/whi collie in her
+was wearing a collar, ago, but would not close yard. Dog
+her. Last seen towards the Ballou/White come enough Oaks to
+intersection. walking
+34 has in will
+Rd. 3rd dog Violation. car. Owner meet at the bottom of Brook

@@ -1,1 +1,48 @@
-Narrative:  Checked Same vehicle  Narrative:  PA KRY3202  Narrative:  1 car, no damage  Narrative:  Checked §-4  13:34  Narrative:  Checked Area.  Narrative:  10/18/2019 0137 Checked S3  Narrative:  Checked Area.  Narrative:  10/18/2019 0350 Checked 83  Narrative:  Checked Area.  49-12959  0933  initiated ~ ROAD CONDITIONS  TAKEN/REFERRED TO OTHER  AGENCY  Cali Taker  PATROL ANTHONY M DUPRAT  Location/Address  ELM ST + MAPLE ST  Unit  34  Arvd-09:36:25 Clrd-09:38:34  Narrative  Large tree branch across roadway, branch removed from road  placed in front of 66 Elm. Dispatch to contact highway.  19-12960  0939  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  HALL ST  Unit:  34  Arvd-09:40:13  Clrd-09:45:25  Narrative:  MA 11T690  Narrative:  Checked  Narrative:  Checked §$§-4  17:57  Narrative:  done  Narrative:  10/18/2019 0147 Checked 33  19-12961  0947  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  HOODLAWN DR  Unit:  34  Arvd-09:47:30  Clyrd-09:49:16 
+Karrative: Same vehicle
+Chasxed
+Karrative:
+PA EKRY3202
+Narrative:
+1 car, nc damage
+Karrazive:
+Thecked S5-4 9:34
+Narra-ive:
+Checked Area.
+Narrazive:
+12/18/2019 0137 Checked S3
+Harrazive:
+Checked Arca.
+Narrative:
+10/16/2519 0350 Checked S2
+Narrazive:
+Checked Arca.
+TAXEN/REFERRED TOD OTHER
+19-1295959 0933 Initiated - ROAD CONDITIONS
+AGENCY
+Call Taker: PATROL ANTIIONY M DJPRAT
+Locatioen/Address: ELM ST - MAPLE ET
+Unit: ad
+ArvE-D09:36:25 Clrd-09:28:34
+Narrative:
+large tree hranch across roadway, branch removed trowm xvad
+placed in front of 66 Zlm. Pispatch te contact highway.
+19-129860 0939 Initiated - BUILDING CHECK SERVICES RENDERED
+Call Taker: PATROL ANTHONY MM DURRAT
+Locaticn/Address: HALL ST
+Unit: 34
+Arve-09:40:13 Civd-09:45:25
+Narrative:
+MA 11TES0
+Yarrative:
+Checked
+Harravive:
+Checked S-4 _7:57
+Marrazive:
+done
+Narrazive:
+12/18/2019 0147 Checked $3
+BUILDING CHECK SERVICES RENDERED
+19-12561 0247 Initiated -
+Call Takar: FATROL ANTIIONY BM: DUSRAT
+Location/addreas: WOODLAWK DR
+Unit: 34 Arvd-09:47:30 Clrd-09:49:16

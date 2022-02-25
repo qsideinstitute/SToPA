@@ -1,1 +1,56 @@
-5626  Race:  W Sex: F  Refer To Citation:  TI785852  Owner:  DIPIETRO,  KAYLA ELISABETH @ 35 DORCHESTER AVE - PITTSFIELD, MA 01201-  5626  Race: W Sex: F  1419-11609  1053  Waik-in - 8.0.4.0.  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WEA 32] MAIN ST  Unit  37K  Disp-10:57:32 Enrt-10:57:48  Clyd+11:05:27  Vehicle  VIN: JHMGESH39DC011868  BLU 2013 HOND FIT Reg: PC MA 815EA3  Operator  GOODMAN, J CAROL @ 51 CLUETT DR - WILLIAMSTOWN, MA 01267-2804  Race:  U Sex: F  Owner  GOODMAN, J CAROL @ 51 CLUETT DR - WILLIAMSTOWN, MA 01267-2804  Race:  U Sex: F  Narrative  Party reports a elderly female was in the parking lot of  Aubuchon Hardware,  when she ment to hit the brake while in  park but hit the gas and reved her engine. RP thinks female  should not be driving and incapable of proper operation.  Narrative  Vehicle in driveway at home. Spoke w/ operator, all ok.  19-22610  1132  Phone -  LARCENY  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  {WIA 471] OBLONG RD  Narrative:  CP reports he had a UPS package stolen from his porch on  09/16/2019 around 12:00PM. UPS package contained a vegetable  paring knife worth $80.00. CP stated he reported the stolen  package to UPS.  49+11611  1204  Initiated - MOTOR VEHICLE sTopP  CITATION - WARNING  Call Taker:  PATROL BRAD SACCO  Location/Address  HANCOCK RD  Unit  35  Arvd-12:04:08  Clrd-12:13;:12  Vehicle  GRN 2011 CHEV Colorado Lt  VIN: 1GCUTCF94B6122450  Reg: CO CT 107383  Operator  BESSETTE, HENRY @ 88 KING ST - DANBURY, CT 06811-2730  Race:  W Sex: M  Refer To Citation  T2085273  Owner  BESSETTE, HENRY @ 88 KING ST - DANBURY, CT 06811-2730  Race:  W Sex: M  19+11612  1220  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  COLD  SPRING RD  Unit  35  Arvd-12:20:35  Clyrd-12:40:54  Vehicle  RED 2015  MAZD 3  Reg: PC MA 6DP558 VIN: 3MZBM1L75FM133111  Operator  LEO, SUSAN @ 4 LENOX RD - WEST STOCKBRIDGE, MA 01266-9347  Race:  W Sex:  F  Refer To Citation  T2085274  Owner  LEO, SUSAN @ 4 LENOX RD - WEST STOCKBRIDGE, MA 01266-9347  Race:  W Sex: F  Narrative  Sharon,  the administrator for Sweet Brook told me directly  that Mrs. Leo may leave her car in the lot as long as it  takes to get it registered. 
+E626
+Race: W Bex: Fk
+Refer To Jication: LY BhHER2
+Swier: DIFLIBIRO, KAYLA YWLISARETE 2 35 DORCIISTER AVE - PITTSFISLD, Ma 41201-
+XAaCo: WO Sax: F
+19-116009 1053 Waik-In - 8.0.5.0. SERVICES RENDERED
+Call Feuer: PATRCL ANTIIONY M LCUPRAT
+Locaticn/address: [WIA 32] MAIN 37
+eit: J7K
+Dian-13:57:32 Fnvt-10:37:42 cord 11:05:27
+Veh “gle: RIU 20.3 HORD FI 1' Heqg: 2C MA H15EA3 V_N: JHMGESI3ODCOllGeR
+Operazcr: COOOMAN, J CARROL § 51 OLUETT DR - WILLIAMSTCWN, MA 01267-2804
+Rage: U Sex: F
+Owner: CAOCOMAEN, J CARDL @ S51 CTLUETT Di - WILLIAMSTOWN, MA 0l1zZ67-:804
+Ragu: U Sex: F
+NarrelLleo:
+Furty reports a elder.y female wse in the parking lot of
+Aubuchon Eardware, when she ment to hit the hrake while in
+park but Lit the cas and reved her engine. RP thinks femals
+should not be driving and inzapable of proper operaticn.
+Narrazive:
+Velhicle in driveway arn home. Epnke w/ crnerator, all cok.
+19-111610 1132 Phone - LARCENY EERVICES RENDERED
+“all Taker: PATROL ANTHCNY M DUT'RAT
+Location/Address: [WZa 471] OBLONG 2D
+Narrative:
+CP repcrts he had a U»S package stolen frem his porch on
+05/16/2019 around 12:00PM. UPS package contained a vegenabie
+paring knife worth $80.00. CP statsd he reported the stalan
+package nc UPS.
+15-11611 1204 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Takcr: PATROL BRAL SACD
+—ocal lon/Add-ess: HANCOCK xD
+Un_w: a5
+Arvd-22:04:08 Clrd-12:13:12
+Vehlelc: CRN 2011 CHEV Coioxcde LE Reg: CU OT 1C73E3 VIN: 1GUJTCF24BE122453
+Opezalor : SDEBSETTE, HEKRRY @ BE KING 57 - DANBURY, CT 06811-2730
+xace: Ww Sex:
+Kefcr “eo Cicat-on: L20E-did
+ener: SAS8RTTR, HEKRY @ BE KTNQ S87 - DANRIRY, CT 06R:IL-2730
+ace: WW Sax: M
+19-111612 12240 Initiated - MOTOR VFRICLE STOP CLTATION - WARNING
+Call Taze—: PATROL 3RAD SACSC0
+Locatien/Aaddrenn: CCLL SPoLNG RL
+Uil: 35
+Arvid 12:20:35 Clrid 12:40:54
+Vehocle: RED 20_.5 MAZD 2 Reg: PC MA 6DRS58 VIN: SMZBM1L7ZFB13311C
+Operascr: LEQ, SUSAN @ 4 LENOX RD - WEST STOCKEBRIDOE, MA 01266-9347
+Rave: BW Sex: F
+Rofer To Cileiion: TAQUS :"74
+owmer: ZED, 8SUSAN @ 4 LENOX RD - WEST STOCFBRILGE, MA 01266-9347
+Race: W Sex: PF
+Narraznive:
+Sharon, the acdminigkrator for Sweehk hHrook told
+that Mrs. Teo lz2ave her car n the 1on as long me direckly as it
+takes “¢ get it ray registered.

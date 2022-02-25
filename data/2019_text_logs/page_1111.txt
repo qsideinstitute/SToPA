@@ -1,1 +1,50 @@
-Location/Address:  CHURCH ST  Unit:  35  Disp-19:26:58  Enrt-19:27:28  Arvd-19:30:40  Cird-19:50:54  Narrative:  Party requesting escourt to vehicle as she feels threatned  by a group of people outside of her home.  Narrative:  Party escorted to her car with no incident.  29-8328  1932  Phone -  TRAFFIC COMPLAINT  UNABLE TO LOCATE  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  (WIA 38G] MAIN ST  Unit:  32  Disp-19:32:38 Enrt-19:33:03  Arvd-19:35:09  Clrd-19:35:42  Narrative:  CP reports that a QURRMMIMD is driving a red, for Edge  with vt registration, Possible partial plate: BC VT HLN***,  Caller Wish to remain anonymous.  Narrative:  Checked last known reported area. Unfounded.  19-8329  14948  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SCHOOL ST  Unit:  32  Arvd-19:49:01  Clrd-19:49:11  19-8330  2021  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  SOUTHWORTH ST  Unit  35  Arvd-20:21:29  Clrd-20:21:46  Narrative  done  19-8331  2030  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  [WIA $10] TACONIC TRE  unit:  32  Arvd-20:30:33  Clrd-20:30:41  Narrative:  Checked Area.  For Date:  07/03/2019  a  Wednesday  19-8332  GO54  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  WATER ST  Unit  32  Arvd-00:54:52  Clrd-01:02:27  Vehicle  VIN:  1G12H5 7B8 94179696  BRO 2009 CHEV SE MALIBU Reg: PC MA 8GL416  Operator  WILLIAMS, GEORGE ANTHONY JR @ 176 BURBANK ST -  PITTSFIELD,  MA O1201-  4842  Race:  B Sex: M  Refer To Citation  Ti78s5255  Owner  WILLIAMS,  GEORGE ANTHONY JR © 176 SURBANK ST -  PITTSFIELD, MA 01201-  4942 
+Location/Addreys: Uniz: CHURCH ST
+35
+Narrative: Di8p-19:26:58 Enrc-12:27:28 Arvd-12:30:40 Clrd-15:50:54
+Party requesting escourt wo vehicle as she feels threatned
+by a group of people outside of her home.
+Narrative:
+Party escorted to her car with no incident.
+19-8328 1932 Phone - TRAFFIC COMPLAINT GHABLE TO LOCATE
+Call Taker: PATROL KALVIN DZIEDZIRAK
+T.ocation/Address: [WIA 280] MAIN ST
+unit: 32
+Dgp-19:32:38 Enrt-19:33:03 Arvd-15:35:09 Clrd-19:35:42
+Narrative:
+¢P reposts that co   JEEEEENN ic driving a red, for Edge
+with vt registration. Pojsible partial plate: 3C VI HLN#+*v,
+Caller Wish Lo remals anonymous.
+NarralLive:
+Checked last known reported area. Unfowxded.
+19-8339 1948 Initiated - PARKING CHECK SERVICES RENDERED
+Call Tzker: PATRON, BHIIAN N WILLIAM
+Location/Address: SCHOOL, ST
+Unit: 2
+Arvd-19:49:02 Clird-:9:49:11
+15-8330 2021 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal. Taker: PATROL BRAD SACCO
+Location/Address: SOUTHWORTE ST
+Unit: 35
+Arvd-20:23:22 Clrd-20:21:46
+Narrative:
+done
+19-8331 2030 Initiated - BUILDING CHECK SERVICES RENDERED
+Call Takor: PATROL SHUAN HN WILLIAM
+Local ion/Address: [WlA 410] ''ACONIC TRL
+Units a2
+Arvd-20:30:23 Jlra-20:30:41
+Narrative:
+Checked Area.
+For Date: 07/03/2019 - Wednesday
+15-8332 ap54 Iajeiated - MOTOR VEHICLE 4TOP CITATION - WARNING
+Ca-l Taker: PATROLMAN SCOTT SKORUFSKT
+Location/Address: WATER ST
+Unit: 32
+Arvd-00:34:52 C1:d-01:02:27
+Vehzcle: BRO 2309 CHEV SE MAL.BU Reg: PC MA 8GL416 VIN: 1GI1ZHETRB94179656
+Opera.or: WILLIAMS, CGEQRGE ANTZECNY JK @ 176 BURBANK 8T - PITTSFIELD, MA Cl203-
+4B42
+Rece: B Yex: M
+Reter Te Citation: T1785255
+wmer: WILLIAMS, GEORGE ANTHCNY JR 5 176 SURBANK 5T - PITTSFIELD, MA 0120:i-
+4042

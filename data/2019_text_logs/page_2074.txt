@@ -1,1 +1,45 @@
-checked  Narrative:  done  Narrative:  Checked Area.  Narrative:  Checked Area.  Lids  initiated - BUILDING CHECK  19-14166  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  LINDLEY TER  unit  36  Arvd-11:59:53  Clrd-12:01:29  Narrative  checked  Narrative  Checked Area.  19-14167  1205  Initiated - BUTLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PINE COBBLE RD  Unit:  36  Arvd-12:06:04  Clird-12:07:00  Narrative:  MA 43YF42  Narrative  checked  Narrative  Checked 5-4  18:52  empty  Narrative  done  Narrative  Checked Area  Narrative  Checked Area  19-14164  12242  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDES  Location/Address  HALL 8T  Unit  36  Arvd-12:11:;09  Clrd-12;12;:04  Narrative  no vehicles  Narrative  checked  Narrative  Checked 5-4  19:50  Narrative 
+checked
+Narrative:
+done
+Narrative:
+Checked Arez.
+Narrative:
+Cheackod Area.
+19-141e66 1159 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANTA HERNANDEZ
+Location/Address: LINDI.EY TERR
+Unit: 36
+Arvd--1:52:53 CQlré-1Z:01:29
+Nurrative:
+checked
+Narrative:
+Checked Area.
+15-14167 1205 Initiated - BUILDING CHECK BUILDING CHECKED/SECGRED
+Call Taker: PATRCL TANIA HERNANDEZ
+Location/address: PTNE CORRTS RD
+Unit: 3ib6
+Arvd-22:06:04 Clré-12:07:00
+Narrative:
+MA 43Fa2
+Narrative:
+checked
+Narrative:
+Chacked 5-4 empty 18:52
+Rarrative:
+done
+Barrativo:
+Checked Area.
+Xarrative:
+Checked Area.
+19-141568 1213 Initiated - BUILDING CHECK BUILDING CHECKED/BECURED
+Czll Taker: PATROL TANTA HERNANDEZ
+Loczlior/Addrese: HALL 8T
+Unizc: 25
+Arvd-22:11:09 Clrd.12:12:04
+Xarrative:
+vehicles
+nu
+Narrative:
+ihaeordioad
+Xarrabive: Checked S-4 18:50
+Narrative:

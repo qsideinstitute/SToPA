@@ -1,1 +1,49 @@
-Unit:  37K  |  Disp-09:37:35  Enrt~-09:37:44  Clrd-09:42:24  Narrative:  CP reports hurd of cows heading down white Oaks  rd towards  Sand Spring.  Narrative:  WER) wet viieved animals prior to arrival.  19-6098  1007  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker;  PATROL DAVID JENNINGS, D  COLD SPRING RD  Location/Address:  Unit:  34  Arvd-10:08:08  Clrd-10:08:;37  Narrative:  Checked S-4  16:30  Narrative:  Checked Area.  19-6099  1011  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  {WIA 225] COLD SPRING RD  Unit:  34  Arvd-10:11:23  Clrd-10:13:36  19-6100  1014  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  COLD SPRING RD  Unit:  34  Arvd-10:14:24  Clrd-10:14:57  Narrative:  Checked S-4  16:25  Narrative:  Checked Area.  19-6101  1035  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  PATROL DAVID JENNINGS, D  Location/Address  PETERSBURG RD  Unit  34  Arvd-10:35:20  Clrd-10:36:29  Narrative  Checked S$-4  16¢S1  Narrative  done  19-6102  1045  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit:  34  Arvd-10:45:53  Clrd-10:48:22  19-6103  1048  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  SPRING ST  Location/Address:  Unit:  34 
+unit: 37K
+Disp-09:37:35 Enrt-09:37:44 Clrd-09:42:24
+Narrative:
+CP reports hurd of cows heading down white Oaks rd towards
+Sand Spring.
+Narrative:
+I :ctrieved animals prior to arrival.
+19-6098 1007 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-10:08:08 Clrd-10:08:37
+Narrative:
+Checked S-4 16:30
+Narrative:
+Checked Area.
+19-6099 1011 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 225) COLD SPRING RD
+Unit: 34
+Arvd-10:11:23 Clrd-10:13:36
+19-6100 1014 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+l.ocation/Address: COLD SPRING RD
+Unit: 34
+Arvd-10:14:24 Clrd-10:14:57
+Narrative:
+Checked S-4 16:25
+Narrative:
+Checked Area.
+19-6101 1035 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: PETERSBURG RD
+Unit: 34
+Arva@-10:35:20 Clrd-10:36:29
+Narrative:
+Checked S-4 16:51
+Narrative:
+done
+19-6102 1045 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL. DAVID D
+Location/Address: PARK ST JENNINGS,
+Unit: 34
+Arvd-10:45:53
+Clrd-10:48:22
+19-6103 1048 Initiated
+Call Taker: - PARKING CHECK SERVICES RENDERED
+Location/Address: PATROL DAVID JENNINGS, D
+Unit: SPRING 34 ST

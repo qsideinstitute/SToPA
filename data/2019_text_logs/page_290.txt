@@ -1,1 +1,50 @@
-Narrative:  Checked Area.  Narrative:  Checked Area.  19-2044  0823  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HARWOOD ST  Unit  30  Arvd-08:23:57 Clrd-08:24:18  Narrative  Checked Area.  Narrative  Checked Area.  19-2045  0826  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN.  Location/Address  MAIN ST  Unit  30  Arvd-08:26:22  Clrd-08:26:52  Narrative  checked  Narrative  Checked 0128  19-2046  0829  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS,  D  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-08:29:41  Clrd-08:30:06  Narrative  checked  Narrative  Checked 0326  19-2047  0830  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  STONEY LEDGE RD  Unit  30  Arvd-08:30:15 Clrd-08:31:02  Narrative  Checked Area.  Narrative  Checked Area.  19-2048  0831  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  IWIA 1832] NORTH HOOSAC RD  Unit:  34  Arvd-08:31:40 Clrd-08:32:45  Narrative: 
+Narrative:
+Checked Area.
+Narrative:
+Checkad Area.
+19-2044 0823 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HARWOOD ST
+Unit: 30
+Arvd-08:23:57 Clrd-08:24:18
+Narrative:
+Checked Area.
+Narrative:
+Checked Area.
+19-2045 0826 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: MAIN ST
+Unit: 30
+Arvd-08:26:22 Clrd-08:26:52
+Narrative:
+checked
+Narrative:
+Checked 0128
+19-2046 0829 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: NORTH HOOSAC RD
+Unit: 31
+Arvd-08:29:41 Clrd-08:30:06
+Narrative:
+checked
+Narrative:
+Checked 0326
+
+19-2047 0830 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: STONEY LEDGE RD
+Unit: 30
+Narrative: Arvd-08:30:15 Clrd-08:31:02
+Checked
+Area.
+Narrative:
+Checke¢i
+Area.
+19-2048 0831
+Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call
+Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 34
+Narrative: Arvd-08:31:40 Clrd-08:32:45

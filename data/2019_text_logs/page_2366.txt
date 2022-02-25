@@ -1,1 +1,50 @@
--  For Date:  12/31/2019  Tuesday  1595-16032  0048  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  MAIN ST  Unit  32  Arvd-00:48:33  Cird-00:54:32  Vehicle  BLE 2015 GMC  SW Reg: PC PA LBG1893  VIN: 2GKFLVEK7F6123713  Operator  KOLB, ROBERT  JONATHAN @ 192 COCHRAN RD - PITTSBURGH, PA 15228  Race: W Sex  M  Refer To Citation  T2085653  Owner  KOLB, ROBERT  JONATHAN @ 192 COCHRAN RD - PITTSBURGH, PA 15228  Race:  W Gex  M  19-16033  O11S  $11 -  ALARM  - BURGLAR  ALARM FALSE  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 2061] NORTHWEST HILL RD  Unit  31  Disp-01:16:33  Enrt-01:16:51 Arvd-01:26:13  Clrd-01:39:39  Unit  32  Disp-01:16:33  Enrt-01:16:58  Arvd-01:24:54  Clrd-01:39:19  Narrative  Rear motion alarm.  Narrative  Key holder on scene.  Narrative  No fresh tracks in snow.  Found front door unlocked blocked  by furniture on inside. Key holder arrived and satisfied.  Door secured.  19-16034  0340  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  {WIA 390] SIMONDS RD  Unit:  31  Arvd-03:41:12  Clrd-03:41:25  19-16035  O738  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIBUTENANT MICHAEL J ZIEMBA Jr  Location/Address  HAWTHORNE RD  Unit  37K  Arvd-07:38:53  Clrd-07:38:57  Narrative  Checked §-4  L?si5  Narrative  Checked  29~-236036  o744  initiated - BULLDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  LIEUTENANT MICHAEL J Z2IEMBA Ir  Location/Address:  PETERSBURG RD  Unit:  37K  Arvd-07:44:50  Clyrd-07:44:55  19-16038  0842  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  LIEUTENANT MICHAEL J 4IEMBA Jr  Location/aAddress:  NORTH ST  Unit:  37K 
+For Date: 12/31/2019 - Tuesday
+19-16032 0G48 Initinted - MOTOR VERICLE STOP CITATION - WARNING
+Call Taker: PATROIMAN SCOT SEQORUPSKT
+Locatlion/Aderess: MAIN ST
+Unit: 32
+Arvd-oU:4:33 Cird 00:54:22
+Vehicle: BLE 2015 MC Sh seg: 2C PA LBG12S3  VIN: 2GKFLYER7FCZ23712
+Cperatox: XJLS, ROBERT JONATHAN @ 152 COCIIRAN RL - PITTSBURGH, BA 15228
+Ruve: W Sex: M
+Ruler To Citation: T2335453
+Ownex : XOLE, ROBERT JONATHEN @ 192 CCCIIRAN RD - PITTSRURGH, 2A -5228
+Ragc: W Sua: M
+19-16D33 o11s 911 - ALARM - BURGLAR ALARM FALSE
+Sall Taker: ERTROL ENTIIONY HM DUFRAT
+Lecazion/Acdress: [#-A 2061] NOSTHWEST HTT.L RD
+Mik: 31
+Lizp-01:26:32 Eart-S1l:16:52 Arvd-01:76:13 Clrd-01:39:39
+Uzit. 32
+Cisp-01:26:371 Rart-01:14:53 Avvd-01:24:51 Clré-01:39:19
+Narrative:
+Rea metion alarm.
+Herrativeo:
+Key holder on scene.
+Narrative:
+No frash tracks in snow. Found front doosr wnincked hklockad
+by furniture on inside. Xey holder arrived snd mat’atied.
+Docr secured.
+19-156034 0344 Initiated - PARKING CHECK SERVICEE RENDERED
+Cz] Takar: BATRCL CRAXG A XilZHAMMER
+Locat_cn/iddrese: (W1A 330] SIMONDS 2D
+Lniz: 31
+Arvd 03:41:12 2_rd-03:41:23
+19-156035 0738 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call l'akepr: SUEUCTENANT MICHAEL J ZIEMsA Jr
+Locslior/Adizug: HAWTHORNE RC
+Unit: TK
+Arvd 07:23:53 Clzd-07:38:57
+Xarrative:
+Checked 5-4 14:1b
+Narrat-.ve:
+Checked
+15-16336 C744 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal_. Taxer: LIZUTENANT M-CHAZL J ZIEKBA Jr
+Location/Address: PETERSBIRG RO
+nik: 37K
+Arvd-07:44:30 Clrd-07:44:55
+19-16038 0842 Initiated - BUILDIKG CHECK BUILDING CHECFED/SECURED
+Ca_1 Taksr: LIEUTENANT MICHAEL J ZIZMBA Jr
+ILocation/Address: NORTE 57
+nic: 37K

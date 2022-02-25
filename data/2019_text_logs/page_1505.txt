@@ -1,1 +1,51 @@
-Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  MAIN sT  Unit:  34  Arvd-01:23:33  Clird-01:31:40  Vehicle:  BLE 2014 TOYT SIENNA Reg: PC MA 1SB358 VIN: STDDK3DCS5ES091823  Operator:  RAFAL, SAMIR @ 15216 79TH AVE - FLUSHING, NY 11367  Race:  U Sex: M  Refer To Citation:  T1785823  Owner:  BALINDA, JOSEPH @ 132 MAIN ST - WILLIAMSTOWN, MA 01267-2604  Race:  U Sex: M  19+10822  0446  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  [NIA 390] SIMONDS RD  Unit:  a2  Arvd-04:46:40  Clrd-04:46:46  1219-10823  O727  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  MAIN st  Unit  37K  Arvd-07:27:23  Clrd-07:27:37  Narrative  checked  Narrative  Checked 0107  15-i0824  08390  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  SCHOOL ST  Unit  27K  Arvd-08:30:19  Clyrd-06:30:29  Narrative  Checked  19-10825  0830  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  SYNDICATE RD  Unit:  30  Arvd-08:30:33  Clrd-08:53:53  Narrative:  checked  19-10826  0858  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address;  LUCE  ED  unit:  30  Arvd-08:59:00  Clrd-05:24:41  Narrative:  checked  19-10827  1122  Enitiated - BULLDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROL BRAD SACCO  Location/Address:  (WIA 1832]  NORTH HOOSAC RD  Unit:  35  Arvd-11:22:48  Clrd-11:22:53  Narrative:  Checked, 
+Call Taker: PATRCL ANTHOKY M LUPHAT
+Location/Addreyy: MATN 4T
+Jedit as
+Arvd-01:23:33 Clrd-01:31:48
+Veh:cle: BLK 2024 TOYT SIENNA Reg: PC MA 1SB354 VIN: STDOKIDCSESI91R23
+Dperateor: KAFAIL, HAMTR @ 152.6 75TH AVE - FLUBHTING, NY 11367
+Race: T 3Sex: M
+Refer To Citazion: I1735829
+umnar: BALINDA, JOSEPII @ 132 MAIN ST - WLLIAMS'TOWN, MA 01287-240<
+Baco: U Sex: MK
+15-10822 0446 Initiated - PARXING CHECE SERVICES RENDERED
+Call Taker: PATROLMAKR STOTT SZCRIZSE:
+Location/Add esd: [WIA 393] STMONDS RD
+Un-<: a2
+Arvd-GA:46:10 Clrd- C4:45:46
+19-1082313 0727 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cail Taxez: TLTRUTENANL MICHARL J ZIZMKBA Jr
+Location/Address: MAIR E-
+nit: ATK
+Narrazjiva: Arvd-07:27:23 Clrd-07:27:37
+checked
+Karralbive:
+Crecked 0107
+19-110824 0830 Initiated - PARKING CHECK SERVICES RENDERED
+Cal. Taker: LIEJENANT MICIIAEI J ZIEMBA J+
+Locaticn/Address: SCHOCL BT
+Jit: 37K
+Arvd-08:20:19 Clrd-08:30:23
+Narrative:
+Chookod
+19-100825 0830 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT EB MCGOWAN
+—ocation/Addrass: SYNLICATZ RD
+Un-z: 2d
+Arvd-88:50:32 Clrd-08:83:53
+Narrative:
+checked
+19-108286 0a5e Initiated - TRAFFIC CONTROL BERVICEES RENDERED
+Call Taker: SERGEANT SCOI1 E MOCOAAN
+cation /Address: LUCE ®T
+Unit: 30
+Arveé-08:59:20 Cird-05:24:41
+KarralLive:
+creckad
+15-14827 1122 Initiared « BUILDING CHECK
+BUILDING CHECKED/SECURED
+fal: laxer: IATROL
+Locaticn/hddrese: [WIA BRAD BADCO
+hit 3h 1832] KORTII IIOOSED RD
+Narrative: Arvd-11:22:48 Cled-11:22:53
+Chenked.,

@@ -1,1 +1,47 @@
-19-4330  0958  Initiated ~- BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  HILL PROVINCE RD  Unit  34  Arvd-09:58:32 Clrd-09:59:03  Narrative  Checked  Narrative  Checked S-4  L7231  Narrative  Checked Area.  19-4331  1000  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  PATROL KALVIN DZIEDZIAK  Location/Address  HAWTHORNE RD  Unit  34  Arvd-10:00:43 Clrd-10:01:01  Narrative  Checked  Narrative  Checked $-4  17:42  Narrative  Checked  49-4332  1003  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  (WIA 333] CHURCH ST  Unit  37K  Arvd-10:04:06 Clrd-10:05:37  Narrative  Checked  19-4333  1004  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  COLD SPRING RD  Unit  34  Arvd~10:05:17  Clird-10:05:23  Narrative  Checked  Narrative  Checked S-4  16:52  Narrative  Checked  19-4334  1007  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  WATERMAN PL  Unit:  37K  Arvd-10:07:32 Clrd-10:07:59 
+19-4330 0958 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: HILL PROVINCE RD
+Unit: 34
+Arvd-09:58:32 Clrd-09:59:03
+Narrative:
+Checked
+Narrative:
+Checked S5-4 17:31
+Narrative:
+Checked Area.
+19-4331 1000 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker:
+PATROL KALVIN DZIEDZIAK
+Location/Address: HAWTHORNE RD
+unit: 34
+Arvd-10:00:43 Clxd-10:01:01
+Narrative:
+Checked
+Narrative:
+Checked 8-4 17:42
+Narrative:
+Checked
+19-4332 1003 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 333] CHURCH ST
+Unit: 37K
+Arvd-10:04:06 Clrd-10:05:37
+Narrative:
+Checked
+19-4333 1004 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: COLD SPRING RD
+Unit: 34
+Arvd-10:05:17 Clrd-10:05:23
+Narrative:
+Checked
+Narrative:
+Checked S-4 16:51
+Narrative:
+Checked
+19-4334 1007 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: WATERMAN PL
+Unit: 37K
+Arvd-10:07:32 Clrd-10:07:59

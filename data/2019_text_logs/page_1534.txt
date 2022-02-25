@@ -1,1 +1,50 @@
-Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  34  Arvd-08:58:26  Cird-08:59:00  Narrative  Checked  Narrative  checked  Narrative  checked  Narrative  34 Checked  19-10591  0945  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK ST  Unit  34  Arvd-09:46:16  Clxrd-09:51:13  Narrative  2 violations  29-10992  0952  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  SPRING ST  Unit  34  Arvd-09:52:55  Clrd-09:58:42  Narrative  1 violation  1959-10993  0955  Phene - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  SPRING ST MUNICIPAL LOT  Unit  34  Disp-10:00:03  Arvd-10:00:23  Clrd-10:68:10  Vehicle  BLU 2008 SUBA ST LEGACY Reg: PC MA 96MT67  VIN:  454BP62C587309380  Operator  WELLS, LILLIANA SKYE @ 30 BAILEY RD - ASHFIELD, MA 01330-0412  Race:  W Sex: F  Owner  PRESTON-WELLS, LAUREN ELISE @ 295 HANCOCK RD - WILLIAMSTOWN, MA  01267-3005  Race:  W Sex: F  Narrative  Blue Subaru.  19-10995  1012  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  CHURCH ST  {WIA 333]  Unit  34  Arvd-10:12:56  Cird-10:13:36  Narrative  Checked  29-10996  1020  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  LONGVIEW TER  Unit:  34  Arvd-10:20:15  Clrd-10:20:31 
+LeoaLion/Address: [won "832] NCORUH HOQSAC RD
+Tnit: 31
+Arvd-08:58:26 Clrd-08:59:20
+Karrative:
+Cracked
+Narrative:
+checked
+Narrulbive:
+checked
+Harrativea:
+34 Checked
+19-140591 D945 Initiated - PARKING CHECK SERVICES RENDERED
+Call “aker: PATROL TANIA W-RNANDEZ
+“wmzatios/Adéress: PARK ST
+Unik: 34
+Arvd-09:46:26 Clrd-09:51:19
+Narrative:
+2 violations
+—93-10952 0552 Iniciated - PARKING CHECK
+Call Taker: PATROL TANIA HEZNANDTZ SERVICES RENDERED
+Location/Address: EFRTHNG EST
+Unit: 34
+Narrative: Arvd-09:22:55 (Cl»d-09:38:42
+l vio.aton
+15-.10993 0955 Phone - MOTOR VEHICLE LOCK OUT VEHICLE OPENED
+Call Taker: FATROC DAVIL JENNINGS, ©
+—ocabion/Address: SPRING 87 MUNICIPAL LOT
+Uni: 24
+Disp-10:00:03 Arvd-20:00:23 Clrd-_0:0¢:10
+Vehic_e: ad] 2008 SUBA ST LEGACY Rec: PC MA 96MTR7 VIN: 454BP22C587305360
+Cperztor: WELLS, LILLIANA SKYE 30 BAILEY PD - ASHFZELD, MA 01330-0412
+Rave: W Sex: IF
+Jwrer: #RESTON-WELLS, LAUREN ENLTSR $ 295 ZANCOCK RE - WILLIAMSTOWN, MA
+N1Z87-3005
+Race: K Sex: F
+Marraciva:
+Blue Subara,
+19-109595 1012 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PAIROIL, TANIA IERKANDZZ
+Location/Address: [WIn 323] ZIURC2 ST
+Uait: 34
+Arvd-20:12:56 Cord-10:13:3C
+Narrat-wvo:
+Chaeckac
+19-102396 1020 Initiated - BUILDING CHECK BUILDING
+CHECEXED/SRECURED
+Call Toker: PATROL TANIA EFRNANLEZ
+Tozation/Addéreas LONGVIEW TER
+Unit: 34
+Arved-10:20:19 Clrd-10:25:31

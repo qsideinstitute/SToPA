@@ -1,1 +1,50 @@
-Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  STRATTON RD  Unit  30  Arvd-08:16;33  Clrd-08:18:42  Narrative  checked  Narrative  checked  Narrative  Checked Area.  19~-15804  0813  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  LONGVIEW TER  Unit  30  Arvd-08:20:03  Clrd-08:29:53  Narrative  checked  19-i5805  0830  Initiated - BUILDING CHECR  SERVICES RENDERED  Call Taker  PATROL KALVIN DZTEDZIAK  Location/Address  LONGVIEW TER  Unit  30  Arvd-08:30:38  Cird-08:31:00  Narrative  checked  Narrative  checked  Narrative  Checked Area.  19-15806  O856  Phone - ASSIST OTHER AGENCY - DPW  NO ACTION REQUIRED  Call Taker  DISPATCHER CHRISTINE LEMOINE  MEACHAM ST  Location/Address  Unit  30  Enrt-08:58:32  Clrd-09:00:12  Disp-08:57:57  Narrative  WCSS reports that there is a spray of water coming from the  side of the house that appears to be from a buried pipe that  has burst.  Narrative  Canceled by LT. Dispatch to call water department  19-15807  0902  Initiated - FARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZITEDZIAK  Location/Address:  SPRING ST  Unit:  30  Arvd-09:02:53  Clrd-09:04;:15  1219-15808  o946  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN D&ZIEDZIAK  Location/Address  HARWOOD ST  Unit  30  Arvd-09:46:37  Clrd-09:47:06  Narrative 
+Location Call Taker: PATOL KALVIN DZTRDATAK
+/Adéress: STRATTON RD
+nit: 30
+Arvd-28:16:33 Oird-n8:i8:42
+harrative:
+checkhaed
+Narralive:
+vheckea
+Narrative:
+Checked Area.
+19-153804 0819 Initiated - TRAYFIC CONTROL SERVICES RENDERED
+ral. Toker: PATROL KALVIN DZIEDZIAK
+ozcation/Aadidress: LONGVIEA TER
+Jil: 37
+Arvd-08:20:53 C1rd-Q2:29:63
+Narrative:
+orhecked
+19-158085 0830 Initiated - BUILDING CBECK SERVICES RENDERED
+Ce_l Takar: PATROL KATLVTN NZTEN? TAK
+Location/Address: LONGVIEW TRX
+mit: 30
+Arve 06:30:38 Clrd-38:32:00
+HNurzréilvoe:
+checked
+Narra-ive:
+checkzd
+Narrative:
+Checked Area.
+19-158086 0856 Phone - ABSIET OTHER AGENCY - DPW NO ACTION REQUIRED
+call 'lakex: DLEPA "CHER CHRISVINE LEMOINK
+Location/addyross: MEACHAN S7
+Unit: 30
+Linp-08:57:57 Eart-L8:58:32 Clzd-02:00:12
+Marralive:
+WTES repozls Lhé:l Liere is 4 spray of water coming from the
+giGe of the house tat to be from a buried plpe Lhat
+has purrckt. appears
+Narrative:
+cancelel by Ll. Dispatch to ecll wabtar departme::l
+19-185807 Q902 Initiated - PARKING CHECK SERVICES RENDERED
+Call Texer: PATROL KALVIN DZIEDZIAK
+Location/Adirees: SPRING ST
+Tnit: aa
+Arvd-09:02:33 Clrd-I9:04:1F
+10-15808 0946 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cull Tuker: PATRCL ALVIN DZIEDSIAX
+Local lenfhaddress: SARWCOD ST
+ao
+Tnzz: Arvd-03:46:37 JIrd-09:47:06
+FYarrative:

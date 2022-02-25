@@ -1,1 +1,55 @@
-CARRIER IS WORKING ON THE ISSUE AND WE WILL ADVISE WHEN THE  OUTAGE HAS BEEN RESOLVED.  0815 System back online.  Narrative:  TO: ALL CJIS USERS  FROM: CJIS/OPERATIONS  RE: IMC/VERIZON WIRELESS BACK UP  VERIZON HAVE REPAIRED BROKEN FIBERS AND NOW THE CIRCUIT IS  BACK UP. ALL IMC MOBILE AND VERIZON WERELESS ARE BACK UP.  PLEASE CALL OPERATIONS AT  IF YOU HAVE ANY  QUESTION.  Dispatch still experiencing system troubles at this time,  For Date:  04/18/2019  -  Thursday  19-4764  0102  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  MAIN ST  Unit  31  Arvd-01:02:00 Clrd-01:06:47  Vehicle  GRN 2002 TOYT TACOMA Reg: PC MA 4PX860 VIN: STEWN72N72Z055075  Operator  LEWIS, SCOTT ALAN @ 59 ELLIOTT DR - WILLIAMSTOWN, MA 01267-2905  Race: W Sex: M  Refer To Citation  TO905678  Owner  LEWIS, SCOTT ALAN @ 59 ELLIOTT DR - WILLIAMSTOWN, MA 01267-2905  Race: U Sex: M  19-4765  0121  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  LAWRENCE HALL DR  Unit:  32  Arvd-01:21:00 Clrd-01:26:52  Vehicle  2006 HOND U CR-V EX Reg: PC NC DCW1201 VIN: SHSRD788460430552  Operator  ANDREASSEN, KIMBERLY @ 68 GRAND OAKS BLVD - ROCKY POINT, NC 28457  Race: W Sex: F  Refer To Citation  T1401049  Owner  ANDREASSEN, KATELYN @ 68 GRAND OAKS BLVD - ROCKY POINT, NC 28457  Race: W Sex: F  19-4767  0747  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call  Taker  PATROL TANIA HERNANDEZ  Location/Address  GALE RD  Unit  36  Arvd-07:  47:50  Clird-08:05:44  Unit  35  Disp-15:01:19  Enrt-15:01:24 Arvd-i5:  02:14 Clrd-15:20:28  19-4770  0804  Phone - SUSPICIOUS ACTIVITY  LOG ENTRY REQUEST  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  COLE AVE  Narrative;  CP called reporting that a tenant of his  at location  reported in seeing an unknown skinny w/m  with a beard doing  laundry at this location. He was advised  the male party does  not live at location. CP advises that he  used to have  laundry room locked. He was advised to start locking it  again. Also if male party is ever at location to call back.  He believes the male party lives some were on Arnold St.  Only has a first name as possibly  .  CP was just requiestin a log entry at this time. 
+CARRIER IS WORKING ON THE ISSUE AND WE WILL ADVISE WHEN THE
+OUTAGE HAS BEEN RESOLVED,
+0815 System back online.
+Narrative:
+TO: ALL CJIS USERS
+FROM: CJIS/OPERATIONS
+RE: IMC/VERIZON WIRELESS BACK UP
+VERIZON HAVE REPAIRED BROXEN FIBERS AND NOW THE CIRCUIT IS
+BACK UP. ALL IMC MOBILE AND VERIZON WIRELESS ARE BACK UP.
+PLEASE CALL OPERATIONS AT |JJII iF You HAVE Any
+QUESTION.
+Dispatch still experiencing system troubles at this time.
+For Date: 04/18/2019 - Thursday
+19-4764 0102 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: MAIN ST
+Unit: 31
+Arvd-01:02:00 Clrd-01:06:47
+Vehicle: GRN 2002 TOYT TACOMA Reg: PC MA 4PX860 VIN: 5TEWN72N72Z055075
+Operator: LEW1S, SCOTT ALAN @ 59 ELLIOTT DR - WILLIAMSTOWN, MA 01267-2905
+Race: W Sex: M
+Refer To Citation: T0905678
+owner: LEWIS, SCOTT ALAN @ 59 ELLIOTT DR - WILLTAMSTOWN, MA 01267-2905
+Race: U Sex: M
+19-4765 0121 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: LAWRENCE EALL DR
+Unit: 32
+Arvd-01:21:00 Clrd-01:26:52
+Vehicle: 2006 HOND U CR-V EX Reg: PC NC DCW1201 VIN: SHSRD78846U430552
+Operator: ANDREASSEN, KIMBERLY ®@ 68 GRAND OAKS BLVD - ROCKY POINT, NC 28457
+Race: W Sex: F
+Refer Mo Citation: T1.401049
+owner: ANDREASSEN, KATELYN @ 68 GRAND OAKS BLVD - ROCKY POINT, NC 28457
+Race: W Sex: F
+19-4767 0747 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call ‘taker: PATROL TANIA HERNANDEZ
+Location/Address: GALE RD
+Unit: 36
+Arvd-07:47:50 Clrd-08:05:44
+Unit: 35
+Disp-15:01:19 Enrt-15:01:24 Arvd-15:02:14 Clrd-15:20:28
+19-4770 0804 Phone - SUSPICIOUS ACTIVITY LOG ENTRY
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR REQUEST
+Location/Address: COLE AVE
+Narrative:
+CP called reporting that a tenant of his at location
+reported in seeing an unknown skinny w/m with a beard
+laundry at this location. He was advised the male doing does
+not live at location. CP advises that he used to have party
+laundry room locked. He was advised to start it
+again. Also if male party is ever at location locking to call back.
+He believes the male party lives some were on Arnold St.
+Only has a first name as possibly [JiJ?
+CP was just requiestin a log entry at this time.

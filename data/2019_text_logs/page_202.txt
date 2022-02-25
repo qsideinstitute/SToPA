@@ -1,1 +1,45 @@
-Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  STONEY LEDGE RD  Location/Address:  Unit:  37K  Arvd-10:10:53  Cird-10:11:03  Narrative:  checked  Narrative:  Checked Area.  19-1422  1012  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  LONGVIEW TER  Location/Address:  Unit:  37K  Arvd-10:13:04  Clrd-10:13:11  Narrative:  checked  Narrative:  Checked Area.  19-1423  1018  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  NORTH HOOSAC RD  Unit:  37K  Arvd-10:19:05 Clird-10:19:12  Narrative:  checked  Narrative:  done  19-1424  1020  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  37K  Arva-10:20:52  Clrd-10:21:01  Narrative  checked  Narrative  checked  Narrative  Checked S-4  18:43  Narrative  done  Narrative  done  19-1425  1022  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  SIMONDS RD  unit:  37K  Arvd-10:22:17 Clrd-10:22:23 
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: STONEY LEDGE RD
+Unit: 37K
+Arvd-10:10:53 Clrd-10:11:03
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-1422 1012 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: LONGVIEW TER
+Unit: 37K
+Arvd-10:13:04 Clrd-10:13:11
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-1423 1018 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: NORTH HOOSAC RD
+Unit: 37K
+Narrative: Arvd-10:19:05 Clrd-10:19:12
+checked
+Narrative:
+done
+19-1424 1020 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 37K
+Arvd-10:20:52 Clrd-10:21:01
+Narrative:
+checked
+Narrative:
+checked
+Narrative:
+Checked S-4 18:43
+Narrative:
+done
+Narrative:
+done
+19-1425 1022 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: SIMONDS RD
+Unit: 37K
+Arvd-10:22:17 Clrd-10:22:23

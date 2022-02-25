@@ -1,1 +1,49 @@
-Unit:  34  Arvd-15:059:29  Cird-15:29:05  Disp-15:09:60  Narrative:  Party requesting to speak to officer regarding her daughter  being bullied and harassed.  Refer To Incident:  19-214-0F  1215-10839  1822  Tnitiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R  LEMIEUX  Location/Address  SOQUTHWORTH ST  Unit  31  Arvd-18:23:20  Clrd-16:23:45  Narrative  Checked 0113  19-10846  1926  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  HOPPER RD  Unit  35  Arvd-19:28:28 Clrd-19:32:41  Narrative  Checked Area,  1419-10841  1945  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL JOHN J MCCONNELL UR  Location/Address  [WIA 910] TACONIC TRL  Unit  35  Arvd-19:49:34  Clrd-19:49:42  Narrative  Checked Area.  -  For Date:  09/02/2018  Monday  Phone - NOISE COMPLAINT  SERVICES RENDERED  15~-10843  6018  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  STRATTON RD  Unit  31  Disp-00:21:00  Enrt-00:21:14 Arvd-00:25:40  Cird-00:30:15  Unit  32  Disp-00:22:00  Enrt-00:21:16 Arvd-00:;25:35  Clird-00;31:42  Narrative  cP reports the neighboros Air BNE rental next door is having  a party and are being loud. Call came in from Berkshire  Control.  Narrative  Approximately twenty people by the hot tub talking loudly.  Advised of the complaint, we keep it quiet fer the night.  19-10844  6120  911 - MOTOR VEHICLE ACCIDENT  CRIMINAL COMPLAINT  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  SAND SPRINGS RD  Unit:  a1  Enrt-O1:21:27  Arvd-01:24:08  Clrd-02:11:41  Disp-01:21:13  Unit:  32  Disp-01:21:43  Enxvt-91:21:37 Arvd-01:24:20  Clrd-02:10:48 
+Unit: 34
+Digp-15:05:00 Arvd-15:09:29 Clrd-15:29:08
+Narrative:
+Party »2questing to spaak to cificer regarding hor GauarlLer
+being bullied and harassed.
+Refer To Treident: 189-214-0F
+15-10839 1822 Initlated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Tuker: SZIRZEANT DAVID R LEMIEUX
+Location/Aédress: SOUTIIMORTH ST
+Pnri: il
+Arvd-18:25:20 Clrd-18:23:45
+Narrative:
+Checked 0113
+1595-10840 1626 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: EOPPER RD
+unit: 35
+Arvd-19:28:28 Clrd-19:32:41
+Narralivo:
+Checked Area,
+1595-10841 1945 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATRCL JOHN J MOCONMRLL JR
+Location/Address: [WIA 9.0] TACCNIC TRI,
+Unit: 5
+Arvd-19:45:34 CLrd-19:45:42
+Narrative:
+Checked Area.
+For bate: 09/02/2018 - Monday
+19-10843 oa18 Frone - NOISE COMPLAINT SERVICES RENDERED
+Call Taker: FATROL, ANTIIONY MK DUERAT
+Location/Address: STRATTON RD
+Unit: 31
+Cisp-20:21:00 Enrt-00:21:.4 Arvd-00:25:40 Clxd-00:30:15
+Unit: 32
+Cisp-00:22:00 Enre-00:21:16 Arvd-00:25:35 Clrd-00:31:42
+Narrative:
+CP reporis the neighboros Alr BNR rental next door 18 having
+a party and are being loud. Call came in [rom Berkshire
+Control.
+Narrative:
+Approximately twenty people by the hot tub talking loudly.
+hévised of the complaint, we keep it quiet for the nighc.
+19-10844 0120 511 - HOTOR VEHICLE ACCIDENT CRIMINAL COMPLAINT
+Call Taker: PATROL. ANTHONY ® DUPRAT
+Lozation/Acd>ase: SAND SPRINGS RD
+Unis: 21
+Disp-01:21:13 Eart-31:21:27 Arvd-02:24:08 Clrd-02:11:41
+Unic: 22
+Disp-01:21:13 BEarxrt-31:21:37 Arvd-01:24:20 Clrd-02:10:48

@@ -1,1 +1,49 @@
-Narrative:  Checked S-4  17:02  Narrative:  Checked Area.  19~-3589  0857  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  STMONDS RD  Unit  30  Arvd-08:57:58  Clrd-08:58:12  Narrative  Checked S-4  16:43  Narrative  Checked 0323  19-3590  0859  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  {WIA 1832]  NORTH HOOSAC RD  Unit  30  Arvd-08:59:46 Clrd-09:00:02  Narrative  checked  Narrative  Checked S-4  16:46  Narrative  Checked S-4  18:29  Narrative  Checked 0009  Narrative  Checked 0319  19-3591  03900  Phone - TRAFFIC COMPLAINT  INVESTIGATED / REPORT  TAKEN  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  MAIN ST  Unit  30  Disp-09:02:49  Enrt-09:03:08 Arvd-09:06:10 Clrd-09:11:05  Unit  37K  Disp-09:02:49  Clrd-09:03:21  Vehicle  GRY 1999 JEEP GRACHE Reg: PC MA 122539 VIN: 1034GW58S4xC733283  Operator  LESCARBEAU, LAWRENCE A JR @ 299 W MAIN ST Apt. #1 - NORTH ADAMS, MA  01247  Race: W Sex: M  Owner  LESCARBEAU, ELIZABETH JEANNETTE @ 299 WEST MAIN ST Apt. #1 - N ADAMS  ‘  MA 01247-3312  Race: U Sex:  F  Narrative  Reports of erratic op. Vehicle driving slow then speeding  up, swerving into opposite lane and over fog line. 1999 Grey  Jeep Grand Cherokee. Last seen pulling into Sunoco Gas  Station on Main St. MA PC 122539.  Vehicle in call.  Refer To Incident:  19-68-OF  19-3592  0903  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+
+Narrative:
+Checked S-4 17:02
+Narrative:
+Checked Area.
+19-3589 0857 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: SIMONDS RD
+Unit: 30
+Arvd-08:57:58 Clrd-08:58:12
+Narrative:
+Checked S-4 16:43
+Narrative:
+Checked 0323
+19-3590 0859 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 30
+Arvd-08:59:46 Clrd-09:00:02
+Narrative:
+checked
+Narrative:
+Checked S-4 16:46
+Narrative:
+Checked S-4 18:29
+Narracive:
+Checked 0009
+Narrative:
+Checked 0319
+TAKEN 19-3591 0900 Phone - TRAFFIC COMPLAINT INVESTIGATED / REPORT
+Call Taker:
+Location/Address: PATROL KALVIN DZIZSDZIAK
+Unit: MAIN ST
+30
+Unit: Disp-09:02:49 37K Enrt-09:03:08 Arvd-09:06:10 Clrd-09:11:05
+Vehicle: GRY Disp-09:02:49 1999 JEEP GRACHE Clrd-09:03:21
+Operator: LESCARBEAU, LAWRENCE A Reg: JR PC 299 MA 1ZZ539 VIN: 1J4GW5884XC733283
+01247 @ W MAIN ST Apt. #1 - NORTH ADAMS, MA
+Race: W Sex: M
+owner: LESCARBEAU, ELIZABETH JEANNETTE 299 WEST
+MA 01247-3312 2 MAIN ST Apt. #1 - N ADAMS,
+Race: U Sex: F
+Narrative:
+Reports of erratic Vehicle driving slow then
+up, swerving into opposite op. lane and over fog line. speeding 1999
+Jeep Grand Cherokee. Last seen pulling into Sunoco Gas Grey
+Station on Main St. MA PC 12Z539. Vehicle in call.
+Refer To Incident: 19-66-CF
+19-3592 0903 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

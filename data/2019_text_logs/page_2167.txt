@@ -1,1 +1,48 @@
-Arvd-09:10:48  Disp-09:04:29  Unit:  31  Arvd-09:15:01  Clrd-09:18:34  Disp-09:14:58  Narrative:  reports of loose cows on roadway  Narrative:  Animals confined in fenced in lawn area of Scott Hill Rd  resident. Confirmed to belong to Cricket Creek,  contact made  w/ same.  0904  initiated - BUILDING CHECK  L9-14746  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HALL ST  Unit  30  Arvd-09:04:18  Clrd-69:05:20  Narrative  Checked §-4  18:04  Narrative:  Checked S-4  2i:i?  Narrative:  Checked 0129  19-14747  0306  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  ELM ST  Location/Address:  Unit:  30  Arvd-09:906:35  Clrd-09:06;51  Narrative:  Checked 5-4  18:06  Narrative:  Checked 0133  19-14748  0913  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  30  Arvd-09:14:04  Clrd-09:14:40  Narrative  Checked  Narrative  Checked  §-4  17:31  Narrative  Checked  S-4  21:12  Narrative:  Checked  2351  19-14749  6520  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  LIEUTENANT MICHAEL J SIEMBA Jr  Location/Address:  (WIA 225]  COLD SPRING RDB  Unit:  31  Arvd-09:20:40 Cird-09:21:06 
+Diap-09:02:29 Arvd-09:10:48
+Unit: 25
+Disp 09:14:58 Arvd-09:15:81 Clrd-08:18:34
+Narrztive:
+reports of loose cows on roadway
+Narrative:
+Arzimals confined in fenced in 1awm area of Scott Hill Rd
+resident. Confirmed to belong to Cricket Creek, concazt made
+w/ same.
+19-147406 0904 Initiated - BUILDING CHECK BUILNING CRECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Locaticn/MNAdress: HAZL ST
+Unit: 30
+Arvd-09:04:28 Clrd-03:05:20
+Narrative:
+hecked 5-4 18:04
+Narrative:
+Checked 8-4 27:17
+Harrative:
+Trecxed 0123
+19-147747 0506 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca.l Taker: SERGEANT SCOTT EB MCGOWAN
+Localicn/Address: ELV. BT
+Unik: 33
+Arvd-09:06:35 Clrd-09:06:51
+Narrztive:
+Chacked S-4 18:04
+Narrative:
+Checked 0133
+16-14748 0913 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cail Taker: SERGEANT SCOTT E MOGCWAN
+ILocaticn/Address: [WIA 1832] NORTH HOOSAC RD
+mit: *
+Arvd-09:14:24 Clrd-33:14:40
+Narrative:
+Checked
+Harzative:
+hecked 8-4 17:31
+Narrative:
+recxed 8-4 21:12
+Narrative: Ciiecred
+2351
+BUILDING CHECKED/SECURED
+19-147749 0320 Initiated - BUILDING CHECK
+ZZEHMBA Jr
+Cih:l Taker: LoEUTENANT MICHAEL J
+Lovalion/Address: [WIA 225] COT. SFRING RD
+Unik: 31 Arvd-09:20:40 Clrd-09:21:06

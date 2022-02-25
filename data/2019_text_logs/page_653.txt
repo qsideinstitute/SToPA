@@ -1,1 +1,55 @@
-19-4387  1445  Walk-In - MOTOR VEHICLE ACCIDENT  LOG ENTRY REQUEST  Call Taker:  PATROL DAVID JENNINGS, D  Location:  BETWEEN MA & MD  Vehicle:  GRY 2018 NISS U ROGUE Reg: PC MD 63K658  VIN: SNIAT2MV83C789135  Operator:  VAJARIA, MELINDA LEE @ 25 OBSERVATION CT Apt. #203 - GERMANTOWN, MD  20876  Race: W Sex: F  Owner:  EAN HOLDINGS LLC @ 14002 E 21ST Apt. #1500 - TULSA, OK 74134  Narrative:  CP in to report her rental car was hit somewhere between  Massachusetts and Maryland.  19-4388  1513  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SPRING ST  Unit  32  Arvd-15:13:52  Clrd-15:21:58  Narrative  04/09/2019 1513 - Start  04/09/2019 1700 ~ 2 violaions  19-4389  1521  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:23:10  Clrd-15:29:38  19-4390  1638  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  {WIA 406] SCHOOL ST  Unit:  32  Arvd-16:38:27  Clrd-16:39:33  Narrative:  04/09/2019 1639 - no vioations  19-4392  i716  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SIMONDS RD  Unit  32  Arvd-17:17:41 Clryd-17:17:46  Narrative  done  Narrative  Checked Area.  19-4393  1721  Radio - B.O.L.O.  PATROL ADVISED  Call Taker  PATROL KALVIN DZIEDZTIAK  Location  (WEA 249] TOWN OF WILLIAMSTOWN  Unit  31  Disp-17:25:36  Arvd-17:26:45  Clird~-17:28:38  Unit  32  Disp-17:25:36  Clrd-17:27:27  Vehicle  BLU 2012 NISS ROGUE  Reg: PC MA 7LHR70 VIN: JN8AS5SMV4CW395274  Operator  CARDILLO, BARBARA A @ 70 ADAMSON ST ~- ALLSTON, MA 02134-1306  Race:  U Sex: F  Owner  CARDILLO, BARBARA A @ 70 ADAMSON ST ~ ALLSTON, MA 02134-1306  Race: U Sex: F  Narrative  Bolo For  Party made Q5 statements 
+19-4387 1445 Walk-In - MOTOR VEHICLE ACCIDENT LOG ENTRY REQUEST
+Call Taker: PATROL DAVID JENNINGS, D
+Location: BETWEEN MA MD
+Vehicle: GRY 2018 NISS U ROGUE Reg: PC MD 63K658 VIN: SN1AT2MVAJC789135
+Operator: VAJARIA, MELINDA LEE @ 25 OBSERVATION CT Apt. #203 - GERMANTOWN, MD
+20876
+Race: W Sex: F
+Owner: EAN HOLDINGS LLC @ 14002 E 21ST Apt. #1500 - TULSA, OK 74134
+Narrative:
+CP in to report her rental car was hit somewhere between
+Massachusetts and Maryland.
+19-4388 1513 Initiated - PARKING CRECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SPRING ST
+Unit: 32
+Arvd-15:13:52 Clrd-15:21:58
+Narrative:
+04/09/2019 1513 - Start
+04/09/2019 1700 - 2 violaions
+19-4389 1521 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:23:10 Clrd-15:29:38
+19-4390 1638 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: (WIA 406] SCHOOL ST
+Unit: 32
+Arvd-16:38:27 Clrd-16:39:33
+Narrative:
+04/09/2019 1639 - no vioations
+19-4392 1716 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SIMONDS RD
+Unit: 32
+Arvd-17:17:41 Clrd-17:17:46
+Narrative:
+done
+Narrative:
+Checked Area.
+19-4393 1721 Radio - B.0.L.O. PATROL ADVISED
+Call Takerx: PATROL KALVIN DZIEDZIAK
+Location: [WIA 249] TOWN OF WILLIAMSTOWN
+Unit: 31
+Disp-17:25:36 Arvd-17:26:45 Clrd-17:28:38
+Unit: 32
+Disp-17:25:36 Clrd-17:27:27
+Vehicle: BLU 2012 NISS ROCUE Reg: PC MA 7LHR70 VIN: JN8S8ASS5MVACW395274
+Operator: CARDILLO, BARBARA A @ 70 ADAMSON ST - ALLSTON, MA 02134-1306
+Race: U Sex: F
+owner: CARDILLO, BARBARA A ® 70 ADAMSON ST - MA 02134-1306
+Race: U Sex: F ALLSTON,
+Narrative:
+Bolo For
+Party made Q5 statements

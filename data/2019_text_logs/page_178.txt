@@ -1,1 +1,57 @@
-Location/Address:  SPRING ST  Unit:  38  Arvd-15:21:25  Clird-15:31:10  19-1247  1521  Initiated - PARKING CHECK  SERVICES RENDERED  Cail Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:23:21  Clrd-15:28:26  19-1248  1546  Phone -  WELL BEING CHECK  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  [WIA 707] SIMONDS RD  Unit  31  Enrt-16;:40;51  Arvd-16:44:42  Disp-16:39:57  Clrd-17:37:05  Unit  38  Disp~16:39:57 Enrt-~-16:40:17  Arvd-16:44:44  Clrd-17:38:34  Narrative  CP is looking for the status of a restraining order and is  requesting a well being check be preformed. Restraining  order is said to have been faxed to the Williamstown Police  Department (WPD}) by Bennington Police Department (BPD) on  01/28/2019. According to CP, involved party made threats to  an ex girlfriend of his who lives in Pownal VT. Threats  consisted of statements such as  "no one loves him"  and he  wants  to to kill himself.  1604-  Upon further review, The WPD has no record of involved  party  and never received a restraining order from BPD.  1608-  Informed BPD of absent restraining order.  1612-  Restraining order faxed to WPD by BPD.  1622-  Dispatch Spoke with BPD to clear up inaccuracies on  restraining order.  1651- 38 Reports involved party not present at above address  1652- involved party located at his place of employment  (Stop & Shop) until 1900 hours.  1657- Unit 38 advised  1703- Unit 38 & 31 en route to meet North Adams Police at  Stop & Shop in North Adams.  1729- Order served and section 12 conmipleted by NAPD officers  Narrative:  Order given to and served by NAPD Sgt. Kelly  19-1252  1740  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  [WIA 190] MAIN ST  Unit  31  Arvd~-17:41:13  Clrd-17:41:49  Narrative  No  activity  19-1253  1745  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SCHOOL ST  Unit:  31  Arvd-17:45:53  Clrd-17:47:38  19-1254  1748  Walk-In - DISTURBANCE  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  (WIA 249] NORTH ST  Unit:  38 
+Location/Address: SPRING ST
+Unit: 38
+Arvd-15:21:25 Clrd-15:31:10
+19-1247 1521 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:23:21 Clrd-15:28:26
+19-1248 1546 Phone - WELL BEING CHECK TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: [WIA 707] SIMONDS RD
+Unit: 31
+Disp-16:39:57 Enrt-16:40:51 Arvd-16:44:41 Clxd-17:37:05
+Unit: 38
+Disp-16:39:57 Enrt-16:40:17 Arvd-16:44:44 Clrd-17:38:34
+Narrative:
+CP is looking for the status of a restraining order and is
+requesting a well being check be preformed. Restraining
+order 1s said to have been faxed to the Williamstown Police
+Department (WPD) by Bennington Police Department (BPD) on
+01/28/2019. According to CP, involved party made threats to
+an ex girlfriend of his who lives in Pownal V7. ‘Threats
+consisted of statements such as "no one loves him" and he
+wants to to kill himself.
+1604- Upon further review, The WPD has no record of involved
+party and never received a restraining order from BPD.
+1608- Informed BPD of absent restraining order.
+l612- Restraining order faxed to WPD by BPD.
+1622- Dispatch Spoke with BPD to clear up inaccuracies on
+restraining order.
+1651- 38 Reports involved party not present at above address
+1652- involved party located at his place of employment
+(Stop 4 Shop) until 1900 hours.
+1657- Unit 38 advised
+1703- Unit 38 31 en route to meet North Adams Police at
+Stop Shop in North Adams.
+1729- Order served and section 12 completed by NAPD officers
+Narrative:
+Order given to and served by NAPD Sgt. Kelly
+19-1252 1740 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: [WIA 130] MAIN ST
+Unit: 31
+Arvd-17:41:13
+Narrative: Clrd-17:41:49
+No activity
+19-1253 1745 Initiated - PARKING CHECK
+Call Taker: SERGEANT DAVID R LEMIEUX SERVICES RENDERED
+Location/Address: SCHOOL ST
+Unit: 31
+Arvd-17:45:53 Clrd-17:47:38
+19-1254 1748 Walk-In
+AGENCY - DISTURBANCE TAKEN/REFERRED TO OTHER
+Call Taker:
+Location/Address: PATROL KALVIN DZIEDZIAK
+Unit: 38 [WIA 249) NORTH ST

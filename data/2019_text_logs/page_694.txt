@@ -1,1 +1,52 @@
-Narrative:  Advised national grid of Ide Road Power Outage.  19-4653  0449  Initiated ~ PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  {WIA 249] NORTH ST  Unit:  32  Arvd-04:50:05 Clrd-04:50:09  19-4654  0511  911 - 9-1-1 SILENT CALL  NO ACTION REQUIRED  Call Taker  SERGEANT PAUL D THOMPSON  Location/Address  (WIA 455] MAIN ST  Unit  32  Disp-05:13:03 Enrt-05:13:21 Arvd-05:19:20 Clrd-05:32:07  Unit  34  Arvd-05:31:27 Clrd-05:31:30  Narrative  Sounds like phone trouble on call back Won't ring  Narrative  Spoke to owner, he is unaware of the phone number involved.  He tried the number in his office which rang at front desk.  Everything is fine at the motel, nothing needed.  PO: eens  19-4655  0533  Phone - ROAD CONDITIONS  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  BEE HILL RD  Location/Address:  Unit:  34  Disp-05:34:25 Emrt-05:34:43 Arvd-05:40:13 Clrd-05:46:18  Narrative:  Tree down blocking road. Near the Sheep Hill parking lot  Narrative:  Tree completly blocking road, no wires down. Dispatch to  notify highway.  Highway notified.  0622 Highway on scene  19-4656  0748  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  MAIN ST  Unit  34  Arvd-07:48:20 Clrd-08:04:48  Vehicle  GRY 2015 MERZ GLK350 Reg: PC MA 3SC862 VIN: WDCGG8JB2FG411824  Operator  CAKE, AMANDA LIN @ 160 WATER ST Apt. #113 - WILLIAMSTOWN, MA 01267  Race:  W Sex: F  Refer To Citation:  T14011%6  Owner:  CAKE, AMANDA LIN @ 103 WATER ST Apt. #113 - SOMERVILLE, MA 02144-2018  Race: U Sex: F  Narrative:  Renewed road side via smartphone.  19~4657  0902  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  NORTH HOOSAC RD  Unit:  36  Arvd-09:03:41 Clrd-09:10:16  Vehicle:  GRY 2012 SUBA ST FOREST Reg: PC MA 1RE695  VIN: JF2SHABC5CG416248 
+Narrative:
+Advised national grid of Ide Road Power Outage.
+19-4653 0449 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROLMAN SCOTT SKORUPSKI
+Location/Address: [WIA 249] NORTH ST
+Unit: 32
+Arvd-04:50:05 Clrd-04:50:09
+
+19-4654 0511 911 - 9-1-1 SILENT CALL NO ACTION REQUIRED
+Call Taker: SERGEANT PAUI, D THOMPSON
+Location/Address: [WIA 455] MAIN ST
+Unit: 32
+Disp-05:13:03 Enrt-05:13:21 Arvd-05:19:20 Clrd-05:32:07
+Unit: 34
+Arvd-05:31:27 Clxd-05:31:30
+Narrative:
+Sounds like phone trouble on call back Won't ring
+Narrative:
+Spoke to owner, he is unaware of the phone number involved.
+He tried the number in his office which rang at front desk.
+Everything is fine at the motel, nothing needed.
+19-4655 0533 Phone - ROAD CONDITIONS SERVICES RENDERED
+Call Taker: SERGEANT PAUL D THOMPSON
+Location/Address: BEE HILL RD
+Unit: 34
+Disp-05:34:25 Enrt-05:34:43 Arvd-05:40:13 Clrd-05:46:18
+Narrative:
+Tree down blocking road. Near the Sheep Hill parking lot
+Narrative:
+Tree completly blocking road, no wires down. Dispatch to
+notify highway.
+Highway notified.
+0622 Highway on scene
+19-4656 0748 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: MAIN ST
+Unit: 34
+Arvd-07:48:20 Clrd-08:04:48
+Vehicle: GRY 2015 MERZ GLK350 Reg: PC MA 3SC862 VIN: WDCGG8JB2FG411824
+Operator: CAKE, AMANDA LIN @ 160 WATER ST Apt. #113 - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+Refer To Citation: T1401116
+Owner: CAKE, AMANDA LIN @ 103 WATER ST Apt. #113 - SOMERVILLE, MA 02144-2018
+Race: U Sex: F
+Narrative:
+Renewed road side via smartphone.
+19-4657 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: NORTH HOOSAC RD
+Unit: 36
+Arvd-09:03:41 Clrd-09:10:16
+Vehicle: GRY 2012 SUBA ST FOREST Reg: PC MA 1RE695 VIN: JF2SHABC5CG416248

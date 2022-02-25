@@ -1,1 +1,54 @@
-Call Taker:  MICHAEL STRIZ2I  Location/Address:  (WIA 2151] COLE AVE  Unit:  31  Disp-03:24:01  Enrt-03:24:18 Arvd-03:29:24  Clrd-03:36:24  Unit:  38  Enret-03:25:38 Arvd-03:28:27 Cird-03:33:49  Disp-03:24:01  Narrative:  Activated burglar alarm.  Narrative:  Building secure. All appears in order  Unknown reason for  alarm,  0356  Initiated - PARKING CHECK  SERVICES RENDERED  19-14615  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  31  Arvd-03:56:34  Clrd-03:56:52  19-14617  O715  Other - SYSTEM TROUBLE  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  [WIA 390) SIMONDS RD  Narrative:  e700: 911 computer would not load Map, Ticket # 68960.  19-14618  O717  911 - TRAFFIC COMPLAINT  CITATION  - WARNING  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  NEW ASHFORD RD  Unit  36  Disp-07:19:06  Emrt-07:19:12 Arvd-07:23:36  Clrd-07:25:26  Unit  36  Clrd-07:37:35  Disp-07:37:24  Arvd-07:37:29  Vehicle  GRY 2012 HOND SE ACCORD Req:  PC MA 22T692 VIN:  1HGCP2F82CA084081  Owner  NASLUND, HEATHER A @ 14 WHITTIER AVE - PITTSFIELD, MA 01201-7344  Race:  U Sex: F  Narrative  CP reports a Silver Honda Accord is all over the road, MA PC  2BT692.  Narrative  Saw vehicle cross line several times, stopped vehicle.  States not having medical issue, she didn't realize she  erossed line.  Followed to VI Line no other violations  observed.  19-14619  0725  Initiated ~« MOTGR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  NORTH ST  36  Unit  Arvd-07:25:26  Clrd-07:37:10  Vehicle  GRY 2012  HOND SE ACCORD Reg: PC MA 227692 VIN:  LHGECP2FS2CA084081  Operator  NASLOUND,  HEATHER A @ 14 WHITTIER AVE - PITTSFIELD, MA 01201-7344  Race:  WW  Sex:  F  T2085218  Refer To Citation  Owner  NASLUND,  HEATHER A ® 14 WHITTIER AVE - PITTSFIELD, MA 01201-7344  Race: W  Sex: F  Narrative  See previous cail,  observed cross line several times.  States  no medical issues. 
+Call Taker: MICHARIL STRIZZI
+Lecation/Addreas: [WIA 2151) COTE AVE
+Unit: 31
+Disp-03:24:01 Fnrt-03:24:18 Arvd-03:22:28 Clrd-03:36:24
+Unit: is
+Digp-03:24:01 Enrt-03:25:38 Arvd-03:28:27 Jird-03:33:42
+Narratzve:
+Activeted burglar alarm.
+Narrative:
+Building secure. All appeazs in order. Unknow: reason for
+alarm.
+19-14615 0356 Initiated - PARKING CHECK SERVICES RENDERED
+Tall Taker: PATRCL CRAIC A EICHHAMMER
+Iocetion/Addrass: [WIA 320] SIMONDS RD
+Unie: 31
+Arvd-03:56:34 Clrd-23:56:52
+0715 Other SYSTEM TROUBLE SERVICES RENDERED
+19-148617 - ANTHONY M DUDRAT
+Call Taker: BATRCL
+Location/Address: (WIA 390) SIMONDS RD
+Marracive:
+G08: 511 cempucer woitld nat loaé Map, Ticket # 66360.
+19-146118 0717 211 - TRAFFIC COMPLAINT CITATION - WARNING
+Call Taker: PATROL: ANTHONY M DUPRN:
+Iocation/hddress: JEW ASHFORD RD
+Unit: 38
+Disp-07:19:08 Enrt-07:19:12 Ayve-07:23:36 Clrd-07:25:26
+unit: 25
+Disp-07:37:24 Arvd-07:37:29 Clrd-07:37:35
+Veh.cle: GRY 2012 HOND SE ACCCRD Reg: PC MA 22T692 VIN: 1HGCPIFBZCAOE4DS8
+Cwrier: NASLUNE, HEATHER A @ 14 WHITTIER AVE - FITTSFIELD, MR CG1201-73141
+Race: U Sex: F
+Harrative:
+CP reports a Si.ver Handa Accord is all over the road, MA PC
+22Th92.
+Harrative: several vehicle.
+Saw vehicle cross medical line times, she didn't stopped realize ehe
+States not saving issue, viclationa
+ocrcasad line. Followed to VT Tine no othar
+obhserved,
+19-14818 0725 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Tzxaer: PATROL TANIA HERNANDZZ
+Location/Address: NORTH ST
+ait: 6
+Arvd-07:25:26 Clré-07:37:10
+vehicle: SRY 2012 HCND SE ACCORD Reg: PC MA 227652 VIN: 1HGCF2FO2CA084081
+Operator: RASLUND, HEATHEH A @ 14 WHITTIER AVE - PITTSFIELD, MA 01201-7344
+Pace: WW Sex: F
+Refer To J-zatien: T2-85218
+JwWDer: NASS,JKD, HEATHEHE A @ 14 WHITTIER AVE - PITTSFIELD, MA 01201-7344
+Pace: W Sex: F
+Narrat:ve:
+See call, obsarved cross line several times. States
+ne medlical previous issues,

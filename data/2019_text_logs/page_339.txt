@@ -1,1 +1,57 @@
-Cali Taker  PATROL KALVIN DZIEDZIAK  Location/Address  WATER ST  Unit  34  Arvd-10:30:00 Clird~10:39:38  Vehicle  BRO 2008 SUBA ST OUTBAC Reg: PC MA 8MX734 VIN: 4S4BP62C187356938  Operator  WHITE, CAROL LYNNE @ 160 WATER ST Apt. #7 ~- WILLIAMSTOWN, MA 01267  Race:  W Sex: F  Refer To Citation  T1400359  Owner  WHITE, CAROL LYNNE @ 160 WATER ST Apt. #7 - WILLIAMSTOWN, MA 01267  Race: W Sex: F  19-2382  1125  Phone - DISTURBANCE  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  SIMONDS RD  Narrative:  While eating breakfast at restaurant, [RRRMMMjcame in and  threatened MBBBMito stay on her good side or she would  continue to lie to the police and get him arrested.  She  also took his car keys, but did so from parents home in  Pownal.  Advised RP he could come in an write a statement  based on her threat and to contact VSP about the keys.  19-2383  1407  911 - 9-1-1 HANG UP CALL  LOG ENTRY REQUEST  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  {WIA 184] SPRING ST  Narrative:  Spoke with the supervisor who reports he made an outgoing  call but not to 911.  All is OK.  19-2384  1418  Phone ~ ASSIST OTHER AGENCY  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  {WIA 151} COLD SPRING RD  Unit:  34  Disp-14:20:22  EBnrt-14:20:48  Clrd-14:22:46  Narrative:  SVMC ER has test results for facility, but they cannot get  through by telephone.  RP requests PD stop by and relay  message to call Charge Nurse at SVMC Emergency Room.  1422 Reached Sweet Brook by phone and relayed message.  19-2386  1516  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SPRING ST  Unit:  32  Arvd-15:16:38  Clrd-15:25:15  Narrative:  02/23/2019 1316 ~ Start  02/23/2019 1700 - 6 violations  19-2387  1519  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN d MCCONNELL UR  PARK ST  Location/Address:  Unit:  38  ArvG-15:19:43  Clrd-15:23:00  19-2389  1712  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SCHOOL ST  Unit:  36  Arvd-17:12:57  Clrd-17:13:03  19-2390  1735  Initiated - MOTOR VEHICLE STOP  CITATION ~- WARNING 
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: WATER ST
+Unit: 34
+Arvd-10:30:00 Clrd-10:39:38
+Vehicle: BRO 2008 SUBA ST OUTBAC Reg: PC MA BMX734 VIN: 4S4BP62C187356938
+Operator: WHITE, CAROL LYNNE @ 160 WATER ST Apt. #7 - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+Refer To Citation: T1400359
+Owner: WHITE, CAROL LYNNE @ 160 WATER ST Apt. #7 - WILLIAMSTOWN, MA 01267
+Race: W Sex: F
+
+19-2382 1125 Phone - DISTURBANCE LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: SIMONDS RD
+Narrative:
+While eating breakfast at restaurant, [Jificare in and
+threatened JJilfto stay on her good side or she would
+continue to lie to the police and get him arrested. She
+also took his car keys, but did so from parents home in
+Pownal. Advised RP he could come in an write a statement
+based on her threat and to contact VSP about the keys.
+19-2383 1407 911 - 9-1-1 HANG UP CALL LOG ENTRY REQUEST
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: (WIA 184] SPRING ST
+Narrative:
+Spoke with the supervisor who reports he made an outgoing
+call but not to 911. All is OK.
+
+19-2384 1418 Phona - ASSIST OTHER AGENCY SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 151] COLD SPRING RD
+Unit: 34
+Disp-14:20:22 Enrt-14:20:48 Clrd-14:22:46
+Narrative:
+SVMC ER has test results for facility, but they cannot get
+through by telephone. RP requests PD stop by and relay
+message to call Charge Nurse at SVMC Emergency Room.
+1422 Reached Sweet Brook by phone and relayed message.
+19-2386 1516 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SPRING ST
+Unit: 32
+Arvd-15:16:38 Clrd-15:25:15
+Narrative:
+02/23/2019 1316 - Start
+02/23/2019 1700 - 6 violations
+19-2387 1519 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROl, JOHN J MCCONNELL JR
+Location/Address: PARK ST
+Unit: 38
+Arvd-15:19:43 Clrd-15:23:00
+19-2389 1712 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: SCHOOL ST
+Unit: 36
+Arvd-17:12:57 Clrd-17:13:03
+19-2390 1735 Initiated - MOTOR VEHICLE STOP CITATION - WARNING

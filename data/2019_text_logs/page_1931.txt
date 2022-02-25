@@ -1,1 +1,52 @@
-19+13346  O710  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  COLD SPRING RD  Location/Address:  Unit:  30  Arvd-07:10:33  Cird-07;:37:03  Unit:  30  Disp-14:17:29 Enrt-14:17:48  Arvd-14:21:17  Clrd-14:42:00  19-13341  O738  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker;  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLD SPRING RD  unit:  30  Arvd-07:38:40  Clrd-07:38:51  Narrative:  checked  Narrative:  Checked Area.  Narrative:  Checked Area.  19-13342  O742  Initiated - BULTLDING CHECK  BUILDING CHECKED /SECURED  Call Taker  SERGEANT SCOTT EF MCGOWAN  Location /Address  COLD SPRING RD  Unit  30  Arvd-@7;42:13  Clrqa-07:42:20  Narrative  checked  Narrative  Checked Area.  19+13343  o744  initiated - TRAFFIC CONTROL  SERVICES RENDERED  SERGEANT SCOTT E MCGOWAN  Call Taker:  Location/Address:  GALE RD  Unit:  390  Arvd-07:44:47  Clrd-07:58:05  Unit:  31  Enrt-215:05:06  Arvd-15:10:33  Clrd-15:22:36  Disp-15:04:57  19-13344  0745  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Cali Taker  PATROL ANTHONY M DUPRAT  Location/Address  MAIN 3ST  Unit  35  Arvd-07:45:38  Cird-07:50:36  Vehicle  BLI 2008 TOYT TUNDRA Reg: PC MA ISK739 VIN:  5TBBVS4188S504968  Operator  RBENONI,  JOSEPH ™ @ 252 RICHMOND HILL RD - CHESHIRE, MA 01225-0000  Race: W Sex: M  Refer To Citation  T2085186  owner  BENONI, JOSEPH M @ 252 RICHMOND HILL RD - CHESHIRE, MA 01225-0000  Race;  W Sex: M  19-13345  oa04  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT & MCGOWAN  Location/Address  STRATTON RD  Unit  30  Arvd-08:05:07  Clrd-08:05:32  Narrative  Checked S-4  20:34 
+19-13340 0710 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: COLD SPRING RD
+Unic: 30
+Arvd-07:10:33 Clrd 07:37:G3
+uniz: 30
+2isp-14:17:29Y Enrt-14:17:48 Arvd-24:21:27 Clrd-14:42:30
+19-13341 0738 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT FE MCIOWAN
+Locarion/hGdress: COLD SPRING Rn
+unit: 1H
+Arvd-07:38:40 Clrd-07:38:51
+Narrative:
+chochked
+Narrative:
+Checked Area.
+Narrative:
+Checked hresa.
+18-13342 0742 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGFAKT SCOTT F MCOOWAN
+Location/Addrass: COLD SPRING RD
+Unik: a0
+Arvd-07:42:13 Clré-07:42:20
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-1335343 0744 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Tuker: SERGEANT SCCTT KE MCGOWAN
+Locakion/addrogs: GALE RD
+Unit: 30
+Arvi-07:44:47 Clrd-07:56:05
+Unit: 31
+Disp-15:04:57 FEnrt-i5:05:06 Arvd-15:10:33 Clrd-15:22:36
+19-133344 0745 Initiated - MOTOR VEHICLE STOP CLTATION - WARNIKG
+Call Taker: ZATROL ANTHONY M DUPRAT
+Lecation/Addresy: MAIN ST
+Unit: as
+Arvd-07:45:38 Clrd-07:55:36
+Vehicle: BLU] 2008 TOY! TUNDRA Reg: PC Mh LSK739 VIN: STRRVS41B85504968
+Opuraior: BENCN1l, JOSEPH M § 252 RICHMOND HILL RD - CHESHIRE, MA 01225-0000
+Race: WH Sex: HM
+Refar To CTitaticn: T2385-86
+Qwrer « BENONi, JOSEPH M © 252 RICHMOND HTLL RD - CHESHORE, MA 01225-0000
+Eace: W Sex: M
+15-13345 0804 Tajitizted - BUILDING CHECK BUILDING CIIECKED/SECURED
+Call Taker: SERGEARN'PF SCOTT E MCGOHAN
+Lozation/Address: STRAFIUN RD
+Unit:
+an Arvd-08:05:07 Clrd-08:05:32
+Narrative:
+Checked S.4 20:34

@@ -1,1 +1,48 @@
-19-3099  0853  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  Dd  PATROL DAVID JENNINGS,  Location/Address:  HILL PROVINCE RD  Unit:  34  Arvd-08:54:07 Clrd-08:54:42  Narrative:  checked  Narrative:  Checked Area.  19-3100  0910  Phone - ASSIST OTHER AGENCY  - FIRE  SERVICES RENDERED  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  (WIA 2095] CHURCH ST  Narrative:  Testing fire alarms. Will call when complete.  19-3201  0926  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  FRENIER AVE  Location/Address  Unit  37K  Arvd-09:26:52 Clrd-09:27:01  Narrative  checked  Narrative  Checked Area.  19-3102  0926  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  SPRING ST  Unit:  34  Arvd-09:27:03  Clrd-09:30:00  19-3103  0927  Initiated ~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J 2IEMBA Jr  Location/Address  HARWOOD ST  Unit  37K  Arvd-09:27:39 Clrd-09:27:48  Narrative  checked  Narrative  Checked Area.  19-3104  1009  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  LONGVIEW TER  Unit  37K  Arvd-10:10:01 Clrd-10:10:12  Narrative  checked  Narrative  Checked Area.  19-3105  1017  Phone - TRAFFIC COMPLAINT  SERVICES RENDERED 
+19-3099 0853 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: HILL PROVINCE RD
+Unit: 34
+Arva-08:54:07 Clrd-08:54:42
+Narrative:
+checked
+
+Narrative:
+Checked Area.
+19-3100 0910 Phone - ASSIST OTHER AGENCY - FIRE SERVICES RENDERED
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 2095] CHURCH ST
+Narrative:
+Testing fire alarms. Will call when complete.
+19-3101 0926 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: FRENIER AVE
+Unit: 37K
+Arvd-09:26:52 Clrd-09:27:01
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-3102 0926 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SPRING ST
+Unit: 34
+Arvd-09:27:03 Clrd-09:30:00
+19-3103 0927 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HARWOOD ST
+Unit: 37K
+Arvd-09:27:39 Clrd-09:27:48
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-3104 1009 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Locat.ion/Address: LONGVIEW TER
+Unit: 37K
+Arvd-10:10:01 Clrd-10:10:12
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-3105 1017 Phone - TRAFFIC COMPLAINT SERVICES RENDERED

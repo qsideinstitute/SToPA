@@ -1,1 +1,48 @@
-Narrative:  Checked Area.  19-15971  0856  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  COLD SPRING RD  Unit  36  Arvd-08:56:49  Cird-08:57:16  Narrative  Has company  Narrative  Checked  Narrative  Checked S-4  00:09  19-15972  0900  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK 8ST  Unit  36  Arvd-09:01:12  Clrd-09:03:26  Narrative  no  violation  1939-15973  0303  Initiated ~ PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANITA HERNANDES  Location/Address  SPRING ST  Unit  36  Arvd-09:03:56  Clrd-09:07:49  Narrative  TLO  violation  19-15974  Q3s07  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  LIEUTENANT MICHARL  d ZIEMBA Jr  ELM 8ST  Location/Address:  Unit:  37K  Arvd-09:07:19  Clrd-69:07:37  Narrative:  Checked $§-4  17:23  Narrative:  Checked s-4  23:57  19-15875  o911  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  PATROL TANIA HERNANDEZ  Call Taker  Location/Address  FRENIER AVE  Unit  36  Arvd-09:11:11  Cird-09:12:15  Narrative  Checked  Narrative  Checked Area  19-15976  ookt  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+Narrstive:
+Chanzed Area.
+19-159751 0856 Initiated - BULLDIKG CHECK BUILDING CHECKED/SECDRED
+Cal Taker: PATROL TANIZ HERNANDEZ
+Location/Address: COLD SPRING XD
+Unit: 26
+Arvd-0E:56:49 Clrd-08:57:16
+Narrative:
+Has ccmpany
+Narrative:
+theozad
+Harral ive:
+Clhevxed S.4 20:0¢
+19.15972 09400 Initiated - PARKING CHECK SERVICES RENDERED
+Cuzl Takor: PATROL TANIA HExNANIIEZ
+Locatbocn/Address: PARK BT
+Unizc: 26
+Arve-09:01:12 Clrd-09:03:26
+Narrative:
+viclation
+no
+Initiated SERVICES RENDERED
+19-15973 09503 - PARKING CHECK
+Ca”l 'i'akzr: PATRCL ANIA HESNANDER
+Lacal _en/Address: SDRING 8T
+tnis: ib
+Bryl-09:03:56 Clrd-29:07:49
+Narrazive:
+—o violation
+19-155974 0507 Initieted - BIJILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: LIEJTEKANT MIC:IAEL J Z_EVMBA Cr
+Locaticn/Adcress: ELM ST
+un- 4: 3I7EK
+Arvd-05:07:12 o.rd-59:07:37
+Harracivoe:
+Chocked S-4 2 1Y: [8 [1
+Yavrarive:
+Chacked 8-¢ 23:37
+19-159875 0911 Initiated - BUILDIRG CHECK BUILDING CERCKED/SECURED
+Call Taker: SATAOL 'I'ANLA HERNAKTIEA
+Locatioc/addxaos: FRENIER AVS
+Unit: 36
+Arvd-29:12:11 Clrd-09:22:15
+Aarrative:
+Checksad
+Xarrative:
+Checked Area.
+19-159876 0911 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED

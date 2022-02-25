@@ -1,1 +1,57 @@
-Disp-16:49:26  Enrt-16:439:53 Arvd-16:55:39  Clyraé-17:07:25  Narrative:  Cp states that she has been trying to get ahold of her  sister for a few days but her phone says "network  difficulties cali can not be completed".  CP states she  lives out of town and received a call from her sister  at 0500 on tuesday morning but she did not  leave a voice mail which is unusual. CP believes she lives  at  in heuse check confirms address.  Narrative:  08/22/2019 1708 -  Party eventually came to the door. All is  ok, mot feeling to well.  States that she has run out of  money, and her phone and computer have been shut of F.  Dispatch to update sister.  19-10452  1706  $11 - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker:  MICHAEL STRIZ2ZI  Location/Address:  MAIN ST  Unit:  38  Diep-17:07:57  Arvd-17:10:48  Clrd-17:40:33  Unit  32  Disp-17:10:37  Enrt-17:10:37  Cird-17:12:46  Vehicle  BLU 2015 SUBA IMPRES Reg: PC MA 73621  VIN: JFIGPATG2FG201484  Towed  For: ACCIDENT By: RONS AUTO REPAIR To: RONS TOWING  Operator  BAILEY, DUANE A @ 23 HALEY ST - WILLIAMSTOWN, MA 01267-2529  Race: W Sex: M  Refer To Citation  TI785997  Owner  BAILEY, MARY K @ 23 HALEY ST - WILLIAMSTOWN, MA 01267-90006  Race:  U Sex: F  Vehicle  BLU 2014 SUBA FOREST Reg: PC MA 7LFJ20  VIN: JF2SJAEC2ZEH506592  Operator  WICK, SUZANNE M @ 1095 MOHAWK TRL Apt. #14 - N ADAMS, MA 01247-2958  Race: U Sex: F  Owner :  WICK, SUZANNE M @ 1095 MOHAWK TRL Apt. #14 - N ADAMS, MA 01247-2958  Race:  UD Sex: F  Narrative:  CP states MVA right near colonial ave on Main St. Neo one  injured.  1718 Rons notified and enroute.  Refer To Accident:  19-100-AC  19-10453  1713  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SCHOOL ST  Unit  32  Arvd-17:13:10  Clxyrd-17:14:44  Narrative  08/22/2019 1713  - no violations  19-20455  1715  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SOUTHWORTH ST  Unit  32  Arvd-17:15:34  Cird-17:15:40  Narrative  done  19+10456  1734  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  SYNDICATE RD 
+Narrative: Digp-16:49:26 2nrt-16:49:53 Arvd-16:55:39 Clrd-17:07:25
+states that
+Cp sister she ha: bsen trying to get ahold ot her
+for a few cays but her phone says "network
+difficulties call can not be comp.eted". CP states she
+lives out ¢f Lown and received a call from her sister
+at 0500 orr tuesday morming but she did not
+leave a voice mail which is vnusual. CF believes she lives
+at   —n house check confirms address.
+Narrallve:
+08/22/2019 1708 - Party eventually camc Lo the door. ALL is
+ok, not feeling tec well. States thal she has run out of
+monay, @nd her phone and computer have been shut off.
+Dispatch to update sister.
+19-1045452 17086 911 - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Call Takeor: MICHAEL STRIZZI
+Locaticn/Address: MAIN ST
+Unit: ig
+Disp-17:07:97 Arvd-17:10:48 Clrd-17:40:33
+Unit: 32
+Disp-17:10:37 Enrt-17:10:37 Clrd-17:12:48
+Vehicle: BLY 2315 RURA JMPRIZ Heg: PC MA i36YZi VIN: JFIGEATE2FE201434
+Towed: For: ACCIDZANT By: RCNS AUTO REPAIR Ta: RONS TOWING
+Cpexator: BATLREY, NUANE A @ 23 HALEY ST - WILLIAMSTOWN, MA 01267-2529
+Rage: H Sex: M
+Refzr To Citation: T17B599°7
+Owner: BAILEY, MARY K § 23 HALEY ST - WILLIAMSTOWN, MA 01267-0000
+Race: U E¢x: ©
+Vehicle: BLU 2014 SUBA FOREST Reg: PC HMA 7LFJ20 VIN: CF2S ARCLZuUHS0U592
+Operator: WICK, SJZANNE M @ 1055 MOHAWK TRL Ant. il14 - N ADAMME, MA (01247-3958
+Race: U Sex: F
+Cwnerx: WICK, SUZANNE M @ 1095 MOHAWK TRL Apt. #14 - N ADAME, MA 01247-2958
+Race: UU Sex: F
+Narrative:
+CP states MVA right near colonial ave on Main St. Nu one
+imjured.
+7.9 Rons notified and enroute.
+Refer To Accident: 19-100-AC
+19-110453 1713 Initiated - PARKING CHECK SERVICEE RENDERED
+Call Taker: PATROL SIIUAN N WILLIXM
+Location/Address: SCHCOL ST
+Unis: az
+Arvd-17:13:10
+Narrative: Clrd-17:14:14
+00/22/2319 1713 - violations
+no
+19-210455 1715 Initiated - BUILDING CHECK BUILDING
+CHECKED/SECURED
+Col Taker: PATROL SHUAN N WILLIAM
+Location/Address: SOUTEWORTH ST
+Unit: 32
+Narracive: Arvd-17:25:31 Clrd-17:15:40
+dose
+19.10456 1734 Initiated
+Call Taker: PATROL - MOTOR VEHICLE STOP CITATION - CIVIL
+Location/Addyess: SYNDICATE SFUAN RD NN WILLIAM

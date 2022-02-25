@@ -1,1 +1,52 @@
-Location/Address:  PARK ST  Unit:  37K  Arvd-10:00:48  Clyrd@-10:03:51  19-5668  1008  initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  LUCE RD  Unit:  30  Arvd-10:08:57  Clrd-10:36:28  Narrative:  checked  19-9869  1037  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  LONGVIEW TER  Location/Address:  Unit:  30  Arvd-10:37:51  Clrd-10:39:50  19-9870  1152  Phone -  ANIMAL CONTROL  SERVICES RENDERED  Cali Taker  PATROL DAVID JENNINGS, D  Location/Address  {WIA 1713] SYNDICATE RD  Unit  37K  Disp-11:53:21  Enrt-11:53:42 Arvd-11:55:17  Clrd-12:068:56  Narrative  Injured fawn in the yard.  Narrative  Dispatched and removed.  39-9871  1308  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Cali Taker:  PATROLMAN MICHAEL J AIEMBA Jr  Location/Address:  (WIA 32] MAIN ST  Unit  34  Disp-13:10:08  Enrt-13:12:07 Arvd-13:20:44  Clrd-13:26:34  Vehicle  GRY 2009 TOYT SE MATRIX Reg: PC MA 49XM16 VIN: 2TILE4ORG69C008902  Operator  MAZZANTINE ,  ROBIN D @ 14 POWERS ST - ADAMS,  MA 01220-1218  Rate: W Sex:  F  Owner  MAZZANTINI,  ROBIN D @ 14 POWERS ST - ADAMS, MA 01220-1218  Race:  W  Sex: F  Narrative  Unknown reg, party w/ vehicle in lat.  19-9872  1312  Walk-In -  LARCENY  INVESTIGATED / REPORT  TAREN  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  HENDERSON RD  Unit:  ADL  Disp-13:12:539  Arvd-13:13:21  Clrd-13:15:58  Narrative:  RP is station to report stolen bike.  Refer Toa Incident:  19-1593-OF  19-9874  1429  Walk-In - PUBLIC RECORDS REQUEST  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Narrative:  Requesting copy of report from MV B&E. Given redacted copy  of call log.  19-9875  15902  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN 
+Location/Address: PARK ST
+Tnitk: 37K
+ArvG-10:00:48 Clrd-10:03:51
+i9-9g68 1008 initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taksrx: SZRGEANT SCUTT E NCCOWAN
+Lezacion/address: LUCE RD
+Uniz: a0
+Arvd-13:08:57 Clrd-10:36:28
+Karralive:
+chacked
+19-98G9 1637 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call T'zker: SERCEANT SCCI. E MCGOWAN
+Location/Address: LONGVIEW TiR
+Unit: 30
+Arvd-20:37:51 Clxd-1l0:39:50
+15-2870 1152 Phone - ANIMAL CCNTROL SERVICES RENDERED
+Cali Taker: PATROL DAVID JCHNINGS, D
+Location/Address: iWIA 1712] SYNDICATE RD
+Unit: 37K
+Disp-11:33:21 Bart--1:53:42 Arvd-11:55:.7 Clrd-12:08:56
+Narrative:
+Injured fawn in the yard.
+Narrative:
+Dispatched and removed.
+19-9871 1308 Phone - MOTOR VEHICLE LOCK OUT VEHICLE OPENED
+Call Taker: PATROLMAN MICIIARL. o ZIEMBA Jr
+Location/ikidress: [WIA 32] MAIN ST
+Unit: i IH
+Disp-13:10:88 ZInrt-13:12:07 AXvE-13:20:44 Clrd-:3:26:34
+Veniicle: GRY 2009 TOYT SE MATRIX Reg: SC MA 49XMI6 VIN: 2T1LE40BESC0083902
+Cperator: MAZZANTINE, RORTN DO ® 14 POWERS ST - ADAMS, MA 01220-12318
+Race: W Sex: F
+Ownar: MAZZANTINI, RORTN 0 § 4 POWERS BT - ALAMS, MA 01220-1218
+Race: B Bax: F
+Narrative:
+Unknewn reg, party w/ vehicle in lot.
+19-9872 1312 Walk-In - LARCENY INVESTIGATED / REPORT
+TAKEN
+Call ‘l'aker: 2PATROL DAVID JENNINGS, D
+I.ocation/Address: HENLEXSON RD
+Urik: ADC
+Disp-15:12:55 Arvd-13:23:21 Clré 13:15:58
+Narrative:
+RP is station to report stolen bike.
+Refer To Incident: 15-1Y3-0F
+15-9874 1420
+Walk-«Xn - PUBLIC RECORDE REQUEST SERVICES RENDERED
+Cail Taker: PATROL JAVID JEKNINGS, D
+Narracive:
+Kequesting copy of report from MV Hak. Given redasted copy
+of call log.
+TAKEN 15-5875 1502 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT

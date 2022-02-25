@@ -1,1 +1,51 @@
-Location/Address  {WIA 1017} STRATTON RD  Unit  38  Disp-17:48:02 Enrt-17:48:44 Arvd-17:55:35  Clrd-18:16:51  Narrative  Reports receiving an activation earlier and party was not at  location (in Florida) that it came in from. Requesting home  address be checked. Lock box number given.  Narrative  Spoke (RE wite, BRBMMMJ. she reports they are out of  town. He is fine.  The activation was a false alarm, was not  even aware the unit was in service yet.  19-4988  1810  Phone - PARKING COMPLAINT  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  SCHOOL ST  Unit  31  Disp-18:19:00 Enrt-18:19:05 Arvd-18:19:21 Clrd-18:25:47  Narrative  Reports many vehicles illegally parked on the street. States  ball season has started and requests PD nip it in the bud.  Narrative  1 violation  19-4989  1832  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  (WIA 190} MAIN ST  Unit  38  Arvd-18:32:36  Clrd-18:38:21  Narrative  Checked Area.  19-4991  1852  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SIMONDS RD  Unit  31  Arvd-18:54:02  Clrd-18:55:37  Narrative  Checked Area.  19-4992  2008  Phone -  WELL BEING CHECK  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 165] ADAMS. RD  Narrative:  Party, unable to give her phone or room number, reports  staff member “PMB has been physically and verbally abusing  the elderly. States tonight he dragged her by her feet out  of the rest room.  Narrative:  Spoke with supervisor nurse  who said CP  is a dementia patient and had refused to leave the restroom.  Party advised of complaint.  19-4993  2118  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 1384] LATHAM ST 
+Location/Address: Unit: [WIA 1017] STRATTON RD
+38
+Disp-17:48:02 Enrt-17:48:44 Arvd-17:55:35 Clrd-18:16:51
+Narrative:
+Reports receiving an activation earlier and party was not at
+location (in Florida) that it came in from. Requesting home
+address be checked. Lock box number given.
+Narrative:
+spoke HE ite. ll. She reports they are out of
+town. He is fine. The activation was a false alarm, was not
+even aware the unit was in service yet.
+19-4988 1810 Phone - PARKING COMPLAINT SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: SCHOOL ST
+Unit: 31
+Disp-18:19:00 Enrt-18:19:05 Arvd-18:19:21 Clrd-18:25:47
+Narrative:
+Reports many vehicles illegally parked on the street. States
+ball season has started and requests PD nip it in the bud.
+Narrative:
+1 violation
+19-4989 1832 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: [WIA 190] MAIN ST
+Unit: 38
+Arvd-18:32:36 Clrd-18:38:21
+Narrative:
+Checked Area.
+19-4991 1852 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Calli Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: STIMONDS RD
+Unit: 31
+Arvd-18:54:02 Clrd-18:55:37
+Narrative:
+Checked Area.
+19-4992 2008 Phone - WELL BEING CHECK SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 165] ADAMS RD
+Narrative:
+Party, unable to give her phone or room number, reports
+staff member "JJJl|* has been physically and verbally abusing
+the elderly. States tonight he dragged her by her feet out
+of the rest room.
+Narrative:
+Spoke with supervisor nurse who said CP
+is a dementia patient and had refused to leave the restroom.
+Party advised of complaint.
+19-4993 2118 Phone - MOTOR VERICLE ACCIDENT
+TAKEN INVESTIGATED / REPORT
+Call Taker: DISPATCHER
+Location/Address: [WIA 1384] LATHAM LAURIE TUPER ST

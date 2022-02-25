@@ -1,1 +1,50 @@
-Unit  36  Arvd-07:52:21  Clrd-07:58:33  Vehicle  BLK 2013 TOYT TACOMA Reg: PC MA 8JGK30 VIN: STFUU4EN3DX072874  Operator  CAZAVELAN, TODD J @ 845 N MAIN ST - LANESBOROQUGH, MA 01237-9796  Race:  W Sex: M  Refer To Citation  T2085422  Owner:  CAZAVELAN,  TODD J @ 845 N MATIN ST - LANESBOROUGH,  MA 01237-9796  Race:  W Sex: M  19-14838  O754  9131 - 9-1-1 ABANDONED CALL  HO ACTION REQUIRED  Call Taker;  PATROL ANTHONY M DUPRAT  Location/Addresgs:  iWIA 2169] WATER ST  Narrative:  Hang up call, upon call back spoke with §§BM who stated he  was loading luggage onto the elevator and accidentally hit  the emergency button. No emergency or police respones  needed.  19-14839  o801  initiated - MOTOR VEHICLE sToOP  CITATION - WARNING  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  MAIN ST  Unit  a6  Arvd-08:01:57  Clrd-08:09:25  Vehicle  VIN: JF2GPACCTES216079  GRY 2014 SUBA CROSSTREK Reg: PC VI EWD216  Operator  STACY, BARBARA L @ 900 HEARTWELLVILLE - READSBORO, VT 05359  Race: W Sex: F  Refer To Citation  T2085423  Owner  STACY, BARBARA L @ 900 HEARTWELLVILLE - READSBORO,  VT 05350  Race:  W Sex: F  19-14840  6805  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  ELM ST  Unit  30  Arvd-08:05:39  Clrd-08:06:01  Narrative  checked  Narrative  done  Narrative:  11/28/2019 0129 Checked $3  i9-24841  osd6  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  HALL ST  Unit  30  Arvd-08:06:46  Clrd-08:08:15  Narrative  Checked  Narrative  checked  Narrative  checked  Narrative:  done 
+Unit: as
+Arvd-07:52:21 Clrd-g7:h8:33
+Velicle: BLE 20:3 TOYT TACOMA Reg: PC MA BJGR30 VIN: ETFUTAEN3DI728874
+Operator: CAZAVELAN, TUDD J dd 8945 N MAIN SW - LANKSBORCUGH, MA Di237-97Y6
+Race: W Sox: M
+Pafer To Citalion: T2005422
+Owner: CAZAVELAN, TODD J ww B45 NWN MATH ST - TANRERSBORCUGH, MA [1237-9756
+Race: H Sex: M
+19-248338 0754 911 - 9-1-1 ABANDONED CALL NO ACTION REQUIRED
+Call Taker: PATROL ANTZIONY M DUBRAT
+Location/Address: INIA 2:69] WATER ST
+Narrative:
+Hang up call, upon call back spoke with JJlf who stated he
+was loading luggage onto the elevator ard accidentally hit
+tha emergency hutton. No emargency or police respones
+nesded.
+19-14839 0801 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address:
+Unit:
+Arvd-38:01:57 Jird-08:59:25
+Vehicle: CRY 20:4 SUBA CPOSSTIREK Ray: PC VI ENDZ1lée VINK: Jr2GPACCTERZ16079
+Operator: STACY, LARBARA L ¢ 900 HEARTWRELLVILLE - READSBOROD, VT 05250
+Race: Ww Sex: F
+Refer To Citation: T2025423
+OuWneY : STACY, BARBARA L ® 900 HEARTWELLVILLT - READSBORD, VT 053350
+Race: W Sex: F
+19-14840 0805 Iritiated - BUILDINZ CHECK BUILDING CHECKIED/SECURED
+Call ‘l'ake>r: SERGEANT ICCTT E MOGOWAN
+Location/Addrens: ELM ST
+Unil: 3a
+Arvd-08:0z:59 Clrd-08:06:21
+Marrative:
+checked
+Narrative:
+done
+Narrative:
+11/28/2029 0.29 Checked S3
+oage Initiated - BUILDING CHECK BUILDING CHECEKED/SECURED
+1595-14841
+Cal. Taxer: SERCEANT SCOTT E MCGCOWAN
+Lecation/Addreus: HALL ET
+Jit: 30
+Arvd-08:26:46 Clrd-06:08:15
+Narrative:
+Checkad
+Harrative: chetkead
+Narvat've: checked
+Harrative:
+done

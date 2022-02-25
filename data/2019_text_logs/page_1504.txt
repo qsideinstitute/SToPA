@@ -1,1 +1,53 @@
-12083  Race:  W Sex: F  15-10817  1959  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  [WIA 910} TACONIC TRL  unit  35  Arvd-15:59:21  Clird-19:59:25  Narrative  Checked  1959-10818  2012  $11 - ASSAULT  TAKEN  ENVESTIGATED / REPORT  Call Taker  PATROL ANTHONY  M DUPRAT  Location/Address  SPRING ST  Unit  34  Disp~20:13:18  Enrt.-20:14:17  Arvd-20:14:34  Cird-21:25:49  Unit  35  Disp-20:13:19  Enrt-20:13:47  Arvd-20:14:45  Clrd-21:31:18  Unit  31  Disp-20:21:48  Enrt-20:21:57  Arvd-20:24:55  Clrd-21:24:09  Narrative  CP reports a guest was assaulted by another party,  assaulting party is trying to leave the premises.  Refer To Incident:  19-213-OF  19-10819  2032  911 - BUILDING CHECK  SERVICES RENDERED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  [WIA 2345] SIMONDS RD  Unit  34  Disp-21:28:35  Enrt-21:29:26 Arvd-21:38:19  Clrd-21:47:09  Unit  31  Disp-21:33:093  Enrvt-21:33:10 Arvd-21:38:39  Clrd-21:47:27  Narrative  CP requesting an officer check the area, CP reports she had  a male party call to Air BNB her house, CP stated she said  yes but then checked the male party's reviews and changed  her mind and told him he could not rent tonight. cP just  wants a check of the area, the house is alarmed.  Narrative  Went to the residence and speke with the RP. She had already  cancelled the reservation, notified him by email and he  never showed up at the home.  19-10820  2348  Initiated - MOTOR VEHICLE sTor  CITATION - WARNING  Call Taker  PATROL ANTHONY M DUPRAT  COLD SPRING RD  Location/Address  Unit  34  Arvd-23 :48:42  Clrd-23:56:13  Yehicle  WHI 2008 COOPER Reg; PC MA 6VY¥396 VIN: WMWML33538TN67313  Operator  REMELIUS, JEBB G @ 250 E NEW LENOX RD - PITTSFIELD, MA 01201-82309  Race:  W Sex: M  Refer To Citation  TL785828  Owner  REMELTUS, JEBB G @ 250 E NEW LENOX Rb -  PITTSFIELD, MA 01201-8309  Race:  W Sex: M  For Date:  69/01/2015  =  Sunday  15-10821  0123  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING 
+12583
+Race: K Sex: F
+15-1081" 109K9 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL, BAD SACCO
+Location/Ac¢dyass: [Wla 9l0] TACONIC TRL
+iin: : 3h
+Arvd-15:59:21 Clrd-15:59:25
+Narrative:
+Chiocloed
+19-10818 2012 511 - ASSAULT INVESTIGATED / REPORT
+TAKEN
+Call Taker: FATROL ANTEONY [ DUPRAT
+Lecazion/Address: SPERING 8T
+Tnic: 34
+Digp-20:13:19 Enrt-22:14:17 Arve-20:1:34 Clrd-21:25:49
+Unit: CH
+Disp-20:13:19 Enrt-25:13:47 Arvd-20:14:45 (Clré-21:31:18
+bniz: 22
+Disp-20:21:4E FEart-70:22:157 Arvd 20:24:55 Clrd-22:24:09
+Narrative:
+CF reports a gueat was assaulted by another party,
+assaulting rarty is trying zc Leave the premises.
+Relur To Incident: 19-213-0F
+19-10818 2032 911 - BUILDING CHECK BERVICES RENDERED
+Czll Taker: FATROL ANT-ONY I DUZRAT
+Lecation/Address: [ATM 2345] B1MOMNDS RD
+nit: 31
+Digp-21:2:35 Enrc-21:29:26 Arvé-21:38:19 Clrd-21:47:79
+nit: 31
+Dop-21:33:09 Enrv-21:32:10 Arvd-21:38:39 Clrd-21:47:27
+Narrative:
+CP? requesting an cfficer check the area, CP reposts she had
+4 male party call to Air BNS her housa, CP stated she said
+yes but then checked the male party's reviews and changed
+her mind azd told zim »e could not ren: toaighs. C2 just
+wancy a check of tie zrea, the house iz alarmed.
+Natvativa:
+Wel Lo the residence and spoke with the >. She had already
+cuaice_led the reservation, notified him by email and he
+never showed up at the home,
+19-108210 23438 Initiated - MOTOR VEHICLE STOR CITATION - WARNING
+Call Taker: PATROL ANTHOTY M DuUpal
+Local ion/Acdress: COLD SPRINZ RI
+nit: 34
+Arvd-23:46:42 21rd-23:55:13
+Vehicle: WHI 2008 COOPER Roda: PC MA 6VY396 VIV: NMWMIA3G3IBTNE731l1z
+Operaccr: REME- TUS, LHEBB GC § 250 NEW LEKCX RD - FITTAFTELD, MA U1Z01- 8309
+Race: B Sex: M
+Refer To Citeticn: T17AGE2H
+Owner: REMEIZUS, JEBR GC 0 250 k N<W LNOX Eb PITISFIELD, MA 01201-8309
+Race: W Sex: M
+For Date: 69/01/2019 - Sunday
+19-1C5821 0123 Initiated - MOTOR VEHICLE STOP CITATION - WARNING

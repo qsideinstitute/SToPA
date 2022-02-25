@@ -1,1 +1,50 @@
-1328: Flynn & Dagnoli Montagna contacted for response.  Refer To Incident:  19~74-OF  19-3997  1516  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SPRING ST  Unit  32  Arvd-15:17:39  Clrd-15:26:02  Narrative  04/01/2019 1516 - Start  04/01/2019 1700 - 1 violation  19-3998  i519  Initiated ~ PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  PARK ST  Unit:  38  Arvdad-15:19:31  Clrd-15:25:37  19-3999  1645  Phone - ASSIST OTHER AGENCY - RMV  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  (WIA 321] SOUTHWORTH ST  Unit  38  Disp-16:46:49 Enrt-16:47:04 Arvd-16:50:52 Clrd-17:07:00  Narrative  Requests officer for VIN verification. Vehicle is not  registered, therefore unable to drive it to Station.  Biue Subaru.  19-4000  1704  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 406] SCHOOL ST  Unit  32  Arvd~-17:05:01  Clrd-17:07:17  Narrative  04/02/2019 1706 - 2 violation  19-4001  1716  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  SIMONDS RD  Unit  32  Arvd-17:17:12  Clrd-17:17:18  Narrative  done  Narrative  Checked 0340  19-4002  1756  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  (WIA 190] MAIN ST  Unit  38  Arvd-17:57:48  Clrd-17:58:11  Narrative  Checked 0159 
+1328: Flynn  Dagnoli Montagna contacted for response.
+Refer To Incident: 13-74-OF
+19-3997 1516 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROI, SHUAN N WILLIAM
+Location/Address: SPRING ST
+Unit: 32
+Arvd-15:17:39 Clrd-15:26:02
+Narrative:
+04/01/2019 1516 - Start
+04/01/2019 1790 - 1 violation
+19-3998 1519 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: PARK ST
+Unit: 38
+Arvd-15:19:31 Clrd-15:25:37
+19-3999 1645 Phone - ASSIST OTHER AGENCY - RMV SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 321] SOUTHWORTH ST
+Unit: 38
+Disp-16:46:49 Enrt-16:47:04 Arvd-16:50:52 Clrd-17:07:00
+Narrative:
+officer
+Requests for VIN verification. Vehicle is not
+registered, therefore unable to drive it to Station.
+Biue Subaru.
+19-4000 1704 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 406] SCHOOL ST
+Unit: 32
+Arvd-17:05:01 Clrd-17:07:17
+Narrative:
+04/01/2019 1706 - 1 violation
+19-4001 1716 Initiated - BUILDING CHECK BUILDING
+CHECKED/SECURED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address:
+SIMONDS RD
+Unit: 32
+Arvd-17:17:12 Clxd-17:17:18
+Narrative:
+done
+Narrative:
+Checked 0340
+19-4002 1756 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOEN J MCCONNELL JR
+Location/Address: [WIA 190] MAIN ST
+Unit: 38
+Arvd-17:57:48 Clrd-17:58:11
+Narrative:
+Checked 0159

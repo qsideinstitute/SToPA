@@ -1,1 +1,54 @@
-19-2244  1519  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  PARK ST  Unit;  34  Arvd-15:20:26  Clrd-15:26:46  19-2245  1519  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  SPRING ST  Location/Address:  Unit:  31  Arvd-15:21:27  Cird-15:27:58  Narrative:  1 violation  19-2246  1545  Walk-In - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  [WIA 249] NORTH ST  Narrative;  Reports a male took down the SOR paper that was posted on  the bulletin board outside the PD. He then proceeded into  the Town Hall and stated there were several things wrong on  it and it should not be posted. She re posted it as  required.  S4 located the party,  ’  spoke with him and  advised him to leave the posting alone.  19-2247  1650  Phone - ASSIST OTHER AGENCY -  UTILITY  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  LINDEN ST  Unit  31.  Disp-16:59:42  Arvd-16:59:45  Clrd-17:04:57  Narrative  Reports an old Verizon wire down into street. She is  contacting Verizon, but wanted to let PD know in case they  wanted to move it out of the way before Verizon gets there.  Narrative  Telephone wire removed from road and coiled up. It was  previously attached to 90 Linden Street and to Pole #1.  19-2248  1706  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN P GARNER  HANCOCK RD  Location/Address  Unit  34  Arvd-17:06:13  Clrd-17:11:28  Vehicle  RED 2019 GMC PK SIERRA Reg: PC NY EGA1865 VIN: 1GTPSEELOKZ210813  Operator:  HUGHES, SCOTT K @ 9 BEAR LN - SOUTH SETAUKET, NY 11720  Race: W Sex: M  Refer To Citation:  T1400813  Owner:  HUGHES, SCOTT K @ 9 BEAR LN -  SOUTH SETAUKET, NY 11720  Race: W Sex: M  13-2249  17217  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  HANCOCK RD  Unit:  34  Arvd-17:17:49  Clrd-17:21:40 
+19-2244 1519 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL REVIN P GARNER
+Location/Address: PARK ST
+Unit: 34
+Arvd-15:20:26 Clrd-15:26:46
+19-2245 1519 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: SPRING ST
+Unit: 31
+Arvd-15:21:27 Clrd-15:27:58
+Narrative:
+1 violation
+19-2246 1545 Walk-In - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 249] NORTH ST
+Narrative:
+male took
+Reports a down the SOR paper that was posted on
+the bulletin board outside the PD. He then proceeded into
+the Town Hall and stated there were several things wrong on
+it and it should not be posted. She re posted it as
+required.
+S4 located the party, |. spoke with him and
+advised him to leave the posting alone.
+19-2247 1650 Phone - ASSIST OTHER AGENCY - UTILITY TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: LINDEN ST
+Unit: 31
+Disp-16:59:42 Arvd-16:59:45 Clrd-17:04:57
+Narrative:
+Reports an old Verizon wire down into street. She is
+contacting Verizon, but wanted to let PD know in case they
+wanted to move it out of the way before Verizon gets there.
+Narrative:
+wire removed from road and coiled
+Telephone up. It was
+previously attached to 90 Linden Street and to Pole #1.
+19-2248 1706 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: HANCOCK RD
+Unit: 34
+Arvd-17:06:13 Clrd-17:11:28
+Vehicle: RED 2019 GMC PK STERRA Reg: PC NY KGAl865 VIN: 1GTP9EEL0KZ210813
+Operator: HUGHES, SCOTT K ® 9 BEAR LN - SOUTH SETAUKET, NY 11720
+Race: W Sex: M
+Refer To Citation: T1400813
+Owner: HUGHES, SCOTT K @ 9 BEAR LN - SOUTH SETAUKET, NY 11720
+Race: W Sex: M
+19-2249 1717 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: HANCOCK RD
+Unit: 34
+Arvd-17:17:49 Clrd-17:21:40

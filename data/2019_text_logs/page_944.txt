@@ -1,1 +1,50 @@
-Operator  HADAWAY, KIMBERLY @ 3004 FETLOCK DR Apt. #104 - MARIETTA, GA 30061  Race:  B Sex: F  T1785702  Refer To Citation  Owner  GUADALUPE, BARRIOS CAMARENA @ 2607 HAVEN CT - EVANS, CO 80620  Race: W Sex: F  Narrative  2 Car MVA. No injuries.  Narrative  05/19/2019 0933 ~ Rons on scene  Refer To Accident:  19~-63-AC  19-6278  0926  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  ‘Call Taker  SERGEANT SCOTT E MCGOWAN  STRATTON RD  Location/Address  Unit  30  Arvd-09:27:01 Clrd-09:31:04  Vehicle  BLK 2015 FORD EDGE Reg: PC MA 862PR5  VIN: 2FMTK4APiFBB58151  Owner  GUNTLOW, ANDREW JAMES @ 200 WHITMAN RD - HANCOCK, MA 01237  Race: W Sex:  M  Narrative  MV parked in driveway, not listed on contact sheet. Dispatch  to contact home owner.  0943: Spoke with [RRR who is working at the  residence.  Narrative  checked  Narrative  Checked  0947  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Ao-8279'  ‘Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  LONGVIEW TER  Unit:  30  Arvd-09:47:19  Clrd-09:47:27  0952  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  19-6280  Call Taker  SERGEANT SCOTT EH MCGOWAN  Location/Address  FRENIER AVE  Unit  30.  Arvd-09:53:06  Clrd-09;53:22  Narrative  checked  Narrative  Checked  0953  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  19-6281  call Taker  SERGEANT SCOTT E MCGOWAN  dress  HARWOOD ST  Location/Ad  Unit  30  Arvd-09:53:45 Clrd-09:53:55  Narrative  checked  Narrative 
+Operator: HADAWAY, KIMBERLY 2 3004 FETLOCK DR Apt. #104 - MARIETTA, GA 30061
+Citation: Race: B Sex: F
+Refer To T1785702
+Owner: GUADALUPE, BARRICS CAMARENA @ 2607 HAVEN CT - EVANS, CO 80620
+Race: W Sex: F
+Narrative:
+2 Car MVA. No injuries.
+Narrative:
+05/19/2019 0933 - Rons on scene
+Refer To Accident: 19-63-AC
+19-6278 0926 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: STRATTON RD
+Unit: 30
+Arvd-09:27:01 Clrd-09:31:04
+Vehicle: BLK 2015 FORD EDGE Reg: PC MA 862PR5 VIN: 2FMTK4AP1FBES8151
+Owner: GUNTLOW, ANDREW JAMES @ 200 WHITMAN RD - HANCOCK, MA 01237
+Race: W Sex: M
+Narrative:
+MV parked in driveway, not listed on contact shect. Dispatch
+to contact home owner.
+0943: Spoke with || who is working at the
+residence.
+Narrative:
+checked
+Narrative:
+Checked
+19-6279 0947 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Local:ion/Address: LONGVIEW TER
+Unit: 30
+Arvd-09:47:19 Clrd-09:47:27
+19-6280 0952 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT ® MCGOWAN
+Location/Address: FRENIER AVE
+Unit: 30
+Arvd-09:53:06 Clrd-09:53:22
+Narrative:
+checked
+Narrative:
+Checked
+19-6281 0953 Initiated BUILDING CHECK BUILDING
+- CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Location/Address: HARWOOD ST
+Unit: 30
+Arvd-09:53:45
+Narrative: Clrd-09:53:55
+checked
+Narrative:

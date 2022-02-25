@@ -1,1 +1,50 @@
-Location/Address  NORTH HOOSAC RD  Unit  34  Enrt-20:07:59 Arvd-20:16:57  Cird-20:25:38  Disp-20:07:34  Narrative  Reports a gas cap or water cap in the road. On N Hoosac Rd  near the apartments.  Narrative  Checked entire length of N.Hoosac Rd, unable to find anthing  in roadway as described  19-8242  2021  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  {WEA 916] TACONIC TRL  unit  38  Arvd-20:22:01  Clrd-20:24:20  Narrative  Checked  29-8243  2033  911 -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker  SERGEANT PAUL D THOMPSON  Location/Address  TACONIC TRL  Unit  38  Clrd-20:59:38  Disp-20:34:47  Enrt-20:35:06 Arvd-20:40:57  Unit  34  Enrt-20:46:40 Arvd-20:55:17  Clyrd-20:57:05  Disp-20:46:39  Narrative  Bird that is banded in middle of road. Calling party  standing by until officer arrives.  Narrative  Appeared to be a domestic pigeon. Bird would fly off when  amyone would get too close to it.  CITATION - WARNING  19-8244  42143  FTnitiated - MOTOR VERICLE STOP  PATROL JOHN J MCCONNELL JR  Call Taker  Location/Address  MAIN 8ST  Unit  38  Clird-21:52:11  Arvd-21:44:00  Vehicle  GRN 2018 HOND HRV Reg: PC MA 2RBW9i VIN: SCZRUGHI5IG726716  Operator  WHITNEY, EMMA L @ 81 ELLIOTT DR - WILLIAMSTOWN, MA 01267  Race:  W Sex: F  Refer To Citation  T1783296  Owner  NASSIF, ROBIN MEIGS @ 81 ELLIOTT DR - WILLIAMSTOWN, MA 01267-2905  Race:  YU Sex: F  19-8245  2211  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  SOUTHWORTH ST  Unit  38  Arvd-22:12:44  Clrd-22:13:57  Narrative  Checked 0120  =  For Date:  07/01/2019  Monday  o034  Initiated - MOTOR VEHICLE STOP  CETATION - WARNING  19-8246 
+Location/Address: NORTII HOOSAC RD
+Tnit: 34
+Diap-20:07:34 Enrt-20:07:53 Arvd-20:16:57 Clrd 20:25:38
+MNarrstive:
+Reporié a cas cap or water cap in tha roac. On NY HoogaC Rd
+acar the apartments.
+Narraziva:
+Checked untirs lentzh of N.Hoopaz Rd, vmabdle to find anthing
+in roudway ws described
+19-8242 2021 Initistad - DMIILDING CHECK BUILDING CHECKED/SRECURED
+Cul Takeor: SACROL COHN J MCCONNELL JR
+Locaticn/Address: WIA 9107] LAUCDNIC TRS
+Uril: as
+Arvd-20:22:01 Clxd-20:24:20
+Har>xative:
+Checkea
+19-8243 2033 911 - ANIMAL CONTROL SERVICES RENDERED
+Cal’ Taxer: SERGEANT PAUL TL THOMPSON
+Lacation/Addrers: TAJIONIC TRL
+Tit: 38
+DiRp-20:24:47 Bart-20:25:08 Arvd-Z0:42:8¢ S2rd-20:39:38
+Umit: 34
+Disp-20:15:39 Enrt-20:45:40 Arvd-20:55:17 QLrd-20:27:05
+Nerrakive:
+Birc that is banded in niddle of read. Calling PET-Y
+unti: offliger arrives.
+gterding by
+Narrative: Bird would off when
+Appeareé tc be a doumesl:c pigeon. it. Jy
+anyons would gel Tou close to
+19-8244 2143 Initiated - MOTOR VEHICLE STOP CITATION - WARMING
+Call Taker: PATROL JOAN J MCIOMNELL oR
+Lozation/Acdrose: MATN 37
+Un_xt: 23
+Axve 21:44:00 Clrd-22:52:10
+Vebkicle: OxN 2018 HOND FRY Rec: PC MA ZRDRS1 VIN: 3ICZRUGH2SJ726716
+Cperator: WEITNEY, EMMA I. 81 ELLIOTT DR - WILLIAMSTOWN, MA 01287
+Raexz: A Sex: F
+Refer To Citallo::: W_YES296
+Owner: NASSIF, ROSIN MEIGE @ 31 BLLIOIT DR - WILLTAMSTOWRN, MA 01267-230Z
+Race: J Sex: I
+10-8245 2211 Inltiatad - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JCIIN J MCCOKNELL JK
+Lecation/Adfress: SOUTHWORTII 8T
+init: ah
+Arvd 22:12:44 Clrd-22:12:07
+Narrative:
+Checked ui2o
+For Dake: 07/01/2019 - Monday
+19-8246 0034 Initiated - MOTOR VEHICLE BTO? CITATION - WARNING

@@ -1,1 +1,49 @@
-Narrative:  checked  Narrative:  Checked 2329  Narrative:  Checked 0331  19-13436  07490  Phone -  ALARM - BURGLAR  ALARM FOUNDED  Call Taker:  PATROL KALVIN DZTEDZIAK  Location/Address:  INWTA 1628] COLD SPRING RD  Unit:  30  Enrt-07:42:22  Cird-07:44:40  Disp-07:42:01  Narrative:  Activated Burglar alarm. Zone: back door  0734- Cancel response  Narrative;  Canceled by alarm company.  19-13437  o743  Phone -  ALARM  - BURGLAR  ALARM FOUNDED  Call Taker  PATROL KALVIN DZ2ITEDZTAK  Location/Address  [WIA 18633] PINE COBBLE RD  Unit  30  Disp-07:46:00  Enrt-O07:46:15  Clrd-07:49:48  Narrative  Activated Burglar Alarm. Zone: side entry and family room  0749- Cancel response  Narrative  Canceled by alarm company.  19-13438  o751  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT EF MCGOWAN  Location/Address  PINE COBBLE RD  Unit  30  Arvd-07:52:34  Clrd-07:52:46  Narrative  eT  KBISTO  {on street}  Narrative  35EV77  CT  KBLSTO  (street)  Narrative  CT  KBLSTO  Narrative  empty  Narrative  checked  Narrative  empty  Harrative  Checked, no vehicles.  0042  Narrative  Checked, no vehicles.  0335 
+Narrazrtiwvo:
+sheoked
+Narraziva:
+Onanxed 2329
+Xarrazive:
+(recsed 03131
+1959-13436 07440 Phone - ALARM - BURGLAR ALARM FOUNDED
+gall Tuker: PATRCL KALVIN DZIEDZIAK
+Location/Address: [WIA 1528) COLD SFRING RD
+Un-: 30
+Hen-07:472:01 Enrt-07:42:22 Clré-07:44:40
+Narrative:
+Activated Burglzr a_arm. Yone: back door
+0724- Cancel rospenso
+Narrakb-vg:
+Cancelcd Lkyv alarm coupany.
+15-13437 07432 Fhone - ALARM - BURGLAR ALARM FOUNDED
+Cal: Taror: SATROL KALVIN DZIEDZIAK
+Zocation/Addregs: [W-A 1823] PINE COBSLE RD
+Unik: 30
+Lisp-07:46:30 Enrt-07:46:56 Clrd-47:49:48
+Narrztiva:
+Mcrtivated surgiar Alaym. Zonc: pide entry and family recom
+0749- Cangel rosponss
+Narrazivo:
+Canceled by alarm company.
+19-313438 0751 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGELXNT 3CCIT E MCIOKAN
+Location/Address: PINE ZOBBRLE RD
+Un><: 30
+Arvd-07:52:33 Clré-07:52:46
+Harrative:
+CT: KB_STO (on streez)
+Narrative:
+Mh: AEBVTT
+CT: XB1S—M street)
+Narrative:
+CT EK518I10
+Narrative:
+empty
+Nar-avive:
+onecked
+Narrazive:
+el
+cit
+HarvaTive:
+Jresxed, nc vehiocies. 0042
+Xarrative:
+Checked, zo vehicloz. 0335

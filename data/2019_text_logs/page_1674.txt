@@ -1,1 +1,53 @@
-19-11836  1843  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker:  MICHAEL STRIZ2I  Location/Address:  [WIA 103] COLE AVE  Narrative:  CP was a third party caller.  Party locked their keys in  White Honda CRV.  their car behind the spirit shop.  1845 Rons notified and enroute to unlock vehicle.  1930 Contacted spirit shop clerk stated party is all set  Rons handled it.  1419-11839  2115  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  (WIA 910] TACONIC TRL  Unit:  32  Arvd-21:16:22 Clrd-21:16:27  Narrative:  Checked 0307  =  For Date;  09/23/2018  Monday  19-118490  0130  Initiated - SUSPICIOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Call Taker:  PATROL KEVIN P GARNER  MAIN ST  Location/Address:  [WIA 162]  Unit:  34  Arvd-01:31:21  Clrdg-01:37:26  Narrative:  Subject claimed to be waiting to hear from friend to pick  him up at Hojo's. Advised to pick a hetter area and net a  closed business  15-12841  0216  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KEVIN PF GARNER  Location/Address  NEW ASHFORD RD  Unit  34  Arvd-02:16:46  Clrd-02:19:52  Vehicle  BLU 2003 CHEV SE CAVALI  Reg: PC MA 753KL9 VIN: IGLUFS2F8371 72671  Operator  LARABEE, DANIEL M @ 551 HENDERSON RD - WILLIAMSTOWN, MA 01267  W Sex: M  Race:  Refer To Citation  T1785316  MA 01247-2740  Owner  PELLERIN, TAMMY M @ I17B JACKSON ST - N ADAMS,  Race:  YU Sex: F  19-21842  0356  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 390] STMONDS RD  Unit:  31  Arvd-03:56:58  Clrd-03:57:69  1419-31843  0725  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  COLD SPRING RD  Unit:  36  Arvd-07:26:13  Clrd-07:46:31  SERVICES RENDERED  19-11944  O746  Initiated - TRAFFIC CONTROL  Call Taker:  PATROL TANTA HERNANDEZ  GALE RD  Location/Address:  Unit:  36  Arvd-07:47:17  Clyrd-08:05:25  Unit:  31 
+15-11836 1843 Phone - MOTOR VEHICLE LOCKE OUT VEHICLE OPENED
+Cail Taker: MICHAEL STRIZZI
+Local jon/Address: [WiA Z03] COLE AVE
+Rarzablivea:
+CP was a third party caller, Party locked Lheixy kcys in
+their cer behind the spivil shop. White Renda CRV.
+1845 Rons notified and enroute to unlock vehicle,
+1930 Contacted spirit shop clerk stated party is all set
+Roms handled it.
+1595-11835 2115 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: EBATROL SEUAN N WILLIAM
+Location/Address: [WIA 910] TACONIC TRL
+Jnit: 32
+Arvd-21:26:22 Clrd-21:16:27
+Narrative:
+Checkad 2307
+For Date: 08/23/2019 - Nonday
+1959-11840 0130 Initiated - SUSPICIOUS MOTOR VEHICLE LOG ENTRY REQUEST
+Cal. Taxex: PATRIN, KRVIN P GARNER
+Location/Address: ‘WIA 162] MAIK ST
+Unit: 34
+Arvd-01:31:21 Clrd-01:37:20
+Narrative:
+Subject claimed to pe wailing Lo hear from Zriend to pick
+him up at Hojo's. Advised Lo pick a better area and not a
+closed business
+15-11841 0216 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Takor: PATROL KEVIN P GARNEX
+Lecation/Addrewy: KEW ASHFDZRD RJ
+Unil: 3
+Arvd-02:36:40 Clrd-02:19:51
+Vehicle: BLU 20053 CHEV SE CAVALI Reg: PC MA 753XL? VIN: 1GLJI52F837172671
+Operator: LARAREBS, DANIRL M 551 HENDERSON RD - WILLIAMSTOWN, MA 01267
+Race: W Sex: M
+Reter To Caitalion: T1785316
+SwlEer: PELLMEEIN, 'L'AMMY M 3 T7R JACKSON ST - N ADAMS, MA 01247-2740
+Race: U Hex: 7
+D356 Initiated - PARKING CHECK SEREVICHS RENDERED
+10-11i842 Cal: Takor: PATROL CRAIG A EICHHANMER
+Lozation/Address: [Win 390] SIMOND3 RD
+Unit: 31
+ArvAd-03:56:58 Clrd-03:57:09
+0725 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+19-111843 Cal: Taker: PATx0L TANIA HERHANDER
+Location/Addreys: COLD SFR1KG RD
+UnilL: 36
+Arvd-07:26:13 Clrd-07:46:31
+0746 Initiated - TRAVFIC CONTROL SERVICES RENDERED
+19-118544 Call Taker: PATRCL TANITA EERNANDEZ
+RD
+Tecasion/Address: Unik: GALE aa
+Arvd-07:47:17 Clrd-0B:05:25
+Unit: al

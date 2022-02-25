@@ -1,1 +1,51 @@
-Narrative:  Checked Area.  19-16638  1238  Phone - TRAFFIC COMPLAINT  UNABLE TO LOCATE  Call Taker  DISPATCHER  CHRISTINE LEMOINE  Location/Address  WHITE OAKS  RD  Unit  33  Disp-12:42  28  Clyrd-12:44:38  Unit  30  43  Enrt-12:47:43 Arvd-12:58:00  Disp-12:44  Clrd-13:10:55  Narrative  RP reports in the area of 537, 2 atvs have been speeding  past her hour  repeated for "awhile".  Narrative  Second reporter that there are 4 bikes and an ATV. Officers  advised.  Narrative  30 in the area.  19-10639  1352  Initiated - BULLDING CHECK  BUILDING CHECKED/SECURED  Cail Taker:  PATROL BRAD SACCO  Location/Address:  HOPPER RD  Unit:  35  Arvd-13:51:56 Clrd-13:51:57  Narrative:  checked  Narrative:  Checked Area  19-10640  1405  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL BRAD SACCO  Location/Address:  NEW ASHFORD RD  Unit:  35  Arvd-14:05:52 Cird-14:15:01  Vehicle:  RED 2017  FORD EXPLOR Reg: PC MA 8ES713  VIN:  LPMSKSDHAHGE4 8584  Operator:  SANFORD,  SARAH R G 150 CANDLEWOOD DR - WILLIAMSTOWN,  MA 01267  Race:  W  Sex: F  Refer To Citation:  T1786169  Owner:  SANFORD,  SARAH R @ 150 CANDLEWOOD DR - WILLIAMSTOWN, MA 01267  Race:  W  Sex: F  19-10641  1425  Ttnitiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL BRAD SACCO  Location/Address:  GREEN RIVER RD  Unit:  a5  Arvd-14:25:09  Clrd-14:38:45  Vehicle:  BRO 2005 CHEV SE MALIBU Reg:  PC MA 1H¥6820 VIN:  1G142T54885F198173  Operator:  QUINONES,  ALANZA R @ 300 BEAVER ST - N ADAMS, MA 01247-2840  Race: W Sex:  F  Refer To Citation:  T1786170  Owner:  QUINONES, ANGELA L @ 30 PROSPECT ST Apt.  #2  - N ADAMS, MA 01247-2748  Race:  DU Sex: F  1959-10642  1445  initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker:  PATROL BRAD SACCO  Location/Address:  GREEN RIVER RD 
+Narrative:
+Checked Arva.
+18-10638 1238 Phone - TRAFFIC COMPLAINT UNABLE TO LOCATE
+Cail Taker: DISPATCHER CHRISTINE LEMOINE
+Location/Address: WHITE OAKS RD
+Unit: 33
+Disp-12:42:28 Clrd-12:44:39
+Unit: 14
+Disp-12:44:43 Enr: 12:47:43 Arvd 12:58:00 Clzd-13:10:53
+Harrative:
+RP reports in the area ot 537, 2 atvs have been speecing
+past her hour repeated ior "awhile".
+Narrative:
+Seccnd repcrter that there are 4 bikes anc an ATV. Officers
+advised.
+Narrative:
+30 in the area.
+15-10639 1351 Initiated - BUILDING CHECK BUILDING CHECKED/EECURED
+Call Taker: PATROL BRAD SACCO
+Location /Adcress: HOPPER RD
+Unit: kin
+Arvd-13:81:56 Clrd-12:51:57
+Narrative:
+maecked
+Narrative:
+Crecked Area.
+18-104640 1405 Initiated - MOTOR VEEYCLE STOP CITATION - WARNING
+Call Taker: BATROL BRAD SACCD
+Location/Address: NZW ASIIFORD RD
+Un:l: a5
+Arvd-14:05:52 Clrd 14:15:01
+Vehicle: RED 2017 FORD EXPLOR Reg: PC MA 8ES5713 VIN: 1FMSKSLCII4HGB48584
+operator: SANFORD, SARAH rR © 150 CANDLEWOOD DR - WILLIAMSTOWN, MA 012G7
+Race: §# Sex: F
+Refer To Z-tat-on: T17688162
+Owner: EANKORD, SAZAH X $ 50 CANDLEWOOD DX - WILLIAMETOWN, MA 01267
+Xace: W Hox: F
+19-106411 1425 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taxex: PATROL BRAD SACCC
+Locaticn/Address: SREEMN RIVER RD
+Unit: as
+Arvd-14:25:09 Clrd-14:38:45
+Vehicle: BRO 2005 CLEY SE MALIBU Rey: PC MA 1HY320 VIN: 1G1AT54885F158173
+Operator: QUINGCNES, ALANZA R @ 3C0 BEAVER ST - N ADAMS, MA 01247-2840
+Raca: W Sex: F
+Rofor To CitalLicn: T1786170
+Cwner : QUINCHES. ANSELA L ¢ 30 PROSBECT 27 Apt. #2 - N ADAME, MA 01247-2748
+Race: © Sex: F
+18-10642 1443 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Call Taker: FATROL BRAD SACCO
+Lecation/Addresas: GREEN RIVER RD

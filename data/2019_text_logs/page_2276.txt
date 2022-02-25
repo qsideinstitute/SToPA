@@ -1,1 +1,51 @@
-Narrative  Checked  $-4  16:45  Narrative  Checked s-4  19:07  Narrative  12/15/2019 9113 Checked $3  Narrative  12/15/2019 0300 Checked §3  19-15456  0841  Phone -  TRAFFIC COMPLAINT  SERVICES RENDERED  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  SIMONDS RD  Unit  a4  Arvd-08:51:33  Clrd-09:01:55  Disp-08:41:00 Enrt-08:43:27  Vehicle  RED 2005 VOLVY SW XC7  Reg: PC VT GLK785 VIN: ¥V152Z592051188837  Operator  JONATHAN, JONAH I @ 20 W CANAL ST 517 - WINOOSKI, VT 05404  Race:  B Sex: M  Owner  JONATHAN,  DARIUS K @® 20 W CANAL 517 - WINOOSKI,  VT 05404  Race:  W  Sex: M  Narrative  CP reports he is heading North on Rt? in Pownal. CP reports  vehicle has passed him in a No Passing Zone. Now is tail  gating vehicles. CP reporting there just about to pass  Stewarts.  0851 Vehicle stopped on Park St closer to Main SL.  19-15455  0845  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  PINE COBBLE RD  Unit  32  Arvd-08:46:04  Clrd-08:46:13  Narrative  empty  Narrative  MA 1185  VP 2028442  19-15457  0851  Initiated - BUTLDING CHECK  BUILDING CHECKED/SECURED  PATROL SHUAN N WILLIAM  Call Taker  Location/Address  ELM ST  Unit  32  Arvd-08:51:27  Clrd-08:51:38  Narrative  17:06  Checked S-4  Narrative  12/15/2019 0253 Checked S3  19-15458  0851  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  PARK ST  Unit  34  Arvd-08:51:55  Clrd-09:00:34  Vehicle  RED 2005 VOLV SW XC?  Reg: PC VT GLK785 VIN: YV1SZ592051188837  Operator  JONATHAN, JONAH I @ 20 W CANAL ST 517 - WINOOSKI,  VT 05404  Race:  B Sex: M 
+Nurrativo:
+Checked Ss 4 16:45
+Narrative:
+Checksc E2-4 19:07
+Narrative:
+12/15/2019 0113 Checked S3
+Karrative:
+12/15/2019 0200 Chesked 3
+19-135456 0841 Phone - TRAFFIC COMPLATNT SERVICEE RENDRRED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Iocation/Address: SIMONDE RD
+Unit: 34
+Disp-08:41:00 Fnr:-08:47:27 Arvd-08:51:33 I_rd-09:31:85
+vehicle: RED 20085 VO.LY SW XC7 Reg: PC VT GLK785 VIN: YV1SE592051188837
+Cpcrator: ONATHAN, JONRH I @ 20 W CANAL 87 517 - WINDOSKI, VI 5404
+Rage: 8 Sex: M
+Owner: JONATHAN, DARTUS K  Z0 W CANAL S17 - WIKCOSKI, VT 05404
+Race: W Sex: M
+Karralive:
+CP reports he is leading North or Rt”? in Pownal. C7? reporie
+vehicle has passed him in a Kc Passing Zona. Now is tail
+gating vehicles. CF reporting there just about to pass
+Stewarts.
+0851 Vehicle stopped on Park St closer Lo Main St.
+19-154535 0845 Initiated - BUILDING CHECK SERVICES RENDERED
+Call “aker: PATROL SHUAN N WILLIAM
+Location/hdcress: PINE COBBLE RD
+un-.: 32
+Arvd-08:46:04 Clrd-08:46:13
+Marrative:
+emply
+Narrazive:
+MA 1165
+VT 2023442
+19-15457 0851 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+all Taker: PATROL SIIUAN N WILLIAM
+Location/Address: ELM 8T
+nit: 32
+Arvd-08:51:27 Clrd-s8:5.:38
+Narrative:
+Checkad 5-4 17:06
+Narrazive:
+12/15/2019 0253 Checked S3
+1959-15458 0851 Initiated - MOTOR VEHICLE STOF CITATION - WARNING
+Ca_l Taker: DAT'ROL DAVID JENNTNGS, D
+8T
+Location/Address: PARK
+Unik: 34 AxvE-0B:51:35 Clrd-39:00:34
+RED 2005 WOLV SW XC7 EC VT GLK735 VIN: YV1SZEY2I51188837
+VetiZoele: CONAH I @ 20 Req: # CANAL ST 517 - WINOOSKI, VT 05404
+Operator: JONATHAN, Race: B Sex: M

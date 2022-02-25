@@ -1,1 +1,44 @@
-Narrative:  Checked Area.  Narrative:  10/07/2019 0332 Checked 33  19-12431  o8o0  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cali Taker  PATROL TANIA HERNANDEZ  Location/Address  HARWOOD ST  Unit  36  Arvd-08:00:39 Clrd-08:02:44  Narrative  Checked  Narrative  Checked Area.  1912432  0813  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANTA HERNANDEZ  Location/Address  MAIN ST  Unit  36  Arvd-08:13:31  Clrd-09:14:39  Narrative  Checked §-4  17:02  Narrative  done  Narrative  10/07/2019 0147 Checked $3  19-12433  og24  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  STRATTON RD  Unit  36  Arvd-09:25:01  Clrd-08:27:14  Narrative  Checked  Narrative  Checked Area.  19-12434  0835  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  WOODLAWN DR  Location/Address  Unit  36  Arvd-08:36:00  Cird-08:38:06  Narrative  Checked  8-4  17:46  Narrative  done  Narrative  Checked Area. 
+Narrative:
+Teevaed Area.
+Narrative:
+10/07/2919 0332 Checked 33
+19-122431 0D8a0 Initiated - BULIIDING CRECK BUILDING CHECKED/SECURED
+Call Taker: BATROL IANA HYWRNANDEZ
+Location/acdross: ZAPRNCIOD 8T
+Un..: 36
+Arvd-5R:06:39 Clvd-0B:02:44
+Harrative:
+Checked
+Narrative:
+“hecked Ares,
+19-123432 0813 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal. Takor: PATROL TANIA ZEPNANDEZ
+Lecallon/addresy: MAIN S7
+Unit: 36
+Arvd-08:13:21 Clrc-0:14:39
+Nzrrat:ve:
+Checked 5-4 17:01
+Narrative:
+done
+Nurral ive:
+10/07/2029 2147 Chacked S3
+19-12433 0824 Initiated - BUILDING CHECX BUILDING CHECKED/SECURED
+Ca-l Taker: FATROL TANIA HERNANDEZ
+—ocation/address: STRATTCH RE
+onit: 6
+Arvd-08:25:01 Clrd-T8:27:14
+Harrativa:
+Checked
+Hazracive:
+whevked Area.
+13-12434 0B35 Initiated - BUILDIKG CHECK BUILDING CHECKED/SECURED
+all Takaxr: PATROL TANIA HERNAKDEZ
+Tocatior /hdéress: WOOLTAWN DR
+nit: 3a
+Arvd-08:36:00 Clrd-08:38:56
+Larrative:
+Cheoged S-4 17:46
+Harrabive:
+cons
+Narrative:
+Checked Ares.

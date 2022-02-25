@@ -1,1 +1,51 @@
-Narrative  Checked  MA 18T562  MA 36PH17  NY HA568  Narrative  3 Cars, no damage  Narrative  done  Narrative  NY HAS68,  MA 36PH17  ‘  MA 15T562  19-10306  OS17  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  PARK 8T  Unit:  36  Arvd-09:17:26  Clrd-09:20:18  Narrative;  1 viclation  19-10307  0930  Phone -  ANIMAL CONTROL  LOG ENTRY REQUEST  Call Taker:  PATROL KALVIN DZIEDZIAK  Location/Address:  [WIA 670] HANCOCK RD  Narrative:  CP  reports that his cat has gone missing. Caled to inquire  if  any cats were picked up or reported dead on Hancock Rd.  19-10308  0934  initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  HOPPER RD  Unit  35  Arvd-09:34:42  Clrd-09:37:12  Narrative  Checked S-4  19:46  Narrative  Checked  19-10309  0935  initiated - MOTOR VEHICLE Stop  CITATION - WARNING  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address  NORTH HOOSAC RD  Unit  33  Arvd-09:35:57  Clrd-09:43:47  Yehicle  GRY 2009 PONT VIBE Reg: PC MA 5XR769  VIN: SY25SM670492425817  Operator  SOLDO, ROBERT A @ 5A PEARL ST - ADAMS, MA 01220-2122  Race:  Ww  Sex: M  Refer To Citation  TIi7S85757  Owner  SOLDO, ROBERT A @ 5A PEARL ST - ADAMS, MA 01220-2122  Race:  W Sex: M  19-210310  1002  Walk-In -  LARCENY  INVESTIGATED / REPORT  TAKEN  Cail Taker  PATROL KALVIN DZIEDZTAK  Location/Address  [WIA 1469] MILL ST  Unit  36  Disp-10:01:00  Arvd-10:01:42  Clyrd-11:14:12  Narrative 
+Narrative:
+Chocokead
+MA -8T552
+MA 36PH17
+NY BRASEd
+Marrallive:
+3 cars, no damage
+Nar-astive:
+donc
+Narrative:
+NY HAZ6B, MA J6FIZ7 , KA “38T582
+19-10306 0517 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATRON, TANLL HERNANDEZ
+ocatlion/Adéress: PARK 81
+Unit: 3E
+Apva-09:17:26 Clré-09:20:19
+Narrative:
+l violation
+19-103407 0530 Phone - ANIMAL CONTROL LOG ENTRY REQURST
+CalZ Taker: PATROL KALVIN DZIRDZTAK
+Locat-on/Address: [WIA a7] HAKCOCK RD
+Nerrat_ve:
+CF reports that his cat har gone missing. Culnd to incuire
+if any cats ware nicked up cr reported decd or Hancocokx Rd.
+19-1030858 0534 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+Cail Taker: SRTHROL BRAD SACC0
+Locccion/Addresy: IIOPPER ED
+Tnit: as
+Aryd-09:34:42 Clrd-09:37:2:
+Karraivive:
+Checked 5-4 19:46
+Nurrative:
+Crecked
+19-103309 0935 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cal. Taker: CHIEF KY.LL J JOEKSON
+Locub-on/Address: NCRTZ: HOCSAC RD
+Jit: 33
+Arvd-04:45:57 Crd 09:43:47
+Vehicle: GRY 2039 PONI' VoBE PC MA S5XR769 VIN: 5Y28ME7040Z423317
+Operazcc: 20T.XY, RORERT A # A Heg: PEARL 81 - ADAMS, Ma 01220-2022
+Rage: W Sax: M
+Refer To Citacicn: T1735757
+Owner: SOLPC, ROBSRI A @ 5A PTARL ST MA
+Racwe: HW Sex: M - ADAMY, 91220-2122
+1929-10310 100z Walk-In LARCENY
+TAXEN - INVESTIGATED / REPORT
+Call Taker:
+PATROL KALVTN DETSNATAE
+Lecatlion/Adéress: Unit: [TZ 1469] MTI 37
+36
+Narrative: Disp-10:L1:00 Arvd-11:01:42 Clrd 12:14:12

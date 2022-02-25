@@ -1,1 +1,49 @@
-Cail Taker  PATROL KALVIN DZTED2ZIAK  Location/Address  NORTH ST  Unit  37K  Disp-07:29:09 Enrt-07:29:23 Arvd-07:29:45  Cird-07:33:44  Narrative  Reports of wires down at the intersection of North St and  Bulkley st.  Narrative  Phone lines from first pole on Bulkley to house were removed  from roadway.  19-1725  0808  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  37K  Arvd-08:08:28 Clrd-08:09:19  Narrative  checked  Narrative  Checked S-4  17:42  Narrative  Checked S~4  20:49  Narrative  Checked 0058  Narrative  Checked 0315  19-1726  0810  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  SIMONDS RD  Unit  37K  2  Arvd~-08:11:02  Cird-08:;11:10  Narrative  Checked S~4  17:45  Narrative  Checked 0323  19~1727  0812  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  NORTH HOOSAC RD  Unit  37K  Arvd-08:13:03  Clrd-08:13:09  Narrative  Checked S-4  17:39  Narrative  Checked 0330  19-1728  0818  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  STONEY LEDGE RD  Unit:  37K 
+Call Taker: PATROL, KALVIN DZIEDZIAK
+Location/Address: NORTH ST
+Unit: 37K
+Disp-07:29:09 Enrt-07:29:23 Arvd-07:29:45 Clrd-07:33:44
+Narrative:
+Reports of wires down at the intersection of North St and
+Bulkley st.
+Narrative:
+Phone lines from first pole on Bulkley to house were removed
+from roadway.
+19-1725 0808 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [WIA 1832] NORTE HOOSAC RD
+Unit: 37K
+Arvd-08:08:28 Clrd-08:09:19
+Narrative:
+checked
+Narrative:
+Checked 8-4 17:42
+Narrative:
+Checked S-4 20:49
+Narrative:
+Checked 0058
+Narrative:
+Checked 0315
+19-1726 0810 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: SIMONDS RD
+Unit: 37K
+Arvd-08:11:02 Clrd-08:11:10
+Narrative:
+Checked 8-4 17:45
+Narrative:
+Checked 0323
+19-1727 0812 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAREI, J ZIEMEBA Jr
+Location/Address: NORTH HOOSAC RD
+Unit: 37K
+Arvd-08:13:03 Clrd-08:13:09
+Narrative:
+Checked S-4 17:39
+
+Narrative:
+Checked 0330
+19-1728 0818 Initiated
+- BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker:
+Location/Address: STONEY PATROLMAN LEDGE MICHAEL J ZIEMBA Jr
+Unit: 37K RD

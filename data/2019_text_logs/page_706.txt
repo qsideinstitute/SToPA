@@ -1,1 +1,52 @@
-19-4729  0144  Initiated - ASSIST OTHER AGENCY - POLICE  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 247] SIMONDS RD  Unit:  31  Arvd-01:46:58 Clrd-01:56:44  Unit:  32  Arvd-01:47:10 Clrd-01:50:31  Narrative:  Monitored NAPD call of disturbance on New St.  involving 16  year old male with mother and step father. Ultimately NAPD  was Overheard transporting juvenile to Villager Motel where  his biological father is staying. WPD officers responded to  the motel to make sure the peace was kept. Juvenile in  fathers custody. All in order at this time.  19-4730  0350  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  (WIA 249] NORTH ST  Unit:  31  Arvd-03:51:45  Clrd-03:52:49  19-4731  0740  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA dr  GALE RD  Location/Address:  Unit:  37K  Arvd-07:40:53  Cird-08:00:41  Unit:  35  Disp-15:03:10  Enrt~-15:03:16  Arvd-15:05:04  19-4733  0853  $11 -  ALARM  ~- BURGLAR  ALARM FALSE  Call Taker:  CHIEF KYLE J JOHNSON  Location/Address:  {WIA 2359] MAIN ST  Unit:  37K  Disp-08:53:59 Enrt~08:54:14  Arvd-08:57:40  Clrd-09:00:08  Narrative:  Front door.  Narrative:  Building secure, unknown reason for activation.  19-4734  0959  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  COLD SPRING RD  Unit:  37K  Arva-09:59:39  Clrd-09:59:51  Narrative:  checked  Narrative:  0230Hrs. Checked Area #32.  19-4735  1003  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-10:04:04  Clird-10:04:15  Narrative  checked  Narrative 
+19-4729 0144 Initiated - ASSIST OTHER AGENCY - POLICE SERVICES RENDERED
+Call Taker: PATROL CRAIG 2 EICHHAMMER
+Location/Address: [WIA 247] SIMONDS RD
+Unit: 31
+Arvd-01:46:58 Clrd-01:56:44
+Unit: 32
+Arvd-01:47:10 Clrd-01:50:31
+Narrative:
+Monitored NAPD call of disturbance on New St. involving 16
+year old male with mother and step father. Ultimately NAPD
+was overheard transporting juvenile to Villager Motel where
+his biological father is staying. WPD officers responded to
+the motel to make sure the peace was kept. Juvenile in
+fathers custody. All in order at this time.
+19-4730 0350 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL CRAIG A EICHHAMMER
+Location/Address: [WIA 249] NORTH ST
+Unit: 31
+Arvd-03:51:45 Clrd-03:52:49
+19-4731 0740 Initiated - TRAFFIC CONTROL SERVICES
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr RENDERED
+Location/Address: GALE RD
+Unit: 37K
+Arvd-07:40:53 Clrd-08:00:41
+Unit: 35
+Disp-15:03:10 Enrt-15:03:16 Arvd-15:05:04
+19-4733 0853 911 - ALARM - BURGLAR ALARM FALSE
+Call Taker: CHIEF KYLE J JOHNSON
+Location/Address: [WIA 2359] MAIN ST
+Unit: 37K
+Disp-08:53:59 Enrt-08:54:14 Arvd-08:57:40 Clrd-09:00:08
+Narrative:
+Front door.
+Narrative:
+Building secure, unknown reason for activation.
+19-4734 0959 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-09:59:39 Clrd-09:59:51
+Narrative:
+checked
+Narrative:
+0230Hrs Checked Area #32.
+19-4735 1003 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: COLD SPRING RD
+Unit: 37K
+Arvd-10:04:04
+Narrative: Clrd-10:04:15
+checked
+Narrative:

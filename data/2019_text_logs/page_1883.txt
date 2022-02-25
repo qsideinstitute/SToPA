@@ -1,1 +1,48 @@
-Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  SPRING 8ST  Unit  32  Arvd-04:15:12  Clrd-04:19:41  Narrative  Cones and barricades deployed for the Farmers Market.  19-13062  O755  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  MAIN sT  Unit  37K  Arvd-07:55:18  Clrd-07:55:36  Narrative  checked  Narrative  Checked 0131  19-13063  0843  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  HARWOOD ST  Unit  37K  Arvd-08:44:02  Clrd-08:44:42  Narrative  checked  Narrative  Checked Area.  19-13064  0502  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  {WIA 1832] NORTH HCOSAC RD  Unit  30  Arvd-09:03:05  Clird-09:03:15  Narrative  Checked  Narrative  Checked  Narrative  CHECKED  Narrative  Checked 2345  Narrative  Checked 0332  19-13066  o908  Initiated ~- BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  PINE CORBLE RD  Unit  30  Arvd-09:09:58  Clrd-09:10:20  Narrative  PA: KRY3202  MA  SPGI60  Nd: H36HDH 
+Call “akar: PATROIMAN SCOTT SKORUPSKI
+Tnxcaticn/Adéreas: SI'RING ET
+nit: 32
+AvyéE-04:15:12 CO r3d-Nd:. 9:41
+Yarralive:
+Cunes and barricades deployed Zor the Farmars Market.
+19-130862 0755 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+all Taker: IIETTERANL MICHAEL J ZIEMSA Jr
+Locazion/acdvasn: MAIN S
+Unit: 3K
+Arvd-37:53:13 Clrc-07:05:36
+Marrabive:
+checked
+Narrat.ve:
+Chackad $131
+19-130862 0843 Initiated - BUILDING CHECK BUILDING (HECKEDR/BECURED
+Cat 1 Takei: LISUTENANT M_CHAXL J ZIENBR Jr
+Tocation/Address: HAESWIOD ST
+nik: 37a
+Arvd-0B:4:02 Olrd-0R:44:47
+Nur—at ive:
+checked
+Narrazive:
+Jhacked Area.
+19-113064 0532 Initiated - BUILDING CHECK BUILDIKG CHECEKED/SECURED
+Call Taker: SRUEANT SCOTT E MCGOWAN
+Tocation/Add ese: [wla 1432] NORTH ZCUSAC RD
+Uns: 30
+Arvd-39:03:05 Clré-09:03:18
+Harrative:
+Chackac.
+Narrative:
+Checked
+Narralive:
+CHECERDL
+Nar-.liva:
+Checked 2345
+Harzrarive:
+Cnmecked 03232
+og08 Initiated BUILDING CHECK
+1585-13066 - BUILDING CHECKED/BECURTD
+Call Takar: SERARANT
+ROOTT KE MOGIWAN
+Location/Adcress: PTNE CORRTS RD
+nin: 10
+Xarrative: Arvd-09:08:58 Clrd-09:10:20
+MA: Pa: KRY3I232 JPGIGO
+NJ: I13a6IIDI

@@ -1,1 +1,56 @@
-o000  Race;  U Sex: F  Narrative:  Past MVA being reported for insurance purposes.  CP states she was parked at the end of the driveway for J  ME, when she was struck by a vehicle attempting to  back up.  19-8797  1321  Phone - BREAKING & ENTRY  INVESTIGATED / REPORT  TAKEN  Cail Taker  PATROL KALVIN DAZTEDZTAK  Location/Address  PINE COBBLE RD  Unit  37K  Enrt-13:26:39  Arvd-13:32:04 Clird-13:58:06  Disp-13:26:17  Vehicle  WHI 2010 VOLK TIQUAN Reg: PC MA 128YL2 VIN: WVGBV7AX1AW522337  owner  GHIDOTTI, DAVID @ 155 MARION AVE - NORTH ADAMS, MA 01247  Sex: M  Vehicle  BLU 2012 SUBA SE IMPREZ  Reg: PC MA 893GR2  VIN: JFLGPAA61CH211660  DANIEL M @ 53 HASTINGS ST - FARMINGTON, MA 01701  Owner  FIELDS,  Race:  W  Sex:  Mi  Vehicle  SIL 2007 GMC SIERRA Reg:  PC DE ¢€£81115  VIN: LGTHK29K77E565842  Owner  PRESTOWITS ,  ROBERT A @ 134 BUNTING DR - WILMINGTON, DE 19808  Race:  W Sex: M  Narrative  CP has returned to his vehicle located in the trail parking  lot to find that his vehicle windows, and 2 others,have been  smashed out. Unaware if anything is missing at this time.  Narrative  Bilimonta {Stamford VT) Contatced by Dispatch to inquire  about survalence system. Business equpied with cameras both  inside and outside  Narrative  (  }  returned to her vehicle and  called to report window smashed out. She was advised it was  being investigated. The only thing she noticed missing was a  knitting bag.  Refer To Incident:  19-170-OF  19-8801  1809  Initiated - BUILDING CHECK  BULLDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  SCUTHWORTH ST  Location/Address  Unit  31  Arvd-18:09:33  Clrd-18:13:24  Narrative  done  49-8862  1846  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 910} TACONIC TRL  Unit  32  Arvd-18:47:01  Clrd-18:52:52  Vehicle  GRY 2005  SUBA ST FOREST Req: FC MA 113LM0 VIN: JF1SG65635H745991  Operator  GARDNER ,  SHIRLEY A @ 35 ANGELI ST - N ADAMS, MA 01247-3242  Race:  W  Sex: F  SHIRLEY A @ 35 ANGELI ST - N ADAMS,  WA 01247-3242  Owner  GARDNER,  Race:  W  Sex: F  Narrative  Checked Area. 
+2000 U 3ex:
+Race: 7
+Narrative:
+rast MVA being reported for insuruiive purpOscs.
+CP stares she was parked at the end ol Lhe driveway for [J
+when she was stxuck oy « vehicle abzempting to
+back up.
+19-8797 1321 Phone - BREAXING a ENTRY INVESTIGATED / REPORT
+TARXEN
+Call Taker: PATROL KALVIN DZLEDYLAK
+Lecation/Add» asA: PINE COBELE RD
+un: ws 2ATE
+Disp-11:26:17 Enrt-13:26:39 Arvd-13:32:04 Clvd-13:58:06
+vekicio: WET 7010 VOLK TIGQUAN Reg: PC MA 128YL2 VIN: KVEHVTARLIAKD22337
+Owner: GLIDOTTT, DAVID 155 MARICN AVE NORTH ALAMSE, MA 01247
+Sox: BM
+Vericle: BLU 2012 $JBA S2 IMPRE? Reg: PC Ma B93GR2 VIN: JrlGPARGLCH211660
+Owner: F-LLDS, CANIEL M 4 53 HASYTTNGS ST - FARMCNGTON, MA 01701
+W Sex: M
+Race: SMC SIERRA PC DE TLE1115 VIN: _CTHX29K'/7EHY6H832
+venicle: 835, 2007 Reg: 134 BUNTING DR - WILMINGTON, DE 19308
+owner: PRISTOWITS, ROBERT A
+Pace: W Sox: M
+Harrative:
+CP has returned to his vehicle located in the trail parking
+lot to find that his vehicle windows, and 2 others, have been
+smashed out. Unaware if anylhing 21s missing at this time.
+Warrative:
+Ri.lmorbls (s-amford VT) Contatced by Dispater to inquire
+about. zurva-once pyssem. Business equpied with camcras both
+inside and outside
+Narrat_ve:
+(JE roturnec to her vehicle and
+cal ed zo report windew smashed cut. She was advised it was
+being nvestigatec¢. Tha only thingy she noticed missing was a
+nitting bay.
+Refer Te ‘ncident: 9-170-0F
+BUILDING CHRCKED/SECURED
+19-8801 1809 Initiated - BUILDING CHECK
+Call Taker: SERGFANT DAVID KE LEMIELX
+Locstion/Adcregs: SOUTHWORTH ET
+mit: 3
+Arvd-18:09:33 Clrd-18:.3:341
+Narranive:
+done
+19-8802 1846 Initinted - BUILDING CHECK BEERVICES RENDERED
+Cu-l Taker: PATROL SHURY N WILLIAM
+Locaticn/Addreaa: [#70 910] TACONIC TRL
+JnilL: 32
+Arvd-18:47:01 Clrd-18:52:52
+Yehicle: HY 24005 SUBA ST TOREST Reg: PC MA L13LM0 VIN: JF1SG5583bH745591
+Operatus: CARTINER, SHIRLEY A @ 35 ANGZLI BT - N ADAMS, MA 01247 3242
+Haoe: W Sex: 7
+Ow oo ARTNRR, EHIRLEY AE 35 ANU®Ll 871 - N ADAMS, HA 01247 2242
+s Race: W Bax:
+Marrative: Chueckad Ares.

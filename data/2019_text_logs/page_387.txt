@@ -1,1 +1,49 @@
-Location/Address:  MAIN ST  Unit  38  Arvd-05:53:57  Clrd-06:36:14  Unit  31  Arvd-05:59:18 Clrd-06:24:06  Vehicle  BLK 2008 SUZI SW SX3 Reg: PC VT HET722 VIN: JS2YB413285107861  Operator  GREGORY, RYAIN A @ 8 HERMON AVE - NORTH ADAMS, MA 01247  Race: W Sex:  M  Refer To Citation  T1400655  Owner  LEMAY, GEORGE D SR @ 6717 ROUTE 100 - WHITINGHAM, VT 05361  Race:  W Sex: M  Refer To Summons;  19~-23-AR  Summons ;  GREGORY, RYAIN A  Address:  8 HERMON AVE  NORTH ADAMS, MA  Age:  25  Charges:  SPEEDING  UNLICENSED OPERATION OF MV  SO ASAD aD PANT. ARE SANS See CON APIS RS PERN AP Ao IT SCONE DANE BPO NN ERS OA NINE ME TOE N, LED PATRAS TRIS NA Ree EE IS, MANS CHE ah PENSE SEINE any NAN LEN Se Se ee POND  19-2684  0747  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-07:47:27 Clrd-07:47:35  Narrative  done  Narrative  03/03/2019 0045 Checked $3  19-2685  0748  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  D  PATROL DAVID JENNINGS,  Location/Address  (WIA 1832] NORTH HOOSAC RD  Unit  34  Arvd-07:48:58  Clrd-07:50:48  Narrative  checked  Narrative  checked  Narrative  done  Narrative  03/03/2019 0050 Checked S3  Narrative  03/03/2019 0407 Checked $3  19-2686  0751  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  SIMONDS RD  Unit  34  Arvd-07:51:46  Clrd-07:53:06  Narrative  done  Narrative  03/03/2019 0053 Checked S3 
+Location/Address: Unit: MAIN ST
+38
+Unit: 3 Arvd-05:53:57 Clrd-06:36:14
+Vehicle: BLK 2008 SUZI SW SX3 PC Arvd-05:59:18 VT HET722 VIN: Clxd-06:24:06
+GREGORY, RYAIN A @ 8 HERMON Reg: AVE - NORTH JS2YB413285107861 MA 01247
+Operator: Race: W Sex: M ADAMS,
+Refer To Citation: T1400655
+
+Owner: LEMAY, GEORGE D SR @ 6717 ROUTE 100 - WHITINGHAM, VT 05361
+Refer To Summons: Race: W i9-23-AR Sex: M
+Summons : GREGORY, RYAIN A
+Address: 8 HERMON AVE NORTH ADAMS, MA
+Age: 25
+Charges: SPEEDING
+UNLICENSED OPERATION OF MV
+19-2684 0747 Initiated
+- BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker:
+Location/Address: NORTH PATROL HOOSAC DAVID RD JENNINGS, D
+Unit: 34
+Arvd-07:47:27 Clrd-07:47:35
+Narrative:
+done
+Narrative:
+03/03/2019 0045S Checked S3
+19-2685 0748 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: [WIA 1832] NORTH HOOSAC RD
+Unit: 34
+Arvd-07:48:58 Clrd-07:50:48
+Narrative:
+checked
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+03/03/2019 0050 Checked S3
+Narrative:
+03/03/2019 0407 Checked S3
+19-2686 0751 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL DAVID JENNINGS, D
+Location/Address: SIMONDS RD
+Unit: 34
+Arvd-07:51:46 Clrd-07:53:06
+Narrative:
+done
+Narrative:
+03/03/2019 0053 Checked S3

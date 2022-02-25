@@ -1,1 +1,56 @@
-19-3124  1936  Walk-In - LICENSE TO CARRY  SERVICES RENDERED  Call Taker:  PATROL KALVIN DZTEDZIAK  Location/Address:  [WIA 249] NORTH ST  Unit:  31  Disp-19:37:11  Arvd-19:37:15  Clrd-19:59:15  Narrative:  Party at station for LTC Renewal.  19-3125  2107  Radio - B,.O.L.0.  PATROL ADVISED  Call Taker:  PATROL KALVIN DZTEDZIAK  Location:  [WIA 249] TOWN OF WILLIAMSTOWN  Narrative:  Bolo for a silver vehicle, possibliy a sedan, with heavy  front passenger damage. Vehicle involved in a hit and run in  the town of Egremont. Possibly heading in the direction of  Great Barrington. No further information.  19-3127  2215  Phone - DISTURBANCE  LOG ENTRY REQUEST  Call Taker:  PATROL KALVIN DZITEDZIAK  Location/Address:  {WIA 151] COLD SPRING RD  Narrative:  CP calling to complain about a employee at Sweet Brook. CP  states a nurse touched his leg,  threw out his medication and  accused him of being on drugs.  2232~ Sweet Brook informed of complaint. Sweet Brook  Employee Advised dispatch that a supervisor has been  advised.  19-3126  2218  Phone ~ DISTURBANCE  SERVICES RENDERED  Call Taker:  PATROL KALVIN D4ZIEDZIAK  Location/Address:  MAIN ST  Unit  31  Disp~22:24:45 Enrt-22:25:04 Arvd-22:26:44 Clrd-22:42:28  Unit:  38  Disp-22:24:54  Arvd-22:26:48 Clrd-22:42:20  Narrative:  CP reports his neighbor is being very Loud and disruptive  {banging on walls, stomping, screaming profanity at him  through the walls).  2223- Neighbor called stating calling party is illegally  recording people in their building.  Narrative:  All quiet upon arrival. Officers spoke with both parties.  Camera is outside above rear open deck and property owner is  aware of same. Female party stated she is leaving soon (  being evicted)  For Date:  03/13/2019  ~  Wednesday  :  19-3128  0155  Phone - SUSPICIOUS MOTOR VEHICLE  GONE ON ARRIVAL  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address:  NORTH HOOSAC RD  Unit;  31  Clrd-02:09:35  Disp-01:56:47 Enrt-01:57:09 Arvd-02:01:15  Unit:  32  Disp-01:56:47 Enrt-01:57:07 Arvd-02:01:09 Clrd-02:10:26  Narrative:  CP reports a truck pulled into her driveway wants officers  to come and see who it is. 
+19-3124 1936 Walk-In - LICENSE TO CARRY SERVICES RENDERED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: [WIA 249] NORTH ST
+Unit: 31
+Disp-19:37:11 Arvd-19:37:15 Clrd-19:59:15
+Narrative:
+Party at station for LTC Renewal.
+
+19-3125 2107 Radio - B,0.L.O. PATROL ADVISED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location: [WIA 249] TOWN OF WILLIAMSTOWN
+Narrative:
+Bolo for a silver vehicle, possibly a sedan, with heavy
+front passenger damage. Vehicle involved in a hit and run in
+the town of Egremont. Possibly heading in the direction of
+Great Barrington. No further information.
+19-3127 2215 Phone - DISTURBANCE LOG ENTRY REQUEST
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: (WIA 151] COLD SPRING RD
+Narrative:
+CP calling to complain about a employee at Sweet Brook. CP
+states a nurse touched his leg, threw out his medication and
+accused him of being on drugs.
+2232- Sweet Brook informed of complaint. Sweet Brook
+Employee Advised dispatch that a supervisor has been
+advised.
+19-3126 Phone
+2218 - DISTURBANCE SERVICES RENDERED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: MAIN ST
+Unit: 31
+Disp-22:24:45 Enrt-22:25:04 Arvd-22:26:44 Clrd-22:42:28
+Unit: 38
+Disp-22:24:54 Arvd-22:26:48 Clrd-22:42:20
+Narrative:
+CP reports his neighbor is being very loud and disruptive
+(banging on walls, stomping, screaming profanity at him
+through the walls).
+2223- Neighbor called stating calling party is illegally
+recording people in their building.
+Narrative:
+All quiet upon arrival. Officers spoke with both parties.
+Camera is outside above rear open deck and property owner is
+aware of same. Female party stated she is leaving soon (
+being evicted)
+Por Date: 03/13/2019 - Wednesday
+19-3128 0155 Phone - SUSPICIOUS MOTOR VEHICLE GONE ON ARRIVAL
+Call Taker: PATROL ANTHONY M DUPRAT
+Location/Address: NORTH HOOSAC RD
+Unit: 31
+Disp-01:56:47 Enrt-01:57:09 Arvd-02:01:15 Clrd-02:09:35
+Unit: 32
+Disp-01:56:47 Enrt-01:57:07 Arvd-02:01:09 Clxd-02:10:26
+Narrative:
+CP a truck pulled into her wants officers
+to come reports and see who it is. driveway

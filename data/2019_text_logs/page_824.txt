@@ -1,1 +1,53 @@
-19-5498  1019  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  (WIA 333] CHURCH ST  Unit  37K  Arvd-10:19:24 Clrd~10:19:55  Narrative  checked  19-5499  1021  Initiated - ASSIST OTHER AGENCY: MGRSD  SERVICES RENDERED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  [WIA 333] CHURCH ST  Unit  37K  Arvd-10:22:26 Clrd-10:44:23  Unit  35  Arvd-10;24:34  Clrd-10:44:17  Narrative  Walk through  19-5500:  1037  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  (WIA 1832] NORTH HOOSAC RD  Unit:  36  Arvd-10:37:49 Clrd-10:39:17  Narrative:  checked  Narrative  checked  Narrative  checked  Narrative  done  Narrative  done  19-5501  1045  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  PARK ST  Unit:  35  Arvd-10:45:50  Cird-10:50:33  1051  19-5502.  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  SPRING ST  Location/Address:  Unit:  35  Arvd-10:52:02 Clrd-10:55:03  19-5503.  1056  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cali Taker  PATROL TANIA HERNANDEZ  Location/Address  PETERSBURG RD  Unit  36  Arvd-10:56:10 Clrd~10:57:17  Narrative  Checked S-4  17:59  Narrative 
+19-5498 1019 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA J»
+Location/Address: [WIA 333] CHURCH ST
+Unit: 37K
+Arvd-10:19:24 Clrd-10:19:55
+Narrative:
+checked
+
+19-5499 1021 Initiated - ASSIST OTHER AGENCY: MGRSD SERVICES RENDERED
+Call Taker: PATROLMAN MICHAFL J ZIEMBA Jr
+Location/Address: [WIA 333] CHURCI ST
+Unit: 37K
+Arvd-10:22:26 Clrd-10:44:23
+Unit: 35
+Arvd-10:24:34 Clrd-10:44:17
+Narrative:
+Walk through
+19-5500 1037 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA
+Unit: 1832] NORTH HOOSAC RD
+36
+Arvd-10:37:49 Clrd-10:39:17
+Narrative:
+checked
+Narrative:
+checked
+Narrative:
+checked
+Narrative:
+done
+Narrative:
+done
+19-5501 1045 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL BRAD SACCO
+Location/Address: PARK ST
+Unit: 35
+Arvd-10:45:50 Clxd-i0:50:33
+19-5502 1051 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL BRAD SACCO
+Location/Address: SPRING ST
+Unit: 35
+Arvd-10:52:02 Clrd-10:55:03
+19-5503 1056 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: PETERSBURG RD
+Unit: 3¢
+Narrative: Arvd-10:56:10 Clrd-10:57:17
+Checked S-4
+17:59
+Narrative:

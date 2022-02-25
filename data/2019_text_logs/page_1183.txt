@@ -1,1 +1,55 @@
-19-8820  1023  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  BERLIN RD  Unit  30  Arvd-10:23:14  Cird-10:23:55  Narrative  No vehicles.  Narrative  Checked S-4  19:13  Narrative  Checked Area.  19-8821  1032  Phone - SUSPICIOUS ACTIVITY  ARREST (5)  Call Taker  MICHAEL STRIZ2T  Location/Address  (WIA 108] NEW ASHFORD RD  Onit  35  Disp-10:34:06  Enrt-10:34:26  Clrd-10:36:59  Unit  30  Disp-10:435:13  Enrt-10:35:14 Arvd-10:36:01  Clrd-11:59:15  Unit  35  Arvd-11:09:20  Clird-12:24:04  Unit  37K  Arvd-12:37:59  Clyrd-12:43:40  Disp-12:23:56 Enrt-12:26:21  Location Change  {NOT]  HOLDEN ST (Modified: 07/15/2019 1236]  Vehicle  SIL 2007 SUBA SW OUTBACK Reg: PC ME 5001NT  VIN: 454BP61C477339292  Towed  For: ARREST/CUSTODY By: RONS AUTO REPAIR To:  RONS TOWING  Operator  ANDERSON, ERIC T @ 276 FAIRBANKS RD Apt.  #103  ~ FARMINGTON,  ME 04938  Race:  U0 Sex: U  owner  ANDERSON, ERIC T @ 276 FAIRBANKS RD Apt. #103 - FARMINGTON, ME 04938  Race:  U Sex: U  Warrative  Male party believed to be on something.  Acting suspicious.  1053 contacted MSP regarding Stop and Arrest 269A  Advised us to call Barnstable PD  1105 contacted Barnstable PD - waiting for temporary  warrant.  1144 35 has 1 in custody  Starting: 80271.2  1158 35 at station  1159 35 placed in booking.  1226 37k Transporting 1 NBDC.  Refer To Arrest:  19-85-AR  Arrest  ANDERSON, ERIC T  Address  435 POPONESSETT RD  CcOTUIT,  MA,  Age  39  Charges  ARRESTED ON WARRANT  19-8822  1036  911 - 9-1-1 TEST CALL  SERVICES RENDERED  Call Taker:  MICHAEL STRIZZI  Location/Address:  [WIA 390} SIMONDS RD  Narrative:  TTY test call.  All procedures followed.  19-8824  1047  Phone -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker:  MICHAEL STRIZ21  Location/Address:  MCCAULEY LN  Warrative: 
+18-8820 1023 Initiated - BUILDING CHECK BUILDING CHECEED/SECURED
+Call Taker: SERJZANT STOTT  MOEDWAN
+Location/Address: BERLIN D
+Unit: 32
+AryE-10:23:14 Jixrd-10:23:55
+Narrative:
+Ng vchicles.
+Fuzralive:
+Crrecied S-4 15:33
+Ka-rative:
+Chanzed Area.
+19-8821 1032 Phone - SUSPICIOUS ACTIVITY ARREST (8)
+Call Taker: MLCHAKL SIR1ZS5.
+Lezalion/adéross: [WIA 158] NEW ASHFORD RD
+Undic: a5
+Disp-12:34:00 knrz-19:34:26 Clrd-10:36:59
+Unix: 20
+Disp-12:55:13 Enrz-10:35:14 Arvd-10:56:01 Clrd-11:59:15
+Unizc: a5
+Arvd-11:05:20 Clrd-12:24:04
+miz: 37K
+Jign-12:22:56 Enrn-:12:25:21 Arvd-12:37:59 COlrd-12:43::40
+Location Chance: [NOT] HCLDSN ST (Modified: 07/15/20-9 1Z36]
+Vehizoe: EIL 2097 SUGRA EW OUIBACK Reg: PC ME L0T1WT VIN: 4L54BP61C477239292
+Towed: For: ARRRE3T/CUSTODY By: RONS AUTC REPATR Ta: RONS TORING
+Joexator: ANDERSON, ERIC T @ 276 FAIRBANKS RD Apt. #103 - FARMINGTCN, HE 049238
+age: UT Sox: U
+Cwnex : ANDERSON, ERIC T @ 276 FAIRBANKS PD Apk. #103 - FARMINGTON, ME 04038
+Race: UT Sex: TU
+Marrative:
+Male party believed -c be orn sometains. Acting suspicious.
+1063 c-ontacted MSF regarding Stop and Arrest 203A
+Rdvisec us to cz:1 Barnstable FD
+11255 contacted Barms-table PD - waitine for temporary
+warrant.
+1144 25 has 1 in custody
+Starting: BI271.2
+1158 35 at szation
+1159 35 placed in hocking.
+12Z6 37k Transporting 1 NBDC.
+kofer 'I'c Arvest: A2-85-AR
+ATrTrest: ANDERSON, ERIC T
+Address: 435 POPONESSETT RD COTUIT, MA
+39
+Charges: Age: ARRLSTED CH WARZANT
+19.8822 1038 911 - 9-1-1 TEST CALL SERVICES RENDERED
+Ca:1l Taker: MICHAEL STRIZZI
+Location/Address: [WIx 39C) SIMONDS RD
+Narranlive:
+TY test call. ALT followed,
+procecures
+SERVICRS RENDERED
+19-8824 1047 MTCHARL Fhone - S8TRUZET ANIMAL CONTROL
+van l Taker: TN
+Twearimm/Address: Narrazive: MCCALT-RY

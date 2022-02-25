@@ -1,1 +1,49 @@
-Call Taker  PATROL BRAD SACCO  Location/Address  PINE COBBLE RD  Unit  35  Arvd-07:38:50  Clrd-07:41:30  Narrative  MA  62R181  VA  AP5055  Narrative  64R181 1LD252 20JK02 2692R1 7XNS37 3FX416  No  AZOEWY  BREJ8353  VA  AP5055  HNK343  Narrative  done.  8 cars, no damage  Narrative  done  Narrative  Checked  Narrative  Checked 2345  MA 62R181  VAR APSOSS  NY JCR2092  Narrative  Checked Area  Narrative  Checked Area  Narrative  Checked 0340  Narrative  Checked Area  Narrative  Checked 0625  19-12138  O7 46  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  WOODLAWN DR  unit  35  Arvd-07:47:08  Clrd-07:47:47  Narrative  Checked  Narrative  Checked 6211  1912139  06802  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  HARWOOD ST  Unit  35  Arvd-08:02:55  Clrd-08:04:20  Narrative 
+Cal: Texer: SACROL BRAL SACOO
+sacation/Address: SINE COB3ILE RD
+nik: 35
+Arvd-07:38:50 Clrd-07:41:30
+Nuvrzalblve:
+A 6ZR1EL
+VA APSOSG
+Narr-azive:
+MA 6ZRLBL _Lp2z2 20JKT2 289RI TXNS237 3IFX4ls
+NJ AZOENY
+NY EEJBE353
+VA AP5055
+vr HKX5343
+Xarzrarcive:
+dona. 8 aarg, re damage
+Yarrative:
+done
+Xarrative:
+Checked
+Narrative:
+Checked 2343
+Ma 6ZR181
+VA AFS5Z55
+KY JCRZ092
+Warratb.ve:
+Chocked Aroa.
+Norrab-ve:
+Checkud Area.
+Norruatove:
+Checked $347
+Narrztivs:
+Checked Avea.
+Narrative:
+Checked 0635
+15-12138 0745 Initiated - BUILDING CHECK BUILDING CERCXED/SECURED
+Call Taker: PATROT SRAD AASCC
+Tocat‘oen/hddrens: HOORTAMK DR
+vnit: iz
+ATvaA-07:a47:08 ClyAd-07:47:47
+Yarrative:
+Cheoxed
+Yarrative:
+Checked 0711
+19-121359 oeD2 Initiated - BUILDING CHECK BUILDING CHECEKED/SECORED
+Jall Taker: PATOL BRAD SACCO
+wocation/Acdrans: HARWOO) Sg
+Unit: 3h
+Arvd-08:02:88 Clrd 0R:04:20
+Nerrubove:

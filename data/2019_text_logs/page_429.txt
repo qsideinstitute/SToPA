@@ -1,1 +1,53 @@
-19-2965  1338  Phone - BURN PERMIT  SERVICES RENDERED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Narrative:  Top of Luce Rd. No address given by Forest Warden.  19-2966  1403  Phone -  ANIMAL CONTROL  PATROL ADVISED  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  ADAMS RD  Narrative:  CP report there was a brown dog with a red collar walking  around in the area of location. She stated it was a few  hours ago.  19-2967  1445  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  {WIA 369] MAIN ST  Unit  38  Disp-14:45:49  Enrt-14:45:58  Arvd-14:47:36 Clrd-15:08:12  Vehicle  BLK 2016 MAZD ST CX3 Reg: PC MA 4KW534 VIN: JMIDKFB75G0138166  Owner  GONZALEZ, STEPHANIE @ 189 STRATTON RD Apt. #C5 - WILLIAMSTOWN, MA  01267-2953  Race: W  Sex: F  Vehicle  GRY 2012  ACUR MDX Reg: PC MA 8XL817 VIN: 2HNYD2H47CH546749  Operator:  BENIERS,  ROBERT K @ 3 LECLAIR DR ~- HINGHAM, MA 02043-4872  Race: U  Sex: M  Owner:  BENIERS,  ROBERT KENNETH @ 3 LECLAIR DR - HINGHAM, MA 02043~4872  Race: U  Sex: M  Narrative:  WCS&S reports a vehicle has hit another vehicle and has  Since left the scene.  Refer To Accident:  19-38~-AC  19-2969  1513  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  SPRING ST  Location/Address;  Unit:  38  Arvd-15:13:12  Cird~15:23:20  19~2970  i518  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  PARK ST  Unit:  32  Arvd-15:18:48  Clrd-15:24:01  Narrative:  03/08/2019 1518 - Start  03/08/2019 1800 - 2 violations  19-2971  1650  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  {WIA 406] SCHOOL ST  Unit  32  Arvd-16:51:22  Cird~-16:52:29  Narrative  03/08/2019 1652 - no violations  19-2972  1810  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Cali Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  NORTH HOOSAC RD  Unit:  38 
+
+19-2965 1338 Phone - BURN PERMIT SERVICES RENDERED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Narrative:
+Top of Luce RA. No address given by Forest Warden.
+19-2966 1403 Phone - ANIMAL CONTROL PATROL ADVISED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: ADAMS RD
+Narrative:
+CP report there was a brown dog with a red collar walking
+around in the area of location. She stated it was a few
+hours ago.
+19-2967 1445 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: [WIA 369] MAIN ST
+Unit: 38
+Disp-14:45:49 Enrt-14:45:58 Arvd-14:47:36 Clrd-15:08:12
+Vehicle: BLK 2016 MAZD ST CX3 Reg: PC MA 4KW534 VIN: JM1DKFB75G0138166
+Owner: GONZALEZ, STEPHANIE @ 189 STRATTON RD Apt. #C5 - WILLIAMSTOWN, MA
+01267-2953
+Race: W Sex: F
+Vehicle: GRY 2012 ACUR MDX Reg: PC MA BXL817 VIN: 2HNYD2H47CH546749
+Operator: BENTERS, ROBERT K @ 3 LECLAIR DR - HINGHAM, MA 02043-4872
+Race: U Sex: M
+Owner: BENIERS, ROBERT KENNETH @ 3 LECLAIR DR - HINGHAM, MA 02043-4872
+Narrative: Race: U Sex: M
+WCSaS vehicle has hit another vehicle and has
+since reports left the a scene.
+Refer To Accident: 19-38-AC
+19-2969 1513 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SPRING ST
+Unit: 38
+Arvd-15:13:12 Clrd-15:23:20
+19-2970 1518 Initiated - PARKING CBECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: PARK ST
+Unit: 32
+Arvd-15:18:48 Clrd-15:24:01
+Narrative:
+03/08/2019 1518 - Start
+03/08/2019 1800 - 2 violations
+19-2971 1650 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: [WIA 406] SCHOOL ST
+Unit: 32
+Arvd-16:51:22 Clrd-16:52:29
+Narrative:
+03/08/2019 1651 - no violations
+19-2972 1810 Initiated - MOTOR VEHICLE STOP CITATION - CIVIL
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: Unit: NORTH 38 HOOSAC RD

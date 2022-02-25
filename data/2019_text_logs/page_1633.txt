@@ -1,1 +1,53 @@
-19-11592  o738  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAREN  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  [WIA 14]  CHAPIN HAL  DR  Unit  36  Disp-07:39:15 Bnrt-07:41:10 Arvd-07:43:39 Clrd-08:03:27  Vehicle  WHI 2019 FR TK Reg: AP IN 2561414  VIN:  LFVACKFCORKHED9140  FUNICIELLO, NOAH @ 30 SUMMIT TRL - MECHANICVILLE, N¥ 12118  Operator  Race:  Ww Sex: M  Owner  SYSCO LEASING LLC @ 4000 W 62ND ST -  INDIANAPOLIS,  IN 46268  Narrative  Reports minor crash involving a delivery truck.  Refer To Accident:  19-J17-AC  29-11593  0816  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  (WIA 333] CHURCH ST  Unit  36  Arvd-08:16:53  Clrd-08:38:50  Unit  37K  Bnrt-13:15:15 Arvd-13:18:50  Clrd-13:43:01  Disp-13:15:03  19-21594  0833  Initiated - BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker  LIEUTENANT MICHAEL J ZITEMBA dr  [WIA 1832] NORTH HOOSAC RD  Location/Address  Unit  37K  Arvd-08:34:07  Clrd-08:35:06  Narrative  Checked  Narrative  checked  Narrative  19:11  Checked §-4  Narrative  done  Narrative  Checked Area  Narrative:  Checked Area  SERVICES RENDERED  1419-11595  9837  Initiated ~ TRAFFIC COMPLAINT  Call Taker:  LIEUTENANT MICHAEL J ZAIEMBA Jr  Location/Address:  NORTH HOOSAC RD + LINDLEY TER  Unit:  37K  Arvd-08:37:51  Clrd-08:39:26  Narrative:  Botessi and subcontractor w/ several vehicles congesting  intersection. Advised to move all to Lindley Ter once  unloaded .  19-Li597  Og4t  911 -  9-1-1 SILENT CALL  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  {WIA 390) SIMONDS RD  Narrative:  Upon answering line was silent, call was then disconnected.  Called back phone number, number is not in service. No ALT. 
+15-11532 0738 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Call Taker: LIZSUTENATT MICIAEL J ZIEMBA <r
+Lozation/Adéress: [WTA 11] CHAPIN HALL DR
+unit: 3E
+Disp-07:35:15 Fnrc-07:41:10 Arvd-07:43:39 Clrd-08:03:27
+Vehicle: WHI 2019 FR 'I'K Reg: AP IN 2561414 VIN: irVACXFCOKIIKD9140
+Opurator: FUNICIELLO, NOAH @ 310 SUIVMMIT TRL - MECHANICVILLE, NY 121:8
+Race: W Bex: M
+Owner: SYSCO LEASING LIC w 4000 A GR2ND 5T - INDIANAPOLIS, IN <6268
+Narrazive:
+Reports minor crash involving a delivery truck.
+Refer To Accldent: 19-117-AC
+19-115983 0814 Initiated - TRAFFIC CONTROL BRRVICES RENDERED
+Call Taker: FATROL TAN-—A HERNANDEZ
+Location/Address: iWIA 333] CHURCH ST
+tnit: 3h
+Arvd-08:26:53 Clxd 08:38:5(
+nik: ATK
+Disp-13:15:03 Fnrt-13:15:15 Arvd-13: 14: 50 Clrd-13:43:01
+0832 Inltiated - BUILDING CHECK BUILDING CHECKXED/BECURED
+19-311594
+MICHAEL J ZTEMBA JT
+Cali Taxex: SIEUTENANL 1832° NORTH HOOSAC RD
+Locaticn/Address: INIA
+Unit: 37K Arvd-0B:24:07 CQlrd-08:35:08
+Nerrative:
+Checked
+Nexrrat-ve:
+chocked
+Narrabive:
+Chucked 5S-4 15:11
+Narrative:
+dene
+Narrative:
+Checked Arca.
+Narrative:
+Checxad Area.
+18-11595 oeav7 Initiated - TRAFFIC COMPLAINT SERVICES RENDERED
+call Taker: LIEUTENANT MZICIIAEL  ZIEMBA Jx
+Location/Address: NORTH HOOSAC RD + LINDLEY TER
+Unit: 37K
+Arvd-08:57:51 Clrd-88:59:26
+Karrative:
+Antessi and subcontractor w/ several vehicles ccngesting
+intersection. Advised to move all to Lindlasy Ter once
+wnloaded.
+15-1157 D841 911 - 9-1-1 SILENT CALL BERVICES RENDERED
+Call Taker: PATROC. ANTHONY M DUFRAT
+Location/Address: [WIf 390] SIMONDS RC
+Narrative:
+line was silent, call was then disconnacied.
+Jpen 'alled answering back phone number, number is nel iu service. No ALT.

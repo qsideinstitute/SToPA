@@ -1,1 +1,54 @@
-19-5561  1020  Phone - WELL BEING CHECK  NO ACTION REQUIRED  Call Taker  DISPATCHER WILLIAM C JENNINGS JR  Location/Address  STONE HILL RD  Unit  30  Disp-10:23:00  Enrt~10:25:03 Arvd-10:32:45  Clrd-10:34:44  Narrative  RP said she was on a walk with a friend in that area when  they notice a w/f lady laying down. CP asked if she was  injured or anything and She said no. She then got up fora  few minutes and then layed down by house #i§.  Party is fully dressed with a long bright blue coat on.  Narrative  Located QBRBBBBBY who indicted she was fine and out for a  walk,  19-5568  1330  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  SCHOOL ST  Unit:  35  Arvd-15:14:48  Clrd-15:16:12  Narrative:  Checked S-4  1722  19-5563  1413  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL BRAD SACCO  Location/Address  NEW ASHFORD RD  Unit  35  Arvd-14:13:34 Clrd-14:26:03  Vehicle  GRN 2002 SUBA FOREST Reg: PC MA 991CW4 VIN: JF1SP65562G745110  Operator  FOOSE, STEPHAN P @ 21 WOOD AVE - PITTSFIELD, MA 01201-5614  Race: U Sex: M  Refer To Citation  71401290  Owner:  FOOSE, STEPHAN P @ 21 WOOD AVE - PITTSFIELD, MA 01201-5614  Race: U Sex: M  1456  Initiated - MOTOR VEHICLE STOP  liad  CITATION - WARNING  |  Call Taker  PATROL BRAD SACCO  Location/Address  COLE AVE  Unit  35  Arvd-14:56:18  Clird-15:03:40  Vehicle  BLK 2013 TOYT ST PRIUS Reg: PC MA 21SN21 VIN: JTDZN3EU0D3254818  Operator  CASE, ALISON A @ 1213 GREEN RIVER RD - WILLIAMSTOWN, MA 01267-3124  Race: U Sex: F  Refer To Citation  T1401292  Owner  CASE, ALISON A @ 1213 GREEN RIVER RD - WILLIAMSTOWN, MA 01267-3124  Race: U Sex: F  19-5566  1505  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:06:57 Clrd-15:19:11  19-5567  1507  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  PARK ST  Unit:  31  Arvd-15:13:01  Clrd-15:14:52 
+19-5561 1020 Phone - WELL BEING CHECK NO ACTION REQUIRED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: STONE HILL RD
+Unit: 30
+Disp-10:23:00 Enrt-10:25:03 Arvd-10:32:45 Clrd-10:34:44
+Narrative:
+RP said she was on a walk with a friend in that area when
+they notice a w/f lady laying down. CP asked if she was
+injured or anything and she said no. She then got up for a
+few minutes and then layed down by house #JJ].
+Party is fully dressed with a long bright blue coat on.
+Narrative:
+Located | who indicted she was fine and out for a
+walk.
+19-5568 1330 Initiated - PARKING CHECK
+Call Taker: PATROL BRAD SACCO SERVICES RENDERED
+Location/Address: SCHOOL ST
+Unit: 35
+
+Narrative: Arvd-15:14:48 Clrd-15:16:12
+Checked S-4 17:22
+19-5563 1413 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL BRAD SACCO
+Location/Address: NEW ASHFORD RD
+Unit: 35
+Arvd-i4:13:34 Clrd-14:26:03
+Vehicle: GRN 2002 SUBA FOREST Reg: PC MA 991CW4 VIN: JF1SF655620745110
+Opecrator: FOOSE, STEPHAN P 2 21 WOOD AVE - PITTSFIELD, MA 01201-5614
+Race: U Sex: M
+Refer To Citation: T1401290
+Owner : FOOSE, STEPHAN P @ 21 WOOD AVE - PITTSFIELD, MA 01201-5614
+Race: U Sex: M
+19-5564 1456 Initiated - MOTOR VEHICLE STOP CITATION
+- WARNING
+Call Taker: PATROL BRAD SACCO
+Location/Address: COLE AVE
+unit: 35
+Vehicle: BLK 2013 Arvd-14:56:18 Clrd-15:03:40
+TOYT ST PR1US Reg: PC MA 21SN21 VIN: JTDZN3EU0D3254818
+Operator: CASE, ALISON A @ 1213 GREEN RIVER RD - WILLIAMSTOWN, MA 01267-3124
+Refer To Citation: Race: U Sex: F
+T1401291
+Owner: CASE, ALISON A @ 1213 GREEN RIVER RD - WILLIAMSTOWN, MA 01267-3124
+Race: U 8ex: F
+19-5566 1505 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOHN J MCCONNELL JR
+Location/Address: SPRING ST
+Unit: 38
+Arvd-15:06:57 Clrd-15:19:11
+19-5567 1507 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Location/Address: PARK ST
+Unit: 31
+Arvd-15:13:01 Clrd-15:14:51

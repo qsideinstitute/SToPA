@@ -1,1 +1,56 @@
-Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  [WIA 225] COLD SPRING RD  Unit  32  Arvd-02:10:56  Clrd-02:11:36  Vehicle  WHI 2017 CHRY PACIFI Reg: PC MA §BRZ20  VIN; 2C4RC1LDGSHR610130  Owner  CAYO, KENNETH F @ 101 BROOKLYN ST - N ADAMS,  MA 61247-0000  Race:  W Sex: M  Narrative:  M/V parked in the parking lot, unoccupied.  19-12999  O511  Phone - POWER CUTAGE/ PROBLEM  LOG ENTRY REQUEST  Call Taker:  MICHAEL STRIZ2ZI  Location/Address:  HOPPER RDO  Narrative:  CP very worried because they have not had power since  Wednesday night.  Advised that dispatch will contact  National Grid,  0515 Contacted National Grid. They are aware of outage and  do not have an estimated time for the power to be restored.  1419-13000  O723  Initiated -  TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  COLD SPRING RD  Unit:  36  Arvd-07:23:23  Clrd-07:423:26  19-13001  0728  Phone -  ANIMAL CONTROL  NO ACTION REQUIRED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Address:  OBLONG RD  Unit:  33  Enrt-07:34:14 Arvd-07:44:18  Clrd-07:58:298  Disp-07:34:08  Narrative:  RP states they have an injured deer on their property, deer  is down the driveway by the pond.  Narrative:  Small doé with a some blood on hind-end, but rvan/walked  Believed to be healthy enough  normally with no leg injury.  to survive.  19-13002  O745  Initiated - MOTOR VEHICLE STOP  CITATION - CIVIL  Call Taker  PATROL TANTA HERNANDEZ  Location/Address  COLD SPRING RD  Unit  36  Arvd-07:45:59  Clrd-67:55:03  Vehicle  WHI 2016 KIA  SE FORTE Reg: PC MA 4E¥766 VIN: KNAFK4A65G65616532  KATZ, ESTHER  #301 - WILLIAMSTOWN, MA  Operator  DORA © 1231 NORTH HOOSAC RD Apt.  01267-2330  Race:  B Sex  F  Refer To Citation  T2085028  Owner  KATZ,  ESTHER  DORA @ 1231 NORTH HOOSAC RD Apt. #301 - WILLIAMSTOWN, MA  01267-2330  Race: B Sex  F  19-13003  0752  Phone - POWER OUTAGE/PROBLEM  SERVICES RENDERED  Call Taker:  PATROL ANTHONY M DOUPRAT  Location/Address:  (WIA 535] GREEN RIVER RD  Narrative:  RP states he's been without power gince yesterday morning.  RY stated he spoke with National Grid yesterday and they  stated the power would be back around 11. 
+Call Taker: PATROIMAN SCOTT SKORUPSKY
+Location/Adédrass: [WIA 225] COLD SPRING iD
+Unit: az
+ArvE-02:10.56 C_rd-02:21:35
+Venicle: Az1 2017 CHxY PACIFT Req: PC MA BBKZ20 VIN: 2C4RCIDGEHRS10130
+owner: CAYO, KSNNETH F 2 101 EROOKLYN ST - NW ADAMS, MA 01247-0009
+Race: W Eox: M
+Narrative:
+M/VY parked in the parking lot, unoccupied.
+19-129823 0511 Phone - POWER OUTAGE/PROBLEM LOG ENTRY REQUEST
+Call Taker: MT CHARL STRTZET
+Locaticn/Address: HOPPER RD
+Harrative:
+CP veyy worricd bocause they have not hac power since
+Wednesday might. Advieed that dispatch wil: contact
+Nationa. Grid.
+0El15 Cerntacicd Naticnal Grid. They sre eware of outage and
+do not have un estimated time Lor the power to be restored.
+19-1300800 0723 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cail Taker: PATROZ TANIA HEXNANDEZ
+Location/Address: COLD SPRING RC
+Unit: 3h
+Arve-07:253:23 Jlrd-07:43:28
+1959-13001 0728 Phone - ANIMAL CONTROL NO ACTION REQUIRED
+Taker:
+Czil PATROL ANTHOKY M DJPRAT
+Location/Address: OBLCRG RD
+nit: 33
+Digp-07:34:C0 Enrt-07:34:24 Arve-07:44:18 Jird-07::58:25
+Narrative:
+RP states they have an injurgd doer on their property, deer
+is down the driveway by the pond.
+Narrative:
+small doe with a sore blooé on hind-end, but ran/walked
+normally with no leg infury. Belleved to be healthy enough
+Lu survive.
+19-113002 0745 Initiated - MOTOR VBHICLE STOP CITATION - CIVIL
+Call Taker: PATROI. "ANTA HERNANDEZ
+Tocat® on/Address: COLL SEXING RDC
+nit: KY)
+Axve-07:5:5¢ Clxd-07:55:03
+Vehiclec: WEl 2016 KIA SE FORTE Req: PC MA 4EVY786 VIN: KNAFK4AG5GS616592
+OperalLor: KATY, ESTHER DORA « 1231 NORTH HOOSAC RD Apt. #301 - WILLIAMSTCWRT, MA
+01267-2330
+Raco: B Box: F
+Rerer To (Citarion: TZO0B504Y
+wmear: KATZ, ESTHER DORA @ 1231 NORTII HQOUSAC RD Apt. #30: WILLIAMSTOWN, MA
+G12E7 2330
+Race: B Sex: F
+15-13003 0752 Phone - POWER OUTAGE/PROBLEM SERVICES RENDERED
+Cell Taker: PATROL: ANTHONY M DIXJPRAT
+Local_on/Addresc: [WIA 535] GREEN RIVER XD
+Narrazive:
+HP states “e's Leer withour power since yeaterday morning.
+RY stated ne spoke with National Grid yesterday and they
+stated the power would ke back around 11.

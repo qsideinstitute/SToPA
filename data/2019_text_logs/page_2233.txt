@@ -1,1 +1,47 @@
-Call Taker  LIEUTENANT MICHAEL J “IEMBA Jr  Location/Addreas  PINE COBBLE RD  Unit  37K  Arvd-09:47:46  Clrd-09:48:39  Narrative  VT PC HDS235  Narrative  Checked Area.  Narrative  CHECKED  Narrative  Checked, no vehicles.  2331  Narrative  Checked Area.  Narrative  Checked Area.  Narrative  Checked,  no vehicles.  0334  19-15159  0951  Initiated -~ BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  ELM ST  Unit:  37K  Arvd-09:51:35  Clrd-09:;52:45  Narrative:  CHECKED  Narrative:  Checked 0202  19-15160  0954  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J SIEMBA Jr  Location/Address:  SPRING ST  Unit:  37K  Arvd-09:54:25  Clrd-09:57:445  19-15161  o959  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  PARK ST  Unit:  a7K  Arvd-09:59:24  Clrd-69:59:49  BUILDING CHECKED/SECURED  19-15162  1000  Initiated «- BUILDING CHECK  Call Taker:  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 249] NORTH ST  Unit:  37K  Clrd-10;:02:13  Arvd-10:01:05  Narrative:  checked  Narrative:  Checked 0045  19-15163  1005  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+'x1ll Taker: LIEUTENANT MICHAEL J ZIEMBA Jr
+Location/Address: PTNE COBELE xD
+Unit: 37K
+Arvd-09:47:46 Clrd-05:46:39
+Narzalkive:
+VI PC HDS235
+Narrative:
+checked Area.
+Narrative:
+CHECKED
+Narrative:
+Checked, no vehicles. 2331
+NarraktLrve:
+Checked Area.
+Rarrative:
+Checked Arec.
+Narrative:
+Checkad, no vehicles. 0334
+1595-15159 D951 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: LIEUTENANT MICHAEL J ZIEMSA Jy
+ELM ST
+Location/Adcress:
+in.t: 37K AvyE-09:51:35 Clrd-T9:52:4F
+Narrative:
+CHECKED
+Narracive:
+Checked 0202
+19-15160 0954 Initiated - PARKING CHECK SERVICES RENDERED
+Ca_l Taker: L-EUTENANL1 MLCHAEL J ZZEMBA Jr
+Tocatien/Addreas: SFRIKG oT
+Unit: 37K
+Arvd-09:54:25 Clrd-05:5h7:45
+19-151461 0555 Initizted - PARKIRG CHECK SERVICES RENDERED
+Call Taxer: L1IZUTENANT MICHAZL J ZIEMBA Jr
+Tocation/Address: PARK sT
+nit: 37X
+Arvd-09:59:24 Clré 09:59:49
+10-15162 1000 Initiated - BUILDING CHECK BUILDING CHECKEDR/SECURED
+Cal: Taker: LISUTENANT MICHAS.. J ZIEMBA Jr
+Iaatlon/Address: [WZA 244] NORTH ST
+Unik: 37K
+Arvd-10:01:05 Clzd-10:02:19
+Narrakive:
+checked
+Karrative:
+Chackec C045
+19-151163 1005 Initiated - BUILDING CRECK BUILDING CHECKED/SECUR®D

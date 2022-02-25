@@ -1,1 +1,51 @@
-19-8371  2138  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  SIMONDS RD  Unit  38  Arvd-21:38;54  Cird-21:39:44  Narrative  Checked 6332  19-8372  2150  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Cali Taker  PATROL JOHN J MCCONNELL JR  Location/Address  [WIA 190) MAIN ST  Unit  38  Arvd-21:51:63  Clrd-21:51:14  Narrative  Checked 0218  ”  For Bate:  07/04/2019  Thursday  19-8374  0041  finitiated - WELL BEING CHECK  NO ACTION REQUIRED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  ADAMS RD  Unit:  32  Arvd-00:42:01 Cird-00:51:00  Unit:  31  Enrt-00;42:23 Arvd-00:42:59 Clird-00:49:49  Diep-00:42:22  Narrative:  Individual observed sleeping on the grass with a bike next  to him. Woke individual which he said he was taking a rest.  A PBT was administered, he provided a sample of all zero's.  Individual was sent on his way back towards his home in  North Adams.  49-8375  0113  Initiated - MOTOR VEHICLE sToOP  CITATION - WARNING  Call Taker  PATROL CRAIG A EICHHAMMER  Location/Address  COLD SPRING RD  Unit  ai  Arvd-01:13:19  Clrd-01:19:07  PC VP HEP2SS VIN: 1U8HG4eaKs8sC1 94940  Vehicle  SIL 2008 JEEP COMMANDER Req:  Operator  O'BRIAN, CONOR C @ 33 BROAD COVE RD - CAPE ELIZABETH, ME 04107  Race:  U Sex:  M  Refer To Citation  T1785883  Owner  MENDELSON, QUIN @ 118 FRENCH ST - FAIRFIELD,  CT 06824  Race: W Sex: M  19-8376  OL5G  initiated - SUSPICIOUS MOTOR VEHICLE  BUILDING CHECKED/SECURED  Call Taker  PATROLMAN SCOTT SKORUPSKI  Location/Address  NEW ASHFORD RD  Unit  a2  Arvd-01:51:52  Clrd-01:52:24  Vehicle  RED 2011 SUZI SX4 Reg: PC MA 7EX371 VIN: JS2YB5A39BR6302976  owner  MELSTERLING, LILY M @ 810 PARTRIDGE RD - LANESBOROUGH, MA 01237-9518  Race:  U Sex: F  Narrative  M/V parked in the parking lot, unoccupied.  13-8377  204  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+19-8371 2138 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Teker: FATRIL JOZE oO MCCONNELL JR
+Location/Address: SIMCNDS RJ
+Jit: 38
+Arvd-21:38:54 ird-21:39:44
+Narrat.ve:
+Checked 0332
+19-6372 2150 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL JOEN J MCCONNELL JR
+Local ion/Addreas: ‘WIA i190] MAIN ST
+Unit: 38
+Arvd-21:51:03 Clrd-21:51:34
+Narrative:
+Checked C218
+For Date: 07/04/2019 Thursday
+19-8374 0041 Initiated - WELL BEING CHECK NO ACTICN REQUIRED
+Call Taxer: SATROLMAN SCOTT SHORU2SKZ
+Location/Address: ADRIMS RD
+Jnil: 32
+Arvd-00:42:01 Clrd-00:51:00
+Unit: il
+Disp-00:42:22 Enrt-00:42:23 Arvd-00:42:59 Cird-00:49:49
+Harrat:.ve:
+Individual observed sleeping on Lhe grass with a bike next
+to him. Wecke individual which he said “we was taking a rest.
+A PBT was administered, he provided a sample of all zezo's.
+Tndividual was sent on his way back towards his home in
+North Adams.
+13-8375 0113 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: EATROL CRAIG A RTCHHAMMER
+Location/Address: COLD SPRING RD
+Unit: 31
+Arvd-C1i:13:19 Clrd-01:19:07
+Vehacle: SIL 200B JEEP COMMANDER Reg: PC VI HLFZ98 VIN: jJ85GAEXBBCL948/0
+Qperater: C'BRIAN, CCNOR C @ 2 BROAD COVE RD - (ADE ELIZABSTH, ME 04.07
+Race: U Bex: M
+Refer ''o Citation: T1785883
+Owner: MEKDELSON, QUIN @ 118 FRENCH ST FAIRFIELD, CT CE824
+Race: W Sex: M
+15-8376 0150 Initiated - SUSPICIOUS MOTOR VEHICLE BUILDING CHECKED/ESECURED
+Call Taker: PATRO_MAN SCOTT SKORUPAKT
+NEW ASHFORD XD
+Lovation/Addraens: Unik:
+32 Arvd-01:51:51 Clrd-01:52:24
+Vehicle: RED 2011 SUZI SX4 PC MA 7EX371 VIN: JS2YBSA39BG302976
+MELSTERLING, LILY M Reg: ¢ 8.0 PARTRICSE RD - LANESBOROUGH, MA 01237-9518
+Owner: U Sex: F
+Marrative: Race:
+M/V in the ict, unoccupied.
+parsed parking
+19-8377 0204 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED

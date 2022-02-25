@@ -1,1 +1,53 @@
-MA 8FX164 in driveway  1028  19-6890:  Other - TRESPASS  LOG ENTRY REQUEST  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address:  [WIA 162] MAIN ST  Narrative:  Trespass notice received via mail from general manager  regarding Ramona Fabregas.  19-6889  1029  Initiated -~ BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  35  Arvd-10:29:45  Clrd-10:29:52  Narrative  Checked S-4  16:34  Narrative  Checked  1046  19-6891  Initiated - MOTOR VEHICLE STOP  CITATION  ~ WARNING  ‘Call Taker  PATROL BRAD SACCO  Location/Address  HANCOCK RD  Unit  35  Arvd-10:46:26 Clrd-10:51:24  Vehicle  BLU 2017 SUBA ST OUTBAC Reg: PC MA 543FS3 VIN: 4S4BSAKC7H3354460  Operator  POMERANTZ, DAVID I @ 881 HANCOCK RD - WILLIAMSTOWN, MA 01267-3017  Race: W Sex: M  Refer To Citation  T1785277  Owner  POMERANTZ, DAVID I @ 881 HANCOCK RD - WILLIAMSTOWN, MA 01267-3017  Race: W Sex: M  1126  Initiated ~ MOTOR VEHICLE STOP  CITATION - WARNING  19-6892 |  Call Taker  PATROL BRAD SACCO  COLD SPRING RD  Location/Address  Unit  35  Arvd-11:26;:56 Clrd-11:40:45  Vehicle  BLK 2013 FORD SE FUSION Reg: PC MA 7NB655 VIN: 3FA6PO0D92DR196789  Operator  NICHOLSON; AARON S @ 7 BOYLSTON ST Apt. #3 - PITTSFIELD, MA 01201-  6747  Race:  W Sex: M  Refer To Citation  T1785278  Owner  NICHOLSON, AARON S @ 7 BOYLSTON ST Apt. #3 - PITTSFIELD, MA 01201-  6747  Race:  W Sex: M  19-6893 |  1149  911 - ASSIST OTHER AGENCY - FIRE  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  (WIA 212] NORTH ST  Narrative:  CP burnt butter in a pan on the stove. Party was looking for  advice to get the fire alarms to stop. Party opened windows  and door. Alarms then reset themselves  Nothing further  needed.  19-6894 ©  1227  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  (WIA 247] SIMONDS RD 
+MA 8FX164 in driveway
+19-6890
+1028 Other - TRESPASS LOG ENTRY REQUEST
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: [RIA 162] MAIN ST
+Narrative:
+Trespass notice received via mail from general manager
+regarding Ramona Fabregas.
+19-6889 1029 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL BRAD SACCO
+Location/Address: COLD SPRING RD
+unit: 35
+Arvd-10:29:45 Clrd-10:29:52
+Narrative:
+Checked S-4 16:34
+Narrative:
+Checked
+19-6891 1046 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL. BRAD SACCO
+l.ocation/Address: HANCOCK RD
+Unit: 35
+Arvd-10:46:26 Clrd-10:51:24
+Vehicle: BLU 2017 SUBA ST OUTBAC Reg: PC MA 543FS3 VIN: 4S4BSAXC7H3354460
+Operator: POMERANTZ, DAVID I @ 881 HANCOCK RD - WILLIAMSTOWN, MA 01267-3017
+Race: W Sex: M
+Refer To Citation: T1785277
+Owner: POMERANTZ, DAVID I @ 881 HANCOCK RD - WILLIAMSTOWN, MA 01267-3017
+Race: W Sex: M
+19-6892 1126 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL BRAD SACCO
+Local:ion/Address: COLD SPRING RD
+Unit: 35
+Arvd-11:26:56 Clrd-11:40:45
+Vehicle: BLK 2013 FORD SE FUSION Reg: PC MA 7NB655 VIN: 3FA6POD92DR196789
+Operator: NICHOLSON, AARON S @ 7 BOYLSTON ST Apt. #3 - PITTSFIELD, MA 0120]-
+6747
+Race: W Sex: M
+Refer To Citation: T1785278
+Cwner: NICHOLSON, AARON S @ 7 BOYLSTON ST #3 - MA 01201-
+6747 Apt. PITTSFIELD,
+Race: W Sex: M
+19-6893 1149 911 - ASSIST OTHER AGENCY - FIRE
+Call Taker: PATROL DAVID JENNINGS, D SERVICES RENDERED
+Location/Address: [WIA 212] NORTH ST
+Narrative:
+CP burnt butter in a the stove.
+advice to the fire pan alarms on Lo Party was looking windows for
+and door. Alarms get then reset themselves. stop. Party opened
+needed. Nothing further
+19-6894 1227 Phone - MOTOR VEHICLE ACCIDENT
+TAKEN INVESTIGATED / REPORT
+Call Taker: PATROL DAVID
+Location/Address: [WIA 247] SIMONDS JENNINGS, RD D

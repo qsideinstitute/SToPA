@@ -1,1 +1,56 @@
-Location/Address:  [WIA 907] MAIN ST  Unit:  38  Arvd-01:31:21  Clrd-01:35:30  Vehicle:  RED 2014 CHEV SE MALIBU Reg: PC MA 779DZ27 VIN: 1G11C5SL7EF123551  Owner:  KUZA, DENA M @ 33 MILL ST Apt. #2L - ADAMS, MA 01220  MONEE EL ANN ROD TEE KITE ODES NAV IIE ET ee  Race: U Sex: F  Narrative:  Mv  has front right tire blown out, Vehicle secured.  Sas at Tt  19-2986  0331  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KEVIN P GARNER  Location/Address;  (WIA 249] NORTH ST  Unit:  34  Arvd-03:32:00  Clird-03:33:06  19-2987  0615  911i -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT PAUL D THOMPSON  Location/Address:  {WIA 146] ADAMS RD  Unit:  38  Cird-06:40:41  See IN ee SSS ale SBA Ee Ee eA LOL SREIPEK! SIRENS See A SPRL at oP eM NSS eh mER SN LATED: SOAS ELEN OS  Disp-06:16:44 Enrt-06:17:12 Arvd-06:18:51  Unit:  37K  Arvd~06:33:05  Clrd-06:39:58  Narrative:  RP states there is a raccoon stuck in a storage room at the  PREAH SERA NAVEEN SINR CD OE  hotel and they need some assistance getting it out.  Narrative:  Raccoon removed from shed.  0952  Phone - TRAFFIC COMPLAINT  SERVICES RENDERED  19-2988  Call Taker:  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  NORTH HOOSAC RD  Unit:  34  Disp-09:52:44  Enrt-09:52:54 Arvd-09:57:11  Clrd-10:06:09  Vehicle:  VIN:  1N4AL11D96C173080  BLU 2006 NISS SE ALTIMA Reg: PC MA 9MR841  Operator:  PRICE, JUSTIN A @ 40 BROOKLYN ST - NORTH ADAMS, MA 01247  Race:  B Sex: M  Owner:  PRICE, JUSTIN A @ 40 BROOKLYN ST - NORTH ADAMS, MA 01247  Race:  B Sex: M  Narrative:  CP called stated a male party parked his car across the  street from her home. Male party then got out and got into a  truck and left the area. She thought it was odd, and how the  male party just parked on the side of the road. She thinks  it might be a hazzard on were vehicle is parked.  Narrative:  Dead battery,  replaced and on his way  19-2989  1002  Initiated -  ANIMAL BITE  SERVICES RENDERED  Cail Taker  PATROLMAN MICHAEL J ZIEMBA dr  Location/Address  HARRISON AVE  Unit  37K  Arvd-10:06:01 Clrd-10:14:17  Narrative  Quarantine received from GAH. 4 month issued for wound of  unknown origin. Lifting 7/6/19.  Narrative  Party not home,  attempted contact to lift quarantine.  Narrative  Party not home,  attempted to lift quarantine. 
+Location/Address: Unit: [WIA 907] MAIN ST
+38
+Arvd-01:31:21 Clrd-01:35:30
+Vehicle: RED 2014 CHEV SE MALIBU Reg: PC MA 779DZ27 VIN: 1Gl1C5SL7EF123551
+Owner: KUZA, DENA M @ 33 MILL ST Apt. #2L - ADAMS, MA 01220
+Race: U Sex: F
+Narrative:
+Mv has front right tire blown out, Vehicle secured.
+19-2986 0331 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL KEVIN P GARNER
+Location/Address: [WIA 249] NORTH ST
+Unit: 34
+Arvd-03:32:00 Clrd-03:33:06
+19-2987 0615 911 - ANIMAL CONTROL SERVICES RENDERED
+Call Taker: SERGEANT PAUL D THOMPSON
+Location/Address: [WIA 146] ADAMS RD
+Unit: 38
+Disp-06:16:44 Enrt-06:17:12 Arvd-06:18:51 Clrd-06:40:41
+Unit: 37K
+Arvd-06:33:05 Clrd-06:39:58
+Narrative:
+RP states there is a raccoon stuck in a storage room at the
+hotel and they need some assistance getting it out.
+Narrative:
+Raccoon removed from shed.
+19-2988 0952 Phone - TRAFFIC COMPLAINT SERVICES RENDERED
+Call Taker: DISPATCHER WILLIAM C JENNINGS JR
+Location/Address: NORTH HOOSAC RD
+Unit: 34
+Disp-09:52:44 Enrt-09:52:54 Arvd-02:57:11 Clrd-10:06:09
+Vehicle: BLU 2006 NISS SE ALTIMA Reg: PC MA 95MR841 VIN: 1N4AL11D96C173080
+Operator: PRICE, JUSTIN A @ 40 BROOKLYN ST - NORTH ADAMS, MA 01247
+Race: B Sex: M
+Owner: PRICE, JUSTIN A @ 40 BROOKLYN ST - NORTH ADAMS, MA 01247
+Race: B Sex: M
+Narrative:
+CP called stated a male party parked his car across the
+street from her home. Male party then got out and got into a
+truck and left the area. She thought it was odd, and how the
+male party just parked on the side of the road. She thinks
+it might be a hazzard on were vehicle is parked.
+Narrative:
+Dead battery, replaced and on his way
+19-2989 1002 Initiated - ANIMAL BITE SERVICES RENDERED
+Call Taker: PATROLMAN MICHAEL J ZIEMBA Jr
+Location/Address: HARRISON AVE
+Unit: 37K
+Arvd-10:06:01 Clrd-10:14:17
+Narrative:
+Quarancine received from GAH. 4 month issued for wound of
+unknown origin. Lifting 7/6/19.
+Narrative:
+not home, attempted contact to lift quarantine.
+Party
+Narrative:
+Party not home, attempted to lift quarantine.

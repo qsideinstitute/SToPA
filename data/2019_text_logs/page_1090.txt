@@ -1,1 +1,54 @@
-Address:  308 PEARL ST Apt.  #3  BURLINGTON,  VT  Age:  34  ARRESTED ON WARRANT  Charges:  Refer To Accident:  19-80-AC  19-8201  1503  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  PARK ST  Unit:  34  Arvd-15:03:00  Clrd-15:12:33  19-8202  i514  Initiated ~ PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  SPRING ST  Unit:  a4  Arvd-15:15:36  Clrd-15:23:08  19-8203  1602  Initiated -  ANIMAL CONTROL  SERVICES RENDERED  Call Taker  PATROL KEVIN P GARNER  Location/Address  NORTH HOOSAC RD  Unit  34  Arvd-16:04:24  Clrda-16:07:39  Vehicle  WHI 2015 MAZD CXS Reg: PC MA SPCN20 VIN: JM3KE4CY5F0551379  Operator  OGRADY, ALISON R @ 74 HENDERSON RD - WILLIAMSTOWN, MA 01267-2204  Race: W Sex: F  Owner  OGRADY, ALISON R @ 74 HENDERSON RD - WILLIAMSTOWN,  MA 01267-2204  Race:  U Sex: F  Narrative  Subject pulled up to cruiser to report a loose deg on lawn  at  house and she's worried it could run out into  the road... Small brown deg took off running when officer  approached. Unable to locate again  19-8206  1730  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  BRIDGES RD  Unit:  32  Arvd-17:31:00  Clrd-17:36:32  VIN: JTMREREVGIJ242426  Vehicle:  GRY 2018 TOYT RAV4  Reg: PC MA 82R518  Operator:  MONTGOMERY,  MARTHA W @ 695 MAIN ST - WILLIAMSTOWN,  MA 01267  Race:  W Sex:  EF  Refer To Citation:  T1785665  Owner:  MONTGOMERY, MARTHA W @ 695 MAIN ST - WILLIAMSTOWN, MA 01267  Race:  W Sex: F  SERVICES RENDERED  19-8207  1822  Initiated - BUILDING CHECK  Call Taker:  PATROL SHUAN N WILLIAM  BERLIN RD  Location/Address:  Unit:  32  Axrvd-18:22:14  Cird-18:30:40  Narrative:  Checked  19-8208  1934  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  (WIA 910] TACONIC TRL  Unit  a2  Arvd-18:34:15  Clred-18:37:13  Narrative  done  Narrative 
+Address: 108 PEARL ST Apt. #3 BURLINGTON, vT
+Age: 34
+Charges: ARRESTED OF WARRANT
+Refer To Accident: 9-E0-AT
+15-8201 1503 Initiated - PARKING CHECK SERVICES RENDERED
+all Taker: PATROL DAVID CczZNNIKGS, ©
+Lozation/Address: PARK 8T
+Unic: 249
+Arvd-13:03:00 Clrd-15:12:33
+15-8202 1514 Initiated - PARKING CHECK SERVICES RENDERED
+Call 'lakcr: PATROL XEVIN P GHRRRKER
+Locat ion/Addyeaes: SPRING S51
+Unit: 24
+Arvd-15:15:36 Clrd. 15:23:08
+19-8203 1602 Initiated - ANIMAL CONTROL SERVICES RENDERED
+Call laker: PATROL XEV™N P GARKFR
+Location/Address: NORTH HOCSAC RD
+imi: 34
+Arvd-16:04:24 Clrc-16:07:39
+Vehicle: WHT 2015 MAZD CXS Reg: BC MA 9PCR20 VIN: JM3KEJCY5F0551379
+Operator: OGRADY, ALZSCN R © 74 HENDERSON RD) - WILLIAMSTOWN, MA 01267-2204
+Rave: # Scx: F
+Owner: OGRADY, ALZECN R @ 74 HENDSHSON RD - WILLIAMSTOWN, MA C0li67-2204
+Race: U Sex: F
+Karrative:
+Subject pu led up tc cruiscr Le report a loose dog on lawn
+at   house and she's werried it could run out into
+the rcad.. Small brown dog tock off running when officer
+approached. Unable to locate again
+19-8208 1730 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL SHUAN N WILLIAM
+Locurion/iéress: BRIDSES RI
+Unit: 32
+Arvd-17:31:00 Clre-17:36:32
+Venicle: SR? 2012 '1OYT RAV Reg: PC WA 8ZR318 VIN: JTHRIFREVCJIJ242426
+Opsrator: FORTSOMERY, MARTHA W 695 MAIN ST - WILLIAMSTOWN, MA 0.267
+Race: W Sex: F
+Refer To Citation: T1785665
+Owrner: MONTGOMERY, MARTHA W Z 695 MATN 8T - WILLIAMSTCWN, MA Di267
+Race: W Sox: F
+15-8207 1822 Initiated - BUILDING CHECK SERVICES RENDERED
+Cai-l Taker: DPEPROL SHUAN N WFILI.TAM
+Location/Address: BERLIN RD
+Unit: 32
+Arvil-18:22:14 Clrd-18:30:40
+Narracive:
+Checked
+i9-g208 1824 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+N WILLIAM
+Call Taker: BATROL SEUAN TACONIC TRL
+Location/Address: [WZA #10]
+Unit: a2 Arvd-14:24:15 Clxd-18:37:13
+Narrative: done
+Narrative:

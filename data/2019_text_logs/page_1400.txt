@@ -1,1 +1,52 @@
-1419-10206  0045  Initiated - MOTOR VEHICLE §sTOP  CITATION - WARNING  Cali Taker  PATROL KEVIN P GARNER  Location/Address  SIMONDS RD  Unit  34  Arvd-00:45:03  Clrd-00:51:47  Vehicle  BLU 2006  SUBA 2D Reg: TK VT DRBNWAY VIN:  4S4BTe3CxX66107003  Operator  SIMPSON,  RHYS D @ 184 STATELINE DR - POWNAL, VT 052606  Race:  W  Sex; M  Refer To Citation  T1785359  Owner  SIMPSON,  RICHARD D @ 184 S'TATE LINE DR - POWNAL, VT 05260  Race:  W  Sex: M  1419-10207  o121  Initiated - MOTOR VEHICLE STOP  CITATEON - WARNING  Cali Taker  PATROL ANTHONY M DUPRAT  Location/Addresa  BRIDGES RD  Dnit  35  Arvd-01:21:53  Clrd-01:30:05  Vehicle  VIN: WODSJISCB2HN4 44050  WHI 2037 MERZ Cla 45 Amg Reg: PC CT GO7777  Operator  LUKASHENKO,  SERGEY @ 1325 PECK LN - CHESHIRE,  CT 06410-1225  Race: W Sex: M  Refer To Citation  TL786078  owner  LUKASHENKO,  SERGEY @ 1325 PECK LN - CHESHIRE, CT 06410-1225  Race: W Sex: M  SERVICES RENDERED  19-10208  0251  Initiated - PUBLIC SERVICE EVENT  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  SPRING ST MUNICIPAL LOT  Unit:  31  Arvd-02:51:34  Clrd-02:58:32  Narrative:  10 cones, 3 barricades and 2 signs deployed for market.  Narrative:  Retrieved.  19-10210  O404  Initiated - BPAREING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EITCHHAMMER  Location/Address:  (WEA 390) SIMONDS RD  Unit:  31  Arvd-04:04:22 Clrd-04:04:36  19-10211  o720  Phone - ASSIST OTHER AGENCY - DPW  TAKEN/REFERRED €O OTHER  AGENCY  Call Taker:  MICHAEL STRI22ZT  Location/Address ;  [WIA 420] THOMAS ST  Narrative:  CP states there is water coming out of the ground at J  DPW advised.  19-20213  0815  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Addreas  [WIA 1832] NORTH HOOSAC RD  unit  35  Arvd-08:15:13  Cird-08:16:21  Narrative  checked  Narrative  checked 
+19-110206 0045 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL KEVIN © GARNER
+Location/Address: SIMONDS RD
+Unit: 33
+Arvd-20:45:03 Clrd-00:51:47
+Vehicle: RIU 2006 SUBA 21) Req: TK VT DRENWAY VIN: 4S4BT63CX66107003
+Cperator: SIMPSON, RHYS DN @ 184 STATELINE NR - FOWNAL, VT 0h260
+ace: W Sex: M
+Refe: To J calion: LlTBHRILE
+Jwmner: STMPSON, RICEARD I: @ 1A4 STATE LINE DR - PONNAL, VT 05260
+Race: W Sex: MM
+19-10207 0121 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cali Taker: PATROL ANTIIONY M DUPRAT
+Location/Address: BRIDGES RD
+Unit:
+as Arvd-21:21:53 Clrd-01:30:05
+Vehicle: WHI 2017 MERZ Cla 45 Amg Reg: DPC OT CGO7777 VIK: WDDSILUB2HN444050
+Operator: LUKASHENXC, SERGEY @ 1325 PECK LK - CHESHIRE, CI 06410-122L
+xace: W Sex: HM
+Rafar To J-zation: T17B607E
+owner: LUKRASHENXG, SERGEY ® 1325 PECK LK  CHESEIRE, CT 06410-122h
+ace: § Sex: M
+19-102089 0251 Initiated - PURLIC SERVICE EVENT SERVICES RENDERED
+Cal: Tukor: PATROL CRALG A BoCHHAMMRER
+Location/Address: SPRING ST MJUNICLPAL LOT
+Unit: al
+Arvd-02:51:38 Clrd-02:58:32
+Narrakb-ve:
+10 ccnes, 3 barricades and 2 signs deployed For market.
+Narrative:
+Retriasved.
+RENDERED
+15-10214 0404 Initiated - PAREING CHECK SERVICES
+Call Taxaer: PATRCL CRAIG A EICH:IAMMER
+Location/Address: [WEA 392) SIMCNDS RO
+Unit: 31
+Arvd-04:04:22 Clrd-04:04:36
+i9-10211 2720 Phone - ASSIST OTHER AGENCY - DPW TAKEN/REFERRED 70 OTHER
+AGENCY
+Call Taker: MICHAEL STRIZZI
+Location/Address: [WIA 420] THOMAS ST
+Harvative:
+CF states “here is water coming our of the ground at ln
+DPW advised.
+15-10213 nals Initiated - BUILDING CHECK BUILDING CHRECKED/SECURED
+Call Tuker: PATROL DAVID JENNINGS, 9
+ILocaticen/Addresu: [WIA 18321 NORIZ HOOSACZ RE
+rit: 35
+Arvd-08:15:13 ivd-08:16:21
+Marxative:
+checlkad
+Harraztive: checked

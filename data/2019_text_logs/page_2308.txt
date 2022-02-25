@@ -1,1 +1,51 @@
-Unit:  32  Arvd-03  47:16  Clrd-03:47:24  19-15679  0400  911 -  9-1-1 ABANDONED CALL  UNFOUNDED  Call Taker:  PATROL KALVIN DZTEDZTIAK  Location/Address  {WIA 215] MAIN ST  Unit  31  Disp-04:02:07 Enrt-04:02:195  Arvd-64  Oo5:51  Clrd-04:08:35  Unit  32  Disp-04:02:07 Enrt-04:02:39  Arvd-04  04:23  Cird-04:07:34  Narrative  Unable to call number back, busy line.  Narrative  Building secure. No vehicles in lot. All  appears in order.  15+15681  O718  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL DAVID JENNINGS,  D  Location/Address  COLD SPRING RD  Unit  34  Arvd-07  18:34  Clird-07:46:00  Unit  a3  Disp-14:15:24  Enrt-14:16:19  Arvd-14  18:32  Cird-14:27:32  Unit  a3  Disp-14:34:32  Arvd-14  34:42  Clrd-14:40:16  13-15682  O754  Initiated - BUTLDING CHECK  BULLDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  PETERSBURG RD  Unit  34  Arvd-07  55:07  Clrd-07:56:34  Narrative  checked  Narrative  done  Narrative  Checked 0239  19-15685  O759  Initiated - BULLDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL DAVID JENNINGS, D  Location/Address:  HAWTHORNE RD  Unit:  34  Arvd-07:559:53  Cird-06:00:10  Narrative:  checked  Narrative:  Checked 0250  19-15686  0803  Initiated - BUILDING CHECK  BUZLDING CHECKED/ SECURED  Call Taker  PATROL DAVID JENNINGS, D  Location/Address  [WIA 1832] NORTH HOOSAC RD  Unit  34  Arvd-08:03:49  Clrd-08:04:51  Narrative  checked  Narrative 
+TJeit: | [8 [+
+avrvi-n3 47: Clrd-03:47:24
+19-15679 04.00 911 - 9-1-1 ABANDONED CALL UNFOUNDED
+Call Taker: PALED. BALVIN DEZEDELAK
+Location/Address: [WIA 215] MAIN ST
+Unik: il
+D.gp 04:92:07 Enrt-04:22:13 Arvd-04: 05: El Clrc-04:0B:35
+UniL: a2
+Disp-04:02:07 Enrt-04:02:13 Arvd-04: tZ23 Ciré-04:07:34
+Narrarive:
+mabte te call mumbev hack, busy line,
+Har+azive:
+Building sccure. No veiileles In lok. All APpHCArE in order.
+15.15581 07.8 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Ca_l Takar: PATROL DAVID JENNINGS, D
+Locat-on/Address: COLD SPRING RL
+niz: 24
+Arya-07 118: As Cled-07:45:
+Tnit: 33
+Dign-14:15:24 nrt-14:16::9 Avvd-14: 18: 32 CIivd-14:27:7
+Un.s: 3a
+Dign-14:34:32 Arvii-14 $31: 12 Clrd-4:40:
+19-156682 0754 Initiated - RUILDING CHECK BUILDING CHECKED/SECURED
+Cull Taker: PATRQL DAVID JENNINGS, D
+Location/Address: PETERSILRG RD
+Un-t: 3
+Arvd-07: 07
+yarrative:
+checkscd
+Xarrative:
+done
+Farrative:
+Checked 2239
+1l5-15685 0755 Initiated - BULLDING CHHRCK RULLDING CHBCKED/SRCURED
+Cal: Taher: SATROL DAVIE JENNINGS, D
+Lecation/Address: HAWTHORNE RD
+Uni L 34
+H Arvd-07:-9:h41 ClxAd-08:00:20
+Nepral
+_wo: checled
+Nerrative:
+Checked 0252
+19-15686 0803 Initiated BUTLDIKG CHECK BUILDING CHECKED/SECURED
+-
+Cail Taker: PATROL DAVID JENNIRGS, OD
+wocation/Address: [WIA 1832] NORTH IIOOSAT RED
+Unik: 34
+Arvd 08:03:49 Clpé-00:04:51
+Marrztive:
+creckxed
+Narrazive:

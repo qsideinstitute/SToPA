@@ -1,1 +1,45 @@
-Narrative:  Williams College Security reports finding ATM card. Owner of  ecard found in house at  Officer to assist  with returning card to proper owner.  19-274-PR  Narrative:  Given to owner,  1419-15867  L631  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  [WIA 249]  NORTH ST  Unit  a.  Arvd-16:31:10  Clrd-16:31:46  Narrative  Town hall closed early today.  Narrative  Checked 0026  For Date:  a  12/25/2019  Wednesday  19-15870  0347  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  (WIA 390] SIMONDS RD  Unit:  31  Arvd-03:47:45  Clrd-03:48:04  49-1587]  0800  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANTA HERNANDEZ  Location/Address  {WIA 1832} NORTH HOOSAC RD  Unit  36  Arvd-08:01:20  Clrd-08:02:12  Narrative  Checked S-4  15:07  Narrative  Checked S-4  19:42  Narrative  Checked 2348  Narrative  Checked 0359  19+-15872  0805  Initiated  - BUILDING CHECK  BULLDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  NORTH ST  Unit  36  Arvd-08:05:25  Clyrd-08:06:21  Narrative  Checked $§-4  L6 gad  Narrative  Checked 0005  159-15873  O806  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED 
+Narcarnive:
+Williams Colleuce Sceurily repo:bs finding ATM card. Owner of
+card found in house al . Officer tc assis:
+with zzLurning card to proper cwaey.
+—9-274-FR
+Narrazive:
+Given te ownar,
+19-158867 1631 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+call Taker: SERCEANT DAVID BR LENIZUX
+Locazion/Addressg: ‘WIA 2495. NKORTII ST
+Unil: al
+Arvd-61:32:10 Clrd-16:31:46
+Narrative:
+Town hall closed eariy today.
+Narrat_ve:
+Checked J02¢
+For Date: 12/25/2019 - Wednesday
+19-15870 D347 initlated PARKING
+Cali. Taxer: PATREOQL. CRAIG - CHECK SERVICES RENDERED
+A BEICHEAMMER
+—ocaticn/Address: (WIA 390] SIMCNDS RD
+Joit: 32
+Arvd-03:47:45 Clrd-03:48:04
+39-15871 oBCcO Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Ca.l Tzkar: PATROL TANTA HERNANDEZ
+Location/Address: [FIA 1532: NORTH HOOQSAC RD
+Tniz: 3h
+Karrazive:
+Checked S5-4 15:07
+Karrative:
+Chackst -4 19:42
+Narrative:
+Checkod 2348
+Narrative:
+Checked 0359
+19-158732 0805 Initieted - BUILDIKG CHECK BUILDING CHECKED/SECURED
+Call Taxer: PATHOL TANIA HERINASDOEZ
+Tacation/Address: NURTH 41
+init: 145
+Arvg-08:05:25 Clrd-08:04:21
+Warrztive:
+Checxed 5-4 6:21
+Narracive:
+Checked 0205
+15-15873 0806 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED

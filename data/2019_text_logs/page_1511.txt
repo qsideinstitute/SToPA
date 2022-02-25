@@ -1,1 +1,49 @@
-Checked.  Narrative  Checked $§-4  16:42  Narrative  Checked S-4  19:52  Narrative  Checked 2328  Narrative  Checked 0338  19-108654  08423  tnitiated -  TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  SYNDICATE RD  Unit  30  Arvd-68:41:18  Cird-09:02:29  Narrative  Checked $-4  17:07  19-10856  03911  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  LUCE RD  Unit  30  Arvd-09:11:46  Clrd-09:38:213  Narrative  Checked  19-10858  0942  Initiated - BUILDING CHECK  BULLDING CHECKED/ SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  LONGVIEW TER  Unit:  36  Arvd-09:43:05  Clrd-09:43:46  19-10859  1036  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker  PATROL BRAD SaACcCO  Location/Address  COLE AVE  Unit  35  Arvd-10:36:37  Clyrd-10:48:23  Vehicle  GRY 2015 TOYT TUNDRA Reg: PC MA 773%G8  VIN:  STFUYSPI2FA452619  Operator  MANCIVALANO, TODD M @ 9 CHESTNUT ST - PITTSFIELD, MA 01201-3906  Race:  W Sex:  N  Refer To Citation  T1786002  Owner  MANCIVALANG, TODD M @ 9 CHESTNUT ST - PITTSFIELD,  MA 01201-3906  Race:  W Sex: M  i9-10860  1043  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  LIEUTENANT MICHAEL J ZIEMBA Jr  Location/Address  NORTH ST  Unit  37K  Arvd-10:43:22 Clrd-10:43:34  Narrative  checked  Narrative  Checked 0036 
+Checked.
+Rarrative:
+Checked 8S 4 1E:42
+Narrative:
+Checked 5-4 19:52
+Narrative:
+Checked 2323
+Narrative:
+Checked 0313
+159-10854 o841 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGERNT SCOTT E MOGOVAN
+Location/Address: SYNDICATE RD
+nit: a0
+Arvd-28:41:19 ra r
+Narrative: rd-ui9:02:29
+Checked S-4 17:07
+19-110856 0811 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Cali Taxex: EERGEANT SCOTT I MCGCWAN
+Locul lon/Address: LUCE RO
+Unil: 30
+Arvd-02:11:46 Clrd-09:38:21
+Narrative:
+Checkad
+19-108586 0942 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGEANT SCOTT E MCGOWAN
+Localion/Addross: LONGVIEW TER
+Unit: 30
+Arvd-09:43:05 Clrd 09:43:46
+1036 Initiated MCTOR VEHICLE
+19-108592 - STOP CITATICN - WARNING
+Call Taker: PATROL BRAD SACCO
+Location/Address: COLE AVE
+Unit: 35
+Arvad-10:36:37 Clrd-10:48:23
+Vehicle: SRY 2015 TOIT TUNORA Rew: PC MA 773XG8 vId: BTFUYSF12FX456619
+Operator: HANCIVALANG, TCDD M @ 9 CHESTNUT SET - ZITTSFIELD, MA 01201-2906
+Raca: W Sex: N
+Refer To Clration: T1786002
+owner: MANCIVALANC, TCDD WM @ 3 CIESTHUT ST - FITTSFIELD, MA 01201-3906
+Race: W Sex: BH
+19-102860 1043 Initiated - BUILDING CEECK BUILDING CHECKED/ESECURED
+Call Taker: LIEUTENANT M-CHARI, J ZIEMBEA Jr
+Location/Address: NORTH ST
+Unic: ITK
+Arvd-10:43:22 Clrd-10:43:34
+Narrative:
+chesxed
+Narrative:
+Checked 0C3G6

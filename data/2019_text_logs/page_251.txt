@@ -1,1 +1,47 @@
-Narrative:  Checked §-4  22:15  Narrative:  Checked 0023  Narrative:  Checked 0338  19-1770  0949  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Cail Taker  PATROL KALVIN DZIEDZIAK  Location/Address  HILL PROVINCE RD  Unit  30  Arvd-09:49:27 Clrd-09:49:39  Narrative  Checked  Narrative  Checked S-4  18:44  Narrative  Checked 0153  19-1771  0951  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  HAWTHORNE RD  Unit  30  Arvd-09:51:48  Clrd-09:52:30  Narrative  Checked  Narrative  Checked S~4 18:49  Narrative  Checked 0159  19-1772  0958  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZITEDZIAK  Location/Address  COLD SPRING RD  Unit  30  Arvd-09:58:19  Clrd-09:59:10  Narrative  Checked  Narrative  checked  Narrative  Checked Area.  19-1773  1002  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  COLD SPRING RD  Unit  30  Arvd-10:03:25  Clrd-10:04:01  Narrative 
+Narrative:
+Checked 8-4 22:15
+Narrative:
+Checked 0023
+Narrative:
+Checked 0338
+19-1770 0949 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: HILL PROVINCE RD
+Unit: 30
+Arvd-09:49:27 Clxd-09:49:39
+Narrative:
+Checked
+Narrative:
+Checked S-4 18:44
+Narrative:
+Checked 0153
+19-1771 0951 Initiated
+- BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: HAWTHORNE RD
+Unit: 30
+Arvd-08:51:48 Clrd-09:52:30
+Narrative:
+Checked
+Narrative:
+Checked S-4 18:49
+Narrative:
+Checked 0159
+19-1772 0958 Initiated - BUILDING CHECK BUILDING CHECRED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: COLD SPRING RD
+Unit: 30
+Arvd-09:58:19 Clxd-09:59:10
+Narrative:
+Checked
+Narrative:
+checked
+Narrative:
+Checked Area.
+19-1773 1002 Initiated - BUILDING CHECK
+BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIZDZIAK
+Location/Address: COLD
+Unit: SPRING RD
+30
+Narrative: Arvd-10:03:25 Clrd-10:04:01

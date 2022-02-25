@@ -1,1 +1,55 @@
-Call Taker  SERGEANT SCOTT —& MCGOWAN  Location/Address  HOPPER RD  Unit  30  Arvd-09:36:45  Clyrdad-09:37:23  Narrative  Checked  159-10596  1035  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL  KALVIN DZTEDSZIAK  Location/Address:  SPRING ST  Unit:  34  Arvd-10:35:36  Clrd-10:39:08  Narrative:  Checked  Narrative:  1 Handicap violations  19-20598  1218  initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  PATROL KALVIN DZLEDZTAK  Location/Address  MAIN ST  Unit  34  Arvd-12:18:02  Clrd-12:27:12  Vehicle  GRY 2002 FORD SE TAURUS Reg: PC MA 20R781 VIN: 1FAFP55532G234565  Operator  CHASE, ROBERT J @ 12 TIMOTHY WAY - MECHANICVILLE, NY 12118  Race:  W Sex: M  Refer To Citation  T1786152  Owner  ADAMS, SUSAN M @ 10 CONGRESS ST - GREENFIELD, MA 01301-3540  Race:  U Sex: F  2329-10600  1239  Initiate@ - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  NEW ASHFORD RD  Unit  33  Arvd-12:39:08  Clrd-12:45:42  Vehicle  BLK 2014 JEEP GRANDC Reg:  PC MA 663VH3  VIN:  IC4RIPBGGEC347985  Operator  HUNT, TANYA ANN @ 165 RIDGEWAY AVE - PITTSFIELD, MA 01201  Race:  W Sex: F  Refer To Citation  TLYS5759  Owner  HUNT, TANYA ANN @ 165 RIDGEWAY AVE - PITTSFIELD, MA 01201  Race:  W Sex: F  19-10603  1253  Initiated - MOTOR VEHICLE sToP  CITATION - WARNING  Call Taker  CHIEF KYLE J JOHNSON  Location/Address  SIMONDS RD  Unit  33  Arvd-12:53:41  Clrd-13:00:23  Vehicle  BLK 2012 DODG 4D CHARGER Reg: PC NH 3726493  VIN: 2C3CDXCT&CH262000  Operator  STAUFF, LINDA A @ 26 RACHAEL CIR - GOFFSTOWN, NH 03045  Race:  W Sex: F  Refer To Citation  TIi78S760  Owner  STAUFF, ARTHUR W @ 26 RACHAEL CIR - GOFFSTOWN, NH 03045  Race:  W Sex: M  19-10603  1301  Walk-in - ANIMAL CONTROL  SERVICES RENDERED  Call Taker;  DISPATCHER WILLIAM C JENNINGS JR  Location/Address:  CHARLES ST  Narrative;  RP into station and spoke ta Lt giemba in reference to a  neighbor who keeps trying to steal her cat. 
+Call Taker: SERGEANT ECCTT E MC30OWAN
+—ocation/Address: HOPEER RD
+hic: 30
+Arvi-09:36:45 Clrd 09:37:22
+Narrative:
+Checked
+i9-10595 1035 Initiated - PARKING CHECK BERVICES RENDERED
+Call Taxe>: PATROL LALVIN DZIEDZIAK
+Locaticn/Address: SERING ©T
+hik: 3
+Arvid-10:235:38 Clrd 10:39:05
+Narraziva:
+Checked
+Narralive:
+1 Handicap violations
+19-10598 1218 Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Cul. Taker: PATROL KATVINK DLIEDZiAK
+Locatzon/Address: MAIN ST
+Jit: 3L
+Arvd-i2:18:02 Qord-i1i2:27:12
+Vehocla: GRY 20C2 FORD S52 TAURUS Reg: PC MA 2JR781 VIN:
+Operacer: CHASE, ROBERT J ® 2 TTMCT:HY WAY - 1FAFPS5S32G231585
+Pace: W Sex: M MECIANICVYILLE, NY 22113
+Refer To Citazion: I1786.51
+Owmer:
+ADAMS, STSAN M @ 10 CONGRESS ST - GREENKLELD, MA 01351-3340
+Race: U Lex: 7
+i15-10600 1239 Initiated - MOTOR VERICLE STOP CITATION - WARNING
+Call Taker: CHIEF EYLE . JOHNSON
+Locabtron/Address: HNEW ASHFORD XD
+Init: 33
+Arvd-22:35:08 QIrd- 2:45:42
+Vehicla: BLE 20:4 J1Es2 IANDC Reg: PC MA G53VH2 VZIN: CARJEFBRGEEC247985
+Operater: HUNT, TANYA ANN @ 165 RILDGEWRAY AVE - PITTSFIELD, MA 0:201
+Race: W Scx: F
+Rafer To Cltazion: iL YEY)
+Ownar: HUNT, TANYA ANN @ 165 RIDGEWAY AVE - PITTSFTELD, MA 31202
+Race: W sex: #
+15-10501 1253 Initiated - MOTOR VEHICLK STOP CITATION - WARNING
+Call Taker: TEIEF KYLE .J JCHNSCN
+Location/Address: STMONES RD
+Init: 33
+Arvd-"2:53:41 Clrd-23:00:23
+Vehicle: Bok 20:2 BOOCE 4D CIAR3ER Reg: PC NK 3726483 VIN: 2C2CDXCTECH262020
+operaner: SUNIFE, LINDA A 8 Z6 RACIIAEL COIR - GCOFFSTO®RN, MH 0304b
+Radk: WW Sex: F
+Refer To Citatzign: T1735760
+Owner: STALTF, ARTHUR W @ 26 RACHAEL CLR - COFFSTCWN, NII 03045
+Puece: WW Sex: M
+19-110603 13C1 Walk-In - ANIMAL CONTROL SERVICES RENDERED
+Cull Taker: DISFATCHER WTI... IAM C JENNINGS JR
+—ocakion/Acdress. CZARLES RT
+Narrative:
+R? irto station and spoxc to LL 2iemba in reference
+neichkhar who keeps trying Lo steal her cat. to a

@@ -1,1 +1,52 @@
-Checked  i9-11353  0926  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  COLD SPRING RB  Unit:  36  Arvd-09:28:01  Clrd-09:28:16  Narrative:  Just getting home,  Company over  Narrative:  checked  Narrative:  Checked  19-11254  0932  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL TANIA HERNANDES  PARK ST  Location/Address:  Unit ;  36  Arvd-09:32:19  Clrd-09:35:56  Narrative:  3 violations  19-11256  0938  Initiated - BUITLDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  [WIA 333]  CHURCH ST  Unit  36  Arvd-09:38:46  Clrd-09:39:37  Narrative  Checked  419+11257  0949  Initiated - PARKING CHECK  SERVICES RENBBRED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  SPRING ST  Unit:  36  Arvd-09:50:03  Clrd-09:58:52  Unit:  36  Disp-10:11:44  Arvd-10:12:03  Clrd-10:13:50  Narrative:  Tho  violationg  19-11258  0958  Initiated - TRAFFIC COMPLAINT  SERVICES RENDERED  Call Taker  PATROL TANTA HERNANDES  Location/Address  SPRING ST  Unit  a6  Arvd-09:58:52  Clrd-10;11:34  Vehicle  BLE 2003 VOLK SE JETTA Reg: PC MA 658CKL VIN: 3VWPEG9M23M179147  Operator  LEWIS, MICHAEL J @ 179 PARK ST Apt. #1 - WILLIAMSTOWN, MA 01267-3124  Race:  W Sex: M  Owner  LEWIS, MICHAEL J @ 179 PARK ST Apt. #1 ~ WILLIAMSTOWN, MA 01267  Race:  DU Sex: U  Narrative  90-9 parked on Spring St, business card left on vehicle to  do ASAP.  Narrative  Re-registered using cruiser computer 
+Checked
+19-112353 0926 Initiated - BUILDING CHECK BUILDIRG CHECKED/SECURED
+all Tuker: PATROL TANTA “TRRNANIEZ
+Locacion/iidress: COLD SFRIKG RD
+Unit: 36
+Arva-09:208:81 Clrd-09:28:06
+Murrative:
+Just gething home, Company over
+Narrative:
+checked
+Narrul_ve:
+Chacked
+19-112584 D932 Initiated - PARKING CHECK SERVICES RENDERED
+Ca:l Texer: PATROL TANIA HERNANDEZ
+Location/Address: PARK ST
+nit: 36
+Arvd-09:32:13 Clrd-09:35:58
+Narrasiva:
+vio_ations
+19-112586 0938 Initiated - BUILDING
+CHECK BUILDING CHECKED/SECURED
+Call Taker:
+PATROT, TAK1l: HERNANDEY?
+—ocation/Addvass: [WIA 333] CHURCH ST
+this: ig
+Arvyd-08:35:4¢6 Clrd-09:59:37
+Narrative:
+Checked
+19-113257 ¢oen Initiated - PARKING CHECK SERVICES RENBERED
+Call Texer: PFATZOL TANIA HEXMNANDEZ
+Locaticn/Addreus: SPRTNG ST
+Unit: a6
+Arvd-09:50:03 Clxd-09:3B8:52
+Unit: 36
+Disp-:0:1Z:44 Arvd-10:12:03 Clrd-10:13:50
+Narrazive:
+no violazions
+19-112258 0858 Initieted - TRAFFIC COMPLAINT SERVICES RENDERED
+all Taker: PATROL TANIA HERNANDZZ
+ZocationfAacd-can: SPRING ST
+Un_-.: is
+ATvA-N9:56 52 2ilrd-Z0:12:34
+Vehic.e: Bal 2003 YOLX 83E JETTh Reg: BC MA SLH8CKL VIN: 3VWHIEEGSM22M179147
+Ooerator: LENTS, MTCHART J @ 179 PARK S1 Apt. 41 WILLIAMSTOWN. Ma 11267-3124
+Race: W Sex: M
+Owier LEWXE, MLIOdAEL J 2 272 DARK ST Apl. #1 - WILLIAMSTOWN, MAL ($1267
+XAarme: 0 Sex: J
+Harrative:
+90-2 varked on Spring 8t, husiness ceaxrd lcfli on vehicle zo
+do ASAP.
+Narrativa:
+Re-reqisterad using aruiser computer

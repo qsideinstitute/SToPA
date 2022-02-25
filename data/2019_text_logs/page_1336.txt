@@ -1,1 +1,53 @@
-Narrative:  DONE  19-9782  1017  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL KALVIN DZITEDZIAK  Location/Addresa  SPRING ST  Onit  35  Arvd-10:17:52  Cird-10:21:16  Narrative  Checked  19-9783  L027  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call  Taker  PATROL TANIA HERNANDES  Location/Address  BULKLEY ST  Unit  36  Arvd-10:268:05  Cird-10:29:15  Narrative  Checked  Narrative  done  19-9784  1036  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  [WIA 1] WHITMAN ST  Unit  35  Disp-10:39:04  Enrt-10:49:24  Arvd-10:44:402  Clrd-10:56:07  Yehicle  WHI 2017 FORD SUPER F Reg: AP NH 3779AP VIN:  LP6SPSKY7HOAL4190  Operator  PARKER, MATTHEW R @ 110 S WINCHESTER ST -  SWANZEY, NH 03446  Race:  U Sex: M  Owner  PEOPLES LINEN SERVICE LLC @ 9 GRIFFIN ST - KEENE, NH 03431  Narrative  Parking Garage damage to pole at entrance by a vehicle. wWCss  on scene.  Refer To Accident:  29-36-AC  19-9785  1943  Phone -  ALARM  - BURGLAR  ALARM FALSE  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  [WIA 220] MAIN ST  Unit  36  Disp-10:47:11 Enrt-10:48:32  Clyrd-10:49:16  Unit  33  Disp-10:47:43  Enrt-10:47:43  Arvd-10:49:07  Cird-10:51:17  Narrative  Entry/Exit Rear Motion. Ref #30889. Alarm acknowledged,  parties may be on Site.  Narrative  Employee does not have alarm code for back door.  He called  a coworker for instructions to shut off.  19-9786  1109  Fhone -  WELL BEING CHECK  SERVICES RENDERED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  NORTH HEMLOCK LN  Unit  35  Disp-11:18:29  Arvd-11:18:32  Clyrd-11:26:12  Narrative  RP requesting a wellbeing check. 
+Narzrazive:
+DONE
+19-9782 1017 Initiated - PARKING CHECK SERVICEE RENDERED
+-all Taker: PATROL KALV-N DZIEDZIIRK
+Lecusion/Addéress: SPRING 2T
+Unit: as
+Arva-1u:17:52 Clrd-10:2::16
+Marrative:
+Cheoked
+19-9783 1027 Iniciated - BUILDING CHECE BUILDING CHECKED/SECURED
+Cull Taker: PATRCL TANIA ZERNANDEZ
+—ocation/Address: SULKLEY 47
+nit: 36
+Arvd-_0:22:05 Clrd-10:29:15
+Narrative:
+Checked
+Harrative:
+dome
+19-9784 1030 Phone - MOTOR VERICLE ACCIDENT INVESTIGATED / REDPORT
+TAKEN
+Cail Taker: PISFATCZAR
+CERISTTNT LEMCTNF
+Locztion/Address: Unit: [ATA 1] WHITMAN ST
+as
+Digp-10:39:24 Hnrt-10:39:24 Arvd-10:44:52 Clrxd 15:56:07
+Vaxicle: WET 2017 FOL SCLPFER F Req: AP NH 3773AP VIN: _F6SF5KY7II0Al14150
+Cpaerator: PARKER, MAIHEW R @ 110 8 WINCHESTER ST - SWANEZEZY, KII C1446
+Race: U Hox: M
+Owner: PECPLES LINEN SERV-CE LLC @ © GRIFFIN ST - XEENS, NH 03431
+Karrative:
+Parking Guaruce damage to pole at entrance by a vehicle. W(83
+on sSCone,
+kefer To Accident: 29 s6.AC
+19-9745 1043 Phone - ALARM - BURCLAR ALRRM FALSE
+Cal. Izxer: DISPATCHER CHRISTINE LEMOINE
+Local on/Address: NIA 220) MAIN ST
+Jobb: 8
+Disp 20:47:10 Buri-10:48:32 Clrd-10:49:20
+unic: 33
+Disp-10:47:43 EnrL-10:47:43 Arvd 10:42:07 Clré-10:51:17
+Narrariva:
+Fnry/Exit Hear Motion. Ref §30883, Alurm acknowledged,
+parties may br on Eitg.
+Narrazive:
+Employes doses mot have alarm cede for back door. He nalled
+a coworker for instructions to shut off.
+12-9786 1199 Fhona - WELL BEING CEECK SERVICES RENDERED
+Tall Taker: DISPATCHER CHRZOBTIKE LEMOZME
+Location/Address: JORTH EEMLOCK LN
+Un-z: 35
+Jisn-1l:18:29 Arvd-11:16:32 (Zrd-11:26:12
+Marrative:
+RF requesting a wellbeing check.

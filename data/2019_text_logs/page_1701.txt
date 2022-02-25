@@ -1,1 +1,56 @@
-Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  COLE AVE  Unit  38  Aryd-20:53:40  Clrd-21:00:55  Vehicle  BLK 2015 CHEV 4D SON Reg: PC VT DHY280 VIN:  1G1LJICSSG6F41494593  Operator  MALINOWSKI, ANDREA M @ 519 SUGAR MAPLE LN - BENNINGTON, VT 95201  Race:  W Sex: F  Refer To Citation  T2085144  Owner  MALINOWSKI,  SCOTT P @ 518 SUGAR MAPLE LN - BENNINGTON, VT 05201  Race:  W Sex: M  -  For Date:  09/27/2019  Friday  19-12021  0233  Initiated - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKT  MAIN ST  Location/Address:  (WIA 330]  Unit:  32  Arvd-02:34:25  Clrd-02:49:54  Unit:  31  Disp-G2:35:15 Enrt-02:35:37  Arvd-02:;40:11  Clrd-02:46:28  Narrative:  Side door found open.  Narrative:  Checked business ali appears in order. Looks like an  employee didn't close the door properly upon exiting for the  night. Door was secure upon exiting by officers.  19-12022  0352  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL CRAIG A EICHHAMMER  Location/Address:  [WIA 390] SIMONDS RD  Unit:  31  Arvd-03:52:36  Clrd-03:52:50  19-12023  0412  Initiated - PUBLIC SERVICE EVENT  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  SPRING ST  Unit:  32  Arvd-04:13:24  Clrd-04:15:68  Narrative:  Three cones and a no parking sign placed on Spring St near  Papa Charlie's.  Narrative:  Cones and sign removed.  19-12024  G720  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  SERGEANT SCOTT E MCGOWAN  Location/Address:  COLD SPRING RD  Unit:  30  Arvd-07:21:03  Clrd-07:36:09  Unit:  30  Disp-14:17:53  BEnrt-14:21:42  Clrd-14:22:13  CITATION - WARNING  19-12025  0739  Initiated - MOTOR VEHICLE STOP  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  NORTH HOOSAC RD  Unit  36  Arvd-07:30:17  Cird-07:35:30  Vehicle  GRY 2018 TOYT RAV4  Reg: PC MA 9FR311  VIN: JTMRFREV307253016  MCMAKIN, WILLIAM F JR @ 3 MYRTLE ST Apt. #E5  - ADAMS, MA 61220-1749  Operator:  Race:  W  Sex: M 
+Call Taker: PATROL JOIN J MCCONNELL JR
+Location/hddress: COLE AVE
+Unit: 23
+Arvi-20:53:40 Oird-21:00:55
+Vehicle: BLK 2015 CHRY 4D SON ®eg: PC VT DHY280 VIN: “QLICHSGAFA149459
+Cporator: MALINOASKI, ANDREA I @ S519 SUGAR MAPLE LN - BENNTWNGTQN, VT G5201
+Race: W Sex: F
+Rofer To Citatiox: T2085144
+ownar: MALINOWSKY, SCOTT P © 518 SUGAR MAFLE IN - BENNIWNGTCN, VT 05201
+Race: # Sex: M
+For Date: 08/27/2019 - Priday
+13-12021 0233 Initiated - SUSPICIOUS ACTIVITY SERVICES RENDERED
+Call Takar: FATROLMAN SCCTT SKORUPSXI
+Location/Address: [WIA 332] MAIN ST
+Unit: 32
+Arvd-02:34:28 C-td-02:48:54
+Unit: 32
+Digp-02:35:15 Enrt-02:35:37 ArvGé-02:40:11 Cird-02:46:28
+Narrarive:
+Side door found open.
+Naxrazive:
+Checked business all appears ‘n order. Looks like an
+crployee didn't close the decor properly upon exiting for the
+nighL., Joor was sccure upon exiting by officers.
+18-12022 03s52 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATRO., CCRATG A EICHHAMMER
+Local .cn/Addrens: [WIA 397] STMONDS RD
+nit: 3l
+ArvE-03:52:36 Clrd-03:52:53
+153-12023 0412 Initiated - PUBLIC SERVICE EVENT SERVICES RENDERED
+Cail Taker: PATROLHAN SOCO1" SKORUPSKI
+Locaticn/Address: SpING ST
+nit: 32
+Arvei-04:13:24 Qlrd-04:15:08
+Narrative:
+Three concs and a no parking sign placed on Spring St near
+Papa Charlie's.
+Narrative:
+Cones and sign removed.
+19-120024 0720 Initiated - TRAFFIC CONTROL SERVICES RENDERED
+Call Taker: SERGEANT SCOTT E MCGUWAN
+Locat:.on/Address: COLD SPRING RD
+Unit: >
+Arvd-07:21:03 Clrd-57:26:08
+nit:
+Disp-14:17:53 Clrd-i4:52:13
+Snxt-l1l4:21:42
+Initiated MOTOR VEHICLE STOP CITATION - WARNING
+19-120025 0730 -
+Call Taker: FATROL TANIA HEXNANDIEZ
+NORTH HOOSAC RD
+_acation/Address: Unit: 3é
+Arvd-07:30:17 Clxd-27:35:58
+vehicle: GRY Z01E TOYT RAV4 PC MA 9FR311 VIN: JTMRFREV3JJ253016
+WILLIAM FP JR Rec: @ 3 MYRTLE ST 4ES ADAMS, MA C1l2230-17749
+Operator: MCMAKIN, Race: W Sex: HM Apc.

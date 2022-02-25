@@ -1,1 +1,47 @@
-Vehicle window on PC MA 84SM68 left in down position.  Narrative:  Checked 0217  1219-16021  0818  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  BULKLEY ST  Unit  37K  Arvd-08:19:02 Clrd-08:19:19  Narrative  Checked  Narrative  done  19-10022  6848  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL BRAD SACCO  Location/Address  COLD SPRING RD  Unit  35  Arvd-08:49:27  Clrd-08:50:13  Narrative  checked  Narrative  Checked 0332  19-10023  0905  Radio - DISABLED M V  VEHICLE TOWED  Call Taker  DISPATCHER CHRISTINE LEMOINE  Location/Address  COLE AVE + MAIN ST  Unit  35  Disp-09:05:57  Enrt-09:06:03 Arvd-09:17:12  Cird-09:;27:13  Vehicle  BLU 2011 HOND FIT Reg: PC MA 5739TA VIN: JHMGESH38BC020199  Operator  MOWINSRI, MELANIE A @ 14 ROARING BROOK RD - WILLIAMSTOWN, MA 01267-  8507  Race: U Sex:  F  Owner  MOWINSKI, MELANIE A @ 14 ROARING BROOK RD - WILLIAMSTOWN, MA 01267-  8507  Race:  U Sex: F  Narrative  Disabled MV.  Narrative  Ron's Enroute.  Narrative  Rons notifed @ 0912.  Vehicle disabled do to a transmission  issue,  19-10024  0918  $11 - 5-1-1 HANG UP CALL  NO ACTION REQUIRED  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  [WIA 59] HEATING PLANT DR  Narrative:  WPH2 911 hangup call. On callback, caller reports it was an  issue with an applewatch, no emergency.  29-10025  0920  initiated - BUILDING CHECK  BUILDING CHECKED /SECURED 
+Vehicie window on PC MA 84SM68 lat: ir down pesinion.
+Nar-arive:
+Dheched 0227
+19-1002] 08al1s8 Initlatad - BUILDING CHECK BUILOING CHECKED/SHCURED
+Tall Taksr: PATROTMAN MTCHAFL J Z1<MBA Jr
+Levacion/Adéress: 3CLK:EY ST
+Unic: 37K
+Arvd 08:19:02 Clrd-28:13:19
+Marrative:
+Chacksd
+Marralive:
+done
+1-10022 oa48 Initiated - BUILDING CHECK BUILDING CIECEKED/SECURED
+Culi Taxer: EATROL BxAD S5ACL0
+Locaticn/Addreas: COLD SPRYNG MW
+nir.: 35
+Arvd-08:49:27 Clrgé-0e:n0:13
+Narr-ztive:
+cnecked
+Narrazive:
+Teoxed 0332
+15-10C23 0505 Radio - DISABLED MK V YEEICLE TOWED
+dall Taker: DTSPATCHER CHR_STIKE LxMOZNE
+Location /Acdvass: CCLE AVE MAIN 87
+Un--: 35
+Dipn-09:02:57 Enrz-05:06:03 Arvd 23:17:12 Clrd-09:27:13
+Vehicle: SLU 2011 FOND FIT Reg: BPC MA S5739TA VIN: JHMGERII3S8BCO20.99
+Opexator: MOWTHRZY, MELANIE A @ 14 ROARING BROOK RD - WILLIAMSTOWN, MA C1RE7-
+Race: U Hox: F
+ner: MOWINSKI, HELANIZE A @ 14 ROARING BROCK RD - ATIL.LTAMSTOWNN, dA 012s8'7-
+BS07
+Rage: U Sex: F
+Nar-slkbiva:
+Disabiaed MV.
+Warrative:
+Hon's kEnrroule.
+Karrabive:
+rons noliled @ 09.2. Vehicle disakled do ta a “rangmission
+“BEL,
+19-10024 0918 911 - 9-1-1 HANG UP CALL NO ACTION REQUIRED
+Cull Taker: DJISPATCIER CHRISTINE LEMOINE
+—ovation/Acdressa: INIA 52] HEAT-NE PLANT DR
+Narrat.ve:
+WP2 92i1 hanqup cal’.
+issue with an applawatan, no
+arMercAnNCY.
+19-1D0025 09230 Initiated - BUILDING CHECEK BUILDING CHECK®D/SECURED

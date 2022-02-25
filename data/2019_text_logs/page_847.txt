@@ -1,1 +1,49 @@
-Call Taker:  PATROL TANIA HERNANDEZ  FRENTIER AVE  Location/Address:  Unit:  36  Arvd-10:28:23  Clrd-10:29:30  Narrative:  done  Narrative:  Checked  1030  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  19-5642  Call Taker  PATROL TANIA HERNANDEZ  dress  HARWOOD ST  becation/Ad  Unit  36  Arvd-10:30:14  Clrd-10:31:12  Narrative  done  Narrative  Checked  19-5643  1034  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  {WIA 333] CHURCH ST  Unit  36  Arvd-10:34:34 Clird-10:35:41  Narrative  Checked  19-5644  1042  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  LONGVIEW TER  Unit  36  Arvd-10:42:16  Clrd-10:43:38  Narrative  Daughter is at home  19-5645  1054  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL KALVIN DZIEDZIAK  Location/Address  PETERSBURG RD  Unit  35  Arvd-10:54:15  Clrd-10:54:57  Narrative  Checked  Narrative  Checked 0257  1055  UNABLE TO LOCATE  19-5646  Phone - ASSIST OTHER AGENCY  Call Taker  CHIEP KYLE J JOHNSON  Location/Address  SIMONDS RD  Unit  35  Disp-11:01:16  Enrt~-11:01:51  Arvd-11:08:03  Clrd-11:13:27  Unit  32  Disp-16:22:23  Enrt-16:23:34  Arvd-16:26:44  Clrd-16:34:22  Narrative 
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: FRENIER AVE
+Unit: 36
+Arvd-10:28:23 Clrd-10:29:30
+Narrative:
+done
+Narrative:
+Checked
+19-5642 1030 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: HARWOOD ST
+Unit: 36
+Arvd-10:30:14 Clrd-10:31:12
+Narrative:
+done
+Narrative:
+Checked
+19-5643 1034 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: [WIA 333] CHURCH ST
+Unit: 36
+Arvd-10:34:34 Clrd-10:35:41
+Narrative:
+Checked
+19-5644 1042 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL TANIA HERNANDEZ
+Location/Address: LONGVIEW TER
+Unit: 36
+Arvd-10:42:16 Clrd-10:43:38
+Narrative:
+Daughter is at home
+19-5645 1054 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROL KALVIN DZIEDZIAK
+Location/Address: PETERSBURG RD
+Unit: 35
+Arvd-10:54:15 Clrd-10:54:57
+Narrative:
+Checked
+Narrative:
+Checked 0257
+
+19-5646 1055 Phone - ASSIST OTHER AGENCY UNABLE TO LOCATE
+Call Taker: CHIZF KYLE J JOHNSON
+Location/Address: SIMONDS RD
+Unit: 35
+Enrt-11:01:51 Arvd-11:08:03 Clrd-11:13:27
+Unit: Disp-11:01:16
+32 Arvd-16:26:44 Clrd-16:34:22
+Narrative: Disp-16:22:23 Enrt-16:23:34

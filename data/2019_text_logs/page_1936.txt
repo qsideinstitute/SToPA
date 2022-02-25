@@ -1,1 +1,51 @@
-Go to main office to collect pepper spray confiscated from a  student.  Narrative:  Property # 19-221-PR  Refer To Incident:  19-271-OF  29-13366  1404  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker:  DISPATCHER CHRISTINE LEMOINE  Location/Address:  {WIA 258] LAWRENCE HALL DR  Unit:  30  Disp-14:05:33  Entt-24:05:46  Arvd-14:059:44  Clrd-14:15:59  VIN:  Vehicle:  RED 2003 BUIC SE LESABR Keg:  PC MA 8MF244  1G4HP54K1341342337  Operator:  FARLEY, RICHARD J @ 117 CANDLEWOOD DR - WILLIAMSTOWN, MA 01267-2973  Race: W Sex:  M  Owner:  FARLEY, RICHARD J @ 117 CANDLEWOOD DR - WILLIAMSTOWN, MA 01267-2973  Race: W Sex: M  Vehicle:  YBL 2017 BLUEBIRD Reg: SE MA 40768  Operator:  ROEDER, MICHELE M @ 5 KOWCHUK DR -  PITTSFIELD,  MA 01202  Race: W Sex: F  Owner:  BUFOR BUS COMPANY @ 133 SOUTH ST - HINSDALE,  MA 01235  Narrative:  Dufour Bus on the loop in front of the art museum was hit  from behind while parked.  Refer To Accident:  19-140-AC  49-13367  isis  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL JOHN J MCCONNELL GR  Location/Address:  SPRING ST  Unit:  38  Arvd-15:19:44  Clird-15:27:27  Initiated - PARKING CHECK  49-13368  1723  NO ACTION REQUIRED  Call Taker  PATROL JOHN J MCCOMNELL UE  Location/Address  SCHOOL ST  Unit  38  Arvd-17:24:47  Clrd-17:25:55  Narrative  Checked no violations  19-13369  1757  Tnitiated ~ BUILDING CHECK  BUILDING CHECKED /SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  Location/Address  SOUTHWORTH ST  Unit  31  Arvd-17:57:41  Cird-17:59:34  Narrative  Checked 0157  19-13370  1802  Initiated - BUILDING CHECK  BUILDING CHECKED / SECURED  SERGEANT DAVID R LEMIEUX  Call Taker  Location/Address  (WIA 190]  MAIN ST  Unit  34  Arvd~-18:03:03  Cird-18:04:23  Narrative  Checked 0221  1419-13373  i827  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING 
+Go to main offive to eolleck pepper spray confiscated froma a
+student.
+Narrat.ve:
+Property # 19-22:-FR
+kefer Io Ino-den-: 19-271-0F
+15-13366 1404 Phone - MOTOR VEHIOLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+Cali Taker: DISIFATCHER CHRISTINE LEMOINE
+Lecation/Address: WIA 250] LAWRENCE IIALL OR
+Unit: 30
+Digp-:4:05:33 Enrt-14:05:46 Arvd-14:09:44 Clrd-14:15:59
+Yehicles: RED 2303 3UIT SE LESABR Reg: PC MA BMIF244 VIN: 1G4HF54X134134337
+Operator: FARLEY, RICHARD J 2 il17 CANDLEWOCD DE - WILLZAMSTCWN, MA 01267-2373
+Race: W Sex: M
+Owner: FARLEY, RICHARD J 117 CANDLEWOOD DR - WILLIAMSTOWN, MA 01267-2972
+Race: W Sex: KW
+Vehicle: YEL 2317 BLUESLIED Heg: EH MR 48766
+Operator: ROEDER, MCCHELE M 7 5 KOWCHUX Tis - PITTAFIRLD, MA 01201
+Race: W Sex: WM
+Cwner: DUFQR BUS COMPANY ® 133 SCUTE ST - EINSDALE, MA 01235
+Narrative:
+Dufour Bus oa the loup -n frent of the art musecm was hit
+trom beh:nd while parked.
+Refer To Actident: 19-240-AC
+19-123367 151g Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL JOEN < MCCONNELL JR
+Iocazion/Address: SERING ST
+Unit: 3B
+Arvd-15:19:44 Clrd-15:27:27
+19-133368 1723 Initiated - PARXING CHECK NO ACTION REQUIRED
+Cal. Tzker: TATROL JOHN J MCCONNELL JR
+Location/Address: SCICOL ST
+Unit: 38
+Arva-17:24:47 Clrd-17:25:55
+Narratzve:
+Checked no violations
+19-13369 1757 Initizted - BUILDING CHECK BUILDING CHECKED /SECURED
+Call Taker: SERGEANT DAVID R LEMIEUX
+Lozation/Address: SOUTHWCRTI: ST
+Jnlt: 31
+Arvd-17:57:11 Clvd-17:55:34
+Narrative:
+Checked C0157
+19-13370 1802 Iaitiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal: Taxer: SERGEANT DAVID R LEMIEUX
+Ioxation/address: IWZA 290) MAIN ST
+Unik: a1
+Arvd-18:03:03 (lrd-18:04:22
+Narrabiva:
+Checked 227
+19-133773 1827 Initiated - MOTOR VERICLE STOP CITATION - WARNING

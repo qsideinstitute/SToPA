@@ -1,1 +1,48 @@
-Narrative:  Checked Area,  Narrative:  done  19-9828  0517  Initiated - BUILDING CHECK  BUILDING CRECKED/SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  LONGVIEW TER  Unit:  36  Arvd-09:17:12  Clrd-09:17:55  19-9829  0930  Tnitiated -~ BUILDING CHECK  BULLDING CHECKED /SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  HOPPER RD  Unit  36  Arvd-059:31:09  Clyrd-05:34:36  Narrative  Care Faker at residence  Narrative  checked  Narrative  Checked Area.  19-9830  0944  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  SPRING ST  Unit  36  Arvd-09:45:33  Clrd-09:51:34  Narrative  Keo  violations  19-9832  0953  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDES  Location/Address  PARK ST  Unit  36  Arvd-69:54:12  Clrd-69:58:38  Narrative  3 violations  19-9832  1009  Initiated - BUILDING CHECK  BUILDANG CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  NORTHWEST HILL RD  Unit  36  Arvd-16:09:37  Clrd-10:12:27  Narrative  2 residence vehicles  Narrative  Checked §-4  19:07  Narrative  Checked Area.  19-9833  160190  Walk-In - FINGERPRINTING  SERVICES RENDERED  Call Taker:  PATROLMAN MICHAEL J ZIEMBA Jr 
+Narrilive:
+Crecked Area.
+Narrative:
+done
+19-9928 0917 Initiated - BUILDING CHECR BUILDING CRECKED/SECURED
+Call Taker: PATRGI, TANIA HERNANDEZ
+Lecation/Addreys: LONGYVIERX TER
+Unic: a6
+Arvd-09:17:12 Clrd-99:17:55
+19-9829 0230 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROT. TANIA HERNANDEZ
+nozation/Address: HOPPER RD
+tni-: i6
+Arvd-03:31:09 c_rd-09:24:3¢
+Narrative:
+Care taker at residence
+Narralbive:
+checkad
+Narrative:
+Checkad Ares.
+19-5830 0944 Initiated - PARRING CHECK SERVICES RENDERED
+Cal. Takxer: EATROL TANIA HERNANDEY
+Locaticn/Address: BERING N°
+Urit: 36
+Arvd-09:45:33 Clrd-09:51:34
+Warrative:
+ng violacions
+12-9831 0951 Initiated - PARKING CHECK SERVICES RENDERED
+Tall Taker: PATROL TANIA HERNANDEZ
+Lecusion/hderess: PARK BT
+Uniz: 36
+Arvd-05:54:12 Clrd-g9:58:38
+Karrative:
+3 vaolations
+19-9832 1009 Initiated - BUILDING CRECK BUILDING CHECKED/SECURED
+Call Taker: BATRINL, TAKIA EERNANORZ
+Lacation/Address: NORTHWEST HILL RD
+Unit: ie
+Arvd-10:09:37 Clrd 10:12:27
+Nzrrative:
+2 regidence vehicles
+Narrative:
+Cheaked 8-4 15:07
+Narrative:
+Checked
+Area.
+19-9833 1014 Walk-Tu
+czll 'l'aker: PATROLMAN - M_CHAYL, FINGERPRINTING J Z1EMBA Jr SERVICED RENDERED

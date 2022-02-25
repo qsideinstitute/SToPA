@@ -1,1 +1,53 @@
-Race:  W Sex: F  Refer To Citation:  T2085097  Owner:  CARSON, KIT W @ 805 RIVER RD - CLARKSBURG,  MA 01247-4607  Race:  U Sex: M  19-15701  2015  Phone - ANIMAL CONTROL  SERVICES RENDERED  Call Taker:  MICHAEL STRIZZI  Location/Address:  IWIA 33] STETSON RD  Unit:  34  Enrt-10:19:48 Arvd-10:25:53  Clrd-10:46:04  Disp-10:17:46  Narrative:  Fox near the bathrooms behind the the softball field.  Possibly rabid.  Narrative:  Dispatched.  19+15706  1224  Initiated - BUILDING CHECK  BUILDING CEHECKED/SECURED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  COLD SPRING RD  unit  32  Arvd-12:24:46  Clrd-12:24:55  Narrative  checked  Narrative  done  Narrative  Checked  19-15707  1229  Initiated - BUILDING CHECK  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  (WIA 225] COLD SPRING RD  Unit:  32  Arvd-12:29:00  Clyrd-12:32:59  19-15708  1234  initiated - ASSIST OTHER AGENCY:  MGRSD  SERVICES RENDERED  Call Taker  PATROL SHUAN N WILLIAM  Location/Address  [WIA 225) COLD SPRING RD  32  Unit  Arvd-12:34:25  Clird-14:35:49  Narrative  OUI Presentation.  19-i5712  1427  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker  CHIEF KYLE J JOENSON  Location/Address  NEW ASHFORD RD  Unit  33  Arvd-14:27:32  Clrd-14:34:03  Vehicle  GRY 2005 AUDI SE A4  Reg: PC MA 5GTC40 VIN: WAULTé6SE65A026B21  Operator  ALEXANDER, GORDON PAUL @ 1450 NORTHAMPTON ST - HOLYOKE, MA 01040-1918  Race: U Sex: M  Refer To Citation  T2085098  Owner  ALEXANDER, GORDON PAUL @ 1450 NORTHAMPTON ST - HOLYOKE, MA 01040-1918  Race: U Sex: M  29-15713  1447  Initiated - TRAFFIC CONTROL  SERVICES RENDERED  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  [WIA 333] CHURCH ST  Unit:  32 
+ate: WW Sex: F
+Rafe To (Citation: mANRINET
+Ownel: CARSCN, KIT W ® BOS RIVER XL - CLARKSEURG, MA 01247-<607
+xacm: IJ Sex: M
+19-157701 1015 Phone - ANIMAL CONTROL SERVICES RENDERED
+Cz11 “akor: MICHAEKL STRIZEL
+Locutioen/Aaddress: [WIA 33] STSTSON RD
+19 § I 34
+Disp-12:17:46 Enrt-10:19:48 Axve-10:25:53 Clrd--0:46:04
+Harraczive:
+Fcx near the hathrooms bezind the the softball field.
+Poeslbly rabid.
+Ha-vative:
+Digpatchac.
+19-157086 1224 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+Cll “uker: PATROL SHUAN N WILLIAM
+Locaticn/Address: CCLD SPRING RD
+n-:: 32
+ArvG-12:24:46 Jird-12:24:53
+Harrawive:
+chackad
+Harracivoe:
+GCne
+Narrative:
+Chackad
+19-185707 1229 Initiated - BUILDING CHECK SERVICES RENDERED
+Call Taker: PATROL SHUAK H WILLIAM
+Tocation/address: [WIa 225] COLD SPRING RD
+nit: 32
+Arvd-12:29:00 2.1rd-12:32:63
+19-157038 1234 Initiated - ASSIST OTHER AGHRNCY: MGRSD SERVICES RENDERED
+Call Taker: Da'<0L SHIAN HN WILLIAM
+Locatict/Adcres WIA 225] COLD SPRING ET:
+Unil: 32
+Arvd-12:54:25
+Xxarrabive:
+GUI Presentation.
+19-1i5712 1427 Iritiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: CHLY 2YLE J JOBWSON
+Locat ion/addrezy: NEW ASHFORD RD
+Unik: 33
+Arvd-14:27:32 Clrd-14:34:03
+Vel:igia: CRY 2005 AUD1 EE A4 Keg: C MA ROQTCA0 VIN: WAULDGEELALAD2GBZ]
+Cperator: ALEYANDER, CORDON PhUL i "ARO NORTHAMPTON ST - HOLYODKEZ, MA 01040-1918
+Rasw: Ti SHcid: M
+Refer To Citation: TI(R5298
+GORDON 2AJL S “AGS NORTHAMPTON ST - HOLYOKT, MA (0.040-1918
+Owrle : ALBXANDEN, Sex:
+Racc: U M
+1447 Injitiaked TRAFFIC CONTROL SERVICES RENDERED
+19-1i5713 Call Takex: SAT40L SHUAN - N WITITAM
+Locatior/addrese: 333 CHURCH ST
+Unit: 32 "WTA

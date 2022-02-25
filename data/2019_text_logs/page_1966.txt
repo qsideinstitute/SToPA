@@ -1,1 +1,46 @@
-WOODLAWN DR  Location/Address  Unit  36  Arvd-09:54:40  Clrd-09:56:47  Narrative  checked  Narrative  Checked Area.  19-13542  0958  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEA  Location/Address  HALL ST  Unit  36  Arvd-09:58:34  Clrd-10:00:27  Narrative  Green jeep left side of house no plate.  Narrative  Checked  Narrative  checked  Narrative  checked  Narrative  done  Narrative  Checked Area.  19-13543  1003  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL TANIA HERNANDEZ  PINE COBBLE RD  Location/Address  unit  36  Arvd-10:03:32  Clyd-10:05:33  Narrative  MA 112CL4  VT HDS235  Narrative  no vehicles  Narrative  empty  Narrative  empty  Narrative  empty  Narrative  Checked Area,  Narrative  Checked Area.  19-13544  19015  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL KALVIN DA2ITEDAZIAK 
+Lecaniovw/acdyrese: RCODLAWN TH
+un’x: 36
+Arvd-39:54:40 Clrd-09:56:47
+Narrative:
+checked
+Harrativa:
+(Checked Area.
+19-135423 0058 Inltiatod - BUILDING CHECK BUILDING CHECKED/SICURED
+Zull Taker: DATZ0L TAKIA IEERNANDEZ
+Levacion/Address: IIALL ST
+Unit: 3G
+Arvd-09:58:34 CIré-10:00:27
+Narrative:
+Green Jeep left side of house no nate.
+Narrul_ ve:
+Chackad
+Nerrat-ve:
+chackod
+Narrakove:
+checkec
+Narrat-ve:
+done
+Norrative:
+Checked Area.
+15-123543 1003 Iajitkiaked - BUILDINKC CHECK BUILUING CRECKED/SECURED
+Cal. Taxer: TATROL TANIA HERKANDEZ
+Location/Address: IE CCBELE RD
+I i Bo 35
+Arvd-10:03:32 Clrd 10:05:33
+Nsrrative:
+Ma 11z2CL4
+VT HD3235
+Narrative:
+na venicies
+Narrative:
+empty
+Narxazkiva:
+empty
+Norzative:
+enpty
+Nurralive:
+Checked Mea,
+Narxativs:
+Checked Area,
+19-13544 Ynitiated - PARKING CTHECK EERVICES RENDERED
+Ca_l Laker: 19015 PATROT KALVTE DZIEDF IAK

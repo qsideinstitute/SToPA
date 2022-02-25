@@ -1,1 +1,51 @@
-19-8062  0933  initiated -» MOTOR VEHICLE STOF  CITATION  - WARNING  Cail Taker  PATROL TANIA HERNANDEZ  Location/Address  NORTH HOOSAC RD  Unit  a6  Arvd-09:33:44  Cird-09:42:498  Vehicle  GRY 2015 MERZ GLEK350  Reg:  PC MA 38C862  VIN: WOCGG8UR2FG411824  Operator  CAKE, AMANDA LIN @ 103 LIBERTY AVE Apt. #1 - SOMERVILLE, MA 02144-  2018  Race:  W  Sex: F  Refer To Citation  T1i?gs4a74  Owner  CAKE, AMANDA LIN @ 103 LIBERTY AVE Apt. #1 - SOMERVILLE, MA 02144-  2018  Race:  U Sex: F  19-8062  0947  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker  PATROL TANIA HERNANDEZ  Location/Address  PARK ST  Unit  36  Arvd-09:47:57  Clird-09:52:43  Narrative  L violation  19-8063  0953  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROLMAN MICHAEL J ZIEMBA Jr  Location/Address  COLD SPRING RD  Unit  37K  Arvd-09:53:15  Cird-09:53:25  Narrative  Checked 5-4  20:03  Narrative  done  Narrative  Checked  SERVICES RENDERED  19+8064  0953  Initiated - PARKING CHECK  Call Taker:  PATROL TANIA HERNANDEZ  SPRING ST  Location/Address:  Unit:  36  Arvd-09:53:47  Clrd-09:59:54  Narrative:  2 violations  19-8065  0954  Radio - ROAD CONDITIONS  REMOVED HAZARD  Call Taker:  PATROL DAVID JENNINGS, DBD  Location/Address  NORTH ST  37K  Unit  Disp-09:55:21  Enrt-09:55:58  Arvd-10:02:47  Clrd-10:05:33  Narrative  Brush fell off a truck and is in the travel lane on the  bridge near Demayo's  Narrative  Moved old piece of shrubbery to town owned land below bridge  area.  J. Shea notified.  19-8066  1024  Initiated - MOTOR VEHICLE STOP  CITATION  - WARNING  Call Taker:  PATROL TANIA HERNANDEZ 
+19-8061 0933 Initiated - MOTOR VEJICLE S8TON CITATION - WARNING
+Call Taker: PATROT, TAN-A HERNAKDEZ
+Lesalion/addrosa: NORTE HCOSAC RD
+Unzz: 28
+AxvE-09:35:44 Clrd-03:42:48
+Vehicze: GY 2015 MFPRZ GLE3L0 Neg: FU MA I8CEGZ VIN: WICIG3JBzZr3411B24
+Cpcralor: CAKE, AMANDA TIN @ 103 LIBSRTY AVE Lpt. #1 - SOMERV_OLLE, MA 0:z144-
+2020
+Rugs: WW Sox: FM
+refer To Citation: TL7865474
+Owner: CAKE, AMANDA LIK @ 103 LABYRTY AVE ont. §- - SOMERVILLE, MA 02144-
+20.8
+Race: U Hex: F
+15-8062 a947 Initinted - PARKING CBEECK SERVICES RENDERED
+Cal] makar: PATROL, TANTA HERNANDEZ
+Location/hddress: PAKY. ST
+Lnit: 3g
+Arvd-09:47:57 Clrd-09:52:43
+Nareazive:
+1 vio_aticn
+19-8063 0953 Initiated - BULLDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SETROLMAK MICHAKL J ZIEM3A Jr
+Locaticn/Address: CILD ETRING RD
+rit: aTK
+Arvd 2Y:53:1 Clrd-09:53:25
+Nerralivo:
+Checkad 8-1 20:03
+Narrative:
+done
+Narrat.ve:
+Checked
+19.8084 0853 Initiated - PARKING CHECK SERVICES RENDERED
+Call Taker: PATROL TANIA HERNANDEZ
+Lozation/AGdress: STRING ST
+nls: 26
+Arva-05:53:47 LClrd-T9:55:54
+Narrative:
+2 violzstions
+19-8065 D954 Radio - ROAD CONDITIONS REMOVED HAZARD
+Call Taker: PATROL DAViD JENNINCS, D
+Leeazion/Adévass: NORT:. ST
+Unit: 37K
+Dipgp-09:55:21 2Inrkt-09:55:38 ArvEe-10:02:47 Clrd-12:05:30
+Narrative:
+Brug: “ell off a truck and is in ihe Lrzevel Zane on the
+bride near Denayo's
+NazraTive:
+Moved old plsce of shrubbery to town owned land below bridge
+2rea. J. Shea notitled.
+15-8066 1024 —nitiated - MOTOR VEHICLE ETOP CLTATION - WARNIKG
+Ca_l Tak:ur: PAYRD TANTA HERKANIZEZ

@@ -1,1 +1,49 @@
-Narrative  PA: KRY3202  Narrative  Checked  $-4  12:16  Narrative  checked  Narrative  3 cars,  no damage  Narrative  done  Narrative  checked  Narrative  Checked  Area.  Narrative  Checked  Area.  Narrative  Checked  Area.  19-12637  agol  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker:  MICHAEL STRIZ2I  Location/Address:  (WIA 226] NORTH ST  Unit:  35  Disp-08:04:07  Enrt-08:04:22  Arvd-08:05:56  Clrd-04:20:18  VIN: SFNRL3H254B046660  Vehicle:  GRY 2010 HOND ODYSSEY Reg: PC MD 9BC1318  Owner:  OCHS, KAREN ORGLER @ 908 CHESTNUT ST - FREDERICK, MD 217023  Race:  Ues:s«dsSSex: F  19-12638  0806  Initiated - MOTOR VEHICLE STOP  CITATION - WARNING  Call Taker:  PATROL TANITA HERNANDEZ  GALE RD  Location/Address:  Unit:  36  Arvd-08:06:47  Clrd-06:21:59  Vehicle:  BLU 2003  VOLK PASSAT  Reg:  PC MA SKE299 VIN: WVWVH6E3BE3E423785  Operator:  STENSON,  STEPHEN @ 386 W MAIN ST - NORTH ADAMS,  MwA 01247  Race:  Ww  Sex: M  Refer To Citation:  T20853417  Owner:  STENSON,  HOLLY N @ 386 WEST MAIN ST - N ADAMS, MA 01247-0000  Race:  W  Sex: F  Narrative:  Renew online  19-12639  o829  Initiated - BUTLDING CHECK  BUILDING CHECKED / SECURED  Call Taker:  PATROL TANIA HERNANDEZ  Location/Address:  STRATTON RD  36  Unit:  Axyvd-08:360:33  Clrd-08:30:41  Narrative:  Countryside on scene  Narrative:  Checked  Narrative: 
+Narrative:
+DPA: ERY320:2
+Narrative:
+Checked S5-4 12:16
+Narrative:
+chapkad
+Narra-ive:
+2 cars, no dznags
+Narrative:
+dona
+Narrative:
+onesked
+Narrative:
+Crecked Area.
+Narrative:
+Checked Area.
+Narracive:
+Dhecxed Area.
+15-12637 Q801 Phone - MOTOR VEHICLE LOCK OUT VEHICLE OPENED
+Call Takar: MICHAEL STRTZZT
+Locaticn/addrens: [WIA 226] NORTH ST
+Unit: a
+Disp-06:04:07 Enrt-08:04:22 Arvd-05:05:56 Clrd-08:20:18
+Venicle: GRY 2010 HOUND ODYSSEY Reg: PC MD 9BC1318 VIN: SFNRLIH2SABO46662
+owner: OCHS, KAREN CRGLER # 908 CHESTNUT ST - FREDERICK, MD 21701
+Race: UJ Sox: F
+16-12638 1]: 10] Initiated - MOTOR VEHICLE STOP CITATION - WARNING
+Call Taker: PATROL TANIA HERNANDEZ
+Locaticnfhddress: QRLE RD
+Unit: 3a
+Arvd-0B:06:47 Clxd-08:21:59
+vehicle: BLU 2003 VOLK PASSAT Rey: PU MA SXEJ99 VIN: WVAVHEARBIE423785
+Operator: STENSON, STEFHEM 386 W MAIN ST - NORTH ADAMS, MA 01247
+Race: W Sex: M
+Refer Tc Citation: T2085217
+Owner: SUENGON, HOLLY N @ 386 WEST MAIN ST - N ADAMS, HA 01247-5000
+Race: 1 Sex: F
+Narrative:
+Renew online
+15-12639 0829 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cz1] “Taker: PATROL TANIA IIERNANDEZ
+STRATTON RD
+lL.ocat cn/Address: nit: 39
+Avvd-08:30:33 Clrd-08:30:41
+Narracive:
+Countryside on scene
+Narrazive:
+thecked
+Narrative:

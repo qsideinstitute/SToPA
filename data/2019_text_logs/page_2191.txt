@@ -1,1 +1,50 @@
-00:99:22  Unit:  34  Disp-22:46:00  Enrt-22:48:39 Arvd-23:06:42 Cird-23:51:21  Narrative:  Party called to report her father had passed, has DNR and  Kindred. Family has already contacted Flynn. Party called  back right away, stating she did not want any police or  ambulance response. NBEMS supervisor notified and will still  respond.  2324 CPAC notified  2328 ME Intake notified  2329- Contact made with CPAC, Trooper Maxwell  2333- Contact made with ME's office, Intake Specalist  Lindsey Cadwell.  Refer To Incident:  19-302-OF  -  For Date:  11/29/2013  Friday  UNABLE TO LOCATE  19-14899  0237  911 - TRAFFIC COMPLAINT  Call Taker  SERGEANT PAUL D THOMPSON  MOUNTAIN VIEW ST  Location/Address  Unit  32  Disp-02:19:59 Enrt-02:20:23 Arvd-02:24:07  Clrd-02:31:32  Unit  34  Disp-02:20:14  Enrt~-02:27:19  Clrd-02:32:16  Narrative  Vehicle was southbound on Rt.7 all over the road. Now parked  at a residence on Mt View St. White car is only description  given  Narrative  Checked area unable to locate  19-145900  o317  initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROLMAN SCOTT SKORUPSKI  Location/Address:  [WIA 390]  SIMONDS RD  a2  Unit :  Arvd- 03:23:40  Clrd-03:23:45  19-14501  0813  initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  PATROL TANIA HERNANDEZ  Call Taker:  Location/Address:  [WIA 1832] NORTH HOOSAC RD  Unit:  36  Arvd-08:13:44  Clrd-08:14:50  Narrative:  Checked  Narrative:  checked  Narrative:  Checked 5-4  20:07  Narrative:  done  Narrative:  done  19-149D2  6817  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED 
+DOU: 22 Unit: 34
+FEnNre-22:48:39 Arvd-22:06:42 Clrd-23:52:21
+Digp-22:46:40
+NarraLive: her father hac has DNR and
+Party called Lo zepert passed, called
+Kindred. Family has already contacted Flynn. Party
+back right away, stating she did not wank any police will or skill
+ambulance response. NBEMS supervisor notified and
+respond.
+2324 CPAC notified
+2328 ME Intake rotifiac
+2329- Contact mada withk CPAC, Trooper Maxwell
+2332. Contact made with MB's office, Intake Specalist
+Lindsey Cadwell.
+Refer To Incident: 19-302-CF
+For Date: 11/29/2018 - Friday
+19-148599 0217 911 - TRAFFIC COMPLAINT UNABLE TO LOCATE
+Call Taker: SERGEANT PAUL LC THOMPSON
+Location/Address: MOUNTAIN VIEW ST
+Uzit: 32
+Dilep-02:19:59 Enrt-32:22:23 Arvd-02:34:07 Clrd-02:31:32
+Unit: 34
+Cisp-02:20:14 Enrt-02:27:19 Clrd-02:32:10
+Narrative:
+Vehicie was southbound on Rt.7 all over the road. Now parked
+at a residence on Mt View St. White car is only descriptien
+given
+Narrative:
+Checked area unable te locate.
+19-145000 0317 Initiated - PARKING CHECE SERVICES RENDERED
+Call Takex: PATROLMAN SCOTT SKORUPSKI
+Locztion/Addrees: ‘WIA 390. STHMONCS RD
+unit: az
+Arvd-03:22:40 (Cixrd-03:23:45
+19-145801 0813 Initiated - BUILDIRG CHECK BUILDING CRECKED/SECURED
+Call Taker: PATROT: TANZA HZRNANDEZ
+Location/Address: [WIA 1832] NMCRTH HOUSAC RD
+Unit: 36
+Arvd 0B:13:44 Cird-08:14:53
+Narrative:
+Checked
+Narrazive:
+checked
+Narracive:
+Checked 5-4 20:07
+Narrative:
+done
+Narrarvive:
+dons
+19-14302 0817 Initiared - BUILDING CHECK BUILDING CHECKED/SECURED

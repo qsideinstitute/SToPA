@@ -1,1 +1,55 @@
-Narrative:  Party located at Tony's Sombrero's and will move car.  1962  INVESTIGATED / REPORT  19-8092  Walk-In - THREATS /HARASSMENT  TAKEN  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 249] NORTH ST  Unit:  35  Clrd-19:50:59  Disp-19:05:20  Enrt-i9:06:11  Arvd-19:12:17  Narrative:  Party stopped in requesting to speak to an officer regarding  her mother being threatened and harassed at Williamstown  Commons .  Refer To Incident:  19-156-OF  19-8093  2006  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  (WIA 910] TACONIC TRL  Location/Address  Unit  31  Arvd-20:00:24  Clrd-20:01;26  Narrative  done  Narrative  Checked  CITATION  - WARNING  19-8094  22290  Tnitiated - MOTOR VEHICLE STOP  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  SIMONDS RD  Unit:  34  Clrd-22:24:56  Arvd-22:20:36  Vehicle:  BLU 2006  HYUN SE ELANTR Reg:  PC MA 5AH327 VIN: KMHDN46D360308250  SYDNEY G @ 28 JACKSON ST - NORTH ADAMS, MA 01247-2739  Operator:  JOHNSON,  Race:  W  Sex: F  Refer To Citation:  T1785486  Owner:  JOHNSON,  SYDNEY G @ 24 JACKSON ST - NORTH ADAMS, MA 01247-2739  Race:  W  Sex: F  19-8096  2302  Initiated - SUSPICIOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Call Taker  PATROL KEVIN P GARNER  Location/Address  COLD SPRING RD  Unit  34  Clrd-23:04:16  Arvd-23:03:43  Vehicle  BLK 2013 NISS ROGUE Req: PC MA S32MM9  VIN: JNGASSMV7DY6 20787  Owner  CANDELET, GEORGE M @ 48 LOUMAR DR - PITTSFIELD, MA 01201  Race: U Sex: M  Narrative  Car in lot, nobody around. Not at swimming hole either  19-8097  2313  Initiated ~ SUSPICIOUS ACTIVITY  LOG ENTRY REQUEST  Call Taker:  PATROL KEVIN P GARNER  Location/Address:  (WIA 910] TACONIC TRL  Unit:  34  Axvd-23:15:14  Clyrd-23:15:590  Vehicle:  BLU 2010 SUBA ST OUTBAC Reg: PC MA 4KZ829 VIN: 4S4BRBICOQA3372811  Owner:  JULIA C @ 40 HAMEL AVE - WILLIAMSTOWN,  MA 01267  REAL,  Race:  W Sex:  F  Narrative:  Subject pulled in to park to look for Rx glasses that were  believed lost earlier Loday. 
+Narrative: located Sombrero's and will move cax.
+Party at Teny's
+INVESTIGATED / REPORT
+19-8092 1502 Walk-In - THREATS/HARABSMENTD
+TAKEN TUPE:H
+Call Taker: DISPATCHER LAUIIE
+Location/Address: (WIA 249] KORTE ST
+Unis: a5
+Disp-15:05:20 Enrc-19:06:11 Arvd-12:12:17 Clrd. 19:50:59
+Marrative:
+laxty stopped in requesting to speak to an officer recarding
+or mother being threatenaed ard harassed at Williamstown
+Commons .
+Refer To Incident: 1 Eg OF
+15-8093 2000 Initiated - BUILDING CHECK BUILDING CIECKED/SECURED
+Call Taker: SERJIEANT DAVID R LEMIEJX
+Locazior/Addresa: [WIA 919] TACONIC TRL
+Unit: 31
+Arvd-20:00:24 Clré-256:01:26
+Narrative:
+done
+Narrawive:
+Checked
+19-8094 2220 Initiated - NOTOR VEHICLE STOP CITATION - WARNING
+Cal Taker: PATROL KEVIN - GARNER
+Location/Address: SIMCNDS RD
+nit: 34
+Arvd-22:20:36 Clrd-22:24:56
+Vehicle: BLIJ 2006 HYUN SE ELANTR Reg: DPC MA HAYH327 ViIN: IMADNGC6DASUI0ES250
+Dperatcr: JOHNSON, SYDHMEY G @ 28 JACKSON ST NORTH ALAMS, Ma 1247-2739
+Race: W Sex: TF
+Refer Te Citaticn: T17854486
+unar: JOHNSON, SYDNEY G 28 JACKSON 3T - NORTH ADAMS, MA 02247-2733
+Race: W Efex: F
+15-8096 2302 Initiated - BUSPICIOUS MOTOR VBHICLE LOG ENTRY REQUEST
+Cal. Taker: PATROL KEVIN P GARNER
+Location/Addresy: COLN s5-RING RD
+Unit: 34
+Arvd-23:02:43 Mrd-23:24:16
+vehicle: BLK 2013 KISS ROGUE keg: DPC KA 532MM9  VIN: SKMORSSMVIDNS20727
+Owner: CANDELIT, GECRCE M S 48 LOUMAR DR - PITTSFIELD, MA 01201
+Rage: U Sex: MN
+Narrative:
+Car in low, nobody arcunc. Nol at swimming hcle eZther
+Inltiated - SUSPICIOUS ACTIVITY LOC ENTRY REQUEST
+19-8097 2313 PATROL KEVTN P GARNER
+Call Taker: 420] TACONIC TRL
+Location/Addrass: (WlA
+Urnil.: 14 Arvd 23:15:14 Clvd-23:15:535
+20.0 SUBA ST QUTBAC FC MA 4XZB29 VIN: 434BR3JUCAIAT2BI1
+Vehicle: 3LU C 40 HAMEL AVE Reg: - WILLIAMSTOWN, idd 0lié7
+Owner: REAL, JULIA # F
+Race: W 8ex:
+Karrative: in to pazk to leovk for Rx glasses that were
+helieved subject pulled Inst earlisr Loday.

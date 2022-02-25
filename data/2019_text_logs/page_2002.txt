@@ -1,1 +1,45 @@
-Unit  35  Arvd-09:08:49  Clrd-09:10:24  Narrative  checked  Narrative  done  Narrative  Checked 0140  19-13753  o914  Enitiated - BUILDING CHECK  BUTLDING CHECKED/SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Lecation/Address  STRATTON RD  Unit  35  Arvd-09:14:26  Clrd-09:17:30  Narrative  checked  Narrative  done  19+13754  ag32  Fnitiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker:  PATROL ANTHONY M DUPRAT  Location/Addreses:  HOPPER RD  Unit:  35  Arvd-09:31:49 Clrd-09:35:14  Narrative:  checked  19-13755  0948  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  COLD SPRING ED  Location/Address  Unit  35  Arvd-09:48:28  Cird-09:51:41  Narrative  checked  Narrative  done  219-+-13756  0956  Initiated - BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL ANTHONY M DUPRAT  Location/Address  COLD SPRING RD  Unit  a5  Arvd-09:56:51  Clrd-05:57:58  Narrative  checked  Narrative  dome  15-13757  G956  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Call Taker:  MICHAEL STRIZAZI  Location/Address:  (WIA 380] MAIN ST  Unit:  36 
+tIniz: cir
+Arvd-05:06:49 (O1rd-09:70:74
+Xarrative:
+Xurrative:
+doe
+Xarrative:
+Checxzed 01a0
+19-313753 4914 Initlaked - BUILDING CHECK BULLDING CHNKCKRED/SECURRD
+Call Tukwr: PATRCL ANTEONY M OUIFRAT
+Loca L Lor /Aadd-ase: STRETION RD
+Urt-.: 5
+Arvd 59:34:25 C1l-4 09:17:30
+Xerrative:
+checzad
+Narrative:
+cone
+19-113754 0931 Initiated - BUILDING CHECK BUXLDING CHECKED/SECURED
+all faker: PATRCL ANTHCRY MM DJUERAT
+Location/Address: EOPPER RD
+Unzz: as
+Arvd-L9:232:49 Clxd 09:35:14
+Karrative:
+chacked
+19-137755 0548 Inft-iatad - BUILDING CHECK BUILDING CHECKEL/SECURED
+fall Taker: VAIROL ANYHONY M DUPRAT
+Locus iloa/Address: CCLD SPRINC BPD
+Unil: i5
+Arvd-09:42:28 Clrd-02:51:41
+Narralive:
+checkad
+Harrat:zve:
+doce
+15-.13754 0056 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Cal. Takex: PATOL ANTHONY M DUPxA]L
+Lecatio/Audresy: HL) SPRING RY
+Uoeil: 35
+Arvd-09:36:81 CMrdE-05:57:658
+Nerrat:_ve:
+checkaa
+Merrative:
+dome
+15-13757 c9586 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN Tal. Texexr: MITEARL, STRIZZI
+HMATN ST
+Toaation/Address: nik 3G ‘WIA 380)

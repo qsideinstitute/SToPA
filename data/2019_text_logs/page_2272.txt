@@ -1,1 +1,55 @@
-19-15423  1160  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  PARK ST  Unit:  34  Arvd-11:00:17  Clrd-11:02:02  19-15424  1LiD2  Initiated - PARKING CHECK  SERVICES RENDERED  Call Taker:  PATROL BRAD SACCO  Location/Address:  SPRING ST  Unit:  34  Arvd-11:02:48  Cird-11:13:36  19-15425  1104  initiated - BUILDING CHECK  BUILDING CHECKED /SkCURED  Call Taker  SERGEANT SCOTT E MCGOWAN  Location/Address  LONGVIEN TER  Unit  30  Arvd-11:04:16  Clrd-11:04:26  Narrative  checked  Narrative  Checked Area.  19-15426  1127  Phone - MOTOR VEHICLE ACCIDENT  INVESTIGATED / REPORT  TAKEN  Cali Taker:  PATROL DAVID JENNINGS, D  Location/Address  MAIN ST  VIN:  1EMZU73E25UB22i24  Vehicle  BLU 2005 FORD EXPLOR Reg: PC MA 33PWH6  Operator  THORESEN, LARRY J @ 167 MAIN RD - MONROE, MA 01350-9704  Race:  W Sex: M  Owner  THORESEN, LARRY J @ 167 MAIN RD - MONROE, MA 01350-9704  Race: U Sex: M  Narrative  WCSS reporting a party was hit in a crosswalk last night  around 1800. Party will etop at PD later. Crosswalk on Rte.2  by mile marker 6.6. Party in the station reporting she was  stuck by a vehicle that did not stop in time for the  crosswalk. Party states it happened just before 1800.  Operator of the vehicle stopped and gave her all of his  information. Party then contacted WCSS at around 2130 last  night  (12/12/19). WCSS contacted the WPD today (12/15/19) at  1122 to report the incident. Party stated she would stop in  later after getting checked out at the health center. Party  states that she pushed the button for the crosswalk one  vehicle stopped and she was almost to the other side when  she was hit by the vehicle.  At this time the party wants  the incident logged.  Refer To Accident:  19-166-AC  19-15427  1148  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker:  SERGEANT SCOTT E MCGOWAN  [WIA 1832] NORTH HOOSAC RD  Location/Address:  Unit:  30  Arvd-11:49:08  Clrd-11:52:31  Narrative:  Checked S-4  18:13  Narrative:  Checked S-4  22:16  Narrative:  Checked 2337 
+19-15423 11aq Initiated - PARKING CHECK SERVICES RENDERED
+ali Taker: PATRO., BRRAD SACCD
+wosul lon/address: PARK 51
+Unit: 34
+Arvd-11:30:17 Clré-11:02:02
+18-15424 1102 Initiated - PARKING CHECK BERVICES RENDERED
+Call Taxer: PATROL, BRAD SACCO
+Tocation/Address: SPRINC ST
+Umit: 34
+Arvd-11:62:40 Clrd-11:13:36
+1999-15425 1104 Initiated - BUILDIMNG CHECK BUILDING CHECKED/EECURED
+Cull Taker: SERCEANT SCOTT E MCGOWAN
+Lecacion/Aédress: LONGVIEW “ER
+Unit: 30
+Avvd--1:04:16 Cl»d-11:04:26
+Narrative:
+checked
+Narrative:
+Checked Area.
+12-15426 1127 Phone - MOTOR VEHICLE ACCIDENT INVESTIGATED / REPORT
+TAKEN
+fall Taker: TATROL LAVID JENNINGS, D
+Location/Address: MAIK ST
+Vehicle: BLU 2¢05 FORD EXPLCR Reg: BC MA 353PHAR VIN: 1FMZU73E25UBR22124
+Cperator: THOZESEN, LARRY © @ 167 MAIN RD - FONROE, MA 0135-9704
+Race: W Sex: MK
+owner: THORESEN, LARRY < 6 167 MAIN RC - MONROE, MA Qi3LI-9704
+Raze: TU Sex: K
+harrative:
+WCSS reporting a party was hit in a crosswalk last night
+around 1800. Party will stop at PD later. Crosswalk on RLe.2
+by mile marker 6.6. Party in the atacior reporting she was
+stuck by a venicle that did nct stop in time for the
+crosswalk. RPeriy etates happened just betore 1300.
+Operator of te vehicle stopped and gave her all ofl his
+information, Pavty then contacted WCSS at around 2132 laasl
+night (12/12/:9). WCS8 contacted the WPD today (12/13/19) at
+1122 to r¢porl Lhe incident. Party stated she would stop in
+later after goiting checked out at the health center. Earty
+states thulL sie pushed the button for the aresswa’k one
+vehicle stopped and she was almoat to the other side whur
+she was hrt by the vehicle. At this tine the party wants
+che incident logged.
+Refer To Accicenl: 19-16-AC
+19-15427 1148 Initiated - BUILDING CHECK BUILDING CEECKED/SECURED
+Call “akel: SERGEANT SCOTT E MCSOWAN
+Location/Address: [WIA 1832: NCRTH HOCUSAC RD
+nic: 30
+Arvd-11:49:08 Clrd-11:52:31
+Narrative:
+Checked S-¢ 1B:33
+Warrative:
+Checked 5-4 22:16
+Narrative:
+Checked 2337

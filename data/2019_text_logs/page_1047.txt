@@ -1,1 +1,56 @@
-WILLIAMS TORN, MA 01267-2600  Race: U Sex: U  Vehicle:  GRY 2018 TOYT SE CAMRY Reg: PC CT AH74703 VIN: 4TIB61HK20U056675  Operator:  CHUNG, DANA @ 914 RAINBOW TRL ~ ORANGE, CT 06477  Race: A Sex:  E  Owner:  CHUNG, DANIEL @ 914 RAINBOW TRL - ORANGE, CT 06477  Sex:  M  Narrative:  MVA no injuries. In parking lot  Refer To Accident:  19-68-AC  19-6958:  1614  Phone - MOTOR VEHICLE LOCK OUT  VEHICLE OPENED  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  DRISCOLL HALL DR  32  Unit:  Disp-16:15:40 Enrt-16:15:56 Arvd-16:18:21 Clrd-16:28:09  Vehicle:  GRY 2019 TOYT 4D COR Reg: PC NJ X70KCD VIN: 2T1BURHE3KC201577  Operator:  LIU, XIAOFAN @ 9734 S 85TH EAST AVE ~ TULSA, OK 74133060  Race: U Sex: M  Owner  PV HOLDING CORP @ 90-20 GRAND CENTRAL PKWY - EAST ELMHURST, NY 11369  Narrative  Dark Blue Toyota Corolla.  19-6959  1644  Phone -  ANIMAL CONTROL  GONE ON ARRIVAL  Call Taker:  DISPATCHER LAURIE TUPER  Location/Address:  (WIA 334] WATER ST  Unit:  31  Disp-16:46:35 Enrt-16:47:10 Arvd-16:54:32 Clrd-16:58:02  Narrative:  Reports some baby ducks wandered in to the ambulance bay. He  has advised his employees to shoo them out and close the bay  doors, but didn’t know if animal control could do anything.  19-6961  1848  Initiated - TRAFFIC COMPLAINT  TAKEN/REFERRED TO OTHER  AGENCY  Call Taker:  PATROL SHUAN N WILLIAM  Location/Address:  MAIN ST + COLE AVE  Unit:  32  Arvd-18:51:09 Clrd-18:51:23  Narrative:  MASS-DOT to be notified, traffic light at Main St. / Cole  Ave  activates the crosswalk signal/delay on its own,  without any pedestrians pushing the button.  The crosswalk  signal activates almost every cycle.  19-6963  2036  Phone ~ SUSPICIOUS ACTIVITY  LOG ENTRY REQUEST  Cail Taker:  DISPATCHER LAURIE TUPER  Location/Address:  {WIA 2252] SLOAN RD  Narrative:  Requests to speak to officer regarding potential attempted  burglary at above address. Calling party was contacted by  John Bryan who stated the lawn crew interrupted a possible  B&E at above address. They saw two males, with screwdrivers  in their hands, attempting to enter via the back door. When  lawn crew yelled to them, they got into a vehicle with NY  plates and took off. No entry was made. House is vacant and  for sale.  Message left on Norm Sweets phone to contact PD.  Refer To Incident:  19-138-OF  19-6964  2044  Other -  LARCENY  INVESTIGATED / REPORT 
+WILLIAMSTOWN, MA 01267-2600 Sex: U
+Race: U SE CAMRY PC CT AH74703 VIN: 4T1B61HK2JU056675
+Vehicle: GRY 2018 TOYT Reg: CT 06477
+Operator: CHUNG, DANA @ 914 RAINBOW TRL - ORANGE,
+Race: A Sex: F
+Owner: CHUNG, DANIEL @ 914 RAINBOW TRL - ORANGE, CT 06477
+Sex: M
+Narrative:
+MVA no injuries. In parking lot
+Refer To Accident: 15-68-AC
+19-6958 1614 Phone - MOTOR VEHICLE LOCK OUT VEHICLE OPENED
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: DRISCOLL HALL DR
+Unit: 32
+Disp-16:15:40 Enrt-16:15:56 Arvd-16:18:21 Clrd-16:28:09
+Vehicle: GRY 2019 TOYT 4D COR Reg: PC NJ X70KCD VIN: 2T1BURHE3KC201577
+Operator: LIU, XIAOFAN @ 9734 S§ 85TH EAST AVE - TULSA, OK 74133000
+Race: U Sex: M
+owner: PV HOLDING CORP @ 90-20 GRAND CENTRAL PKWY - EAST ELMHURST, NY 11369
+Narrative:
+Dark Blue Toyota Corolla.
+19-6959 1644 Phone - ANIMAL CONTROL GONE ON ARRIVAL
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 334] WATER ST
+Unit: 31
+Disp-16:46:35 Enrt-16:47:10 Arvd-16:54:32 Clrd-16:58:02
+Narrative:
+Reports some baby ducks wandered in to the ambulance bay. He
+has advised his employees to shoo them out and close the bay
+doors, but didn't know if animal control could do anything.
+19-6961 1848 Initiated - TRAFFIC COMPLAINT TAKEN/REFERRED TO OTHER
+AGENCY
+Call Taker: PATROL SHUAN N WILLIAM
+Location/Address: MAIN ST + COLE AVE
+Unit: 32
+Arvd-18:51:09 Clrd-18:51:23
+Narrative:
+MASS-DOT to be notified, traffic light at Main St. / Cole
+Ave. activates the crosswalk signal/delay on its own,
+without any pedestrians pushing the button. The crosswalk
+signal activates almost every cycle.
+19-6963 2036 Phone - SUSPICIOUS ACTIVITY LOG ENTRY REQUEST
+Call Taker: DISPATCHER LAURIE TUPER
+Location/Address: [WIA 2252] SLOAN RD
+Narrative:
+Requests to speak to officer regarding potential attempted
+burglary at above address. Calling party was contacted by
+John Bryan who stated the lawn crew interrupted a possible
+B4E at above address. They saw two males, with screwdrivers
+in their hands, attempting to enter via the back door. When
+lawn crew yelled to them, they got into a vehicle with NY
+plates and took off. No entry was made. House is vacant and
+for sale.
+Message left on Norm Sweets phone to contact PD.
+Refer To Incident: 19-138-0OF
+19-6964 2044 Other - LARCENY INVESTIGATED / REPORT

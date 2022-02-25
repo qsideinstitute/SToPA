@@ -1,1 +1,54 @@
-Call Taker:  SERGEANT DAVID R LEMIEUX  Location/Address:  SCHOOL ST  Unit:  31  Arvd-16:56:31  Clrd-16:58:44  19-15438  1656  $1i - SUSPICIOUS ACTIVITY  SERVICES RENDERED  Call Taker:  MICHAEL STRIZZI  Location/Address:  CHAPIN HALL DR  Unit:  38  Disp-16:58:00  Enrt-16:58:42  Arvd-17:02:47  Clrd-17:36:42  unit:  31  Disp-16:59:07  Enrt-16:59:08  Arvd-17:01:16  Clrd-17:38:41  Narrative:  Call came in as a transfer from northampton 911.  Stated  they tried to gain information but the CP was not  cooperating.  Party seems to have altered mental status.  Party stated "I'm confused" multiple times.  Tried to get  information from the party but he would not reapond. Party  seems to be mapping near Chapin Hall Drive and Williams Hall  in the frosh quad.  Refer To Incident:  19-319-0F  19-15440  1730  Radio - TRAFFIC COMPLAINT  PATROL ADVISED  MICHAEL STRIZZI  Call Taker  Location/Address  SIMONDS RD  Unit  38  Disp-17:39:34  Arvd-17:40:12 Clrd-17:46:45  Unit  ai  Disp-17:39:31  Enrt-17:39:56 Arvd-17:46:00  Clrd-17:44:05  Narrative  Blue truck unknown reg. Almost caused head on collision.  Headed southbound on 7. Notified Berkshire County Dispatch.  19~-15441  17532  Initiated ~ BUILDING CHECK  BUILDING CHECKED/ SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  COLD SPRING RD  Unit  38  Arvd-17:52:47  Clrd-17:52:54  Narrative  Checked Area.  1959-15442  1822  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  SERGEANT DAVID R LEMIEUX  SOUTHWORTH 5ST  Location/Address  Unit  31  Arvd-168:21:55  Clrd-18:22:57  Narrative  Checked 0151  1219-15443  1828  Sli -  ALARM  - BURGLAR  ALARM FALSE  Call Taker:  MICHAEL STRIZ21  Location/Address:  (WIA 240] COLE AVE  31  Unit:  Disp-16:29:07  Enyvt-18:30:29 Arvd-16:34:51  Clrd-18:43:19  Unit:  a8  Disp-18:29:07  Enrt.-18:30:21  Arvd-18:33:46  Cird-18:43:30  Narrative:  Burglar alarm activated unknown gone. 
+Call Taker: SERGEANT DAVID R LEM1EUX
+Locul lon/address: SCHOCL ST
+Tnisg: 31
+ArvG-15:56:31 Clrd-16:59:44
+19-15438 1656 S11 - SUSPICIOUS ACIIVITY SERVICES RENDERED
+tall Taker: MICHAEL STRTZZI
+Tocation/Address: CHAPIN HALL DR
+nit: 38
+Dipp-16:58:00 Enrt-16:58:42 Arvd-17:02:47 Clrd- 7:33:42
+Uniz: 31
+Dipp-16:52:07 Enrt-16:59:08 Arvd 17:01:16 Clrd .7:28:41
+Na>»racive:
+Call came in as a transfer from northampzon 911. Stated
+they tried to gain information but the CP was not
+ccoperating. Party seems to have altered mental status.
+Party stated "T'm confused" multiple times. Tried to get
+snformatjon “rom the party but he would nct respond. Party
+seets tc be mapping near Chapin Hall TCrive and Williams Hall
+in the frosh
+quad.
+Refer To Incidenl: 19 319 OF
+19-154440 1730 Radio - TRAFFIC COMPLAINT FATROL: ADVISED
+Call "Taker: MICHAEL STRZZZI
+Locak lon/Address: E1lMONDE RD
+tniv: a8
+DigD- 17:39:24 Arvd-17:40:12 Clrd-17:46:45
+Eniz: 31
+Disp-17:39:31 Enrt-17:39:56 Axrvd 17:40:00 Clrd-17:44:05
+Narrative:
+Alue truck unknown reg. A.most caused head on collision.
+Feaded mouthhound on 7. Notified Rerxahire Coutky Dimpatoh.
+19-154411 1752 Initiated - BUILDING CHECK BUILDING CHECKER/SECURED
+Czil Taker: PATRCL JCHN J MCCONNELL JR
+Locatzeon/Address: COLD SPRING RD
+ag
+niz: ArvE-17:53:47 Clrd-"T7:52:54
+Narrazive:
+Checked Arca.
+19-15442 1821 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: SERGLANT DAVID IR LEMIEUX
+Location/Address: SCUTHWORTII 5T
+Tniz: 31
+Arvd-18:21:55 Clrd-18:22:57
+Narrative:
+Checked 0151
+i9-15443 1828 91 - ALARM - BURGLAR ALARM FALSE
+Call Taker: MICHAEL STRIZZ1
+Location/Address: (Wia 240] COLE AVE
+mit: al
+Disp-16:29:87 Enrk-1iB:30:29 Arvd-10:34:51 Clrd-:8:43:19
+Cnin: 38
+Niep-16:29:57 2Inrt-16:30:21 Arvd-16:35:46 Clrd-18:43:30
+MNarracive:
+Burglar alarm activated unknown zone.

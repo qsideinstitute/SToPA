@@ -1,1 +1,52 @@
-Checked 0205  1$-15720  1730  Phone ~ DISTURBANCE  SERVICES RENDERED  Call Taker  DISPATCHER LAURIE TUPER  Location/Address  CHURCH &T  Unit  38  Arvd-17:39:46 Clrd-18:00:604  Disp-17:34:21 Enrt-17:31:45  Narrative  Reports the male in apartment J1 is creating a disturbance  by moaning and groaning.  Narrative  Did not observe any disturbance on arrival. RP outside  stating how this has been ongoing since she moved in during  the summer. Spoke with  ; who appeared ok and not in  any médical needs and sated that he had a leg cramp. He was  advised of the complaint and asked to be more quite.  19-35721  1824  Initiated - BUILDING CHECK  BUILDING CHECKED/SECURED  Call Taker  PATROL JOHN J MCCONNELL JR  Location/Address  [WIA 249] NORTH ST  38  Unit  Arvd-18:24:12  Clrd-18:24:21  Narrative  done  Narrative  Checked 0153  19-15722  2108  Initiated - MOTOR VEHICLE SToOrF  CITATION - WARNING  Call Taker  PATROL KEVIN PF GARNER  Location/Address  NEW ASHFORD RD  Unit  34  Arvd-21:08:32  Clrd-21:14:23  Vehicle  BLK 2015 4D 550  Reg: PC NY DWT1388 VIN: WDDUGSFRSFALB5272  Operator  YOUNG, RAYMOND @ 17 HAMLET DR - MOUNT SINAI, NY¥ 11766  Race:  A Sex: M  Refer To Citation:  T2085621  RAYMOND @ 17 HAMLET DR - MOUNT SINAI, NY 11766  Owner:  YOUNG,  Race: A Sex: M  19-15723  2118  Initiated - SUSPICZOUS MOTOR VEHICLE  LOG ENTRY REQUEST  Call Taker  PATROL KEVIN P GARNER  Location/Address  NEW ASHFORD RD  Unit  34  Arvd~21:19;55 ¢Clrd-21:20:42  Vehicle  BLU 2013 HOND U CRV Reg: PC NY DLG1617 VIN: 2HKRM4H79DH617183  Owner  HUGHES, DOWALD R © 181 WEAVER DAM RD - PETERSBURG, NY 12138  Race:  U Sex: M  Narrative  Car parked in park, nobody around. Engine cold  CITATION - WARNING  15-15724  2131  Initiated - MOTOR VEHICLE STOF  Call Taker:  PATROL JOHN J MCCONNELL JR  Location/Addrass:  MAIN ST  Unit:  38  Arvd-21:31:07  Clrd-21:37:40  Vehicle:  GRY 2005 SUBA ST FOREST Reg:  PC MA 313BH1 VIN: JF1SG63685H735826  SUSAN C @ 65 GEORGE AVE - N ADAMS,  MA 01247-3017  Operator:  KING, 
+Checked 0205
+15-18720 1730 Phone - DISTURBANCE SERVICED RENDERED
+Call Taker: DISPATCHER AURIE “UPER
+Location/Addresa: CHURCH ST
+Unit: 38
+Disp-17:31:21 Enrt-17:31:45 Arvd-17:39:46 Clrd-:R8:00:04
+Marrative:
+Reports the maie in apartment J1 is creating a disturbance
+by ncaning and groaning.
+Narrative:
+Did not obscrve any disturbance on arrival. RP outside
+stating how this has been ongoing since she moved in during
+the sumrer. Spoke with , who appeared ok and not in
+any medici.- noeds and sated that he had a leg cramp. le was
+advised of the cemplaint ard asked to ba wore quite.
+19-315721 1824 Initiated - BUILDING CHECK BUILDING CHECKED/SECURED
+Call Taker: PATROI. JOHN J MCCCNWELL JR
+Local ion/Address: [WIA 249] NORTH 8ST
+Unit: 38
+Arvd-18:24:12 Clrd-1:24:21
+Narrative:
+done
+Harrative:
+Checked 0153
+19-115722 2108 Tnitiated - MOTOR VIAICLE STOP CITATION - WARNING
+Call Toker: PATROL. XRVTN P GARNER
+Lecacion/Address: NEW ASHFORD RD
+Unit: 34
+Arvd-21:08:52 Clxd-21:14:23
+vahicle: BLK 2215 4D S50 Xeq: FC NY DWTi388 VIN: WDDUGBFGSFALBSE72
+Jperater: YOUNG, RAYMCND # -7 HMNMT.RET DR - KOUNT SINAI, NY 11766¢
+Race: A bex: K
+Refer Toa Citation: T2085611
+Cwner: YOUNG, RAYMOND 17 IIAMLET DR - MOUNT SINAIL, NY 1.766
+Race: A Sex: M
+19-158723 2118 Initiated - SUSPICIOUS MOTOR VEHICLE LOGE ENTRY REQUEST
+Call Taker: ATROL KEVIN P GARMER
+Location/Address: Nid ASHFORD RD
+Unit: 34
+Arvd-21:19:55 Clrd-21:20:42
+Vehicle: ALU 2013 HOKD U CRV Req: PC KY DLG1617 ViN: 2HKRMAH7SDHA17183
+Owner: BUGESY, [ONAID R ® 181 WEAVER DAM RD PETERSBURG, NY i2138
+Raoe: U Sex: M
+Xarrative:
+Car perke¢ in park, nchady aretund. Engine cold
+1959-15724 2131 Inikiated - MOIOR VERICLE ST0F CITATION - WARNING
+Call Taker: PATRCL JCHYN J MCCONKELL JR
+laocaticn/Address: MAIA ST
+rniz: af
+Arvé-21:31:07 Clrd-21:37:40
+Vehicle: GRY 2005 SUA ST FOREST Heg: 2 CC MA 213881 VIN: JF1SGE3685H7ISH1e
+Operator: KING, SUSAN C 65 CHORGE AVE - N ADEMS, MA 01247-32017

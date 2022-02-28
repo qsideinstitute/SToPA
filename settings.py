@@ -8,16 +8,16 @@ import pytesseract
 CLEAN_TEMP_FILES = True
 BATCHSIZE = 4
 MAXTHREADS = 4
-DPI = 300
+DPI = 400
 
-# If you've installed tesseract manually, then you'll need to 
-# manually define the path to the executable here. 
-# By default, pytesseract assumes you can access this with the 
-# command "tesseract" in the command line. 
+# If you've installed tesseract manually, then you'll need to
+# manually define the path to the executable here.
+# By default, pytesseract assumes you can access this with the
+# command "tesseract" in the command line.
 TESSERACT_CMD = ""
 
 
-# Specify tesseract location for pytesseract if its default 
+# Specify tesseract location for pytesseract if its default
 # location doesn't exist.
 
 # Is the default "tesseract_cmd" an executable that the operating system recognizes?
@@ -54,4 +54,3 @@ except:
     # Should get error only if Logs2019.pdf and Logs2020.pdf are not entries in PDF_DICT.
     # Probably only happens if the directory structure was changed.
     pass
-    

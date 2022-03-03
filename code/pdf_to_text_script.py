@@ -19,8 +19,6 @@ pytesseract = settings.pytesseract
 from pdf2image import pdfinfo_from_path,convert_from_path
 pytesseract.pytesseract.tesseract_cmd = settings.TESSERACT_CMD
 
-print(settings.CONFIG)
-
 # TODO: put the level of 5 as a parameter in the settings. (note: this is below logging.DEBUG, at 10)
 VERBOSE_LOGLEVEL = 5    # for logging.log() messages about individual file creation/deletion
 
@@ -62,18 +60,17 @@ def main(argv):
 
     # subfolder for specific year's text files.
     _soft_mkdir( settings.DATA_FOLDER )
-    TEMP_TXT_FOLDER = os.path.join( settings.DATA_FOLDER, "{}_text_logs2".format(year) )
+    TEMP_TXT_FOLDER = os.path.join( settings.DATA_FOLDER, "{}_text_logs".format(year) )
     _soft_mkdir( TEMP_TXT_FOLDER )
 
     # TODO: consider moving these to optional arguments of the function and/or argv[1], sys.argv[2]
-    FIRST_PAGE = 1
-    LAST_PAGE = max_pages # use max_pages for entire pdf file's logs.
-    for pagenum in range(FIRST_PAGE, LAST_PAGE+1, settings.BATCHSIZE):
-        BATCHSIZE = settings.BATCHSIZE
+    first_page_to_parse = 1
+    last_page_to_parse = max_pages # use max_pages for entire pdf file's logs.
+    for pagenum in range(first_page_to_parse, last_page_to_parse+1, settings.BATCHSIZE):
         pages = convert_from_path(pdfpath,
                               dpi = settings.DPI,
                               first_page = pagenum,
-                              last_page = min(pagenum + settings.BATCHSIZE - 1, LAST_PAGE),
+                              last_page = min(pagenum + settings.BATCHSIZE - 1, last_page_to_parse),
                               thread_count = settings.MAXTHREADS)
 
         logging.info("\n Retrieved Pages {} to {}.".format(pagenum, pagenum + len(pages) - 1))

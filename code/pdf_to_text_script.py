@@ -96,7 +96,11 @@ def main(argv):
             df = df.sort_values(['binned', 'left']).dropna() # sort by line number bin, then by x location
             # df.to_csv('data/frames/page_{}.csv'.format(n))  # save dataframe to csv if desired, bounding box included
             df = df.groupby(['binned'],observed=True)['text'].apply(' '.join).reset_index() # join text strings by line
-            text = df['text'].str.strip().str.cat(sep="\n") # clean up string data
+            if df["text"].isna().sum() == df["text"].shape[0]:
+                text = "blank page"
+            else:
+                text = df['text'].str.strip().str.cat(sep="\n") # clean up string data
+            text=text.replace("\n"," ") # make spaces instead of lose info
 
             # TODO: look over/validate this choice. Kept as of 2/25 to be compatible with parsing script
             text=text.replace("\n"," ") # make spaces instead of lose info

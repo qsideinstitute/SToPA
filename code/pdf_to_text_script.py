@@ -2,21 +2,18 @@ import logging
 import sys
 import os
 
-# hacky reference to parent directory with settings.
-
-# TODO: decide whether we want project structure to work this way.
-# Alternative is to force users to always interact with the top-level directory
-# only, and import stuff in the "code" subdirectory rather than running it directly.
-sys.path.append(os.path.abspath('..'))
-sys.path.append(os.path.abspath('.'))
+# import settings.
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath("settings.py"))))
 import settings
 
 import cv2 as cv
 import pandas as pd
 from numpy import array
 
-pytesseract = settings.pytesseract
+import pytesseract
 from pdf2image import pdfinfo_from_path,convert_from_path
+
+# Check path to tesseract executable
 pytesseract.pytesseract.tesseract_cmd = settings.TESSERACT_CMD
 
 # TODO: put the level of 5 as a parameter in the settings. (note: this is below logging.DEBUG, at 10)

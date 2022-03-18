@@ -50,13 +50,3 @@ PDF_FILES = glob.glob(PDF_FILE_SEARCH)
 # make dictionary which has shortened names for the pdf files.
 # ex: Logs2019.pdf maps to its full location in the operating system.
 PDF_DICT = {os.path.basename(fname) : fname for fname in PDF_FILES}
-
-# A couple manually defined entries for backwards compatibility.
-try:
-    PDF_DICT['2019'] = PDF_DICT['Logs2019.pdf']
-    PDF_DICT['2020'] = PDF_DICT['Logs2020.pdf']
-    PDF_DICT['2021'] = PDF_DICT['Logs2021.pdf']
-except:
-    # Should get error only if Logs2019.pdf and Logs2020.pdf are not entries in PDF_DICT.
-    # Probably only happens if the directory structure was changed.
-    pass

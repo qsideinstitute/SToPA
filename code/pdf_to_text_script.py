@@ -39,10 +39,11 @@ def _soft_mkdir(fname):
 def main(argv):
 
     year = argv[0]
+    log_title = f"Logs{year}.pdf"
     logging.info("Parsing logs for {}".format(year))
 
     try:
-        pdfpath = settings.PDF_DICT[ year ]
+        pdfpath = settings.PDF_DICT[log_title]
     except:
         logging.error("Error finding logs. Expecting data in location:")
         logging.error("[PROJECT_FOLDER]/data/primary_datasets/Logs{}.pdf\n".format(year))

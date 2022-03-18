@@ -35,20 +35,15 @@ enrt_strs = "|".join(['Enrt-', 'Enrt~', 'Enrt+', "Enr@-", "Enrt~-"])
 
 end_of_string_tol = 60
 
-path = 'data/'
+path = os.popen("git rev-parse --show-toplevel").read().strip("\n")+"/data/"
 
 def main(argv):
 
     year = int(argv[0])
     logging.info("\n Parsing logs for {}".format(year))
 
-    if year == 2019:
-        year_str = '19-'
-        current_date = '01/01/2019'
-
-    elif year == 2020:
-        year_str = '20-'
-        current_date = '01/01/2020'
+    year_str = str(year)[:2]+"-"
+    current_date = f"01/01/{str(year)}"
 
     parsed_pages = []
     all_vehicles = []

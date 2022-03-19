@@ -4,8 +4,6 @@ import os
 import re
 import itertools
 
-# import settings.
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath("settings.py"))))
 import settings
 
 from fuzzywuzzy.fuzz import ratio, partial_ratio

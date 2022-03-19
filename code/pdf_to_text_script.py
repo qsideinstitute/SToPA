@@ -2,8 +2,6 @@ import logging
 import sys
 import os
 
-# import settings.
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath("settings.py"))))
 import settings
 
 import cv2 as cv

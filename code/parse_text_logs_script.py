@@ -42,7 +42,7 @@ def main(argv):
     year = int(argv[0])
     logging.info("\n Parsing logs for {}".format(year))
 
-    year_str = str(year)[:2]+"-"
+    year_str = str(year)[-2:]+"-"
     current_date = f"01/01/{str(year)}"
 
     parsed_pages = []

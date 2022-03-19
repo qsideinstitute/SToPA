@@ -165,6 +165,8 @@ def standardize_officers(s, known_officers, min_officer_ratio=100):
     return None    
 
 def find_between(entry_text, left_text, right_text):
+    left_text = re.sub("\+", "\\+",left_text)
+    right_text = re.sub("\+","\\+",right_text)
     left_end = re.search(left_text, entry_text)
     right_start = re.search(right_text, entry_text)
     

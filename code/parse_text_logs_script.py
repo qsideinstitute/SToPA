@@ -4,6 +4,8 @@ import os
 import re
 import itertools
 
+import settings
+
 from fuzzywuzzy.fuzz import ratio, partial_ratio
 import usaddress
 
@@ -35,20 +37,15 @@ enrt_strs = "|".join(['Enrt-', 'Enrt~', 'Enrt+', "Enr@-", "Enrt~-"])
 
 end_of_string_tol = 60
 
-path = 'data/'
+path = settings.DATA_FOLDER + "/"
 
 def main(argv):
 
     year = int(argv[0])
     logging.info("\n Parsing logs for {}".format(year))
 
-    if year == 2019:
-        year_str = '19-'
-        current_date = '01/01/2019'
-
-    elif year == 2020:
-        year_str = '20-'
-        current_date = '01/01/2020'
+    year_str = str(year)[-2:]+"-"
+    current_date = f"01/01/{str(year)}"
 
     parsed_pages = []
     all_vehicles = []
@@ -62,37 +59,37 @@ def main(argv):
         with open(os.path.join(path, '{}_text_logs/page_{}.txt'.format(year, ipage)),'r') as infile:
             page_text = infile.read()
 
+        if page_text != "blank page":
+            # check for a new date on the page
+            new_date = check_for_date(page_text)
+            if new_date:
+                current_date = new_date
 
-        # check for a new date on the page
-        new_date = check_for_date(page_text)
-        if new_date:
-            current_date = new_date
-
-        page_incidents = [log_idx.start() for log_idx in re.finditer(year_str, page_text)] + [-1]
+            page_incidents = [log_idx.start() for log_idx in re.finditer(year_str, page_text)] + [-1]
 
 
-        # now we worry about entries that start from the previous page
-        initial_text = page_text[0:page_incidents[0]]
-        if len(initial_text) > 0 and len(parsed_pages) > 0:
-            #print(initial_text)
-            str_entry = parse_entry(initial_text, year_str)
-            
-            parsed_pages[-1][2:] = replace_none_with_value(parsed_pages[-1][2:], str_entry)
-            call_number = parsed_pages[-1][2]
-            all_vehicles, all_people = process_vehicles(entry_text, call_number, all_vehicles, all_people)
-            all_responding = process_units(entry_text, call_number, all_responding)
-
-        for i_start in range(len(page_incidents)-1):
-
-            entry_text = page_text[page_incidents[i_start]:page_incidents[i_start + 1]]
-            
-            str_entry = parse_entry(entry_text, year_str)
-            
-            if str_entry.count(None) < 5:
-                parsed_pages.append([current_date, ipage] + str_entry)
-                call_number = str_entry[0]
+            # now we worry about entries that start from the previous page
+            initial_text = page_text[0:page_incidents[0]]
+            if len(initial_text) > 0 and len(parsed_pages) > 0:
+                #print(initial_text)
+                str_entry = parse_entry(initial_text, year_str)
+                
+                parsed_pages[-1][2:] = replace_none_with_value(parsed_pages[-1][2:], str_entry)
+                call_number = parsed_pages[-1][2]
                 all_vehicles, all_people = process_vehicles(entry_text, call_number, all_vehicles, all_people)
                 all_responding = process_units(entry_text, call_number, all_responding)
+
+            for i_start in range(len(page_incidents)-1):
+
+                entry_text = page_text[page_incidents[i_start]:page_incidents[i_start + 1]]
+                
+                str_entry = parse_entry(entry_text, year_str)
+                
+                if str_entry.count(None) < 5:
+                    parsed_pages.append([current_date, ipage] + str_entry)
+                    call_number = str_entry[0]
+                    all_vehicles, all_people = process_vehicles(entry_text, call_number, all_vehicles, all_people)
+                    all_responding = process_units(entry_text, call_number, all_responding)
 
     # done so make the data frame
     parsed_pages = pd.DataFrame(parsed_pages, 
@@ -170,6 +167,8 @@ def standardize_officers(s, known_officers, min_officer_ratio=100):
     return None    
 
 def find_between(entry_text, left_text, right_text):
+    left_text = re.sub("\+", "\\+",left_text)
+    right_text = re.sub("\+","\\+",right_text)
     left_end = re.search(left_text, entry_text)
     right_start = re.search(right_text, entry_text)
     

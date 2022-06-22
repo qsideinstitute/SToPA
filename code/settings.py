@@ -15,6 +15,10 @@ DATA_FOLDER = os.path.abspath(
     os.path.join(PROJECT_FOLDER, 'data')    # '../data/'
 )
 
+MAPS_FOLDER = os.path.abspath(
+    os.path.join(DATA_FOLDER, 'maps')   # '../data/maps/'
+)
+
 PDF_FOLDER = os.path.abspath(
     os.path.join(DATA_FOLDER, 'primary_datasets') # ../data/primary_datasets/
 )

@@ -12,15 +12,19 @@ PROJECT_FOLDER = os.path.abspath(
 )
 
 DATA_FOLDER = os.path.abspath(
-    os.path.join(PROJECT_FOLDER, 'data')
+    os.path.join(PROJECT_FOLDER, 'data')    # '../data/'
 )
 
 PDF_FOLDER = os.path.abspath(
-    os.path.join(DATA_FOLDER, 'primary_datasets') # ./data/primary_datasets/
+    os.path.join(DATA_FOLDER, 'primary_datasets') # ../data/primary_datasets/
 )
 
 CODE_FOLDER = os.path.abspath(
-    os.path.join(PROJECT_FOLDER, 'code')  # ./code/
+    os.path.join(PROJECT_FOLDER, 'code')  # ../code/
+)
+
+TEST_FOLDER = os.path.abspath(
+    os.path.join(PROJECT_FOLDER, 'test') # ../test/
 )
 
 PDF_FILE_SEARCH = os.path.abspath(

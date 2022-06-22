@@ -1,35 +1,54 @@
 import os   # build folder locations independent of operating system
 import glob # used to search for file(s) using wildcard *
-import sys
 import shutil
 import warnings
 
 # Strings of absolute folder locations for the entire project.
 # If you clone the repository, these match that structure, and nothing needs to be done.
-PROJECT_FOLDER = "/".join(os.path.abspath("").split("/")[:-1]) # get abs path to top level folder
-DATA_FOLDER = os.path.join(PROJECT_FOLDER, 'data')
-PDF_FOLDER = os.path.join(DATA_FOLDER, 'primary_datasets') # ./data/primary_datasets/
-CODE_FOLDER = os.path.join(PROJECT_FOLDER, 'code')  # ./code/
+#PROJECT_FOLDER = "/".join(os.path.abspath("").split("/")[:-1]) # get abs path to top level folder
 
-PDF_FILE_SEARCH = os.path.join(PDF_FOLDER, '*.pdf')
+PROJECT_FOLDER = os.path.abspath(
+    os.path.dirname( os.path.dirname( __file__ ) ) # ../
+)
+
+DATA_FOLDER = os.path.abspath(
+    os.path.join(PROJECT_FOLDER, 'data')    # '../data/'
+)
+
+PDF_FOLDER = os.path.abspath(
+    os.path.join(DATA_FOLDER, 'primary_datasets') # ../data/primary_datasets/
+)
+
+CODE_FOLDER = os.path.abspath(
+    os.path.join(PROJECT_FOLDER, 'code')  # ../code/
+)
+
+TEST_FOLDER = os.path.abspath(
+    os.path.join(PROJECT_FOLDER, 'test') # ../test/
+)
+
+PDF_FILE_SEARCH = os.path.abspath(
+    os.path.join(PDF_FOLDER, '*.pdf')
+)
+
 PDF_FILES = glob.glob(PDF_FILE_SEARCH)
 
 # make dictionary which has shortened names for the pdf files.
 # ex: Logs2019.pdf maps to its full location in the operating system.
 PDF_DICT = {os.path.basename(fname) : fname for fname in PDF_FILES}
 
-# 
-# Pytesseract settings below.
-
+# Attempt to import pytesseract;
+# if it fails, none of the variables will 
+# be set and a warning will be displayed.
 try:
     import pytesseract
     _pytesseract_imported = True
 except:
     _pytesseract_imported = False
-    warnings.warn(
-        "Importing pytesseract failed. OCR capabilities are disabled."
-        )
-#import pytesseract
+    warnings.warn("Failed to import pytesseract; OCR capabilities disabled.")
+
+# Pytesseract settings below
+# 
 
 if _pytesseract_imported:
     from numpy import ones,uint8
@@ -49,7 +68,6 @@ if _pytesseract_imported:
     LINE_LABELS = list(range(N_LINES)) # labels for line number
     BLACKLIST = ";{}&£~=%¥€" # characters we want to specifically exclude from the OCR
     
-    #Pyesseract config string
     # TODO: where is this CONFIG variable used?
     # If used, can we rename the variable to something
     # more specific (ex: PYTESSERACT_CONFIG)

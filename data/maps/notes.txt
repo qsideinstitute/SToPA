@@ -1,0 +1,62 @@
+buildings.json
+A collection of polygons of some (all? most?) 
+buildings in Williamstown with names.
+
+cb_2014_25_bg_500k.shp
+A shapefile; geopandas fails to load this 
+because of a lack of a .shx file. Maybe 
+a high resolution boundary of the county (?)
+
+county003.json
+geopandas fails to load on Manuch's computer 
+("not recognized as a supported file format")
+
+county003wtown.json
+geopandas fails to load on Manuch's computer.
+("not recognized as a supported file format")
+
+landuse.json
+Seems to have a small collection of polygons of 
+cemeteries, conservation areas, farm, recreation 
+ground, "grass" 
+
+ma.json
+Map of Massachussetts with polygons of county 
+boundaries. Williamstown is in the northwest corner.
+
+ma-albers.json
+*probably* a map of massachusetts since some 
+of the columns refer to countyfp, statefp, 
+county numbers. But, it fails to plot 
+with error "'box_aspect' and 'fig_aspect' must be positive"
+
+natural.json
+Polygons with parks, forests, bodies of water.
+
+places.json
+Coordinates marking Williamstown, and six "hamlets"
+
+planet_-73.... yadda yadda
+Seems to be an agglomerated geojson file 
+with all types of things within a rectangle 
+of latitude/longitudes. Could be useful, 
+but needs analyzing in isolation 
+(and probably simplifying the file name)
+
+points.json
+A random collection of coordinates labeled 
+as things with no apparent pattern? 
+Some of the "types" are place_of_worship, 
+viewpoint, bench, pub, water_well.
+
+railways.json
+Curves (one curve?) marking the railroad tracks.
+
+roads.json
+Collection of roads.
+
+waterways.json
+Rivers.
+
+Williamstown.geojson
+A single polygon drawing the county boundaries.

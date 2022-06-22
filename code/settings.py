@@ -1,17 +1,32 @@
 import os   # build folder locations independent of operating system
 import glob # used to search for file(s) using wildcard *
-import sys
 import shutil
 import warnings
 
 # Strings of absolute folder locations for the entire project.
 # If you clone the repository, these match that structure, and nothing needs to be done.
-PROJECT_FOLDER = "/".join(os.path.abspath("").split("/")[:-1]) # get abs path to top level folder
-DATA_FOLDER = os.path.join(PROJECT_FOLDER, 'data')
-PDF_FOLDER = os.path.join(DATA_FOLDER, 'primary_datasets') # ./data/primary_datasets/
-CODE_FOLDER = os.path.join(PROJECT_FOLDER, 'code')  # ./code/
+#PROJECT_FOLDER = "/".join(os.path.abspath("").split("/")[:-1]) # get abs path to top level folder
 
-PDF_FILE_SEARCH = os.path.join(PDF_FOLDER, '*.pdf')
+PROJECT_FOLDER = os.path.abspath(
+    os.path.dirname( os.path.dirname( __file__ ) ) # ../
+)
+
+DATA_FOLDER = os.path.abspath(
+    os.path.join(PROJECT_FOLDER, 'data')
+)
+
+PDF_FOLDER = os.path.abspath(
+    os.path.join(DATA_FOLDER, 'primary_datasets') # ./data/primary_datasets/
+)
+
+CODE_FOLDER = os.path.abspath(
+    os.path.join(PROJECT_FOLDER, 'code')  # ./code/
+)
+
+PDF_FILE_SEARCH = os.path.abspath(
+    os.path.join(PDF_FOLDER, '*.pdf')
+)
+
 PDF_FILES = glob.glob(PDF_FILE_SEARCH)
 
 # make dictionary which has shortened names for the pdf files.

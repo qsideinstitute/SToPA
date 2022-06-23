@@ -14,20 +14,37 @@ import os
 
 pyplot.style.use('bmh')
 
-fig,ax = pyplot.subplots(1,1, figsize=(8,8), constrained_layout=True)
-
-layers = ['railways.json', 'waterways.json', 'buildings.json']
-lcols = ['#333', '#229', '#000']
-lws = [0.5, 1, 5]
-zorders=[-100, -100, 100]
+# layers that go on the map
+_layers = ['railways.json', 'waterways.json', 'buildings.json']
+# layers that get loaded, but won't go on the map.
+_other_layers = ['natural.json','landuse.json']
 
 # TODO: do we want to bother with this dictionary 
 # at all, if the road types will still all get their 
 # own special variables?
 gdfs = {}
-for i,(layer,col,lw,zorder) in enumerate(zip(layers,lcols,lws,zorders)):
-    gdfs[layer] = geopandas.read_file( os.path.join(settings.MAPS_FOLDER, layer) )
+for _layer in _layers:
+    gdfs[_layer] = geopandas.read_file( os.path.join(settings.MAPS_FOLDER, _layer) )
+
+###
+
+for _ol in _other_layers:
+    gdfs[_ol] = geopandas.read_file( os.path.join(settings.MAPS_FOLDER, _ol) )
+    
+#####
+
+# create figure/ax pair.
+
+_lcols = ['#333', '#229', '#000']
+_lws = [0.5, 1, 5]
+_zorders=[-100, -100, 100]
+
+fig,ax = pyplot.subplots(1,1, figsize=(8,8), constrained_layout=True)
+
+
+for i,(layer,col,lw,zorder) in enumerate(zip(_layers,_lcols,_lws,_zorders)):
     gdfs[layer].plot(ax=ax, color=col, lw=lw, zorder=zorder)
+
 
 # Handle the roads carefully to try to highlight important roads the most.
 gdf_road = geopandas.read_file(os.path.join(settings.MAPS_FOLDER, 'roads.json'))

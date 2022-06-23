@@ -5,7 +5,6 @@ import warnings
 
 # Strings of absolute folder locations for the entire project.
 # If you clone the repository, these match that structure, and nothing needs to be done.
-#PROJECT_FOLDER = "/".join(os.path.abspath("").split("/")[:-1]) # get abs path to top level folder
 
 PROJECT_FOLDER = os.path.abspath(
     os.path.dirname( os.path.dirname( __file__ ) ) # ../

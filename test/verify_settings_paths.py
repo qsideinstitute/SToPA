@@ -6,7 +6,7 @@ home directory) are accessible.
 
 '''
 import sys
-import importlib
+from importlib import util
 import os
 
 ##
@@ -19,8 +19,8 @@ os.path.dirname( os.path.dirname(__file__) ),
 
 ##
 # import a py file as a module from a file location.
-spec = importlib.util.spec_from_file_location("placeholder", settings_file)
-settings = importlib.util.module_from_spec(spec)
+spec = util.spec_from_file_location("placeholder", settings_file)
+settings = util.module_from_spec(spec)
 sys.modules["placeholder"] = settings
 
 spec.loader.exec_module(settings)

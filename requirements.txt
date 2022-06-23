@@ -1,0 +1,11 @@
+#
+##### SToPA requirements.txt
+#
+
+fuzzywuzzy
+notebook
+pandas
+python-Levenshtein
+usaddress 
+
+

@@ -1,0 +1,8 @@
+#
+##### SToPA requirements_ocr.txt
+#
+
+opencv-python
+pdf2image
+pytesseract
+tesseract

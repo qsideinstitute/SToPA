@@ -3,6 +3,7 @@
 #
 
 fuzzywuzzy
+jupyterlab
 notebook
 pandas
 python-Levenshtein

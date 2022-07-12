@@ -3,6 +3,7 @@
 #
 
 opencv-python
+jupyterlab
 pdf2image
 pytesseract
 tesseract

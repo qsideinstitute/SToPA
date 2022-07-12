@@ -147,7 +147,7 @@ def check_for_date(page_text):
 
 
 def clean_officer_names(parsed_pages):
-    with open('{}williamston_known_officers.txt'.format(path), 'r') as infile:
+    with open('{}williamstown_known_officers.txt'.format(path), 'r') as infile:
         known_officers = [line.replace("\n", "").strip() for line in infile]
 
     known_officer_ratio = np.array([ratio(o1,o2) for o1, o2 in itertools.combinations(known_officers, 2)])
@@ -411,13 +411,13 @@ def standardize_partial(s, known_list, min_ratio):
     
 def clean_call_actions(parsed_pages):
 
-    with open('{}williamston_known_actions.txt'.format(path), 'r') as infile:
+    with open('{}williamstown_known_actions.txt'.format(path), 'r') as infile:
         known_actions = [line.replace("\n", "").strip() for line in infile]
 
     known_actions_ratio = np.array([ratio(a1,a2) for a1, a2 in itertools.combinations(known_actions, 2)])
     min_actions_ratio = known_actions_ratio.max()
 
-    with open('{}williamston_known_reasons.txt'.format(path), 'r') as infile:
+    with open('{}williamstown_known_reasons.txt'.format(path), 'r') as infile:
         known_reasons = [line.replace("\n", "").strip() for line in infile]
 
     known_reasons_ratio = np.array([ratio(a1,a2) for a1, a2 in itertools.combinations(known_reasons, 2)])

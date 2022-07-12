@@ -14,18 +14,8 @@ from pdf2image import convert_from_path
 from skimage import io
 from skimage.transform import rotate
 
+import src.settings as settings
 from src.processing_tools import get_log_numbers
-
-BLACKLIST = ";{}&£~=%¥€»" # characters we want to specifically exclude from the OCR
-
-CONFIG = '-c tessedit_char_blacklist={} \
-        --psm 1 \
-        --dpi {} \
-        --user-patterns eng.my-patterns \
-        --user-words eng.my-words'.format(BLACKLIST,400)
-
-GIT_REPO = git.Repo(os.path.abspath(""), search_parent_directories=True)
-PROJECT_FOLDER = GIT_REPO.git.rev_parse("--show-toplevel")
 
 
 def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False): 
@@ -41,7 +31,7 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
         Dataframe with tesseeract output for given pages.
     """ 
     # obtain image from pdf
-    pdfpath = f"{PROJECT_FOLDER}/data/primary_datasets/Logs{year}.pdf"
+    pdfpath = f"{settings.PROJECT_FOLDER}/data/primary_datasets/Logs{year}.pdf"
     pages = convert_from_path(pdfpath,
                                   dpi = 300,
                                   first_page = first_page,
@@ -73,7 +63,7 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
         df_ocr=pytesseract.image_to_data(img,
                                 output_type = pytesseract.Output.DATAFRAME,
                                 lang='eng',
-                                config=CONFIG)
+                                config=settings.CONFIG)
         df_ocr.dropna(subset = ["text"], axis = 0, inplace = True)
         
         #Check that page has contents.
@@ -93,7 +83,7 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
             img = img[top_bound:bottom_bound + 1,left_bound:right_bound]
             df_ocr["left"] = df_ocr["left"] - left_bound
             df_ocr["top"] = df_ocr["top"] - top_bound
-            cv.imwrite(f'{PROJECT_FOLDER}/data/{year}_image_logs/page_{first_page + i}.png',img)
+            cv.imwrite(f'{settings.PROJECT_FOLDER}/data/{year}_image_logs/page_{first_page + i}.png',img)
 
             # Sort values.
             df_ocr.sort_values(by = ["top","left"], inplace = True)
@@ -119,7 +109,7 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
 
                     # Add the patch to the Axes
                     ax.add_patch(rect)
-                plt.savefig(f'{PROJECT_FOLDER}/data/{year}_image_bbox_logs/page_{first_page + i}.png')
+                plt.savefig(f'{settings.PROJECT_FOLDER}/data/{year}_image_bbox_logs/page_{first_page + i}.png')
                 plt.close(fig)
             
         os.remove(f"out.png")
@@ -146,7 +136,7 @@ def confirm_parsed_log_entry(df, entry_index = None):
     log_num = entry["log_num"].iloc[-1]
 
     # obtain image from pdf
-    pdfpath = f"{PROJECT_FOLDER}/data/primary_datasets/Logs{year}.pdf"
+    pdfpath = f"{settings.PROJECT_FOLDER}/data/primary_datasets/Logs{year}.pdf"
     page = convert_from_path(pdfpath,
                                   dpi = 300,
                                   first_page = pdf_page,
@@ -176,7 +166,7 @@ def confirm_parsed_log_entry(df, entry_index = None):
     df_ocr=pytesseract.image_to_data(img,
                             output_type = pytesseract.Output.DATAFRAME,
                             lang='eng',
-                            config=CONFIG)
+                            config=settings.CONFIG)
     df_ocr.dropna(subset = ["text"], axis = 0, inplace = True)
 
     #Check that page has contents.

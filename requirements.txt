@@ -2,10 +2,15 @@
 ##### SToPA requirements.txt
 #
 
+deskew
 fuzzywuzzy
+gitpython
 jupyterlab
+matplotlib
 notebook
 pandas
+pyarrow
+PyPDF2
 python-Levenshtein
 usaddress 
 

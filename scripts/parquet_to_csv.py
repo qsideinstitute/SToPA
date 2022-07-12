@@ -12,16 +12,13 @@ import sys
 sys.path.append('..')
 import src as tools
 
-GIT_REPO = git.Repo(os.path.abspath(""), search_parent_directories=True)
-PROJECT_FOLDER = GIT_REPO.git.rev_parse("--show-toplevel")
-
 def main(argv):
     n_pages = 5
     year = argv[0]
     today = str(date.today()).replace("-","_")
 
     # Read available parquet files.
-    my_path = f"{PROJECT_FOLDER}/data/{year}_parquet_logs"
+    my_path = f"{tools.PROJECT_FOLDER}/data/{year}_parquet_logs"
     files = [f for f in listdir(my_path) if isfile(join(my_path, f))]
     files.sort()
 
@@ -32,7 +29,7 @@ def main(argv):
     df_parquet.reset_index(drop = True, inplace = True)
 
     df = tools.parse_ocr_output(df_parquet, int(year))
-    filepath = f"{PROJECT_FOLDER}/data/{today}_parsed_{year}.csv"
+    filepath = f"{tools.PROJECT_FOLDER}/data/{today}_parsed_{year}.csv"
     df.to_csv(filepath)
     print(f"Data printed to {filepath}")
 

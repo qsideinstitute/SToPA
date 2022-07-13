@@ -2,21 +2,16 @@ import logging
 import sys
 import os
 
-# hacky reference to parent directory with settings.
-
-# TODO: decide whether we want project structure to work this way.
-# Alternative is to force users to always interact with the top-level directory
-# only, and import stuff in the "code" subdirectory rather than running it directly.
-sys.path.append(os.path.abspath('..'))
-sys.path.append(os.path.abspath('.'))
 import settings
 
 import cv2 as cv
 import pandas as pd
 from numpy import array
 
-pytesseract = settings.pytesseract
+import pytesseract
 from pdf2image import pdfinfo_from_path,convert_from_path
+
+# Check path to tesseract executable
 pytesseract.pytesseract.tesseract_cmd = settings.TESSERACT_CMD
 
 # TODO: put the level of 5 as a parameter in the settings. (note: this is below logging.DEBUG, at 10)
@@ -42,10 +37,11 @@ def _soft_mkdir(fname):
 def main(argv):
 
     year = argv[0]
+    log_title = f"Logs{year}.pdf"
     logging.info("Parsing logs for {}".format(year))
 
     try:
-        pdfpath = settings.PDF_DICT[ year ]
+        pdfpath = settings.PDF_DICT[log_title]
     except:
         logging.error("Error finding logs. Expecting data in location:")
         logging.error("[PROJECT_FOLDER]/data/primary_datasets/Logs{}.pdf\n".format(year))
@@ -98,7 +94,11 @@ def main(argv):
             df = df.sort_values(['binned', 'left']).dropna() # sort by line number bin, then by x location
             # df.to_csv('data/frames/page_{}.csv'.format(n))  # save dataframe to csv if desired, bounding box included
             df = df.groupby(['binned'],observed=True)['text'].apply(' '.join).reset_index() # join text strings by line
-            text = df['text'].str.strip().str.cat(sep="\n") # clean up string data
+            if df["text"].isna().sum() == df["text"].shape[0]:
+                text = "blank page"
+            else:
+                text = df['text'].str.strip().str.cat(sep="\n") # clean up string data
+            text=text.replace("\n"," ") # make spaces instead of lose info
 
             # TODO: look over/validate this choice. Kept as of 2/25 to be compatible with parsing script
             text=text.replace("\n"," ") # make spaces instead of lose info

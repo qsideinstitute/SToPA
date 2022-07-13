@@ -56,19 +56,19 @@ pip install -U -r requirements_ocr.txt
 The 2019 and 2020 police logs were handed over as printed pdf which were scanned and saved as `Logs2019.pdf` and `Logs2020.pdf`.  These can be found in `data/primary_datasets/`.  During the [2021 QSIDE Datathon4Justice](https://qsideinstitute.org/events/datathon4justice/), we constructed an OCR pipeline to convert these documents to a readable text format. You can do this too, from the `STOPA` directory in a terminal, run
 
 ```
->cd code 
->python pdf_to_text_script.py 2019
+>cd scripts 
+>python pdf_to_parquet.py 2019
 ```
 
-or replace 2019 with whichever year you're interested in.  This will take awhile to run, so be patient.
+or replace 2019 with whichever year you're interested in.  This will take awhile to run, so be patient.  If you want to skip this step, you can find the pre-ocr'd parquet files in google drive [here](https://drive.google.com/drive/folders/1hX4BCCQmcWqxmLGIuPRC2x-6CxXd9adB?usp=sharing).
 
 ## How to Parse the Text Files
 
-After OCR the 2019 and 2020 police logs can be parsed using a script written by [Alexander Gates](https://github.com/ajgates42) (updated slightly for this repository).  To parse the logs for any year, from the `STOPA` directory in your terminal, run
+After OCR the 2019 and 2020 police logs can be parsed as a csv.  To parse the logs for any year, from the `STOPA` directory in your terminal, run
 
 ```
->cd code
->python parse_text_logs_script.py 2019
+>cd scripts
+>python parquet_to_csv.py 2019
 ```
 or replace 2019 with whichever year you're interested in.  If this raises errors it might be the case that you are missing some dependencies, these can be installed using pip (or whatever package management software you prefer).
 

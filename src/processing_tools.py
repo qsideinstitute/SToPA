@@ -347,6 +347,24 @@ def _get_start_end(df, idx):
         
     return start, end
 
+def get_narrative(df, df_parquet):
+    """ Adds narrative test to df.
+    """
+    # Preprocessing
+    df["narrative"] = np.nan
+    for i in df.index:
+        start, end = _get_start_end(df, i)
+        df_i = df_parquet.loc[start:end,]
+
+        # Find narrative text. Precondition: df_i contains all text and position information for log number i.
+        text = " ".join(df_i["text"])
+        text = text[text.find("Narrative:"):]
+        df.loc[i,"narrative"] = text
+
+    # Postprocessing
+    df.loc[pd.isna(df["narrative"]),"narrative"] = ""
+    return df
+
 def parse_ocr_output(df_parquet, year):
     """ Parse parquet file generated in ocr step.
     """
@@ -357,7 +375,7 @@ def parse_ocr_output(df_parquet, year):
     # Merge Date and Log dataframes
     df = df_date_change.merge(df_log_change, how = "outer").sort_values(by = "change_idx")
     df["date"] = df["date"].fillna(method = "ffill")
-    df.dropna(subset = "log_num", inplace = True)
+    df.dropna(subset = ["log_num"], inplace = True)
     df.rename(columns = {"change_idx":"log_start_idx"})
     df.reset_index(drop = True, inplace = True)
 
@@ -385,5 +403,8 @@ def parse_ocr_output(df_parquet, year):
 
     # Get streets
     df = get_streets(df, df_parquet, streets)
+
+    # Get narrative
+    df = get_narrative(df, df_parquet)
     
     return df

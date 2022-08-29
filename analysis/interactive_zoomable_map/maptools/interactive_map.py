@@ -95,27 +95,3 @@ def make_map(df):
 
     # save to a file
     m.save("map.html")
-
-def make_loc_circle_map(df): 
-    return
-    #if using with occurrence data, make separate sheet with copied loc and point columns,
-    #distinct export to 2 other columns in sheet, then use countifs to get total occurrence counts
-
-    df[['lat', 'lon', 'altitude']] = df.point.str.split(', ', expand = True)
-    df['lat'] = df['lat'].str[1:].astype(float)
-    df['lon'] = df['lon'].astype(float)
-    print(df.head)
-    df.to_csv('/Users/porterjohnson/Documents/Math/WilliamstownPoliceModeling/fail.csv')
-    print([['lat', 'lon']])
-    m = folium.Map(location=df[['lat', 'lon']].mean().to_list(), zoom_start=12)
-    
-    for i,r in df.iterrows():
-      folium.Circle(
-      location = (r["lat"], r["lon"]),
-      popup = r["loc"],
-      radius=float(r["occurrences"])*(1/20),
-      color='crimson',
-      fill=True,
-      fill_color='crimson'
-      ).add_to(m)
-    m.save("bubble_map_updated.html")

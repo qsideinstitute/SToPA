@@ -348,7 +348,7 @@ def _get_start_end(df, idx):
     return start, end
 
 def get_narrative(df, df_parquet):
-    """ Adds narrative test to df.
+    """ Adds narrative text to df.
     """
     # Preprocessing
     df["narrative"] = np.nan

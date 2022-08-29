@@ -8,14 +8,14 @@ from geopy.geocoders import Nominatim
 
 ### Functions ###
 
-# helper function to add state + zip for geolocating
 def add_state_zip(v):
+    """This is a helper function to add state and zip code for geolocating."""
     if pd.isna(v):
         return v
     return v + ", Williamstown, 01267"
 
-# helper function to turn addresses into coordinates
 def geolocate(v,geo,cache_dict):
+    """This is a helper function to turn addresses into coordinates."""
     if pd.isna(v):
         return None
     print("Getting geolocation data for " + v + ".")
@@ -30,8 +30,8 @@ def geolocate(v,geo,cache_dict):
             cache_dict[v] = None
             return None
 
-# reads in a dataframe, finds coordinates, and makes an interactive .html map
 def get_coords(df):
+    """This function reads in a dataframe and finds coordinates for addresses."""
     df["street"] = df["street"].apply(add_state_zip)
     geolocator = Nominatim(user_agent="sbrooks_williamstown_ma_usa")
     from geopy.extra.rate_limiter import RateLimiter
@@ -44,9 +44,11 @@ def get_coords(df):
     df.to_csv("df_with_geo_data.csv")
 
 def read_coords():
+    """This helper function reads cached coordinates from a csv file."""
     return pd.read_csv("df_with_geo_data.csv")
 
 def make_map(df):
+    """This function generates an html map from a dataframe."""
     # center to the mean of all points
     m = folium.Map(location=df[["latitude", "longitude"]].mean().to_list(), zoom_start=12)
 
@@ -60,29 +62,30 @@ def make_map(df):
             location = (r["latitude"], r["longitude"])
             picture = "info"
             col = "blue"
-#             if ("motor" in r["status"].lower() or "traffic" in r["status"].lower() or "parking" in r["status"].lower() or "vehicle" in r["status"].lower()):
-#                 picture = "car"
-#                 col = "purple"
             
-#             elif ("building" in r["status"].lower()):
-#                 picture = "building"
-#                 col = "black"
+            if ("motor" in r["call_reason"].lower() or "traffic" in r["call_reason"].lower() or "parking" in r["call_reason"].lower() or "vehicle" in r["call_reason"].lower()):
+                picture = "car"
+                col = "purple"
+                
+            elif ("building" in r["call_reason"].lower()):
+                picture = "building"
+                col = "black"
 
-#             elif ("animal" in r["status"].lower()):
-#                 picture = "bug"
-#                 col = "pink"
+            elif ("animal" in r["call_reason"].lower()):
+                picture = "bug"
+                col = "pink"
 
-#             elif ("fire" in r["status"].lower()):
-#                 picture = "fire"
-#                 col = "red"
+            elif ("fire" in r["call_reason"].lower()):
+                picture = "fire"
+                col = "red"
 
-#             elif ("death" in r["status"].lower()):
-#                 picture = "ambulance"
-#                 col = "darkred"
+            elif ("death" in r["call_reason"].lower()):
+                picture = "ambulance"
+                col = "darkred"
 
-#             elif ("utility" in r["status"].lower()):
-#                 picture = "wrench"
-#                 col = "gray"
+            elif ("utility" in r["call_reason"].lower()):
+                picture = "wrench"
+                col = "gray"
 
             folium.Marker(location=location,
                           popup = str(r["log_num"]) + ", " + str(r["call_reason"]) + ": " + str(r["narrative"]),
@@ -94,6 +97,7 @@ def make_map(df):
     m.save("map.html")
 
 def make_loc_circle_map(df): 
+    return
     #if using with occurrence data, make separate sheet with copied loc and point columns,
     #distinct export to 2 other columns in sheet, then use countifs to get total occurrence counts
 

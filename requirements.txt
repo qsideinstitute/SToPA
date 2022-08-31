@@ -3,7 +3,9 @@
 #
 
 deskew
+folium
 fuzzywuzzy
+geopy
 gitpython
 jupyterlab
 matplotlib
@@ -13,5 +15,3 @@ pyarrow
 PyPDF2
 python-Levenshtein
 usaddress 
-
-

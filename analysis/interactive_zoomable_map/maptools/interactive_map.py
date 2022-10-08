@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import folium
 import csv
+import datetime
 from folium.plugins import MarkerCluster
 from geopy.geocoders import Nominatim
 
@@ -12,7 +13,7 @@ def add_state_zip(v):
     """This is a helper function to add state and zip code for geolocating."""
     if pd.isna(v):
         return v
-    return v + ", Williamstown, 01267"
+    return v + ", Williamstown, 01267, USA"
 
 def geolocate(v,geo,cache_dict):
     """This is a helper function to turn addresses into coordinates."""
@@ -47,10 +48,11 @@ def read_coords():
     """This helper function reads cached coordinates from a csv file."""
     return pd.read_csv("df_with_geo_data.csv")
 
-def make_map(df):
+def make_map(df,center="auto"):
     """This function generates an html map from a dataframe."""
     # center to the mean of all points
-    m = folium.Map(location=df[["latitude", "longitude"]].mean().to_list(), zoom_start=12)
+    location = df[["latitude", "longitude"]].mean().to_list() if center == "auto" else center
+    m = folium.Map(location, zoom_start=12)
 
     # if the points are too close to each other, cluster them, create a cluster overlay with MarkerCluster
     marker_cluster = MarkerCluster().add_to(m)
@@ -87,9 +89,19 @@ def make_map(df):
                 picture = "wrench"
                 col = "gray"
 
+            try:
+                date = datetime.datetime.strptime(r["call_datetime"], "%Y-%m-%d %H:%M:%S")
+                date_text = date.strftime("%m/%d/%Y, %I:%M%p").lower()
+            except:
+                date_text = ""
+
+            pdf_page_link = "<a href=../../data/primary_datasets/Logs2019.pdf#page={} target=\"blank\" rel=\"noopener noreferrer\">Log No. {}</a>".format(r["pdf_page"], str(r["log_num"]))
+            tooltip_text = str(r["street"]) + "<br>" + date_text
+            popup_text = pdf_page_link + "<br>" + tooltip_text + "<br>" + "Call Reason:" + "<br>" + str(r["call_reason"]) + "<br>" + "Narrative:" + "<br>" + str(r["narrative"]) + "<br>"
+            popup = folium.Popup(popup_text, min_width=300, max_width=300)
             folium.Marker(location=location,
-                          popup = str(r["log_num"]) + ", " + str(r["call_reason"]) + ": " + str(r["narrative"]),
-                          tooltip = str(r["street"]) + ": " + str(r["call_datetime"]),
+                          popup = popup,
+                          tooltip = tooltip_text,
                           icon = folium.Icon(color = col,icon = picture, prefix = 'fa'))\
             .add_to(marker_cluster)
 

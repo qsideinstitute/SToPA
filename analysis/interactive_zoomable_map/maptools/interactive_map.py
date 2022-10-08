@@ -4,7 +4,7 @@ import numpy as np
 import folium
 import csv
 import datetime
-from folium.plugins import MarkerCluster
+from folium.plugins import MarkerCluster, FeatureGroupSubGroup
 from geopy.geocoders import Nominatim
 
 ### Functions ###
@@ -55,7 +55,13 @@ def make_map(df,center="auto"):
     m = folium.Map(location, zoom_start=12)
 
     # if the points are too close to each other, cluster them, create a cluster overlay with MarkerCluster
-    marker_cluster = MarkerCluster().add_to(m)
+    marker_cluster = MarkerCluster(control=False)
+    vehicle_layer = FeatureGroupSubGroup(marker_cluster, 'Vehicles and Traffic')
+    other_layer = FeatureGroupSubGroup(marker_cluster, 'Other')
+    m.add_child(marker_cluster)
+    m.add_child(other_layer)
+    m.add_child(vehicle_layer)
+    folium.LayerControl().add_to(m)
 
     # draw the markers and assign popup and hover texts
     # add the markers the the cluster layers so that they are automatically clustered
@@ -99,11 +105,14 @@ def make_map(df,center="auto"):
             tooltip_text = str(r["street"]) + "<br>" + date_text
             popup_text = pdf_page_link + "<br>" + tooltip_text + "<br>" + "Call Reason:" + "<br>" + str(r["call_reason"]) + "<br>" + "Narrative:" + "<br>" + str(r["narrative"]) + "<br>"
             popup = folium.Popup(popup_text, min_width=300, max_width=300)
-            folium.Marker(location=location,
+            marker = folium.Marker(location=location,
                           popup = popup,
                           tooltip = tooltip_text,
-                          icon = folium.Icon(color = col,icon = picture, prefix = 'fa'))\
-            .add_to(marker_cluster)
+                          icon = folium.Icon(color = col,icon = picture, prefix = 'fa'))
+            if ("motor" in r["call_reason"].lower() or "traffic" in r["call_reason"].lower() or "parking" in r["call_reason"].lower() or "vehicle" in r["call_reason"].lower()):
+                marker.add_to(vehicle_layer)
+            else:
+                marker.add_to(other_layer)
 
     # save to a file
     m.save("map.html")

@@ -7,5 +7,7 @@ To create an interactive map:
 
 ```
 import maptools
-maptools.make_map(maptools.read_coords())
+maptools.make_map(maptools.read_coords(), [center_latitude, center_longitude])
 ```
+
+Where `center_latitude` and `center_longitude` are the coordinates you want to center your map on. If this argument is left blank, the center will be estimated from your location data.

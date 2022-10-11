@@ -38,6 +38,7 @@
   function currentAttributes() {
       var result = new Map();
       result.set("call-reason", $('#call-reason').val());
+      result.set("call-taker", $('#call-taker').val());
       return result;
   }
 
@@ -47,12 +48,12 @@
    	  if (!marker_cluster.hasLayer(marker)) {
    	      marker.addTo(marker_cluster);
    	  }
-	  if (attributes.get("call-reason") == "All reasons") {
-	      return
-	  }
-   	  if (marker.attributes["call-reason"] != attributes.get("call-reason")) {
+   	  if (marker.attributes["call-reason"] != attributes.get("call-reason") && attributes.get("call-reason") != "All reasons") {
    	      marker_cluster.removeLayer(marker);
    	  }
+	  if (marker.attributes["call-taker"] != attributes.get("call-taker") && attributes.get("call-taker") != "All call takers") {
+	      marker_cluster.removeLayer(marker);
+	  }
        });
   }
 

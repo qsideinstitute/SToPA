@@ -7,7 +7,10 @@ df = pd.read_csv("df_with_geo_data.csv")
 output = ""
 
 selector_name = "call-reason"
+selector_name2 = "call-taker"
+
 all_option_name = "All reasons"
+all_option_name2 = "All call takers"
 
 with open("map_template.html",'r') as f:
     lines = f.readlines()
@@ -15,11 +18,20 @@ with open("map_template.html",'r') as f:
         output += line
         if (line == "  <!--SELECTORS-->\n"):
             output += "<select name=\"" + selector_name + "\" class=\"custom-select\" id=\""+selector_name+"\" onchange=\"updateMap()\">\n<option value=\""+all_option_name+"\">"+all_option_name+"</option>\n"
+
             list_of_reasons = list(set(df['call_reason']))
             list_of_reasons.sort()
             for reason in list_of_reasons:
                 output += "<option value=\"" + reason + "\">" + reason + "</option>\n"
-            output += "</select"
+            output += "</select>"
+
+            output += "<select name=\"" + selector_name2 + "\" class=\"custom-select\" id=\""+selector_name2+"\" onchange=\"updateMap()\">\n<option value=\""+all_option_name2+"\">"+all_option_name2+"</option>\n"
+            list_of_officers = list(set(df['call_taker']))
+            list_of_officers.sort()
+            for officer in list_of_officers:
+                output += "<option value=\"" + officer + "\">" + officer + "</option>\n"
+            output += "</select>"
+            
                 
         elif (line == "  //MAP\n"):
             map_coords = [42.7, -73.2]
@@ -48,13 +60,14 @@ with open("map_template.html",'r') as f:
                 date_time = date_time_object.strftime("%m/%d/%Y, %I:%M%p").lower() if not date_time_object is None else ""
                 year = date_time_object.strftime("%Y") if not date_time_object is None else "No date/time found."
                 call_reason = row['call_reason']
+                call_taker = row['call_taker']
                 narrative = row['narrative'].replace("\"", "\\\"") if row['narrative'] == row['narrative'] else ""
-                py_dict = {"pdf_page": pdf_page, "street": street, "date_time": date_time, "call-reason": call_reason, "narrative": narrative}
+                py_dict = {"pdf_page": pdf_page, "street": street, "date_time": date_time, "call-reason": call_reason, "narrative": narrative, "call-taker": call_taker}
                 
                 output += "var " + marker_label + " = L.marker(" + str_coords + ",{icon: myIcon});\n"
                 output += marker_label + ".attributes = {" + ", ".join(["\"" + str(key) + "\": \"" + str(value) + "\"" for key, value in zip(py_dict.keys(), py_dict.values())])+ "}\n"
-                output += "var " + popup_label + " = L.popup({\"maxWidth\": 300, \"minWidth\": 300});\n"
-                output += "var " + html_label + " = $(`<div id=\"" + html_label + "\" style=\"width: 100.0%; height: 100.0%;\"><a href=../../data/primary_datasets/Logs{}.pdf#page={} target=\"blank\" rel=\"noopener noreferrer\">Log No. {}</a><br>{}<br>{}<br>Call Reason:<br>{}<br>Narrative:<br>{}</div>`)[0];\n".format(year, str(pdf_page), str(row['log_num']), street, date_time, call_reason, narrative)
+                output += "var " + popup_label + " = L.popup({\"maxWidth\": 400, \"minWidth\": 400});\n"
+                output += "var " + html_label + " = $(`<div id=\"" + html_label + "\" style=\"width: 100.0%; height: 100.0%;\"><a href=../../data/primary_datasets/Logs{}.pdf#page={} target=\"blank\" rel=\"noopener noreferrer\">Log No. {}</a><br>{}<br>{}<br>Call Reason: {}<br>Call Taker: {}<br>Narrative:<br>{}</div>`)[0];\n".format(year, str(pdf_page), str(row['log_num']), street, date_time, call_reason, call_taker, narrative)
                 output += popup_label + ".setContent(" + html_label + ");\n"
                 output += marker_label + ".bindPopup(" + popup_label + ");\n"
                 output += marker_label + ".bindTooltip(\n`<div>" + street + "</div>`,{\"sticky\": true});\n"

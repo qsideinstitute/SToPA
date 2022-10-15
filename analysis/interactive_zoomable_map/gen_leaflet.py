@@ -15,6 +15,7 @@ class MapWriter():
 
     
     def __init__(self):
+        self._primary_data_path = "../../data/primary_datasets"
         self._df_origin = "./df_with_geo_data.csv"
         self._template_path = "./map_template.html"
         self._target_path = "./map_out.html"
@@ -108,7 +109,7 @@ class MapWriter():
             result += "var " + marker_label + " = L.marker(" + str_coords + ",{icon: myIcon});\n"
             result += marker_label + ".attributes = {" + ", ".join(["\"" + str(key) + "\": \"" + str(value) + "\"" for key, value in zip(py_dict.keys(), py_dict.values())])+ "}\n"
             result += "var " + popup_label + " = L.popup({\"maxWidth\": 400, \"minWidth\": 400});\n"
-            result += "var " + html_label + " = $(`<div id=\"" + html_label + "\" style=\"width: 100.0%; height: 100.0%;\"><a href=../../data/primary_datasets/Logs{}.pdf#page={} target=\"blank\" rel=\"noopener noreferrer\">Log No. {}</a><br>{}<br>{}<br>Call Reason: {}<br>Call Taker: {}<br>Narrative:<br>{}</div>`)[0];\n".format(year, str(pdf_page), str(row['log_num']), street, date_time, call_reason, call_taker, narrative)
+            result += "var " + html_label + " = $(`<div id=\"" + html_label + "\" style=\"width: 100.0%; height: 100.0%;\"><a href=" + self._primary_data_path + "/Logs{}.pdf#page={} target=\"blank\" rel=\"noopener noreferrer\">Log No. {}</a><br>{}<br>{}<br>Call Reason: {}<br>Call Taker: {}<br>Narrative:<br>{}</div>`)[0];\n".format(year, str(pdf_page), str(row['log_num']), street, date_time, call_reason, call_taker, narrative)
             result += popup_label + ".setContent(" + html_label + ");\n"
             result += marker_label + ".bindPopup(" + popup_label + ");\n"
             result += marker_label + ".bindTooltip(\n`<div>" + street + "</div>`,{\"sticky\": true});\n"

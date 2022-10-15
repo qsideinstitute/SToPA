@@ -27,36 +27,10 @@
 </head>
 <body>
   <!--SELECTORS-->
-  <!--END_SELECTORS-->
   <div id="map"></div>
 </body>
 <script>
   //MAP
-  var attributes;
-  updateMap();
-
-  function currentAttributes() {
-      var result = new Map();
-      result.set("call-reason", $('#call-reason').val());
-      result.set("call-taker", $('#call-taker').val());
-      return result;
-  }
-
-  function updateMap() {
-      attributes = currentAttributes();
-      markers.forEach(function(key, marker){
-   	  if (!marker_cluster.hasLayer(marker)) {
-   	      marker.addTo(marker_cluster);
-   	  }
-   	  if (marker.attributes["call-reason"] != attributes.get("call-reason") && attributes.get("call-reason") != "All reasons") {
-   	      marker_cluster.removeLayer(marker);
-   	  }
-	  if (marker.attributes["call-taker"] != attributes.get("call-taker") && attributes.get("call-taker") != "All call takers") {
-	      marker_cluster.removeLayer(marker);
-	  }
-       });
-  }
-
-  //ENDMAP
+  //FUNCTIONS
 
 </script>

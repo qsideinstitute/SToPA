@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 # Read original data from csv.
-df = pd.read_csv("data.csv")
+df = pd.read_csv(config.df_origin)
 # Geolocate addresses from address column if needed.
 g = maptools.Geolocator(state_zip = config.state_zip, user_agent_name = config.user_agent_name)
 if not config.appended_df_filename in os.listdir():

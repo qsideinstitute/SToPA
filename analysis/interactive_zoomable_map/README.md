@@ -1,13 +1,15 @@
-To create an interactive map:
+# Interactive Maps
 
-0. Open `interactive_map.py` and edit your Nominatim user_agent name (no need to set this up elsewhere).
-1. Load in a pandas dataframe `df` with a 'street' column containing addresses.
-2. Navigate to this directory `/interactive_zoomable_map`, import maptools, and run `maptools.get_coords(df)`. This may take a while depending on the number of unique addresses in your dataset.
-3. Step 2 generates an extended csv file called df_with_geo_data.csv. You can turn this directly into a map from a python shell with:
+Create interactive, filterable maps using Leaflet.js. By default, run `python main.py` from this folder and check out the output in `map_out.html` using a browser.
 
-```
-import maptools
-maptools.make_map(maptools.read_coords(), [center_latitude, center_longitude])
-```
+If address data cannot be found in `addresses.py`, running `main.py` also generates a new csv file (`addresses.csv` by default) that contains an augmented version of the original data, including the old csv columns as well as a few columns with csv data.
 
-Where `center_latitude` and `center_longitude` are the coordinates you want to center your map on. If this argument is left blank, the center will be estimated from your location data.
+## Using `config.py` options
+
+0. If you wish to fetch latitude/longitude data based on addresses, in `config.py`, edit your Nominatim `user_agent_name` (no need to set this up elsewhere - read the Nominatim terms of use for more information). Address data for the SToPA Williamstown dataset exists by default in the project folder in `addresses.csv`.
+1. If you wish to create a map with your own data from scratch, you will need to edit some options in `config.py`. You will notably need to edit the `df_origin`, `address_colname`, `state_zip`, `selector_data`, `coords`, and perhaps `primary_data_path` fields. The form and function of each of these fields is documented in `config.py`.
+2. Then, run `python main.py` from this folder to generate a new `addresses.csv` file and map output.
+
+## `maptools` module
+
+If you wish to work with geolocation and map creation in a more modular way, you can `import maptools` from a Python shell or use a Jupyter notebook (the notebook `maptools_notebook.ipynb` is included in the project folder and contains a "getting started" example similar to the code in `main.py`). In either case, you can directly create instances of `Geolocator` and `MapWriter` and invoke functions.

@@ -10,8 +10,8 @@ class MapWriter():
 
     Parameters
     ----------
-    df_origin : string
-        The name of the file where original address data is stored.
+    df_with_coords : string
+        The name of the file where address data with coordinates is stored.
     target_path : string
         The output file path for the map.
     selector_data : dict[string, string]
@@ -20,6 +20,8 @@ class MapWriter():
         The coordinates [latitude, longitude] to center the map when it is first opened.
     init_zoom : int
         The initial zoom level of the map.
+    primary_data_path : string
+        The path where original data can be found. To be used to assist in identifying and correcting OCR errors.
     latitude_colname : string, default "latitude"
         The name for the column containing latitude data, to be written to the output df.
     longitude_colname : string, default "longitude"
@@ -27,7 +29,7 @@ class MapWriter():
     """
 
     
-    slots = ("_df_origin", "_target_path", "_df", "_output", "_selector_names", "_coords", "_init_zoom", "_latitude_colname", "_longitude_colname")
+    slots = ("_df_with_coords", "_target_path", "_df", "_output", "_selector_names", "_coords", "_init_zoom", "_latitude_colname", "_longitude_colname", "_primary_data_path")
 
     
     @staticmethod
@@ -35,11 +37,11 @@ class MapWriter():
         return s.replace("_", "-")
 
     
-    def __init__(self, df_origin, target_path, selector_data, coords, init_zoom, latitude_colname = "latitude", longitude_colname = "longitude", primary_data_path):
+    def __init__(self, df_with_coords, target_path, selector_data, coords, init_zoom, primary_data_path, latitude_colname = "latitude", longitude_colname = "longitude"):
         self._primary_data_path = primary_data_path
-        self._df_origin = df_origin
+        self._df_with_coords = df_with_coords
         self._target_path = target_path
-        self._df = pd.read_csv(self._df_origin)
+        self._df = pd.read_csv(self._df_with_coords)
         self._selector_names = selector_data
         self._coords = coords
         # TODO: calculate coords using average of df coords

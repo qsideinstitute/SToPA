@@ -1,6 +1,6 @@
 # Interactive Maps
 
-Create interactive, filterable maps using Leaflet.js. By default, run `python main.py` from this folder and check out the output in `map_out.html` using a browser.
+Create interactive, filterable maps using Leaflet.js. By default, run `python main.py` from this folder and check out the output in `output_map.html` using a browser.
 
 If address data cannot be found in `addresses.py`, running `main.py` also generates a new csv file (`addresses.csv` by default) that contains an augmented version of the original data, including the old csv columns as well as a few columns with csv data.
 

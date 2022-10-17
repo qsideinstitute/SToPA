@@ -11,13 +11,10 @@ if not config.appended_df_filename in os.listdir():
     g.get_coords(df, address_colname = config.address_colname, outf = config.appended_df_filename)
 
 # Read geolocation data and generate interactive filterable map.
-df = g.read_coords()
-mw = maptools.MapWriter(df_origin = config.df_origin,
+mw = maptools.MapWriter(df_with_coords = config.appended_df_filename,
                         target_path = config.target_path,
                         selector_data = config.selector_data,
                         coords = config.coords,
                         init_zoom = config.init_zoom,
-                        latitude_colname = config.latitude_colname,
-                        longitude_colname = config.longitude_colname,
                         primary_data_path = config.primary_data_path)
 mw.write_template_to_html()

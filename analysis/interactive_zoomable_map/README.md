@@ -6,7 +6,7 @@ If address data cannot be found in `addresses.py`, running `main.py` also genera
 
 ## Using `config.py` options
 
-0. If you wish to fetch latitude/longitude data based on addresses, in `config.py`, edit your Nominatim `user_agent_name` (no need to set this up elsewhere - read the Nominatim terms of use for more information). Address data for the SToPA Williamstown dataset exists by default in the project folder in `addresses.csv`.
+0. If you wish to fetch latitude/longitude data based on addresses, in `config.py`, edit your Nominatim `user_agent_name` (no need to set this up elsewhere - read the Nominatim terms of use for more information). Address data for the SToPA Williamstown dataset exists by default in the project folder in `addresses.csv`. Fetching coordinates may take a few minutes.
 1. If you wish to create a map with your own data from scratch, you will need to edit some options in `config.py`. You will notably need to edit the `df_origin`, `address_colname`, `state_zip`, `selector_data`, `coords`, and perhaps `primary_data_path` fields. The form and function of each of these fields is documented in `config.py`.
 2. Then, run `python main.py` from this folder to generate a new `addresses.csv` file and map output.
 

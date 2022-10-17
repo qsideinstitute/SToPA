@@ -1,118 +1,135 @@
 ### Imports ###
+from os import path
 import pandas as pd
 import numpy as np
-import folium
-import csv
 import datetime
-from folium.plugins import MarkerCluster, FeatureGroupSubGroup
-from geopy.geocoders import Nominatim
 
-### Functions ###
+class MapWriter():
+    """
+    A class that generates an HTML map file, including JavaScript for managing data visualization, from a dataframe containing geographic data.
 
-def add_state_zip(v):
-    """This is a helper function to add state and zip code for geolocating."""
-    if pd.isna(v):
-        return v
-    return v + ", Williamstown, 01267, USA"
+    Parameters
+    ----------
 
-def geolocate(v,geo,cache_dict):
-    """This is a helper function to turn addresses into coordinates."""
-    if pd.isna(v):
-        return None
-    print("Getting geolocation data for " + v + ".")
-    if v in cache_dict.keys():
-        return cache_dict[v]
-    else:
-        try:
-            result = geo.geocode(v)
-            cache_dict[v] = result
-            return result
-        except:
-            cache_dict[v] = None
-            return None
+    """
 
-def get_coords(df):
-    """This function reads in a dataframe and finds coordinates for addresses."""
-    df["street"] = df["street"].apply(add_state_zip)
-    geolocator = Nominatim(user_agent="sbrooks_williamstown_ma_usa")
-    from geopy.extra.rate_limiter import RateLimiter
-    geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
-    cache_dict = {}
-    df["loc"] = df["street"].apply(geolocate, args = (geolocator, cache_dict))
-    df["point"]= df["loc"].apply(lambda loc: tuple(loc.point) if loc else None)
-    df[["latitude", "longitude", "altitude"]] = pd.DataFrame(df["point"].to_list(), index=df.index)
-    # Cache geolocation data
-    df.to_csv("df_with_geo_data.csv")
+    slots = ("_df_origin", "_target_path", "_df", "_output", "_selector_names", "_coords", "_init_zoom", "_latitude_colname", "_longitude_colname")
 
-def read_coords():
-    """This helper function reads cached coordinates from a csv file."""
-    return pd.read_csv("df_with_geo_data.csv")
+    
+    @staticmethod
+    def html_friendly_name(s):
+        return s.replace("_", "-")
 
-def make_map(df,center="auto"):
-    """This function generates an html map from a dataframe."""
-    # center to the mean of all points
-    location = df[["latitude", "longitude"]].mean().to_list() if center == "auto" else center
-    m = folium.Map(location, zoom_start=12)
+    
+    def __init__(self, df_origin = "./addresses.csv"):
+        self._primary_data_path = "../../data/primary_datasets"
+        self._df_origin = df_origin
+        self._target_path = "./map_out.html"
+        self._df = pd.read_csv(self._df_origin)
+        self._selector_names = {"call_reason": "All reasons", "call_taker": "All call takers", "street": "All streets"}
+        self._coords = [42.7, -73.2]
+        self._init_zoom = 12
+        self._latitude_colname = "latitude"
+        self._longitude_colname = "longitude"
 
-    # if the points are too close to each other, cluster them, create a cluster overlay with MarkerCluster
-    marker_cluster = MarkerCluster(control=False)
-    vehicle_layer = FeatureGroupSubGroup(marker_cluster, 'Vehicles and Traffic')
-    other_layer = FeatureGroupSubGroup(marker_cluster, 'Other')
-    m.add_child(marker_cluster)
-    m.add_child(other_layer)
-    m.add_child(vehicle_layer)
-    folium.LayerControl().add_to(m)
 
-    # draw the markers and assign popup and hover texts
-    # add the markers the the cluster layers so that they are automatically clustered
-    for i,r in df.iterrows():
-        if not(pd.isna(r["street"])) and not(pd.isna(r["latitude"])):
-            location = (r["latitude"], r["longitude"])
-            picture = "info"
-            col = "blue"
+    def selector_html(self):
+        result = ""
+        for selection_box in self._selector_names:
+            result += "<select name=\"" + MapWriter.html_friendly_name(selection_box) + "\" class=\"custom-select\" id=\""+ MapWriter.html_friendly_name(selection_box) +"\" onchange=\"updateMap()\">\n<option value=\"" + self._selector_names[selection_box]  + "\">" + self._selector_names[selection_box] + "</option>\n"
+            list_of_reasons = list(set(self._df[selection_box]))
+            list_of_reasons.sort()
+            for reason in list_of_reasons:
+                result += "<option value=\"" + reason + "\">" + reason + "</option>\n"
+            result += "</select>\n"
+        return result
+
+
+    def write_template_to_html(self):
+        print("Locating template...")
+        path_to_template = path.join(path.dirname(__file__), "src/map_template.html")
+        self._output = ""
+        print("Creating map HTML...")
+        with open(path_to_template,'r') as f:
+            lines = f.readlines()
+            for line in lines:
+                self._output += line
+                if (line == "  <!--SELECTORS-->\n"):
+                    self._output += self.selector_html()
+                elif (line == "  //MAP\n"):
+                    self._output += self.map_html()
+                elif (line == "  //FUNCTIONS\n"):
+                    self._output += self.functions()
+        with open(self._target_path, 'w') as f:
+            f.write(self._output)
+            print("Done.")
+
             
-            if ("motor" in r["call_reason"].lower() or "traffic" in r["call_reason"].lower() or "parking" in r["call_reason"].lower() or "vehicle" in r["call_reason"].lower()):
-                picture = "car"
-                col = "purple"
+    def functions(self):
+        result = ""
+        result += "function currentAttributes() {\n"
+        result += "var result = new Map();\n"
+        for selection_box in self._selector_names:
+            result += "result.set(\"" + MapWriter.html_friendly_name(selection_box) + "\", $(\'#" + MapWriter.html_friendly_name(selection_box) + "\').val());\n"
+        result += "return result;\n"
+        result += "}\n"
+
+        result += "function updateMap() {\n"
+        result += "attributes = currentAttributes();\n"
+        result += "markers.forEach(function(key, marker) {\n"
+        result += "if (!marker_cluster.hasLayer(marker)) {\n"
+        result += "marker.addTo(marker_cluster);\n"
+        result += "}"
+        for selection_box in self._selector_names:
+            result += "if (marker.attributes[\"" + MapWriter.html_friendly_name(selection_box) + "\"] != attributes.get(\"" + MapWriter.html_friendly_name(selection_box) + "\") && attributes.get(\"" + MapWriter.html_friendly_name(selection_box) + "\") != \"" + self._selector_names[selection_box] + "\") {\n"
+            result += "marker_cluster.removeLayer(marker);\n"
+            result += "}\n"
+        result += "});\n}\n"
+
+        return result
+
+    
+    def map_html(self):
+        result = ""
+        result += "var map = L.map(\"map\").setView(" + str(self._coords) + ", " + str(self._init_zoom) + ")\n"
+        result += "var tileLayer = L.tileLayer(\'https://tile.openstreetmap.org/{z}/{x}/{y}.png\', {\nmaxZoom: 18, attribution: \'&copy; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>\'\n}).addTo(map);\n"
+        result += "var marker_cluster = L.markerClusterGroup({});\nmap.addLayer(marker_cluster);"
+        result += "var myIcon = L.AwesomeMarkers.icon({\"extraClasses\": \"fa-rotate-0\", \"icon\": \"building\", \"iconColor\": \"white\", \"markerColor\": \"black\", \"prefix\": \"fa\"});\n" # TODO implement icon options
+        result += "let markers = new Map();\n"
+
+        for lab, row in self._df.iterrows():
+            marker_coords = list(row[[self._latitude_colname,self._longitude_colname]])
+            if False in [marker_coords[i] == marker_coords[i] for i in range(len(marker_coords))]:
+                continue
+            str_coords = str(marker_coords)
+            marker_label = "marker" + str(lab)
+            popup_label = "popup" + str(lab)
+            html_label = "popupHtml" + str(lab)
+
+            ### Data ###
+            # TODO modularize, abstract, implement option to format popups and other displays
+            pdf_page = row['pdf_page']
+            street = row['street']
+            date_time_object = datetime.datetime.strptime(row["call_datetime"], "%Y-%m-%d %H:%M:%S")if row["call_datetime"] == row["call_datetime"] else None
+            date_time = date_time_object.strftime("%m/%d/%Y, %I:%M%p").lower() if not date_time_object is None else ""
+            year = date_time_object.strftime("%Y") if not date_time_object is None else "No date/time found."
+            call_reason = row['call_reason']
+            call_taker = row['call_taker']
+            narrative = row['narrative'].replace("\"", "\\\"") if row['narrative'] == row['narrative'] else ""
+            py_dict = {"pdf_page": pdf_page, "street": street, "date_time": date_time, "call-reason": call_reason, "narrative": narrative, "call-taker": call_taker}
                 
-            elif ("building" in r["call_reason"].lower()):
-                picture = "building"
-                col = "black"
+            result += "var " + marker_label + " = L.marker(" + str_coords + ",{icon: myIcon});\n"
+            result += marker_label + ".attributes = {" + ", ".join(["\"" + str(key) + "\": \"" + str(value) + "\"" for key, value in zip(py_dict.keys(), py_dict.values())])+ "}\n"
+            result += "var " + popup_label + " = L.popup({\"maxWidth\": 400, \"minWidth\": 400});\n"
+            result += "var " + html_label + " = $(`<div id=\"" + html_label + "\" style=\"width: 100.0%; height: 100.0%;\"><a href=" + self._primary_data_path + "/Logs{}.pdf#page={} target=\"blank\" rel=\"noopener noreferrer\">Log No. {}</a><br>{}<br>{}<br>Call Reason: {}<br>Call Taker: {}<br>Narrative:<br>{}</div>`)[0];\n".format(year, str(pdf_page), str(row['log_num']), street, date_time, call_reason, call_taker, narrative)
+            result += popup_label + ".setContent(" + html_label + ");\n"
+            result += marker_label + ".bindPopup(" + popup_label + ");\n"
+            result += marker_label + ".bindTooltip(\n`<div>" + street + "</div>`,{\"sticky\": true});\n"
+            result += marker_label + ".addTo(marker_cluster);\n"
 
-            elif ("animal" in r["call_reason"].lower()):
-                picture = "bug"
-                col = "pink"
+            result += "markers.set(" + marker_label + ", " + str(lab) + ");\n"
 
-            elif ("fire" in r["call_reason"].lower()):
-                picture = "fire"
-                col = "red"
+        result += "var attributes\n"
+        result += "updateMap()\n"
 
-            elif ("death" in r["call_reason"].lower()):
-                picture = "ambulance"
-                col = "darkred"
-
-            elif ("utility" in r["call_reason"].lower()):
-                picture = "wrench"
-                col = "gray"
-
-            try:
-                date = datetime.datetime.strptime(r["call_datetime"], "%Y-%m-%d %H:%M:%S")
-                date_text = date.strftime("%m/%d/%Y, %I:%M%p").lower()
-            except:
-                date_text = ""
-
-            pdf_page_link = "<a href=../../data/primary_datasets/Logs2019.pdf#page={} target=\"blank\" rel=\"noopener noreferrer\">Log No. {}</a>".format(r["pdf_page"], str(r["log_num"]))
-            tooltip_text = str(r["street"]) + "<br>" + date_text
-            popup_text = pdf_page_link + "<br>" + tooltip_text + "<br>" + "Call Reason:" + "<br>" + str(r["call_reason"]) + "<br>" + "Narrative:" + "<br>" + str(r["narrative"]) + "<br>"
-            popup = folium.Popup(popup_text, min_width=300, max_width=300)
-            marker = folium.Marker(location=location,
-                          popup = popup,
-                          tooltip = tooltip_text,
-                          icon = folium.Icon(color = col,icon = picture, prefix = 'fa'))
-            if ("motor" in r["call_reason"].lower() or "traffic" in r["call_reason"].lower() or "parking" in r["call_reason"].lower() or "vehicle" in r["call_reason"].lower()):
-                marker.add_to(vehicle_layer)
-            else:
-                marker.add_to(other_layer)
-
-    # save to a file
-    m.save("map.html")
+        return result

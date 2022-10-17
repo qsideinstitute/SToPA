@@ -10,9 +10,23 @@ class MapWriter():
 
     Parameters
     ----------
-
+    df_origin : string
+        The name of the file where original address data is stored.
+    target_path : string
+        The output file path for the map.
+    selector_data : dict[string, string]
+        A dictionary of data for use in generating JavaScript selector boxes. Each dictionary entry consists of the df column name (from df_origin) to use to generate the options for the selector, and the default option name.
+    coords : list[float, float]
+        The coordinates [latitude, longitude] to center the map when it is first opened.
+    init_zoom : int
+        The initial zoom level of the map.
+    latitude_colname : string, default "latitude"
+        The name for the column containing latitude data, to be written to the output df.
+    longitude_colname : string, default "longitude"
+        The name for the column containing longitude data, to be written to the output df.
     """
 
+    
     slots = ("_df_origin", "_target_path", "_df", "_output", "_selector_names", "_coords", "_init_zoom", "_latitude_colname", "_longitude_colname")
 
     
@@ -21,19 +35,21 @@ class MapWriter():
         return s.replace("_", "-")
 
     
-    def __init__(self, df_origin = "./addresses.csv"):
-        self._primary_data_path = "../../data/primary_datasets"
+    def __init__(self, df_origin, target_path, selector_data, coords, init_zoom, latitude_colname = "latitude", longitude_colname = "longitude", primary_data_path):
+        self._primary_data_path = primary_data_path
         self._df_origin = df_origin
-        self._target_path = "./map_out.html"
+        self._target_path = target_path
         self._df = pd.read_csv(self._df_origin)
-        self._selector_names = {"call_reason": "All reasons", "call_taker": "All call takers", "street": "All streets"}
-        self._coords = [42.7, -73.2]
-        self._init_zoom = 12
-        self._latitude_colname = "latitude"
-        self._longitude_colname = "longitude"
+        self._selector_names = selector_data
+        self._coords = coords
+        # TODO: calculate coords using average of df coords
+        self._init_zoom = init_zoom
+        self._latitude_colname = latitude_colname
+        self._longitude_colname = longitude_colname
 
 
     def selector_html(self):
+        """Generates HTML for selection boxes."""
         result = ""
         for selection_box in self._selector_names:
             result += "<select name=\"" + MapWriter.html_friendly_name(selection_box) + "\" class=\"custom-select\" id=\""+ MapWriter.html_friendly_name(selection_box) +"\" onchange=\"updateMap()\">\n<option value=\"" + self._selector_names[selection_box]  + "\">" + self._selector_names[selection_box] + "</option>\n"
@@ -46,6 +62,7 @@ class MapWriter():
 
 
     def write_template_to_html(self):
+        """Generates HTML and JS for the map and writes the map to the output file path."""
         print("Locating template...")
         path_to_template = path.join(path.dirname(__file__), "src/map_template.html")
         self._output = ""
@@ -66,6 +83,7 @@ class MapWriter():
 
             
     def functions(self):
+        """Generates JS for functions that control map filtering."""
         result = ""
         result += "function currentAttributes() {\n"
         result += "var result = new Map();\n"
@@ -90,6 +108,7 @@ class MapWriter():
 
     
     def map_html(self):
+        """Generates JS for map markers, icons, popups, and tooltips and the map itself."""
         result = ""
         result += "var map = L.map(\"map\").setView(" + str(self._coords) + ", " + str(self._init_zoom) + ")\n"
         result += "var tileLayer = L.tileLayer(\'https://tile.openstreetmap.org/{z}/{x}/{y}.png\', {\nmaxZoom: 18, attribution: \'&copy; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>\'\n}).addTo(map);\n"

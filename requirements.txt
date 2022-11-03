@@ -2,6 +2,7 @@
 ##### SToPA requirements.txt
 #
 
+
 deskew
 folium
 fuzzywuzzy
@@ -10,6 +11,7 @@ gitpython
 jupyterlab
 matplotlib
 notebook
+opencv-python
 pandas
 pyarrow
 PyPDF2

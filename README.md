@@ -12,7 +12,7 @@ and the [Institute for the Quantitative Study of Inclusion, Diversity, and Equit
 
 ## Forking the Repository
 
-To get a copy of the SToPA repository you'll need to fork this repository. You can do this from the fork button is on the upper right of the repository landing page.  Once you've forked, you will see that the repository name is now `<your_username>/SToPA`.   Now you'll clone the respository to your local machine with 
+To get a copy of the SToPA repository you'll need to fork this repository. You can do this from the `Fork` button on the upper right of the repository landing page.  Once you've forked, you will see that the repository name on the upper left is now `<your_username>/SToPA`.   You can now clone the respository to your local machine with 
 
 ```
 $ git clone https://github.com/<your_username>/SToPA.git 
@@ -116,7 +116,7 @@ This will load a Jupyter environment in a web browser.  If you navigate to `note
 
 If you're interested in making maps, then navigate to `analysis/interactive_zoomable_map/` and start there with the associated README.
 
-## Contributing to SToPA
+# Contributing to SToPA
 
 If you have code in your fork which you'd like to add you can do this using the `contribute` in the Github interface.  Alternatively, you can add the `qsideinstitute` repository as your `upstream` remote with 
 ```

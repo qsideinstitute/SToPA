@@ -45,24 +45,16 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
         img = np.array(page) # convert PIL Image to numpy array
 
         # deskew image
-#        img = io.imread(f'out.png')
         angle = determine_skew(img)
-#        img_rotated = rotate(img, angle, resize=True) * 255
-#        io.imsave(f'out.png', img_rotated.astype(np.uint8))
         img = rotate(img, angle, resize=True) * 255
 
         # clip scanning boundaries
-#        img_clipped = img[50:-50,50:-50]
-#        cv.imwrite(f'out.png',img_clipped)
         img = img[50:-50,50:-50]
         
         # denoise image
-#        img = io.imread('out.png')
-#        img_denoised = cv.fastNlMeansDenoising(img, h = 50)
         img = cv.fastNlMeansDenoising(img, h = 50)
 
         # binary threshold
-#        _ ,img  = cv.threshold(img_denoised,150,255,cv.THRESH_BINARY)
         _ ,img  = cv.threshold(img,150,255,cv.THRESH_BINARY)
 
         # complete ocr
@@ -118,7 +110,6 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
                 plt.savefig(f'{settings.PROJECT_FOLDER}/data/{year}_image_bbox_logs/page_{first_page + i}.png')
                 plt.close(fig)
             
-#        os.remove(f"out.png")
         
     return df
 

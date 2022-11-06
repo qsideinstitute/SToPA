@@ -1,4 +1,4 @@
-""" Script to write parquet to csv with data processing steps. 
+""" Script to write parquet to csv with data processing steps.
 """
 import git
 import os
@@ -25,8 +25,10 @@ def main(argv):
     df_parquet = pd.DataFrame()
     for f in files:
         df_parquet = pd.concat([df_parquet,pd.read_parquet(f"{my_path}/{f}")])
-        
+
     df_parquet.reset_index(drop = True, inplace = True)
+    filepath = f"{tools.PROJECT_FOLDER}/data/{today}_plain_{year}.csv"
+    df_parquet.to_csv(filepath)
 
     df = tools.parse_ocr_output(df_parquet, int(year))
     filepath = f"{tools.PROJECT_FOLDER}/data/{today}_parsed_{year}.csv"

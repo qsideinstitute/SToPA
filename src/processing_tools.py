@@ -1,4 +1,4 @@
-""" Data Processing Tools for WPD Data 
+""" Data Processing Tools for WPD Data
 """
 import git
 import numpy as np
@@ -25,15 +25,15 @@ def read_known_data_lists():
     with open(f"{settings.PROJECT_FOLDER}/data/williamstown_known_actions.txt") as file:
         lines = file.readlines()
         actions = [line.rstrip() for line in lines]
-    
+
     with open(f"{settings.PROJECT_FOLDER}/data/williamstown_known_streets.txt") as file:
         lines = file.readlines()
         streets = [line.rstrip() for line in lines]
-        
+
     return reasons, officers, actions, streets
 
 def get_dates(df_parquet, year, plot = False):
-    """ Returns dataframes with dates in dat change indices. 
+    """ Returns dataframes with dates in dat change indices.
     """
     allowed = set([str(d) for d in range(0,10)] + ["/"] + ["-"])
     df_date = df_parquet.copy()
@@ -41,14 +41,14 @@ def get_dates(df_parquet, year, plot = False):
     last_known_date = pd.to_datetime(f"{year}-01-01")
     dates = []
     change_idx = []
-    
+
     for i in range(df_date.shape[0] - 2):
         if ("For" in df_date.loc[i,"text"]) & ("Date" in df_date.loc[i+1,"text"]):
-            
+
             # Get bounding box around "For Date:"
             date_top = df_date.loc[i,"top"]
             date_pg = df_date.loc[i,"pdf_page"]
-            
+
             df_i = df_date[df_date["pdf_page"] == date_pg]
             df_i = df_i[(df_i["top"] <= date_top + 50) &(df_i["top"] >= date_top - 50)]
             df_i = df_i[df_i["left"] < 1000]
@@ -67,17 +67,17 @@ def get_dates(df_parquet, year, plot = False):
                 dt = last_known_date + timedelta(days = 1)
             df_date.loc[i,"date"] = dt
             last_known_date = dt
-            
+
             dates.append(dt)
             change_idx.append(i)
-    
+
     df_date_change = pd.DataFrame()
     df_date_change["date"] = dates
     df_date_change["change_idx"] = change_idx
-    
+
     df_date["date"] = df_date["date"].fillna(method = "ffill")
     df_date["date"] = df_date["date"].fillna(method = "bfill")
-    
+
     if plot == True:
         fig, ax = plt.subplots(figsize = (10,15))
         for idx in df_date.index:
@@ -88,7 +88,7 @@ def get_dates(df_parquet, year, plot = False):
 
         w = df_date["width"].max()
         h = df_date["height"].max()
-        
+
         ax.set_xlim(df_date["left"].min(), df_date["left"].max() + w)
         ax.set_ylim(df_date["top"].max() + 25, df_date["top"].min() - h)
 
@@ -98,12 +98,12 @@ def get_dates(df_parquet, year, plot = False):
         top = df_i["top"].min() - df_i["height"].max()
         w = (df_i["left"] + df_i["width"]).max() - df_i["left"].min()
         h = 100
-        rect = patches.Rectangle((left, top), w, h, 
+        rect = patches.Rectangle((left, top), w, h,
             linewidth=2, edgecolor='b', facecolor='none')
         # Add the patch to the Axes
         ax.add_patch(rect)
         plt.show()
-        
+
     return df_date, df_date_change
 
 def get_log_numbers(df_parquet, plot = False):
@@ -111,13 +111,14 @@ def get_log_numbers(df_parquet, plot = False):
     """
     df_log = df_parquet.copy()
     df_log.reset_index(drop = True, inplace = True)
-    
+
     log_text = " ".join(df_log[df_log["left"] < 50]["text"])
-    log_nums = re.findall("\d+[-+:]\d+",log_text)
-    
+    # log_nums = re.findall("\d+[-+:]\d+",log_text)
+    log_nums = re.findall("(?! )\d{2}-\d+", log_text)
+
     df_log = df_log[df_log["text"].isin(log_nums)]
     df_log["text"] = [l.replace("+","-") for l in df_log["text"]]
-    
+
     if plot == True:
         fig, ax = plt.subplots(figsize = (10,15))
         for idx in df.index:
@@ -130,31 +131,31 @@ def get_log_numbers(df_parquet, plot = False):
         h = df["height"].max()
         ax.set_xlim(df["left"].min(), df["left"].max() + w)
         ax.set_ylim(df["top"].max() + 25, df["top"].min() - h)
-    
+
         for i in df_log.index:
             left = df_log.loc[i,"left"]
             top = df_log.loc[i,"top"] - df_log.loc[i,"height"]
             w = df_log.loc[i,"width"]
             h = df_log.loc[i,"height"]
-            
-            rect = patches.Rectangle((left, top), w, h, 
+
+            rect = patches.Rectangle((left, top), w, h,
                 linewidth=2, edgecolor='g', facecolor='none')
             # Add the patch to the Axes
             ax.add_patch(rect)
-        
+
         plt.show()
-        
+
     df_log_change = pd.DataFrame()
     df_log_change["log_num"] = df_log["text"].values
     df_log_change["change_idx"] = df_log.index
-    
+
     return df_log, df_log_change
 
 def get_call_time(df, df_parquet):
     """ Adds call times to df.
     """
     df["call_datetime"] = np.nan
-    
+
     # Make sure times are of the form hh:mm:ss
     valid_times = '(0[0-9]|1[0-9]|2[0-3]):([0-5][0-9]):([0-5][0-9])'
 
@@ -174,7 +175,7 @@ def get_call_time(df, df_parquet):
                 m = dt.month
                 d = dt.day
                 df.loc[i,"call_datetime"] = pd.to_datetime(f"{y}-{m}-{d} {hr}:{mn}:00")
-            
+
     return df
 
 def get_call_reason(df, df_parquet, reasons):
@@ -182,12 +183,12 @@ def get_call_reason(df, df_parquet, reasons):
     """
     df["call_reason"] = np.nan
     reason_length = max([len(r) for r in reasons])
-    
+
     for i in df.index:
         start, end = _get_start_end(df, i)
         df_i = df_parquet.loc[start:end,]
         text = " ".join(df_i["text"])[:reason_length]
-        
+
         # Check for direct containment
         check_in = np.where(np.array([r in text for r in reasons]) == True)[0]
         if len(check_in) > 0:
@@ -196,14 +197,14 @@ def get_call_reason(df, df_parquet, reasons):
         # Otherwise do fuzzy matching
         else:
             reason = reasons[np.array([fuzz.partial_ratio(r,text) for r in reasons]).argmax()]
-            
+
         call_type = reason.split(" - ")[0].strip(" ")
         call_reason = reason.split(" - ")[1].strip(" ")
-        
+
         df.loc[i,"call_type"] = call_type
         df.loc[i,"call_reason"] = call_reason
-        
-            
+
+
     return df
 
 def get_call_action(df, df_parquet, actions):
@@ -225,7 +226,7 @@ def get_call_action(df, df_parquet, actions):
         else:
             action = actions[np.array([fuzz.partial_ratio(a,text) for a in actions]).argmax()]
             df.loc[i,"call_action"] = action
-            
+
     return df
 
 def get_call_taker(df, df_parquet, officers):
@@ -249,20 +250,20 @@ def get_call_taker(df, df_parquet, officers):
         else:
             officer = officers[np.array([fuzz.partial_ratio(o,text) for o in officers]).argmax()]
             df.loc[i,"call_taker"] = officer
-        
+
     return df
 
 def get_arvd_clrd_time(df, df_parquet):
-    """ Adds arrival and cleared times to df. 
+    """ Adds arrival and cleared times to df.
     """
     df["disp_datetime"] = np.nan
     df["enrt_datetime"] = np.nan
     df["arvd_datetime"] = np.nan
     df["clrd_datetime"] = np.nan
-    
+
     # Make sure times are of the form hh:mm:ss
     valid_times = '(0[0-9]|1[0-9]|2[0-3]):([0-5][0-9]):([0-5][0-9])'
-    
+
     for i in df.index:
         start, end = _get_start_end(df, i)
         dt = df.loc[i,"date"]
@@ -270,14 +271,14 @@ def get_arvd_clrd_time(df, df_parquet):
         df_i = df_i[df_i["top"] > df_i["top"].min()].copy()
         df_i = df_i[df_i["left"] > 400].copy()
         text = " ".join(df_i["text"])
-        
+
         times = re.findall(valid_times,text)
         if len(times) > 0:
             for t in times:
                 hr = t[0]
                 mn = t[1]
                 sc = t[2]
-                
+
                 y = dt.year
                 m = dt.month
                 d = dt.day
@@ -287,7 +288,7 @@ def get_arvd_clrd_time(df, df_parquet):
                     y = dt.year
                     m = dt.month
                     d = dt.day
-        
+
                 time = ":".join(t)
                 time_pre = text.split(time)[0].lower()
                 if fuzz.partial_ratio("disp",time_pre) > 95:
@@ -298,7 +299,7 @@ def get_arvd_clrd_time(df, df_parquet):
                     df.loc[i,"arvd_datetime"] = pd.to_datetime(f"{y}-{m}-{d} {hr}:{mn}:{sc}")
                 if fuzz.partial_ratio("clrd",time_pre) > 95:
                     df.loc[i,"clrd_datetime"] = pd.to_datetime(f"{y}-{m}-{d} {hr}:{mn}:{sc}")
-                
+
                 text = text.split(time)[-1]
     return df
 
@@ -313,15 +314,15 @@ def get_responding_units(df, df_parquet):
         df_i = df_i[df_i["top"] > df_i["top"].min()].copy()
         df_i = df_i[(df_i["left"] > 300)&(df_i["left"] < 600)].copy()
         text = " ".join(df_i["text"]).lower()
-        
+
         units = re.findall(valid_units," "+ text + " ")
         if len(units) > 0:
             df.loc[i,"responding_units"] = ", ".join([u.strip(" ") for u in units])
-                    
+
     return df
 
 def get_streets(df, df_parquet, streets):
-    """ Adds street names to df. 
+    """ Adds street names to df.
     """
     df["street"] = np.nan
     for i in df.index:
@@ -332,19 +333,19 @@ def get_streets(df, df_parquet, streets):
         text = " ".join(df_i["text"])
         street = streets[np.array([fuzz.partial_ratio(s, text) for s in streets]).argmax()]
         df.loc[i,"street"] = street
-        
+
     return df
 
 def _get_start_end(df, idx):
     """ Gets start and end point of log entry.
     """
     start = df.loc[idx,"change_idx"] + 1
-    
+
     if idx < df.shape[0] - 1:
         end = df.loc[idx+1,"change_idx"] - 1
     else:
         end = df.index[-1]
-        
+
     return start, end
 
 def get_narrative(df, df_parquet):
@@ -371,7 +372,7 @@ def parse_ocr_output(df_parquet, year):
     df_parquet.reset_index(drop = True, inplace = True)
     df_date, df_date_change = get_dates(df_parquet, year, plot = False)
     df_log, df_log_change = get_log_numbers(df_parquet, plot = False)
-    
+
     # Merge Date and Log dataframes
     df = df_date_change.merge(df_log_change, how = "outer").sort_values(by = "change_idx")
     df["date"] = df["date"].fillna(method = "ffill")
@@ -382,7 +383,7 @@ def parse_ocr_output(df_parquet, year):
     # Add pdf_page to columns
     df["pdf_page"] = df_parquet.loc[df["change_idx"].values,:]["pdf_page"].values
 
-    # Read known data lists 
+    # Read known data lists
     reasons, officers, actions, streets = read_known_data_lists()
 
     # Get call times.
@@ -406,5 +407,5 @@ def parse_ocr_output(df_parquet, year):
 
     # Get narrative
     df = get_narrative(df, df_parquet)
-    
+
     return df

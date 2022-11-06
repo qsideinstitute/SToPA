@@ -36,7 +36,7 @@ def main(argv):
 
         p1 = f'{first_page:04}'
         p2 = f'{last_page:04}'
-        df_pages = tools.get_pages_from_pdf(year = year, first_page = first_page, last_page = last_page, plot = False)
+        df_pages = tools.get_pages_from_pdf(year = year, first_page = first_page, last_page = last_page, plot = True)
         df_pages.to_parquet(f"{tools.PROJECT_FOLDER}/data/{year}_parquet_logs/pages_{p1}_{p2}.pq")
         print(f"Pages {p1} through {p2} saved to parquet.")
 

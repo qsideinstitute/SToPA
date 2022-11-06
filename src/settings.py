@@ -23,6 +23,7 @@ BLACKLIST = ";{}&£~=%¥€" # characters we want to specifically exclude from t
 
 #Pyesseract config string
 CONFIG = '-c tessedit_char_blacklist={} \
+        -c language_model_penalty_non_dict_word=0.5\
         --psm 1 \
         --dpi {} \
         --user-patterns eng.my-patterns \

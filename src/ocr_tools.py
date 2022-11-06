@@ -18,18 +18,18 @@ import src.settings as settings
 from src.processing_tools import get_log_numbers
 
 
-def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False): 
+def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
     """ Performs OCR with tesseract on given pages.
 
-    INPUTS: 
+    INPUTS:
         year: (int) 2019 or 2020
         first_page: (int) pdf page on which to start.
         last_page: (int) pdf page on which to end.
         plot: (bool) Saves plots to file if True.
 
-    RETURNS: 
+    RETURNS:
         Dataframe with tesseeract output for given pages.
-    """ 
+    """
     # obtain image from pdf
     pdfpath = f"{settings.PROJECT_FOLDER}/data/primary_datasets/Logs{year}.pdf"
     pages = convert_from_path(pdfpath,
@@ -65,33 +65,35 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
                                 lang='eng',
                                 config=settings.CONFIG)
         df_ocr.dropna(subset = ["text"], axis = 0, inplace = True)
-        
+
         #Check that page has contents.
         if df_ocr.shape[0] > 0:
 
             # Round top boundary to the nearst 25.
-            df_ocr["top"] = [int(y/25) * 25 for y in df_ocr["top"]]
-            df_ocr["height"] = df_ocr["height"] + 25
-            
+            # df_ocr["top"] = [int(y/25) * 25 for y in df_ocr["top"]]
+            # df_ocr["height"] = df_ocr["height"] + 25
+
             # Remove margins
             left_bound = df_ocr["left"].min()
             right_bound = (df_ocr["left"] + df_ocr["width"]).max()
             top_bound = df_ocr["top"].min()
             bottom_bound = (df_ocr["top"].max() + df_ocr["height"]).max()
 
-            
+
             img = img[top_bound:bottom_bound + 1,left_bound:right_bound]
             df_ocr["left"] = df_ocr["left"] - left_bound
             df_ocr["top"] = df_ocr["top"] - top_bound
             cv.imwrite(f'{settings.PROJECT_FOLDER}/data/{year}_image_logs/page_{first_page + i}.png',img)
 
             # Sort values.
-            df_ocr.sort_values(by = ["top","left"], inplace = True)
+            df_ocr['mid'] = df_ocr['top']+0.5*df_ocr['height']
+            df_ocr['linenum'] = (df_ocr['mid'].diff() > 25).cumsum()
+            df_ocr.sort_values(by = ["linenum","left"], inplace = True)
             df_ocr.reset_index(drop = True, inplace = True)
             df_ocr["pdf_page"] = first_page + i
 
             df = pd.concat([df,df_ocr])
-            
+
             if plot == True:
 
                 # plot output and save to file
@@ -111,22 +113,22 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
                     ax.add_patch(rect)
                 plt.savefig(f'{settings.PROJECT_FOLDER}/data/{year}_image_bbox_logs/page_{first_page + i}.png')
                 plt.close(fig)
-            
+
         os.remove(f"out.png")
-        
+
     return df
 
-def confirm_parsed_log_entry(df, entry_index = None): 
+def confirm_parsed_log_entry(df, entry_index = None):
     """ prints image of log entry
 
-    INPUTS: 
+    INPUTS:
         entry_index: (int) index value from parsed_df, if None,
             choose one at random.
-        df: (dataframe) parsed logs 
+        df: (dataframe) parsed logs
 
-    RETURNS: 
+    RETURNS:
         Plot with log entry and dataframe row.
-    """ 
+    """
     if entry_index is None:
         entry_index = np.random.choice(df.index)
 
@@ -202,13 +204,13 @@ def confirm_parsed_log_entry(df, entry_index = None):
             y_min = df_next["top"].iloc[0]
         else:
             y_min = df["top"].max()
-        
+
         idx = df_ocr[df_ocr["text"] == log_num].index[0]
         left = df_ocr.loc[idx,"left"]
         top = df_ocr.loc[idx,"top"]
         w = df_ocr.loc[idx,"width"]
         h = df_ocr.loc[idx,"height"]
-        
+
         # Make plot
         fig, ax = plt.subplots(figsize = (15,20))
         ax.imshow(img)
@@ -217,5 +219,5 @@ def confirm_parsed_log_entry(df, entry_index = None):
         ax.set_ylim(y_min, y_max)
         plt.show()
     os.remove(f"out.png")
-        
+
     return entry

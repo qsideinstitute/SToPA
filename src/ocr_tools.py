@@ -47,6 +47,7 @@ def get_pages_from_pdf(year = 2019, first_page =1, last_page = 5, plot = False):
         # deskew image
         angle = determine_skew(img)
         img = rotate(img, angle, resize=True) * 255
+        img = img.astype(np.uint8) # re-cast to unsigned integer; skimage.transform.rotate apparently changes this
 
         # clip scanning boundaries
         img = img[50:-50,50:-50]

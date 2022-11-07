@@ -112,12 +112,7 @@ def get_log_numbers(df_parquet, plot = False):
     df_log = df_parquet.copy()
     df_log.reset_index(drop = True, inplace = True)
 
-    log_text = " ".join(df_log[df_log["left"] < 50]["text"])
-    # log_nums = re.findall("\d+[-+:]\d+",log_text)
-    log_nums = re.findall("(?! )\d{2}-\d+", log_text)
-
-    df_log = df_log[df_log["text"].isin(log_nums)]
-    df_log["text"] = [l.replace("+","-") for l in df_log["text"]]
+    df_log = df_log.loc[df_log['left']<50, 'text'].str.findall("(?<!.)\d{2}-\d+(?!.)").str.get(0).dropna()
 
     if plot == True:
         fig, ax = plt.subplots(figsize = (10,15))
@@ -146,7 +141,7 @@ def get_log_numbers(df_parquet, plot = False):
         plt.show()
 
     df_log_change = pd.DataFrame()
-    df_log_change["log_num"] = df_log["text"].values
+    df_log_change["log_num"] = df_log.values
     df_log_change["change_idx"] = df_log.index
 
     return df_log, df_log_change

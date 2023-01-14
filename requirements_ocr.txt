@@ -4,6 +4,8 @@
 
 opencv-python
 pdf2image
+pdfplumber
+pypdf
 pytesseract
 tesseract
 selenium

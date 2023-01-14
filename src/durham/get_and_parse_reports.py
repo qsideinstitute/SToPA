@@ -5,6 +5,18 @@ group.  They were translated into Python by Anna Haensch.
 
 """
 
+
+import datetime
+import os
+import pandas as pd
+import pdfplumber
+import shutil
+import time
+
+from pathlib import Path
+from os import listdir
+from os.path import isfile, join
+
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.keys import Keys
@@ -20,7 +32,7 @@ def download_pdfs(report_date):
     Returns: 
         Auto pings the Durham PD citizen portal and downloads all arrests 
         and incident reports for report_date.  All pdfs will be moved into
-        the directory data/YYYY/mmdd and enumerated.
+        the directory ../data/durham/YYYY/mmdd and enumerated.
     """
     options = webdriver.ChromeOptions()
     options.add_experimental_option('prefs', {
@@ -109,13 +121,20 @@ def download_pdfs(report_date):
         results[i].click()
         time.sleep(1)
 
-    # Results will be printed to director data/YYYY/mmdd
+    # Results will be printed to director ../data/durham/YYYY/mmdd
     date = pd.to_datetime(report_date, format = "%m/%d/%Y")
     year = str(date.year)
     folder = str("{:02d}".format(date.month))+str("{:02d}".format(date.day))
-    is_dir = os.path.exists(f"data/{year}/{folder}")
+    
+    # Check that durham/YYYY directory exists
+    is_dir = os.path.exists(f"../data/durham/{year}")
     if not is_dir:
-        os.mkdir(f"data/{year}/{folder}")
+        os.mkdir(f"../data/durham/{year}")
+
+    # Check that durham/YYYY/mmdd exists.
+    is_dir = os.path.exists(f"../data/durham/{year}/{folder}")    
+    if not is_dir:
+        os.mkdir(f"../data/durham/{year}/{folder}")
     
     # Move Results
     downloads_path = str(Path.home()/"Downloads")
@@ -124,8 +143,58 @@ def download_pdfs(report_date):
     for p in range(len(pdfs)):
         file = "{:04d}.pdf".format(p)
         origin = f'{downloads_path}/{pdfs[p]}'
-        destination = f'data/{year}/{folder}/{file}'
+        destination = f'../data/durham/{year}/{folder}/{file}'
         shutil.move(origin, destination)
     
     # Close Browser
     driver.quit()
+
+
+def split_arrests_and_incidents(report_date):
+    """ split arrests and incidents by date.
+    
+    Arguments: 
+        report_date: (str) date of the form dd/mm/YYYY
+        
+    Returns: 
+        Auto pings the Durham PD citizen portal and downloads all arrests 
+        and incident reports for report_date.  All pdfs will be moved into
+        the directory ../data/durham/YYYY/mmdd and enumerated.
+    """
+    arrests = 0
+    incidents = 0
+    unknown = 0
+    
+    date = pd.to_datetime(report_date)
+    year = date.year
+    day = "{:02d}".format(date.day)
+    month = "{:02d}".format(date.month)
+    dir_path = f"../data/durham/{year}/{month}{day}"
+
+    arrest_dir = f"{dir_path}/arrests"
+    if not os.path.exists(arrest_dir):
+        os.mkdir(arrest_dir)
+    incident_dir = f"{dir_path}/incidents"
+    if not os.path.exists(incident_dir):
+        os.mkdir(incident_dir)
+
+    file_list = [f for f in os.listdir(dir_path) if isfile(join(dir_path,f))]
+    file_list.sort()
+
+    for f in file_list:
+        file = join(dir_path,f)
+        pdf = pdfplumber.open(file)
+        page = pdf.pages[0]
+        text = page.extract_text()
+        if text.split("\n")[0] == 'INCIDENT/INVESTIGATION':
+            count = "{:04d}".format(incidents)
+            destination = f"{dir_path}/incidents/{count}.pdf"
+            incidents += 1
+            shutil.move(file, destination)
+        elif text.split("\n")[0] == 'ARREST REPORT':
+            count = "{:04d}".format(arrests)
+            destination = f"{dir_path}/arrests/{count}.pdf"
+            arrests += 1
+            shutil.move(file, destination)
+        
+    return arrests, incidents

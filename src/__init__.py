@@ -4,3 +4,5 @@
 from .ocr_tools import *
 from .processing_tools import *
 from .settings import *
+
+from .durham.get_and_parse_reports import *

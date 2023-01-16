@@ -13,9 +13,10 @@ import pdfplumber
 import shutil
 import time
 
-from pathlib import Path
 from os import listdir
 from os.path import isfile, join
+from pathlib import Path
+from pypdf import PdfMerger
 
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
@@ -157,9 +158,8 @@ def split_arrests_and_incidents(report_date):
         report_date: (str) date of the form dd/mm/YYYY
         
     Returns: 
-        Auto pings the Durham PD citizen portal and downloads all arrests 
-        and incident reports for report_date.  All pdfs will be moved into
-        the directory ../data/durham/YYYY/mmdd and enumerated.
+        Splits each day's reports into arrests and incidents and
+        returns the tuple (#arrests, #incidents).
     """
     arrests = 0
     incidents = 0
@@ -198,3 +198,71 @@ def split_arrests_and_incidents(report_date):
             shutil.move(file, destination)
         
     return arrests, incidents
+
+
+def merge_reports_by_type():
+    """ merges reports by type.
+
+    Returns: 
+        Prints merged reports by type (i.e. "arrests" or "incidents")
+        to ../data/durham/2019/merged_2019_<type>.pdf.
+    """
+    dir_path = "../data/durham/2019"
+    subdir_path = [f for f in os.listdir(dir_path) if not isfile(join(dir_path,f))]
+    subdir_path.sort()
+
+    # Make temporaary folders
+    arr_temp = f"{dir_path}/temp_arrests"
+    if not os.path.exists(arr_temp):
+            os.mkdir(arr_temp)
+    inc_temp = f"{dir_path}/temp_incidents"
+    if not os.path.exists(inc_temp):
+            os.mkdir(inc_temp)
+
+    for s in subdir_path:
+            
+        # Merge arrests by date
+        arrests_by_date = os.listdir(f"{dir_path}/{s}/arrests")
+        arrests_by_date.sort()
+        merger = PdfMerger()
+        for pdf in arrests_by_date:
+            merger.append(f"{dir_path}/{s}/arrests/{pdf}")
+        merger.write(f"{dir_path}/temp_arrests/{s}.pdf")
+        merger.close()
+        
+        # Merge incidents by date
+        incidents_by_date = os.listdir(f"{dir_path}/{s}/incidents")
+        incidents_by_date.sort()
+        merger = PdfMerger()
+        for pdf in incidents_by_date:
+            merger.append(f"{dir_path}/{s}/incidents/{pdf}")
+        merger.write(f"{dir_path}/temp_incidents/{s}.pdf")
+        merger.close()
+
+    # Merge all arrests
+    arrest_path = "../data/durham/2019/temp_arrests"
+    arrests = os.listdir(arrest_path)
+    arrests.sort()
+    merger = PdfMerger()
+    for pdf in arrests:
+        merger.append(f"{arrest_path}/{pdf}")
+        os.remove(f"{arrest_path}/{pdf}")
+    merger.write(f"../data/durham/2019/merged_2019_arrests.pdf")
+    merger.close()
+
+    # Merge all incidents
+    inc_path = "../data/durham/2019/temp_incidents"
+    inc = os.listdir(inc_path)
+    inc.sort()
+    merger = PdfMerger()
+    for pdf in inc:
+        merger.append(f"{inc_path}/{pdf}")
+        os.remove(f"{inc_path}/{pdf}")
+    merger.write(f"../data/durham/2019/merged_2019_incidents.pdf")
+    merger.close()
+
+    # Remove temporaty files
+    os.rmdir(arrest_path)
+    os.rmdir(inc_path)
+
+# TODO: add functions to turn pdf files into tabular data.

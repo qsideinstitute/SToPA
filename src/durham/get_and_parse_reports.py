@@ -266,3 +266,5 @@ def merge_reports_by_type():
     os.rmdir(inc_path)
 
 # TODO: add functions to turn pdf files into tabular data.
+
+download_pdfs('2019-10-01')

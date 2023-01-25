@@ -278,7 +278,7 @@ start_date = "11/01/2019"
 stop_date = "12/31/2022"
 
 start = datetime.strptime(start_date, "%m/%d/%Y")
-stop = datetime.strptime(stop_date, "%m/%d/%")
+stop = datetime.strptime(stop_date, "%m/%d/%Y")
 
 
 while start < stop:

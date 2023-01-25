@@ -284,4 +284,5 @@ stop = datetime.strptime(stop_date, "%m/%d/%")
 while start < stop:
     start = start + timedelta(days=1)  # increase day one by one
     print(start.strftime("%m/%d/%Y"))
+    #get the pdfs
     download_pdfs(start.strftime("%m/%d/%Y"))

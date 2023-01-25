@@ -17,6 +17,8 @@ from os import listdir
 from os.path import isfile, join
 from pathlib import Path
 from pypdf import PdfMerger
+from datetime import timedelta
+from datetime import datetime
 
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
@@ -37,12 +39,16 @@ def download_pdfs(report_date):
     """
     options = webdriver.ChromeOptions()
     options.add_experimental_option('prefs', {
-    "download.default_directory": "~/Downloads", #Change default directory for downloads
+    "download.default_directory": str(Path.home()/"Downloads/seleniumDurham"), #Change default directory for downloads
     "download.prompt_for_download": False, #To auto download the file
     "download.directory_upgrade": True,
     "plugins.always_open_pdf_externally": True #It will not show PDF directly in chrome
     })
-    
+
+    down_temp = str(Path.home()/"Downloads/seleniumDurham")
+    if not os.path.exists(down_temp):
+        os.mkdir(down_temp)
+
     # Load Page
     driver = webdriver.Chrome(options = options)
     driver.get("https://durhampdnc.policetocitizen.com/eventsearch")
@@ -128,23 +134,23 @@ def download_pdfs(report_date):
     folder = str("{:02d}".format(date.month))+str("{:02d}".format(date.day))
     
     # Check that durham/YYYY directory exists
-    is_dir = os.path.exists(f"../data/durham/{year}")
+    is_dir = os.path.exists(f"../../data/durham/{year}")
     if not is_dir:
-        os.mkdir(f"../data/durham/{year}")
+        os.mkdir(f"../../data/durham/{year}")
 
     # Check that durham/YYYY/mmdd exists.
-    is_dir = os.path.exists(f"../data/durham/{year}/{folder}")    
+    is_dir = os.path.exists(f"../../data/durham/{year}/{folder}")    
     if not is_dir:
-        os.mkdir(f"../data/durham/{year}/{folder}")
+        os.mkdir(f"../../data/durham/{year}/{folder}")
     
     # Move Results
-    downloads_path = str(Path.home()/"Downloads")
+    downloads_path = str(Path.home()/"Downloads/seleniumDurham")
     pdfs = [f for f in listdir(downloads_path) if isfile(
     							join(downloads_path, f))]
     for p in range(len(pdfs)):
         file = "{:04d}.pdf".format(p)
         origin = f'{downloads_path}/{pdfs[p]}'
-        destination = f'../data/durham/{year}/{folder}/{file}'
+        destination = f'../../data/durham/{year}/{folder}/{file}'
         shutil.move(origin, destination)
     
     # Close Browser
@@ -169,7 +175,7 @@ def split_arrests_and_incidents(report_date):
     year = date.year
     day = "{:02d}".format(date.day)
     month = "{:02d}".format(date.month)
-    dir_path = f"../data/durham/{year}/{month}{day}"
+    dir_path = f"../../data/durham/{year}/{month}{day}"
 
     arrest_dir = f"{dir_path}/arrests"
     if not os.path.exists(arrest_dir):
@@ -207,7 +213,7 @@ def merge_reports_by_type():
         Prints merged reports by type (i.e. "arrests" or "incidents")
         to ../data/durham/2019/merged_2019_<type>.pdf.
     """
-    dir_path = "../data/durham/2019"
+    dir_path = "../../data/durham/2019"
     subdir_path = [f for f in os.listdir(dir_path) if not isfile(join(dir_path,f))]
     subdir_path.sort()
 
@@ -240,25 +246,25 @@ def merge_reports_by_type():
         merger.close()
 
     # Merge all arrests
-    arrest_path = "../data/durham/2019/temp_arrests"
+    arrest_path = "../../data/durham/2019/temp_arrests"
     arrests = os.listdir(arrest_path)
     arrests.sort()
     merger = PdfMerger()
     for pdf in arrests:
         merger.append(f"{arrest_path}/{pdf}")
         os.remove(f"{arrest_path}/{pdf}")
-    merger.write(f"../data/durham/2019/merged_2019_arrests.pdf")
+    merger.write(f"../../data/durham/2019/merged_2019_arrests.pdf")
     merger.close()
 
     # Merge all incidents
-    inc_path = "../data/durham/2019/temp_incidents"
+    inc_path = "../../data/durham/2019/temp_incidents"
     inc = os.listdir(inc_path)
     inc.sort()
     merger = PdfMerger()
     for pdf in inc:
         merger.append(f"{inc_path}/{pdf}")
         os.remove(f"{inc_path}/{pdf}")
-    merger.write(f"../data/durham/2019/merged_2019_incidents.pdf")
+    merger.write(f"../../data/durham/2019/merged_2019_incidents.pdf")
     merger.close()
 
     # Remove temporaty files
@@ -267,4 +273,15 @@ def merge_reports_by_type():
 
 # TODO: add functions to turn pdf files into tabular data.
 
-download_pdfs('2019-10-01')
+
+start_date = "11/01/2019"
+stop_date = "12/31/2022"
+
+start = datetime.strptime(start_date, "%m/%d/%Y")
+stop = datetime.strptime(stop_date, "%m/%d/%")
+
+
+while start < stop:
+    start = start + timedelta(days=1)  # increase day one by one
+    print(start.strftime("%m/%d/%Y"))
+    download_pdfs(start.strftime("%m/%d/%Y"))

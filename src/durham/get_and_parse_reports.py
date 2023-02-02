@@ -48,113 +48,117 @@ def download_pdfs(report_date):
     down_temp = str(Path.home()/"Downloads/seleniumDurham")
     if not os.path.exists(down_temp):
         os.mkdir(down_temp)
-
-    # Load Page
-    driver = webdriver.Chrome(options = options)
-    driver.get("https://durhampdnc.policetocitizen.com/eventsearch")
-    wait = WebDriverWait(driver, 10)
-    
-    # Click Accept
-    driver.implicitly_wait(2)
+    #Handle timeout errors through try except and then loop for multiple tries in main
     try:
-        accept_button = wait.until(
-        	EC.element_to_be_clickable((
-        		By.XPATH, 
-        		"//*[@id='disclaimerDialog']/md-dialog-actions/button[2]/span"
-        							  )))
-        accept_button.click()
-    except:
-        accept_button = wait.until(
-        	EC.element_to_be_clickable((
-        		By.XPATH, 
-        		"//*[@id='disclaimerDialog']/md-dialog-actions/button[2]/span"
-        							  )))
-        accept_button.click()
+        # Load Page
+        driver = webdriver.Chrome(options = options)
+        driver.get("https://durhampdnc.policetocitizen.com/eventsearch")
+        wait = WebDriverWait(driver, 10)
 
-    # Click Reports
-    driver.implicitly_wait(2)
-    try:
-        report_button = wait.until(
-        	EC.element_to_be_clickable((
-        		By.XPATH,
-        		"//*[@id='byReportInformation-card']/md-card-title/md-card-title-text/span[1]"
-        							   )))
-        report_button.click()
-    except: 
-        report_button = wait.until(
-        	EC.element_to_be_clickable((
-        		By.XPATH,
-        		"//*[@id='byReportInformation-card']/md-card-title/md-card-title-text/span[1]"
-        							   )))
-        report_button.click()
-        
-    # Fill in Dates
-    driver.implicitly_wait(3)
-    date_picker = driver.find_elements(By.CLASS_NAME, "md-datepicker-input")
-    start_picker = date_picker[0]
-    end_picker = date_picker[1]
-
-    start_picker.clear()
-    start_picker.send_keys(report_date)
-
-    end_picker.clear()
-    end_picker.send_keys(report_date)
-
-    # Click Search
-    driver.implicitly_wait(2)
-    search_button = wait.until(EC.element_to_be_clickable((By.ID,"search-button")))
-    search_button.click()
-
-    # Allow Loading
-    load_flag = True
-    while load_flag == True:
+        # Click Accept
+        driver.implicitly_wait(2)
         try:
-            load_more_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//*[@id='event-search-results']/event-search-results/div/div[2]/div[3]/button/span")))
-            load_more_button.click()
+            accept_button = wait.until(
+                EC.element_to_be_clickable((
+                    By.XPATH,
+                    "//*[@id='disclaimerDialog']/md-dialog-actions/button[2]/span"
+                                          )))
+            accept_button.click()
         except:
-            load_more_button = driver.find_elements(
-            	By.XPATH, 
-            	"//*[@id='event-search-results']/event-search-results/div/div[2]/div[3]/button/span"
-            										)
-            assert len(load_more_button) == 0
-            load_flag = False
+            accept_button = wait.until(
+                EC.element_to_be_clickable((
+                    By.XPATH,
+                    "//*[@id='disclaimerDialog']/md-dialog-actions/button[2]/span"
+                                          )))
+            accept_button.click()
 
-    # Get Results 
-    results = driver.find_elements(
-    			By.CSS_SELECTOR,
-    			"div.p2c-eventSearch-result > md-card:nth-child(1) > md-card-content:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > i:nth-child(1)"
-    							   )
-    for i in range(len(results)):
-        results[i].click()
-        time.sleep(1)
+        # Click Reports
+        driver.implicitly_wait(2)
+        try:
+            report_button = wait.until(
+                EC.element_to_be_clickable((
+                    By.XPATH,
+                    "//*[@id='byReportInformation-card']/md-card-title/md-card-title-text/span[1]"
+                                           )))
+            report_button.click()
+        except:
+            report_button = wait.until(
+                EC.element_to_be_clickable((
+                    By.XPATH,
+                    "//*[@id='byReportInformation-card']/md-card-title/md-card-title-text/span[1]"
+                                           )))
+            report_button.click()
 
-    # Results will be printed to director ../data/durham/YYYY/mmdd
-    date = pd.to_datetime(report_date, format = "%m/%d/%Y")
-    year = str(date.year)
-    folder = str("{:02d}".format(date.month))+str("{:02d}".format(date.day))
-    
-    # Check that durham/YYYY directory exists
-    is_dir = os.path.exists(f"../../data/durham/{year}")
-    if not is_dir:
-        os.mkdir(f"../../data/durham/{year}")
+        # Fill in Dates
+        driver.implicitly_wait(3)
+        date_picker = driver.find_elements(By.CLASS_NAME, "md-datepicker-input")
+        start_picker = date_picker[0]
+        end_picker = date_picker[1]
 
-    # Check that durham/YYYY/mmdd exists.
-    is_dir = os.path.exists(f"../../data/durham/{year}/{folder}")    
-    if not is_dir:
-        os.mkdir(f"../../data/durham/{year}/{folder}")
-    
-    # Move Results
-    downloads_path = str(Path.home()/"Downloads/seleniumDurham")
-    pdfs = [f for f in listdir(downloads_path) if isfile(
-    							join(downloads_path, f))]
-    for p in range(len(pdfs)):
-        file = "{:04d}.pdf".format(p)
-        origin = f'{downloads_path}/{pdfs[p]}'
-        destination = f'../../data/durham/{year}/{folder}/{file}'
-        shutil.move(origin, destination)
-    
-    # Close Browser
-    driver.quit()
+        start_picker.clear()
+        start_picker.send_keys(report_date)
+
+        end_picker.clear()
+        end_picker.send_keys(report_date)
+
+        # Click Search
+        driver.implicitly_wait(2)
+        search_button = wait.until(EC.element_to_be_clickable((By.ID,"search-button")))
+        search_button.click()
+
+        # Allow Loading
+        load_flag = True
+        while load_flag == True:
+            try:
+                load_more_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//*[@id='event-search-results']/event-search-results/div/div[2]/div[3]/button/span")))
+                load_more_button.click()
+            except:
+                load_more_button = driver.find_elements(
+                    By.XPATH,
+                    "//*[@id='event-search-results']/event-search-results/div/div[2]/div[3]/button/span"
+                                                        )
+                assert len(load_more_button) == 0
+                load_flag = False
+
+        # Get Results
+        results = driver.find_elements(
+                    By.CSS_SELECTOR,
+                    "div.p2c-eventSearch-result > md-card:nth-child(1) > md-card-content:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > i:nth-child(1)"
+                                       )
+        for i in range(len(results)):
+            results[i].click()
+            time.sleep(1)
+
+        # Results will be printed to director ../data/durham/YYYY/mmdd
+        date = pd.to_datetime(report_date, format = "%m/%d/%Y")
+        year = str(date.year)
+        folder = str("{:02d}".format(date.month))+str("{:02d}".format(date.day))
+
+        # Check that durham/YYYY directory exists
+        is_dir = os.path.exists(f"../../data/durham/{year}")
+        if not is_dir:
+            os.mkdir(f"../../data/durham/{year}")
+
+        # Check that durham/YYYY/mmdd exists.
+        is_dir = os.path.exists(f"../../data/durham/{year}/{folder}")
+        if not is_dir:
+            os.mkdir(f"../../data/durham/{year}/{folder}")
+
+        # Move Results
+        downloads_path = str(Path.home()/"Downloads/seleniumDurham")
+        pdfs = [f for f in listdir(downloads_path) if isfile(
+                                    join(downloads_path, f))]
+        for p in range(len(pdfs)):
+            file = "{:04d}.pdf".format(p)
+            origin = f'{downloads_path}/{pdfs[p]}'
+            destination = f'../../data/durham/{year}/{folder}/{file}'
+            shutil.move(origin, destination)
+
+        # Close Browser
+        driver.quit()
+        return 1
+    except:
+        return 0
 
 
 def split_arrests_and_incidents(report_date):
@@ -274,15 +278,31 @@ def merge_reports_by_type():
 # TODO: add functions to turn pdf files into tabular data.
 
 
-start_date = "11/01/2019"
+start_date = "10/26/2021"
 stop_date = "12/31/2022"
 
 start = datetime.strptime(start_date, "%m/%d/%Y")
 stop = datetime.strptime(stop_date, "%m/%d/%Y")
 
-
+#track the dates that did not work
+failList=[]
 while start < stop:
     start = start + timedelta(days=1)  # increase day one by one
-    print(start.strftime("%m/%d/%Y"))
     #get the pdfs
-    download_pdfs(start.strftime("%m/%d/%Y"))
+    cnt=0
+    # Attempt to scrape a date up to 10 times
+    success=False
+    while cnt<10:
+        scrape=download_pdfs(start.strftime("%m/%d/%Y"))
+        if scrape==1:
+            print(start.strftime("%m/%d/%Y"), 'scrape succeeded')
+            success=True
+            break
+        else:
+            print(start.strftime("%m/%d/%Y"), 'scrape failed')
+            cnt += 1
+    #If the scrape for the date fails 10 times add it to a list
+    if not success:
+        failList.append(start.strftime("%m/%d/%Y"))
+
+print(failList)

@@ -229,11 +229,17 @@ def parseArrestReports(reportPath, templatesPath):
                                     dfIncidents.loc[case, columnTitle] = dobAge[0].strip()
                                 else:
                                     dfIncidents.loc[case, columnTitle] = ''
-                                if re.match(r'^(?=.*[0-9])', dobAge[1]):
-                                    dfIncidents.loc[case, columnTitle2] = dobAge[1].strip()
-                                else:
-                                    dfIncidents.loc[case, columnTitle2] = ''
-                                specCaseDone = 1
+                                # There is usually a value in the second column,
+                                # but there are some with no values at all so use
+                                # trty and except so that it does not cause the script to fail
+                                try:
+                                    if re.match(r'^(?=.*[0-9])', dobAge[1]):
+                                        dfIncidents.loc[case, columnTitle2] = dobAge[1].strip()
+                                    else:
+                                        dfIncidents.loc[case, columnTitle2] = ''
+                                    specCaseDone = 1
+                                except:
+                                    specCaseDone = 1
                             # Handling the special case of Relationship to Offender
                             if y.startswith('Relationship'):
                                 columnTitle = 'Relationship to Offender V' + str(type)

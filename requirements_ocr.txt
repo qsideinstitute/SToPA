@@ -7,5 +7,7 @@ pdf2image
 pdfplumber
 pypdf
 pytesseract
+tabula-py
+tabulate
 tesseract
 selenium

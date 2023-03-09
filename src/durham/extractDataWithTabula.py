@@ -1,3 +1,5 @@
+""" Tools to extract data from Durham pdf documents."""
+import json
 from tabula import read_pdf_with_template
 from tabulate import tabulate
 import pandas as pd
@@ -10,7 +12,6 @@ sys.path.append('..')
 def parseArrestReports(reportPath, templatesPath):
     if not reportPath.endswith('/'):
         reportPath += '/'
-    import json
     # Initialize the dataframes with Case # as all reports will have it
     columnNames = ['Case #']
     dfArrests = pd.DataFrame(columns=columnNames)

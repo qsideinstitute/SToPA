@@ -210,14 +210,17 @@ def split_arrests_and_incidents(report_date):
     return arrests, incidents
 
 
-def merge_reports_by_type():
+def merge_reports_by_type(year):
     """ merges reports by type.
+
+    Arguments:
+        year: (int) year of records.
 
     Returns: 
         Prints merged reports by type (i.e. "arrests" or "incidents")
-        to ../data/durham/2019/merged_2019_<type>.pdf.
+        to ../data/durham/2019/merged_<year>_<type>.pdf.
     """
-    dir_path = "../../data/durham/2019"
+    dir_path = f"../../data/durham/{year}"
     subdir_path = [f for f in os.listdir(dir_path) if not isfile(join(dir_path,f))]
     subdir_path.sort()
 
@@ -250,25 +253,25 @@ def merge_reports_by_type():
         merger.close()
 
     # Merge all arrests
-    arrest_path = "../../data/durham/2019/temp_arrests"
+    arrest_path = f"../../data/durham/{year}/temp_arrests"
     arrests = os.listdir(arrest_path)
     arrests.sort()
     merger = PdfMerger()
     for pdf in arrests:
         merger.append(f"{arrest_path}/{pdf}")
         os.remove(f"{arrest_path}/{pdf}")
-    merger.write(f"../../data/durham/2019/merged_2019_arrests.pdf")
+    merger.write(f"../../data/durham/{year}/merged_{year}_arrests.pdf")
     merger.close()
 
     # Merge all incidents
-    inc_path = "../../data/durham/2019/temp_incidents"
+    inc_path = f"../../data/durham/{year}/temp_incidents"
     inc = os.listdir(inc_path)
     inc.sort()
     merger = PdfMerger()
     for pdf in inc:
         merger.append(f"{inc_path}/{pdf}")
         os.remove(f"{inc_path}/{pdf}")
-    merger.write(f"../../data/durham/2019/merged_2019_incidents.pdf")
+    merger.write(f"../../data/durham/{year}/merged_{year}_incidents.pdf")
     merger.close()
 
     # Remove temporaty files
@@ -278,31 +281,31 @@ def merge_reports_by_type():
 # TODO: add functions to turn pdf files into tabular data.
 
 
-start_date = "10/26/2021"
-stop_date = "12/31/2022"
+# start_date = "10/26/2021"
+# stop_date = "12/31/2022"
 
-start = datetime.strptime(start_date, "%m/%d/%Y")
-stop = datetime.strptime(stop_date, "%m/%d/%Y")
+# start = datetime.strptime(start_date, "%m/%d/%Y")
+# stop = datetime.strptime(stop_date, "%m/%d/%Y")
 
-#track the dates that did not work
-failList=[]
-while start < stop:
-    start = start + timedelta(days=1)  # increase day one by one
-    #get the pdfs
-    cnt=0
-    # Attempt to scrape a date up to 10 times
-    success=False
-    while cnt<10:
-        scrape=download_pdfs(start.strftime("%m/%d/%Y"))
-        if scrape==1:
-            print(start.strftime("%m/%d/%Y"), 'scrape succeeded')
-            success=True
-            break
-        else:
-            print(start.strftime("%m/%d/%Y"), 'scrape failed')
-            cnt += 1
-    #If the scrape for the date fails 10 times add it to a list
-    if not success:
-        failList.append(start.strftime("%m/%d/%Y"))
+# #track the dates that did not work
+# failList=[]
+# while start < stop:
+#     start = start + timedelta(days=1)  # increase day one by one
+#     #get the pdfs
+#     cnt=0
+#     # Attempt to scrape a date up to 10 times
+#     success=False
+#     while cnt<10:
+#         scrape=download_pdfs(start.strftime("%m/%d/%Y"))
+#         if scrape==1:
+#             print(start.strftime("%m/%d/%Y"), 'scrape succeeded')
+#             success=True
+#             break
+#         else:
+#             print(start.strftime("%m/%d/%Y"), 'scrape failed')
+#             cnt += 1
+#     #If the scrape for the date fails 10 times add it to a list
+#     if not success:
+#         failList.append(start.strftime("%m/%d/%Y"))
 
-print(failList)
+# print(failList)

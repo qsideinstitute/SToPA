@@ -277,35 +277,3 @@ def merge_reports_by_type(year):
     # Remove temporaty files
     os.rmdir(arrest_path)
     os.rmdir(inc_path)
-
-# TODO: add functions to turn pdf files into tabular data.
-
-
-# start_date = "10/26/2021"
-# stop_date = "12/31/2022"
-
-# start = datetime.strptime(start_date, "%m/%d/%Y")
-# stop = datetime.strptime(stop_date, "%m/%d/%Y")
-
-# #track the dates that did not work
-# failList=[]
-# while start < stop:
-#     start = start + timedelta(days=1)  # increase day one by one
-#     #get the pdfs
-#     cnt=0
-#     # Attempt to scrape a date up to 10 times
-#     success=False
-#     while cnt<10:
-#         scrape=download_pdfs(start.strftime("%m/%d/%Y"))
-#         if scrape==1:
-#             print(start.strftime("%m/%d/%Y"), 'scrape succeeded')
-#             success=True
-#             break
-#         else:
-#             print(start.strftime("%m/%d/%Y"), 'scrape failed')
-#             cnt += 1
-#     #If the scrape for the date fails 10 times add it to a list
-#     if not success:
-#         failList.append(start.strftime("%m/%d/%Y"))
-
-# print(failList)

@@ -1,0 +1,62 @@
+[
+  {
+    "page": 2,
+    "extraction_method": "stream",
+    "selection_id": "V1675273057800",
+    "x1": 71.91,
+    "x2": 452.115,
+    "y1": 129.6675,
+    "y2": 146.4975,
+    "width": 380.205,
+    "height": 16.830000000000002,
+    "spec_index": 9
+  },
+  {
+    "page": 2,
+    "extraction_method": "stream",
+    "selection_id": "U1675273057801",
+    "x1": 455.175,
+    "x2": 564.57,
+    "y1": 129.6675,
+    "y2": 144.20250000000001,
+    "width": 109.395,
+    "height": 14.535,
+    "spec_index": 10
+  },
+  {
+    "page": 2,
+    "extraction_method": "stream",
+    "selection_id": "A1675273057802",
+    "x1": 74.205,
+    "x2": 436.815,
+    "y1": 147.2625,
+    "y2": 177.8625,
+    "width": 362.61,
+    "height": 30.6,
+    "spec_index": 11
+  },
+  {
+    "page": 2,
+    "extraction_method": "stream",
+    "selection_id": "D1675273057803",
+    "x1": 452.88,
+    "x2": 581.4,
+    "y1": 144.9675,
+    "y2": 157.2075,
+    "width": 128.52,
+    "height": 12.24,
+    "spec_index": 12
+  },
+  {
+    "page": 2,
+    "extraction_method": "stream",
+    "selection_id": "A1675273057805",
+    "x1": 437.58,
+    "x2": 569.925,
+    "y1": 157.9725,
+    "y2": 177.8625,
+    "width": 132.345,
+    "height": 19.89,
+    "spec_index": 13
+  }
+]

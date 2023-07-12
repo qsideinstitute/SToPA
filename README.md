@@ -1,4 +1,4 @@
-# THe SToPA Research Lab
+# The SToPA Research Lab
 
 This is the official repository for the Small Town Police Accountability (SToPA) Research Lab. This research lab is co-organized by: 
 * [Manuchehr Aminian](https://www.cpp.edu/~maminian/)

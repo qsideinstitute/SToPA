@@ -14,6 +14,6 @@ notebook
 opencv-python
 pandas
 pyarrow
-PyPDF2
+PyPDF2==2.5.0
 python-Levenshtein
 usaddress 

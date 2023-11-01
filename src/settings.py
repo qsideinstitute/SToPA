@@ -39,7 +39,7 @@ else:
 
 # Strings of absolute folder locations for the entire project.
 # If you clone the repository, these match that structure, and nothing needs to be done.
-PROJECT_FOLDER = "/".join(os.path.abspath("").split("/")[:-1]) # get abs path to top level folder
+PROJECT_FOLDER = os.path.sep.join(os.path.abspath("").split(os.path.sep)[:-1]) # get abs path to top level folder
 DATA_FOLDER = os.path.join(PROJECT_FOLDER, 'data')
 PDF_FOLDER = os.path.join(DATA_FOLDER, 'primary_datasets') # ./data/primary_datasets/
 CODE_FOLDER = os.path.join(PROJECT_FOLDER, 'code')  # ./code/

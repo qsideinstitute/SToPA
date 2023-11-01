@@ -16,4 +16,6 @@ pandas
 pyarrow
 PyPDF2==2.5.0
 python-Levenshtein
+tabula-py
+tabulate
 usaddress 

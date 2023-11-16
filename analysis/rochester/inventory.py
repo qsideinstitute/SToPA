@@ -6,10 +6,8 @@
 # November 5, 2022
 #
 
-import PyPDF2 as pp2
 import glob
 import os
-import re
 import pandas
 
 pdf_types = ['ACC', 'DWI_REPORT', 'DWI_REFUSAL', 'DWI_REPORT_FELCOMP', 'Genl101A', 'Utt']

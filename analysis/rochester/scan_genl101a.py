@@ -1,15 +1,12 @@
 
-# BIG TODO: modularize ocr_tools.py and what I use here 
+# BIG todo: modularize ocr_tools.py and what I use here 
 # to flexibly... enough? make the same tools useable between 
-# (e.g.) Rochester pdf files, and Williamstown files.
-#
-# 7 Nov 2022
-#
+# (e.g.) Rochester pdf files, and Williamstown files, and others.
 
 from collections import OrderedDict
 
 # my local scripts
-import stab
+import inventory
 import parse
 
 ####################
@@ -17,7 +14,16 @@ import parse
 import numpy as np
 import pandas
 
-import cv2 # for denoising and thresholding
+'''
+python packages to install via pip...
+
+opencv-python (may need to update numpy)
+pdf2image
+deskew
+pytesseract
+'''
+
+import cv2 # for denoising and thresholding -- pip install opencv-python
 
 
 import pdf2image # convert pdf file to 3D array
@@ -32,6 +38,13 @@ import pytesseract # for main OCR step (image to text dataframe)
 
 
 def row_ize(arr):
+    '''
+    Work with the dataframe output of the OCR ("df['text'].values")
+    and parse consecutive lines; np.nan marks line breaks, while strings 
+    mark elements within one line.
+    
+    Outputs a list of strings.
+    '''
     import numpy as np
     rows = []
     row = []
@@ -79,7 +92,9 @@ def process_genl101a(df_tess):
     df_tess.sort_values(['top', 'left'], inplace=True) # row-order sorting if not already
     for row in df_tess.iloc:
         
-        match 
+#        match 
+        pass
+    pass
 
 
 #########################################################
@@ -101,7 +116,7 @@ TESS_CONFIG = '-c tessedit_char_blacklist={} \
 # DEFINITION OF pdfpath.
 
 # would be the input to a function
-pdfpath = stab.df.iloc[20]['filename']
+pdfpath = inventory.df.iloc[20]['filename']
 
 
 #
@@ -131,18 +146,19 @@ pages = pdf2image.convert_from_path(pdfpath,
 
 pp = pages[0]
 
-# cast to numpy array
+# cast image to numpy array
 img = np.array(pp)
-# rotate
+# rotate (deskew)
 angle = deskew.determine_skew(img)
 img = skimage.transform.rotate(img, angle, resize=True)*255
 # cast back to uint8
 img = img.astype(np.uint8)
-# denoise
+# denoise image
 img = cv2.fastNlMeansDenoising(img, h = 50)
-# threshold
+# threshold to binary values (currently manually done)
 _ ,img  = cv2.threshold(img,150,255, cv2.THRESH_BINARY)
 
+# pandas dataframe of page elements.
 df_ocr = pytesseract.image_to_data(
     img, 
     output_type=pytesseract.Output.DATAFRAME, 

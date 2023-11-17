@@ -1,0 +1,93 @@
+
+
+
+What
+
+* What is the title of the dataset? Provide as much context as possible, including a proper citation for the dataset where possible (you can get more information about citing datasets from the Tufts Library Research Guide)
+
+There is no official title of the dataset. The data are a sample pulled from a larger police database sourced from the Schererville, Indiana Police Department. The data arrived as a series of CSV and TXT files in a zipped folder sent via email to the requestor.
+
+
+* Are the any relevant research publications related to the dataset? This can include datasets that are used to create your dataset, or briefs written in support of the dataset.
+
+None.
+
+
+
+
+Who
+
+* Who is responsible for the data? This can include PIs, research groups, or institutions that contributed to the data collection. This might also include specific contact information for a person who can answer questions about the data.
+
+Currently, only the data requestor has had responsibility for this data.
+
+
+
+* Who else can use this data? If possible, identify the specific license assigned to the dataset.
+
+These data were provided by the Schererville Police Department without specifications or restrictions on the use of the data.
+
+
+
+Where
+
+*Where was the data collected? This can include multiple geographic locations.
+
+The data come from the policing disctrict of the Schererville Police Department in the state of Indiana.
+
+
+
+*Where does the data live now?
+
+The data currently exist on the data requestor's device.
+
+
+
+
+When
+
+* When was the data collected? When writing about time, be sure to use ISO format (YYYY-MM-DD hh:mm:ss) and be as specific as possible.
+
+This dataset was sent to the data requestor on the following date and time - 2023-05-03 12:52:00
+
+
+* What timespan does the data cover?
+
+2019-01-01 through 12-31-2022
+
+
+
+
+How
+
+* How was the data collected? What were the steps and instruments used to collect the data?
+
+An FOIA request was made to the contact email pertaining to such requests, as listed on the police department's website.
+
+
+
+* How was the data processed? What were the steps taking to clean the data, how were null values handled, what sort of pre-processing has been done?
+
+The data are raw data. No processing has been done.
+
+
+
+
+
+What else? Who else?
+
+* What or who might be missing in the data?
+
+Undetermined at this time. Here was the data request language used: "We are specifically requesting all of SPD's public policing records, in full, or the date range of January 2019 to December 2022. Some examples of these records include data pertaining to calls for service, dispatching, traffic stops, citations, and arrests. We request these records in their electronic form. We deem this request both specific and reasonable based on similar data recieved from similarly resourced police departments."
+
+
+* What do you still not know about the process of creating the dataset after answering the questions above?
+
+
+I don't know to what extent the provided data fullfills the FOIA request.
+
+
+* Do you have any other questions or concerns about the data?
+None at this time.
+
+

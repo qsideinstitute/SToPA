@@ -3,6 +3,7 @@
 # the Rochester Genl101A forms.
 #
 import re
+import datetime
 
 def null(sl):
     '''sl: list of strings coming from OCR'''
@@ -16,7 +17,11 @@ def matcher(pattern,sl):
     for l in sl:
         m = re.match(pattern,l)
         if m:
-            return m.groups(0)[0]
+            gg = m.groups()
+            if len(gg)==1:
+                return gg[0]
+            else:
+                return gg
     return ''
 
 def defendant(sl):
@@ -46,7 +51,32 @@ def description(sl):
     pattern = '2. Description of Violation (.+)'
     return matcher(pattern,sl)
 
-# passing on 3. and 4. because i need to capture multiple groups
+# handle these date and time fields specially
+def date(sl):
+    pattern = '3. Date[\ ]+([0-9\/]{2,})'
+    result = matcher(pattern,sl)
+    
+#    obj = datetime.datetime(year=int(result[2]), month=int(result[0]), day=int(result[1]))
+    try:
+        obj = datetime.datetime.strptime(result, '%m/%d/%Y')
+    except:
+        obj = result
+    return obj
+
+def time(sl):
+
+    # TODO: a few times are missing AM/PM (likely PM); handle in some way.
+    # may have to be an ugly heuristic.
+    pattern = '.+Time[\ ]+([0-9A-Z\:]{1,})'
+    result = matcher(pattern,sl)
+    try:
+        obj = datetime.datetime.strptime(result, '%I:%M%p')
+    except:
+        obj = result
+    return obj
+    
+#
+
 def direction(sl):
     pattern = '5. General Direction of Travel by Defendant: ([A-Z]{1,})'
     return matcher(pattern,sl)
@@ -64,9 +94,11 @@ def officer_narrative(sl):
     narrative = []
     for l in sl:
         if l=='8. Additional Information:':
-            flag = True
+            flag = True # begin joining words scanned on the next iteration
             continue
         if l=='TO THE ABOVE NAMED DEFENDANT:':
+            # this is the start of the "footer" of the form; so the narrative
+            # is over at this point.
             break
         if flag and len(l)>0:
             narrative.append(l)

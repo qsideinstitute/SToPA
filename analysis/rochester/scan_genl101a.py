@@ -35,6 +35,19 @@ import pytesseract # for main OCR step (image to text dataframe)
 
 #################
 
+#########################################################
+TESS_BLACKLIST = ";{}&£~=%¥€@|" # characters we want to specifically exclude from the OCR
+
+DPI = 300
+
+#Pyesseract config string
+TESS_CONFIG = '-c tessedit_char_blacklist={} \
+        --psm 1 \
+        --dpi {} \
+        --user-patterns eng.my-patterns \
+        --user-words eng.my-words'.format(TESS_BLACKLIST,DPI)
+###############
+
 
 
 def row_ize(arr):
@@ -57,7 +70,7 @@ def row_ize(arr):
             row.append(t)
     return rows
 
-def process_genl101a(df_tess):
+def process_all_genl101a(df_tess):
     '''
     Purpose: process the output of tesseract on the Rochester Genl101A forms.
     Inputs: 
@@ -97,96 +110,105 @@ def process_genl101a(df_tess):
     pass
 
 
-#########################################################
-TESS_BLACKLIST = ";{}&£~=%¥€@|" # characters we want to specifically exclude from the OCR
+def process_genl101a(genl101a_pdf_path):
+    '''
+    Input: genl101a_pdf_path: string; location of pdf file assumed to 
+    follow format of Genl101a files.
+    
+    Output: dictionary with key/values:
+        'img' : numpy array of processed/cleaned pdf as image, dtype uint8
+        'df_ocr' : DataFrame of identified text elements via pytesseract
+        'elements' : DataFrame with summarized elements (work in progress)
+    '''
+    
+    #
+    matchy = OrderedDict({
+        'defendant' :           {'op': parse.defendant, 'value':''},
+        'utt_number' :          {'op': parse.utt_number, 'value':''},
+        'officer' :             {'op': parse.officer, 'value':''},
+        'law' :                 {'op': parse.law, 'value':''},
+        'description' :         {'op': parse.description, 'value':''},
+        'date' :                {'op': parse.date, 'value':''},
+        'time' :                {'op': parse.time, 'value':''},
+        
+        'C/T/V' :               {'op': parse.null, 'value':''},
+        'vehicle_year' :        {'op': parse.null, 'value':''},
+        'vehicle_make' :        {'op': parse.null, 'value':''},
+        
+        'direction_travel' :    {'op': parse.direction, 'value':''},
+        'highway_type/name' :   {'op': parse.highway, 'value':''},
+        'charge_base' :         {'op': parse.charge_base, 'value':''},
+        'officer_narrative' :   {'op': parse.officer_narrative, 'value':''}
+    })
 
-DPI = 300
+    pages = pdf2image.convert_from_path(genl101a_pdf_path,
+                                  dpi = DPI,
+                                  first_page = 1,
+                                  last_page = 1,
+                                  thread_count = 4)
 
-#Pyesseract config string
-TESS_CONFIG = '-c tessedit_char_blacklist={} \
-        --psm 1 \
-        --dpi {} \
-        --user-patterns eng.my-patterns \
-        --user-words eng.my-words'.format(TESS_BLACKLIST,DPI)
-###############
+    pg = pages[0]
 
-###########################################
-# THIS IS A PROTOTYPE WITH ONE FILE...
-# HYPOTHETICAL LOOP STARTS FOLLOWING
-# DEFINITION OF pdfpath.
+    # cast image to numpy array
+    img = np.array(pg)
+    # rotate (deskew)
+    angle = deskew.determine_skew(img)
+    img = skimage.transform.rotate(img, angle, resize=True)*255
+    # cast back to uint8
+    img = img.astype(np.uint8)
+    # denoise image
+    img = cv2.fastNlMeansDenoising(img, h = 50)
+    # threshold to binary values (currently manually done)
+    _ ,img  = cv2.threshold(img,150,255, cv2.THRESH_BINARY)
 
-# would be the input to a function
-pdfpath = inventory.df.iloc[20]['filename']
+    # pandas dataframe of page elements.
+    df_ocr = pytesseract.image_to_data(
+        img, 
+        output_type=pytesseract.Output.DATAFRAME, 
+        lang='eng', 
+        config=TESS_CONFIG
+    )
 
+    ######################
 
+    text_rows = row_ize(df_ocr['text'].values)
+
+    for k in matchy.keys():
+        matchy[k]['value'] = matchy[k]['op'](text_rows)
+    #    print(k, matchy[k]['value'])
+    
+    row = [genl101a_pdf_path] + [v['value'] for v in matchy.values()]
+
+    df_pdf_elements = pandas.DataFrame([row], columns=['path'] + list(matchy.keys()))
+    
+    output = {
+        'img' : img,
+        'df_ocr' : df_ocr,
+        'elements' : df_pdf_elements
+    }
+    
+    return output
 #
-matchy = OrderedDict({
-    'defendant' :           {'op': parse.defendant, 'value':''},
-    'utt_number' :          {'op': parse.utt_number, 'value':''},
-    'officer' :             {'op': parse.officer, 'value':''},
-    'law' :                 {'op': parse.law, 'value':''},
-    'description' :         {'op': parse.description, 'value':''},
-    'date' :                {'op': parse.null, 'value':''},
-    'time' :                {'op': parse.null, 'value':''},
-    'C/T/V' :               {'op': parse.null, 'value':''},
-    'vehicle_year' :        {'op': parse.null, 'value':''},
-    'vehicle_make' :        {'op': parse.null, 'value':''},
-    'direction_travel' :    {'op': parse.direction, 'value':''},
-    'highway_type/name' :   {'op': parse.highway, 'value':''},
-    'charge_base' :         {'op': parse.charge_base, 'value':''},
-    'officer_narrative' :   {'op': parse.officer_narrative, 'value':''}
-})
+
+##################
 
 
-pages = pdf2image.convert_from_path(pdfpath,
-                              dpi = DPI,
-                              first_page = 1,
-                              last_page = 1,
-                              thread_count = 4)
+if __name__=="__main__":
 
-pp = pages[0]
+    output = []
+    subset = inventory.df[ inventory.df['form_type']=='Genl101A' ]
+    for row in subset.iloc:
+        print(row['filename'])
+        quoi = process_genl101a( row['filename'] )
+#        output.append( [pdfpath] + [v['value'] for v in matchy.values()] )
+        output.append(quoi['elements'])
 
-# cast image to numpy array
-img = np.array(pp)
-# rotate (deskew)
-angle = deskew.determine_skew(img)
-img = skimage.transform.rotate(img, angle, resize=True)*255
-# cast back to uint8
-img = img.astype(np.uint8)
-# denoise image
-img = cv2.fastNlMeansDenoising(img, h = 50)
-# threshold to binary values (currently manually done)
-_ ,img  = cv2.threshold(img,150,255, cv2.THRESH_BINARY)
+    df = pandas.concat(output, ignore_index=True)
 
-# pandas dataframe of page elements.
-df_ocr = pytesseract.image_to_data(
-    img, 
-    output_type=pytesseract.Output.DATAFRAME, 
-    lang='eng', 
-    config=TESS_CONFIG
-)
-
-
-######################
-
-text_rows = row_ize(df_ocr['text'].values)
-
-output = []
-
-for k in matchy.keys():
-    matchy[k]['value'] = matchy[k]['op'](text_rows)
-#    print(k, matchy[k]['value'])
-
-
-output.append( [pdfpath] + [v['value'] for v in matchy.values()] )
-
-# END HYPOTHETICAL LOOP
-#####################################
-
-if True:
-    from matplotlib import pyplot
-    fig,ax = pyplot.subplots()
-    ax.imshow(img, cmap=pyplot.cm.Greys_r)
-    fig.show()
+    if False:
+        from matplotlib import pyplot
+        fig,ax = pyplot.subplots()
+        ax.imshow(img, cmap=pyplot.cm.Greys_r)
+        fig.show()
 
 

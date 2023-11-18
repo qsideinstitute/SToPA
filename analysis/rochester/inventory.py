@@ -21,8 +21,11 @@ pdf_types = ['ACC', 'DWI_REPORT', 'DWI_REFUSAL', 'DWI_REPORT_FELCOMP', 'Genl101A
 # 
 # TODO: apparent overlap with ACC forms as well.
 # Probably just need to list-split on "-" and take the big boy form name
+
+pdf_dir = os.path.join('..', '..', 'data', 'rochester') # operating system agnostic file path.
+
 files = {
-    pt: glob.glob(os.path.join('data', pt)+'*') for pt in pdf_types
+    pt: glob.glob(os.path.join(pdf_dir, pt) + '*') for pt in pdf_types
 }
 
 tabular = []
@@ -38,7 +41,7 @@ for i,(k,v) in enumerate( files.items() ):
             identifier = chunks[-1]
 
         #print(i,j,k,identifier)
-        tabular.append([identifier, k, os.path.join('data',basename)])
+        tabular.append([identifier, k, pdfname])
 
 # this dataframe only has case id and filename information.
 df = pandas.DataFrame(data=tabular, columns=['case_id', 'form_type', 'filename'])

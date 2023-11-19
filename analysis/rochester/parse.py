@@ -35,25 +35,25 @@ def defendant(sl):
     return ''
 
 def utt_number(sl):
-    pattern = 'UTT NUMBER ([A-Z0-9]{1,})'
+    pattern = 'UTT NUMBER[\s]{0,}([A-Z0-9]{1,})'
     return matcher(pattern,sl)
 
 
 def officer(sl):
-    pattern = 'Officer ([a-zA-Z\ ]{1,}) of the '
+    pattern = 'Officer[\s]{0,}([a-zA-Z\ ]{1,}) of the '
     return matcher(pattern,sl)
 
 def law(sl):
-    pattern = '1. \(Law/Section/Subsection\) ([A-Z0-9]{1,})'
+    pattern = '1.[\s\(]{0,}Law\/Section\/Subsection[\)\s]{0,}([A-Z0-9]{1,})'
     return matcher(pattern,sl)
 
 def description(sl):
-    pattern = '2. Description of Violation (.+)'
+    pattern = '2.[\s]{0,}Description of Violation (.{0,})'
     return matcher(pattern,sl)
 
 # handle these date and time fields specially
 def date(sl):
-    pattern = '3. Date[\ ]+([0-9\/]{2,})'
+    pattern = '3.[\s]{0,}Date[\ ]+([0-9\/]{2,})'
     result = matcher(pattern,sl)
     
 #    obj = datetime.datetime(year=int(result[2]), month=int(result[0]), day=int(result[1]))
@@ -77,7 +77,7 @@ def time(sl):
 
 def datetime(sl):
     # e.g., "3. Date 01/20/2022    Time 7:08 PM"
-    pattern = '3. Date[\ ]+([0-9\/]{2,}).+Time[\:\ ]+([0-9\:]{1,})[\ ]{0,}([A-Z]{0,})'
+    pattern = '3.[\s]{0,}Date[\ \t]{0,}([0-9\/]+)[\ \t]{0,}Time[\:\ \t]{0,}([0-9 \:]{1,})[\ ]{0,}([A-Z]{0,})'
     result = matcher(pattern,sl)
     # TODO: some entries still don't match; investigate manually.
     if len(result)!=3:
@@ -94,22 +94,23 @@ def datetime(sl):
 #
 
 def direction(sl):
-    pattern = '5. General Direction of Travel by Defendant: ([A-Z]{1,})'
+    pattern = '5.[\s]{0,}General Direction of Travel by Defendant: ([A-Z]{1,})'
     return matcher(pattern,sl)
 
 def highway(sl):
-    pattern = '6. Highway (Type/Name) (.+)'
+    pattern = '6.[\s]{0,}Highway (Type/Name) (.+)'
     return matcher(pattern,sl)
 
 def charge_base(sl):
-    pattern = "7. Charge based on Officer's (.+)"
+    pattern = "7.[\s]{0,}Charge based on Officer's (.+)"
     return matcher(pattern,sl)
 
 def officer_narrative(sl):
     flag = False
     narrative = []
     for l in sl:
-        if l=='8. Additional Information:':
+        #if l=='8.[\s]{0,}Additional Information:':
+        if re.match('8.[\s]{0,}Additional Information:', l):
             flag = True # begin joining words scanned on the next iteration
             continue
         if l=='TO THE ABOVE NAMED DEFENDANT:':

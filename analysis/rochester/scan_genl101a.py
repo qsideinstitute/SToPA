@@ -209,5 +209,5 @@ if __name__=="__main__":
         fig,ax = pyplot.subplots()
         ax.imshow(img, cmap=pyplot.cm.Greys_r)
         fig.show()
-
+    df.to_csv('rochester_genl101a_parsed.csv', index=None)
 

@@ -74,7 +74,23 @@ def time(sl):
     except:
         obj = result
     return obj
+
+def datetime(sl):
+    # e.g., "3. Date 01/20/2022    Time 7:08 PM"
+    pattern = '3. Date[\ ]+([0-9\/]{2,}).+Time[\:\ ]+([0-9\:]{1,})[\ ]{0,}([A-Z]{0,})'
+    result = matcher(pattern,sl)
+    # TODO: some entries still don't match; investigate manually.
+    if len(result)!=3:
+        return date(sl) # just capture calendar date only
     
+    dmy,hm,ampm = result
+    if len(ampm)==0:
+        apmpm='PM' # TODO: how else to handle this? Heuristic regardless, if not included.
+    try:
+        obj = datetime.datetime.strptime(' '.join([dmy,hm,ampm]), '%m/%d/%Y %I:%M%p')
+    except:
+        obj = ' '.join([dmy,hm,ampm])
+    return obj
 #
 
 def direction(sl):

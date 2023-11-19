@@ -84,8 +84,7 @@ def process_all_genl101a(df_tess):
                 officer
                 law
                 description
-                date
-                time
+                datetime
                 C/T/V
                 vehicle_year
                 vehicle_make
@@ -128,8 +127,8 @@ def process_genl101a(genl101a_pdf_path):
         'officer' :             {'op': parse.officer, 'value':''},
         'law' :                 {'op': parse.law, 'value':''},
         'description' :         {'op': parse.description, 'value':''},
-        'date' :                {'op': parse.date, 'value':''},
-        'time' :                {'op': parse.time, 'value':''},
+        'datetime' :                {'op': parse.datetime, 'value':''},
+#        'time' :                {'op': parse.time, 'value':''},
         
         'C/T/V' :               {'op': parse.null, 'value':''},
         'vehicle_year' :        {'op': parse.null, 'value':''},

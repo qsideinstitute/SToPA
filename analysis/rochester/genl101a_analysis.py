@@ -50,7 +50,20 @@ ax['C'].set_title('Cited infraction by time of day', loc='left')
 # match to 1163B, 1156A, 1236A, 1236B (short description of codes)
 ax['A'].set(xticks=[], yticks=[])
 ax['A'].set_title('Rochester codes', loc='left')
-ax['A'].text(0.05, 0.95, '1163B: "A signal of intention to turn right or left\nwhen required shall be given..." \n\n1156A: "Where sidewalks are provided...\nunlawful for any pedestrian to walk along...\n an adjacent roadway."\n\n1236A: "Every bicycle... after sunset...\nshall be equipped with a lamp..."\n\n1236B: "No person shall operate a bicycle\nunless it is equipped with a bell..."', transform=ax['A'].transAxes, va='top', ha='left')
+#ax['A'].text(0.05, 0.95, '1163B: "A signal of intention to turn right or left\nwhen required shall be given..." \n\n1156A: "Where sidewalks are provided...\nunlawful for any pedestrian to walk along...\n an adjacent roadway."\n\n1236A: "Every bicycle... after sunset...\nshall be equipped with a lamp..."\n\n1236B: "No person shall operate a bicycle\nunless it is equipped with a bell..."', transform=ax['A'].transAxes, va='top', ha='left')
+descriptions = ['1163B: "A signal of intention to turn right or left\nwhen required shall be given..."',
+'1156A: "Where sidewalks are provided...\nunlawful for any pedestrian to walk along...\n an adjacent roadway."',
+'1236A: "Every bicycle... after sunset...\nshall be equipped with a lamp..."',
+'1236B: "No person shall operate a bicycle\nunless it is equipped with a bell..."']
+
+colors = [plt.cm.tab10(0), plt.cm.tab10(3), plt.cm.tab10(4), plt.cm.tab10(2)]
+
+for col,descr in zip(colors, descriptions):
+    ax['A'].scatter([],[], color=col, label=descr, marker='s', s=100)
+ax['A'].legend(loc='upper left')
+ax['A'].set(facecolor=[0,0,0,0])
+for _s in ax['A'].spines.values():
+    _s.set_visible(False)
 
 # TODO
 ax['D'].set_visible(False)

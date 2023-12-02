@@ -19,3 +19,4 @@ python-Levenshtein
 tabula-py
 tabulate
 usaddress 
+geopandas>=0.14.0

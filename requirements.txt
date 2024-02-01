@@ -14,8 +14,9 @@ notebook
 opencv-python
 pandas
 pyarrow
-PyPDF2==2.5.0
+PyPDF2>=3.0.1
 python-Levenshtein
+scipy>=1.10.0
 tabula-py
 tabulate
 usaddress 

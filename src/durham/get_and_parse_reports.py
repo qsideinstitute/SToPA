@@ -220,8 +220,9 @@ def merge_reports_by_type(year):
         Prints merged reports by type (i.e. "arrests" or "incidents")
         to ../data/durham/2019/merged_<year>_<type>.pdf.
     """
-    dir_path = f"../../data/durham/{year}"
+    dir_path = f"../data/durham/{year}"
     subdir_path = [f for f in os.listdir(dir_path) if not isfile(join(dir_path,f))]
+    subdir_path = [f for f in subdir_path if f != '.ipynb_checkpoints']
     subdir_path.sort()
 
     # Make temporaary folders

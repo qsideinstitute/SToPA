@@ -20,3 +20,4 @@ scipy>=1.10.0
 tabula-py
 tabulate
 usaddress 
+geopandas>=0.14.0
